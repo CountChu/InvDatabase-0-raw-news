@@ -37,12 +37,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "07:36",
+        "time": "2025-10-11 07:36",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251011-7649042",
+        "title": "美国田纳西州军用炸药厂爆炸 19人失踪",
+        "seq": 5
+    },
+    {
+        "media": "聯合早報",
         "category": "财经即时",
         "timeText": "08:29",
         "time": "2025-10-11 08:29",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7643343",
         "title": "星期五可关注股票",
-        "seq": 5
+        "seq": 6
     },
     {
         "media": "聯合早報",
@@ -51,7 +60,7 @@
         "time": "2025-10-11 09:12",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7643497",
         "title": "本地股市星期五开盘跌0.19%",
-        "seq": 6
+        "seq": 7
     },
     {
         "media": "聯合早報",
@@ -60,7 +69,7 @@
         "time": "2025-10-11 10:12",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7643736",
         "title": "6亿元合约被终止 海庭股价下挫7%",
-        "seq": 7
+        "seq": 8
     },
     {
         "media": "聯合早報",
@@ -69,7 +78,7 @@
         "time": "2025-10-11 11:51",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7644472",
         "title": "扭亏为盈后 顶级手套股价连续第二天上涨",
-        "seq": 8
+        "seq": 9
     },
     {
         "media": "聯合早報",
@@ -78,7 +87,7 @@
         "time": "2025-10-11 12:08",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7644575",
         "title": "H2G Green子公司被民防部队控告违反防火安全法",
-        "seq": 9
+        "seq": 10
     },
     {
         "media": "聯合早報",
@@ -87,7 +96,7 @@
         "time": "2025-10-11 12:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7644768",
         "title": "涉走私逾4200包咀嚼烟草 马国罗厘司机被捕",
-        "seq": 10
+        "seq": 11
     },
     {
         "media": "聯合早報",
@@ -96,7 +105,7 @@
         "time": "2025-10-11 12:45",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7644776",
         "title": "朝鲜和越南领导人举行会谈",
-        "seq": 11
+        "seq": 12
     },
     {
         "media": "聯合早報",
@@ -105,7 +114,7 @@
         "time": "2025-10-11 13:06",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7644898",
         "title": "首届俄罗斯－阿拉伯峰会延期举行",
-        "seq": 12
+        "seq": 13
     },
     {
         "media": "聯合早報",
@@ -114,7 +123,7 @@
         "time": "2025-10-11 13:36",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7644968",
         "title": "廖振扬教授出任李光耀公共政策学院院长",
-        "seq": 13
+        "seq": 14
     },
     {
         "media": "聯合早報",
@@ -123,7 +132,7 @@
         "time": "2025-10-11 13:44",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7644978",
         "title": "鼓励职场落实技能优先 成人学习学院推实践技能优先中心",
-        "seq": 14
+        "seq": 15
     },
     {
         "media": "聯合早報",
@@ -132,7 +141,7 @@
         "time": "2025-10-11 14:00",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7645278",
         "title": "中国学者：只要中美元首会晤就会有实质性成果宣布",
-        "seq": 15
+        "seq": 16
     },
     {
         "media": "聯合早報",
@@ -141,7 +150,7 @@
         "time": "2025-10-11 14:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7644996",
         "title": "特朗普持续施压下 纽约总检察长被刑事起诉",
-        "seq": 16
+        "seq": 17
     },
     {
         "media": "聯合早報",
@@ -150,7 +159,7 @@
         "time": "2025-10-11 14:30",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7645339",
         "title": "巴布亚新几内亚发生6.3级地震",
-        "seq": 17
+        "seq": 18
     },
     {
         "media": "聯合早報",
@@ -159,7 +168,7 @@
         "time": "2025-10-11 14:43",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7645501",
         "title": "蔡英文：团结坚持积极参与 世界就有台湾一席之地",
-        "seq": 18
+        "seq": 19
     },
     {
         "media": "聯合早報",
@@ -168,7 +177,7 @@
         "time": "2025-10-11 14:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7645406",
         "title": "委内瑞拉要求安理会就美军事威胁召开紧急会议",
-        "seq": 19
+        "seq": 20
     },
     {
         "media": "聯合早報",
@@ -177,7 +186,7 @@
         "time": "2025-10-11 15:03",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7645620",
         "title": "疑打滑冲前面车道 电单车骑士遭罗厘撞死",
-        "seq": 20
+        "seq": 21
     },
     {
         "media": "聯合早報",
@@ -186,7 +195,7 @@
         "time": "2025-10-11 15:04",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7638415",
         "title": "汇丰在本地推跨境代币化存款服务",
-        "seq": 21
+        "seq": 22
     },
     {
         "media": "聯合早報",
@@ -195,7 +204,7 @@
         "time": "2025-10-11 15:13",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7645728",
         "title": "美国将15中企列入实体清单 北京批破坏全球产业链稳定",
-        "seq": 22
+        "seq": 23
     },
     {
         "media": "聯合早報",
@@ -204,7 +213,7 @@
         "time": "2025-10-11 15:27",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7645808",
         "title": "9岁童沉迷电玩偷6000元“买卡” 母心碎：花掉我三个月薪水",
-        "seq": 23
+        "seq": 24
     },
     {
         "media": "聯合早報",
@@ -213,7 +222,7 @@
         "time": "2025-10-11 15:33",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7645853",
         "title": "油罐车调查报道拟获中国新闻奖一等奖",
-        "seq": 24
+        "seq": 25
     },
     {
         "media": "聯合早報",
@@ -222,7 +231,7 @@
         "time": "2025-10-11 15:36",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7645926",
         "title": "“神奇药膏”含强效类固醇 商家罚3.1万元",
-        "seq": 25
+        "seq": 26
     },
     {
         "media": "聯合早報",
@@ -231,7 +240,7 @@
         "time": "2025-10-11 15:40",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7645855",
         "title": "狂风骤雨 欧南园大树倒砸店屋",
-        "seq": 26
+        "seq": 27
     },
     {
         "media": "聯合早報",
@@ -240,7 +249,7 @@
         "time": "2025-10-11 15:40",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7645912",
         "title": "日本公明党决定退出与自民党执政联盟",
-        "seq": 27
+        "seq": 28
     },
     {
         "media": "聯合早報",
@@ -249,7 +258,7 @@
         "time": "2025-10-11 15:41",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7645966",
         "title": "中国孕妇泰国坠崖事件 法院一审准予离婚",
-        "seq": 28
+        "seq": 29
     },
     {
         "media": "聯合早報",
@@ -258,7 +267,7 @@
         "time": "2025-10-11 15:45",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7645950",
         "title": "中国下周二起对美船舶收取特别港务费",
-        "seq": 29
+        "seq": 30
     },
     {
         "media": "聯合早報",
@@ -267,7 +276,7 @@
         "time": "2025-10-11 15:54",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7645911",
         "title": "总理任命期限临近 马克龙召集政党领袖开会",
-        "seq": 30
+        "seq": 31
     },
     {
         "media": "聯合早報",
@@ -276,7 +285,7 @@
         "time": "2025-10-11 15:55",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7639444",
         "title": "“黄金周”期间 微信支付在新加坡交易量增32%",
-        "seq": 31
+        "seq": 32
     },
     {
         "media": "聯合早報",
@@ -285,7 +294,7 @@
         "time": "2025-10-11 15:59",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7639718",
         "title": "新加坡医药公司觅瑞产品在中国获批用于胃癌早筛",
-        "seq": 32
+        "seq": 33
     },
     {
         "media": "聯合早報",
@@ -294,7 +303,7 @@
         "time": "2025-10-11 16:07",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7645978",
         "title": "新加坡银行利用AI生成尽职报告 生成时间从10天变1小时",
-        "seq": 33
+        "seq": 34
     },
     {
         "media": "聯合早報",
@@ -303,7 +312,7 @@
         "time": "2025-10-11 16:12",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7646233",
         "title": "大陆国防部：“台独”组装拼凑“自制潜艇”不堪一击 ",
-        "seq": 34
+        "seq": 35
     },
     {
         "media": "聯合早報",
@@ -312,7 +321,7 @@
         "time": "2025-10-11 16:18",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7646274",
         "title": "马反贪会追查一马流失资金 冻结沙特王子三户头涉亿美元",
-        "seq": 35
+        "seq": 36
     },
     {
         "media": "聯合早報",
@@ -321,7 +330,7 @@
         "time": "2025-10-11 16:26",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7646327",
         "title": "被指敷衍应对决策部署 山西原省长金湘军被双开 ",
-        "seq": 36
+        "seq": 37
     },
     {
         "media": "聯合早報",
@@ -330,7 +339,7 @@
         "time": "2025-10-11 16:26",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7646339",
         "title": "宗馥莉“心腹”严学峰据报已正常上班 ",
-        "seq": 37
+        "seq": 38
     },
     {
         "media": "聯合早報",
@@ -339,7 +348,7 @@
         "time": "2025-10-11 16:27",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7646260",
         "title": "地铁可靠度数据改为每月发布 8月平均故障间隔公里数不如7月",
-        "seq": 38
+        "seq": 39
     },
     {
         "media": "聯合早報",
@@ -348,7 +357,7 @@
         "time": "2025-10-11 16:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7646206",
         "title": "软银集团洽谈贷款65亿元 加速对人工智能押注",
-        "seq": 39
+        "seq": 40
     },
     {
         "media": "聯合早報",
@@ -357,7 +366,7 @@
         "time": "2025-10-11 16:30",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7646370",
         "title": "沈颖：新加坡华族文化具备独特魅力和生命力",
-        "seq": 40
+        "seq": 41
     },
     {
         "media": "聯合早報",
@@ -366,7 +375,7 @@
         "time": "2025-10-11 16:34",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7645994",
         "title": "始祖鸟取消最新山地课堂  ",
-        "seq": 41
+        "seq": 42
     },
     {
         "media": "聯合早報",
@@ -375,7 +384,7 @@
         "time": "2025-10-11 16:45",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7646365",
         "title": "马城重新发展计划添新元素 增设自然公园",
-        "seq": 42
+        "seq": 43
     },
     {
         "media": "聯合早報",
@@ -384,7 +393,7 @@
         "time": "2025-10-11 16:54",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7646550",
         "title": "赖清德称打造“台湾之盾” 北京：将台拖入兵凶战危险境",
-        "seq": 43
+        "seq": 44
     },
     {
         "media": "聯合早報",
@@ -393,7 +402,7 @@
         "time": "2025-10-11 16:56",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7646343",
         "title": "全球金融监管机构将加强对人工智能监控",
-        "seq": 44
+        "seq": 45
     },
     {
         "media": "聯合早報",
@@ -402,7 +411,7 @@
         "time": "2025-10-11 17:01",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7646574",
         "title": "马国关卡二维码系统扩大 电单车骑士可扫码通关",
-        "seq": 45
+        "seq": 46
     },
     {
         "media": "聯合早報",
@@ -411,7 +420,7 @@
         "time": "2025-10-11 17:08",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7646672",
         "title": "涉违反反垄断法 中国对高通立案调查",
-        "seq": 46
+        "seq": 47
     },
     {
         "media": "聯合早報",
@@ -420,7 +429,7 @@
         "time": "2025-10-11 17:16",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7646549",
         "title": "字节组织调整离职员工将获最高每月逾万元补贴 最长六个月 ",
-        "seq": 47
+        "seq": 48
     },
     {
         "media": "聯合早報",
@@ -429,7 +438,7 @@
         "time": "2025-10-11 17:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7646725",
         "title": "玛丽亚·科里纳·马查多荣获2025年诺贝尔和平奖",
-        "seq": 48
+        "seq": 49
     },
     {
         "media": "聯合早報",
@@ -438,7 +447,7 @@
         "time": "2025-10-11 17:55",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7640930",
         "title": "本地股市星期四闭市跌0.35%",
-        "seq": 49
+        "seq": 50
     },
     {
         "media": "聯合早報",
@@ -447,7 +456,7 @@
         "time": "2025-10-11 17:59",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7640848",
         "title": "柔新特区风头正劲 李廷汉：有信心实现投资目标",
-        "seq": 50
+        "seq": 51
     },
     {
         "media": "聯合早報",
@@ -456,7 +465,7 @@
         "time": "2025-10-11 18:00",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7645542",
         "title": "逾八成本地人过去一年遭遇网络有害内容 三分之二支持加强监管",
-        "seq": 51
+        "seq": 52
     },
     {
         "media": "聯合早報",
@@ -465,7 +474,7 @@
         "time": "2025-10-11 18:06",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7645391",
         "title": "中国文物局：严禁翻新古代壁画和彩塑",
-        "seq": 52
+        "seq": 53
     },
     {
         "media": "聯合早報",
@@ -474,7 +483,7 @@
         "time": "2025-10-11 18:11",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7641044",
         "title": "靠近小印度多实路地段投标激烈 吸引九发展商竞标",
-        "seq": 53
+        "seq": 54
     },
     {
         "media": "聯合早報",
@@ -483,7 +492,7 @@
         "time": "2025-10-11 18:15",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7646889",
         "title": "受套利活动影响 海指星期五跌0.3%",
-        "seq": 54
+        "seq": 55
     },
     {
         "media": "聯合早報",
@@ -492,7 +501,7 @@
         "time": "2025-10-11 18:29",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7646964",
         "title": "豪利陈积光父子联手3.51亿元标得职总平价汤申路上段工业地段",
-        "seq": 55
+        "seq": 56
     },
     {
         "media": "聯合早報",
@@ -501,7 +510,7 @@
         "time": "2025-10-11 19:09",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7645587",
         "title": "台海基会副秘书长仅剩两人",
-        "seq": 56
+        "seq": 57
     },
     {
         "media": "聯合早報",
@@ -510,7 +519,7 @@
         "time": "2025-10-11 19:26",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7647412",
         "title": "消协认证补贴推出半年内 250装修商获认证",
-        "seq": 57
+        "seq": 58
     },
     {
         "media": "聯合早報",
@@ -519,7 +528,7 @@
         "time": "2025-10-11 19:46",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7647701",
         "title": "国台办：赖清德言行只会破坏台海和平稳定",
-        "seq": 58
+        "seq": 59
     },
     {
         "media": "聯合早報",
@@ -528,7 +537,7 @@
         "time": "2025-10-11 20:00",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7640134",
         "title": "徐芳达：金管局推AI知识中心 助金融业加速人工智能应用与人才转型",
-        "seq": 59
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -537,7 +546,7 @@
         "time": "2025-10-11 20:07",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7645863",
         "title": "酒后杀人潜逃 辽宁男子被捕",
-        "seq": 60
+        "seq": 61
     },
     {
         "media": "聯合早報",
@@ -546,7 +555,7 @@
         "time": "2025-10-11 20:10",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7647696",
         "title": "丰树产业与波兰家具商签近13万平方米物流空间租约",
-        "seq": 61
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -555,7 +564,7 @@
         "time": "2025-10-11 20:20",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7647836",
         "title": "美参议院审议国防授权法案 目标为中国生物技术投资",
-        "seq": 62
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -564,7 +573,7 @@
         "time": "2025-10-11 20:30",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251010-7644818",
         "title": "新越部长继续推进与深化双边合作",
-        "seq": 63
+        "seq": 64
     },
     {
         "media": "聯合早報",
@@ -573,7 +582,7 @@
         "time": "2025-10-11 20:31",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7647210",
         "title": "下午察：中国人放下诺贝尔奖了吗？",
-        "seq": 64
+        "seq": 65
     },
     {
         "media": "聯合早報",
@@ -582,7 +591,7 @@
         "time": "2025-10-11 21:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7645963",
         "title": "韩国将评估中国稀土新出口限制措施对韩企影响 ",
-        "seq": 65
+        "seq": 66
     },
     {
         "media": "聯合早報",
@@ -591,7 +600,7 @@
         "time": "2025-10-11 21:16",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648120",
         "title": "加沙停火第一阶段协议生效 以军撤离部分地区",
-        "seq": 66
+        "seq": 67
     },
     {
         "media": "聯合早報",
@@ -600,7 +609,7 @@
         "time": "2025-10-11 21:36",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648216",
         "title": "红十字国际委员会：将协助在押人员获释",
-        "seq": 67
+        "seq": 68
     },
     {
         "media": "聯合早報",
@@ -609,7 +618,7 @@
         "time": "2025-10-11 21:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648266",
         "title": "美政府“停摆”继续 本周2万多航班延误",
-        "seq": 68
+        "seq": 69
     },
     {
         "media": "聯合早報",
@@ -618,7 +627,7 @@
         "time": "2025-10-11 21:58",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7642309",
         "title": "德加拉持股企业在伦敦挂牌 首日股价上涨约4%",
-        "seq": 69
+        "seq": 70
     },
     {
         "media": "聯合早報",
@@ -627,7 +636,7 @@
         "time": "2025-10-11 22:08",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7646341",
         "title": "港民主党主席非法集结脱罪 律政司上诉失败需付全额讼费",
-        "seq": 70
+        "seq": 71
     },
     {
         "media": "聯合早報",
@@ -636,7 +645,7 @@
         "time": "2025-10-11 22:45",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7648513",
         "title": "消息：宗馥莉已辞任娃哈哈集团董事长",
-        "seq": 71
+        "seq": 72
     },
     {
         "media": "聯合早報",
@@ -645,7 +654,7 @@
         "time": "2025-10-11 22:55",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648543",
         "title": "俄罗斯袭击基础设施 乌克兰约百万用户停电",
-        "seq": 72
+        "seq": 73
     },
     {
         "media": "聯合早報",
@@ -654,7 +663,7 @@
         "time": "2025-10-11 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648658",
         "title": "菲律宾棉兰老岛附近海域一日内发生两次强震",
-        "seq": 73
+        "seq": 74
     },
     {
         "media": "聯合早報",
@@ -663,7 +672,7 @@
         "time": "2025-10-11 23:47",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648718",
         "title": "特朗普称或取消与习近平APEC会晤 考虑对中国产品大幅加征关税",
-        "seq": 74
+        "seq": 75
     },
     {
         "media": "聯合早報",
@@ -672,6 +681,6 @@
         "time": "2025-10-11 23:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648748",
         "title": "官方报告缺位 高盛预计美国首次申请失业救济者增加",
-        "seq": 75
+        "seq": 76
     }
 ]
