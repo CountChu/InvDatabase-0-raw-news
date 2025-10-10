@@ -1495,12 +1495,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:36",
+        "time": "2025-10-10 21:36",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648216",
+        "title": "红十字国际委员会：将协助在押人员获释",
+        "seq": 167
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "21:54",
         "time": "2025-10-10 21:54",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251009-7642338",
         "title": "赖清德：没有台湾就没有“中华民国”",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2025-10-10 21:58",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7642309",
         "title": "德加拉持股企业在伦敦挂牌 首日股价上涨约4%",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1527,7 @@
         "time": "2025-10-10 22:02",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251009-7639776",
         "title": "中国今年国庆中秋假期出入境人次同比增11.5%",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1536,7 @@
         "time": "2025-10-10 22:07",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251009-7642298",
         "title": "埃及媒体称加沙停火协议生效 以方称尚需内阁会议批准  ",
-        "seq": 170
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1545,7 @@
         "time": "2025-10-10 22:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7642459",
         "title": "涉逾650起骗案金额超过820万元 208名男女被调查  ",
-        "seq": 171
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1554,7 @@
         "time": "2025-10-10 23:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251009-7642584",
         "title": "加沙停火首阶段协议最终草案已签 特朗普或本周访耶路撒冷 ",
-        "seq": 172
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1563,7 @@
         "time": "2025-10-10 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251009-7642711",
         "title": "测试数据不足 美国陆军却坚持部署高超音速武器 ",
-        "seq": 173
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1572,7 @@
         "time": "2025-10-10 23:46",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7642695",
         "title": "外交部：欢迎以哈和平协议 促各方在余下阶段继续解决问题 ",
-        "seq": 174
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1581,7 @@
         "time": "2025-10-10 23:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251009-7642751",
         "title": "高市早苗否认意图引发日元走弱 淡化“加息愚蠢”论 ",
-        "seq": 175
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1581,6 +1590,6 @@
         "time": "2025-10-10 23:52",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251009-7642771",
         "title": "德国对美出口连续五个月下降 ",
-        "seq": 176
+        "seq": 177
     }
 ]
