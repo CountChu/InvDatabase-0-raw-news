@@ -19,3 +19,9 @@ Manually create an empty YaijaBridge in GitHub
 ```
 git push -u --force origin main
 ```
+
+# Clone the GitHub
+
+```
+git clone https://github.com/CountChu/InvDatabase-0-raw-news.git 0-raw
+```
