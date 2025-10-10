@@ -8,7 +8,7 @@ git branch -m main
 git add .
 git commit -m 'Init commit'
 git remote add origin https://github.com/countchu/InvDatabase-0-raw-news.git
-``
+```
 
 ## Step 2
 
