@@ -1325,11 +1325,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:00",
+        "time": "2025-10-11 23:00",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251011-7651635",
+        "title": "乌克兰与美国总统通话 讨论防空与俄罗斯打击能源设施",
+        "seq": 148
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:35",
         "time": "2025-10-11 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648658",
         "title": "菲律宾棉兰老岛附近海域一日内发生两次强震",
-        "seq": 148
+        "seq": 149
     },
     {
         "media": "聯合早報",
@@ -1338,7 +1347,7 @@
         "time": "2025-10-11 23:47",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648718",
         "title": "特朗普称或取消与习近平APEC会晤 考虑对中国产品大幅加征关税",
-        "seq": 149
+        "seq": 150
     },
     {
         "media": "聯合早報",
@@ -1347,6 +1356,6 @@
         "time": "2025-10-11 23:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648748",
         "title": "官方报告缺位 高盛预计美国首次申请失业救济者增加",
-        "seq": 150
+        "seq": 151
     }
 ]
