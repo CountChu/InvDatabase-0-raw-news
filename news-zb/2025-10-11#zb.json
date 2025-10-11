@@ -1297,12 +1297,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:30",
+        "time": "2025-10-11 22:30",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251011-7651602",
+        "title": "美国前总统拜登癌症治疗进入新阶段 放射治疗持续五周",
+        "seq": 145
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:45",
         "time": "2025-10-11 22:45",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251010-7648513",
         "title": "消息：宗馥莉已辞任娃哈哈集团董事长",
-        "seq": 145
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1311,7 +1320,7 @@
         "time": "2025-10-11 22:55",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648543",
         "title": "俄罗斯袭击基础设施 乌克兰约百万用户停电",
-        "seq": 146
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1320,7 +1329,7 @@
         "time": "2025-10-11 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648658",
         "title": "菲律宾棉兰老岛附近海域一日内发生两次强震",
-        "seq": 147
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1329,7 +1338,7 @@
         "time": "2025-10-11 23:47",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648718",
         "title": "特朗普称或取消与习近平APEC会晤 考虑对中国产品大幅加征关税",
-        "seq": 148
+        "seq": 149
     },
     {
         "media": "聯合早報",
@@ -1338,6 +1347,6 @@
         "time": "2025-10-11 23:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251010-7648748",
         "title": "官方报告缺位 高盛预计美国首次申请失业救济者增加",
-        "seq": 149
+        "seq": 150
     }
 ]
