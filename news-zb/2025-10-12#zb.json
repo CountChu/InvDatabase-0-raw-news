@@ -1307,11 +1307,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:16",
+        "time": "2025-10-12 23:16",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251012-7653294",
+        "title": "国际团队发现可控癌进展的抗癌微生物",
+        "seq": 146
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:26",
         "time": "2025-10-12 23:26",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251011-7651684",
         "title": "美中央司令部司令访加沙 重申不会在加沙驻军",
-        "seq": 146
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1320,6 +1329,6 @@
         "time": "2025-10-12 23:47",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251011-7651740",
         "title": "哈马斯重返加沙城 表明解除武装“不可能”",
-        "seq": 147
+        "seq": 148
     }
 ]
