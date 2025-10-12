@@ -1225,12 +1225,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:38",
+        "time": "2025-10-12 21:38",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251012-7654169",
+        "title": "澳洲团队研制出“类脑”微流体晶片",
+        "seq": 137
+    },
+    {
+        "media": "聯合早報",
         "category": "财经即时",
         "timeText": "21:58",
         "time": "2025-10-12 21:58",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7642309",
         "title": "德加拉持股企业在伦敦挂牌 首日股价上涨约4%",
-        "seq": 137
+        "seq": 138
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1248,7 @@
         "time": "2025-10-12 22:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251011-7650361",
         "title": "人民日报：赖清德注定被台湾主流民意抛弃",
-        "seq": 138
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1257,7 @@
         "time": "2025-10-12 22:01",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251011-7651514",
         "title": "交战双方遵守停火 返乡加沙人感叹记忆已化灰烬",
-        "seq": 139
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1266,7 @@
         "time": "2025-10-12 22:30",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251011-7651602",
         "title": "美国前总统拜登癌症治疗进入新阶段 放射治疗持续五周",
-        "seq": 140
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1275,7 @@
         "time": "2025-10-12 23:00",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251011-7651635",
         "title": "乌克兰与美国总统通话 讨论防空与俄罗斯打击能源设施",
-        "seq": 141
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1284,7 @@
         "time": "2025-10-12 23:26",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251011-7651684",
         "title": "美中央司令部司令访加沙 重申不会在加沙驻军",
-        "seq": 142
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1284,6 +1293,6 @@
         "time": "2025-10-12 23:47",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251011-7651740",
         "title": "哈马斯重返加沙城 表明解除武装“不可能”",
-        "seq": 143
+        "seq": 144
     }
 ]
