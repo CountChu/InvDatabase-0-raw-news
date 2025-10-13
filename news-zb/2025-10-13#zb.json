@@ -1433,11 +1433,29 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "20:42",
+        "time": "2025-10-13 20:42",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251013-7658947",
+        "title": "特朗普在以国会演讲：以色列和中东将迎来黄金时代",
+        "seq": 160
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "20:47",
+        "time": "2025-10-13 20:47",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251013-7658820",
+        "title": "黄循财总理：华社应为年轻领袖创造更多平台　培养接班人接续发展",
+        "seq": 161
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "20:50",
         "time": "2025-10-13 20:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251012-7654131",
         "title": "阿富汗：不会将巴格拉姆基地交给其他国家",
-        "seq": 160
+        "seq": 162
     },
     {
         "media": "聯合早報",
@@ -1446,7 +1464,16 @@
         "time": "2025-10-13 20:55",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251012-7654183",
         "title": "泽连斯基通话马克龙 紧急请求防空系统与导弹",
-        "seq": 161
+        "seq": 163
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "20:59",
+        "time": "2025-10-13 20:59",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251013-7657060",
+        "title": "黄国昌疑指挥狗仔拍摄政府高层 民进党团要求监院调查",
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1455,7 +1482,7 @@
         "time": "2025-10-13 21:16",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251012-7653261",
         "title": "青岛保时捷女销冠被合成AI造谣 涉事男子被行拘五日",
-        "seq": 162
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1491,7 @@
         "time": "2025-10-13 21:29",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251011-7651312",
         "title": "荷兰路新项目开盘首日大卖 售出99%单位",
-        "seq": 163
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1500,7 @@
         "time": "2025-10-13 21:38",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251012-7654169",
         "title": "澳洲团队研制出“类脑”微流体晶片",
-        "seq": 164
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1509,7 @@
         "time": "2025-10-13 21:58",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251009-7642309",
         "title": "德加拉持股企业在伦敦挂牌 首日股价上涨约4%",
-        "seq": 165
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1518,7 @@
         "time": "2025-10-13 22:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251012-7652999",
         "title": "云南丽江一景区被指画风诡异 工作人员：博主故意调色",
-        "seq": 166
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1527,7 @@
         "time": "2025-10-13 22:10",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251012-7654231",
         "title": "韩美关税谈判陷僵局 韩副总理将与美财长会谈",
-        "seq": 167
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1536,7 @@
         "time": "2025-10-13 22:42",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251012-7654212",
         "title": "调查：近八成日本人认为特朗普带来负面影响",
-        "seq": 168
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1518,6 +1545,6 @@
         "time": "2025-10-13 23:16",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251012-7653294",
         "title": "国际团队发现可控癌进展的抗癌微生物",
-        "seq": 169
+        "seq": 172
     }
 ]
