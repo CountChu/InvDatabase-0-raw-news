@@ -1846,12 +1846,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:01",
+        "time": "2025-10-15 23:01",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251015-7670984",
+        "title": "美国驻中东最高指挥官呼吁哈马斯停止射杀平民",
+        "seq": 206
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:12",
         "time": "2025-10-15 23:12",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251014-7664852",
         "title": "胜捷企业购入伦敦地段建设学生宿舍 扩展在英国业务",
-        "seq": 206
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1860,6 +1869,6 @@
         "time": "2025-10-15 23:47",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251014-7665069",
         "title": "马达加斯加军队宣布接管国家政权",
-        "seq": 207
+        "seq": 208
     }
 ]
