@@ -1747,12 +1747,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:07",
+        "time": "2025-10-15 22:07",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251015-7668125",
+        "title": "鸿海董事长：中国大陆稀土管制对台厂短期影响有限",
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:15",
+        "time": "2025-10-15 22:15",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251015-7670772",
+        "title": "持新加坡驾照的马国公民 明日起可申请添购RON95",
+        "seq": 196
+    },
+    {
+        "media": "聯合早報",
         "category": "财经即时",
         "timeText": "22:16",
         "time": "2025-10-15 22:16",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251013-7659226",
         "title": "云顶集团提出67.4亿令吉全面收购要约 将把云顶马来西亚除牌",
-        "seq": 195
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1779,7 @@
         "time": "2025-10-15 22:23",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251014-7664783",
         "title": "法国总理勒科尔尼：政府将暂停养老金改革至下届大选",
-        "seq": 196
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1788,7 @@
         "time": "2025-10-15 22:26",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251014-7664804",
         "title": "雪州工地土崩一死一伤",
-        "seq": 197
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1797,7 @@
         "time": "2025-10-15 23:01",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251014-7664899",
         "title": "白宫誓言挺过政府停摆 继续执行裁员计划",
-        "seq": 198
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1806,7 @@
         "time": "2025-10-15 23:12",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251014-7664852",
         "title": "胜捷企业购入伦敦地段建设学生宿舍 扩展在英国业务",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,6 +1815,6 @@
         "time": "2025-10-15 23:47",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251014-7665069",
         "title": "马达加斯加军队宣布接管国家政权",
-        "seq": 200
+        "seq": 202
     }
 ]
