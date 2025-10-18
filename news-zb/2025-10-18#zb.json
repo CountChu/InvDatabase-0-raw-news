@@ -1288,12 +1288,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:01",
+        "time": "2025-10-18 22:01",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251018-7684141",
+        "title": "研究：中国财政供养人员数量上升 2020年已达6846万人",
+        "seq": 144
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:03",
         "time": "2025-10-18 22:03",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251017-7681745",
         "title": "百汇生命产业信托委任胡以晨为新董事会主席",
-        "seq": 144
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1302,7 +1311,7 @@
         "time": "2025-10-18 22:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251017-7680017",
         "title": "中国扩大海南离岛免税商品范围",
-        "seq": 145
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1311,7 +1320,7 @@
         "time": "2025-10-18 22:06",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251017-7681967",
         "title": "怡和购文华东方剩余股权并私有化 阿里巴巴买下13层楼作为香港总部",
-        "seq": 146
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1320,7 +1329,7 @@
         "time": "2025-10-18 22:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251017-7682168",
         "title": "特朗普称将在韩国与习近平会晤",
-        "seq": 147
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1329,7 +1338,7 @@
         "time": "2025-10-18 22:23",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251016-7676237",
         "title": "六个亚细安支付网络携手促进跨境支付便捷性",
-        "seq": 148
+        "seq": 149
     },
     {
         "media": "聯合早報",
@@ -1338,7 +1347,7 @@
         "time": "2025-10-18 22:25",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251016-7676406",
         "title": "新工业路一处工业房地产出售 要价8000万元",
-        "seq": 149
+        "seq": 150
     },
     {
         "media": "聯合早報",
@@ -1347,6 +1356,6 @@
         "time": "2025-10-18 23:16",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251017-7682247",
         "title": "上任仅四个月 蒙古国总理遭国会罢免",
-        "seq": 150
+        "seq": 151
     }
 ]
