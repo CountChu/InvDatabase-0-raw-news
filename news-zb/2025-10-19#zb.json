@@ -1261,12 +1261,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:24",
+        "time": "2025-10-19 22:24",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251019-7688375",
+        "title": "特朗普批哥伦比亚总统是“非法毒品头目”",
+        "seq": 141
+    },
+    {
+        "media": "聯合早報",
         "category": "财经即时",
         "timeText": "22:25",
         "time": "2025-10-19 22:25",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251016-7676406",
         "title": "新工业路一处工业房地产出售 要价8000万元",
-        "seq": 141
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1284,25 @@
         "time": "2025-10-19 22:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251018-7685327",
         "title": "场外供电中断四周 扎波罗热核电站供电线修复工作开始",
-        "seq": 142
+        "seq": 143
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:29",
+        "time": "2025-10-19 22:29",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251019-7688402",
+        "title": "让ChatGPT生成号码 美国妇女赢得10万美元彩票",
+        "seq": 144
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:39",
+        "time": "2025-10-19 22:39",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251019-7688411",
+        "title": "“风神”侵袭菲律宾 已造成八人丧生",
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1284,7 +1311,7 @@
         "time": "2025-10-19 22:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251018-7685410",
         "title": "奥地利将同意欧盟对俄最新制裁方案",
-        "seq": 143
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1293,7 +1320,7 @@
         "time": "2025-10-19 23:01",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251018-7685422",
         "title": "加沙拉法口岸下周一重开",
-        "seq": 144
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1302,6 +1329,6 @@
         "time": "2025-10-19 23:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251018-7685495",
         "title": "加沙民防机构：以军炮击一辆巴士 一家九口身亡",
-        "seq": 145
+        "seq": 148
     }
 ]
