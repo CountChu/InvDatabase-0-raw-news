@@ -1306,12 +1306,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:40",
+        "time": "2025-10-19 22:40",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251019-7688392",
+        "title": "建利控股获准在墨尔本建造学生宿舍 可提供268个床位",
+        "seq": 146
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:57",
         "time": "2025-10-19 22:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251018-7685410",
         "title": "奥地利将同意欧盟对俄最新制裁方案",
-        "seq": 146
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1320,7 +1329,7 @@
         "time": "2025-10-19 23:01",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251018-7685422",
         "title": "加沙拉法口岸下周一重开",
-        "seq": 147
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1329,6 +1338,6 @@
         "time": "2025-10-19 23:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251018-7685495",
         "title": "加沙民防机构：以军炮击一辆巴士 一家九口身亡",
-        "seq": 148
+        "seq": 149
     }
 ]
