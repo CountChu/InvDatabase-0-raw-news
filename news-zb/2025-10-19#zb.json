@@ -1225,12 +1225,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:05",
+        "time": "2025-10-19 22:05",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251019-7687156",
+        "title": "中国生成式人工智能用户规模超5.1亿人",
+        "seq": 137
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:06",
         "time": "2025-10-19 22:06",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251017-7681967",
         "title": "怡和购文华东方剩余股权并私有化 阿里巴巴买下13层楼作为香港总部",
-        "seq": 137
+        "seq": 138
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:10",
+        "time": "2025-10-19 22:10",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251019-7688336",
+        "title": "韩美在APEC峰会前达成贸易协议概率增加",
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1257,7 @@
         "time": "2025-10-19 22:23",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251016-7676237",
         "title": "六个亚细安支付网络携手促进跨境支付便捷性",
-        "seq": 138
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1266,7 @@
         "time": "2025-10-19 22:25",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251016-7676406",
         "title": "新工业路一处工业房地产出售 要价8000万元",
-        "seq": 139
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1275,7 @@
         "time": "2025-10-19 22:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251018-7685327",
         "title": "场外供电中断四周 扎波罗热核电站供电线修复工作开始",
-        "seq": 140
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1284,7 @@
         "time": "2025-10-19 22:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251018-7685410",
         "title": "奥地利将同意欧盟对俄最新制裁方案",
-        "seq": 141
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1293,7 @@
         "time": "2025-10-19 23:01",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251018-7685422",
         "title": "加沙拉法口岸下周一重开",
-        "seq": 142
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1284,6 +1302,6 @@
         "time": "2025-10-19 23:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251018-7685495",
         "title": "加沙民防机构：以军炮击一辆巴士 一家九口身亡",
-        "seq": 143
+        "seq": 145
     }
 ]
