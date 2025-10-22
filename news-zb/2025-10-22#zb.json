@@ -1594,12 +1594,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:03",
+        "time": "2025-10-22 22:03",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251022-7700161",
+        "title": "港财政司长吁维护多边贸易体系 推动区域经济增长",
+        "seq": 178
+    },
+    {
+        "media": "聯合早報",
         "category": "财经即时",
         "timeText": "22:06",
         "time": "2025-10-22 22:06",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251017-7681967",
         "title": "怡和购文华东方剩余股权并私有化 阿里巴巴买下13层楼作为香港总部",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,16 @@
         "time": "2025-10-22 22:11",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251021-7694727",
         "title": "华人钢琴家包揽肖邦钢琴大赛前三名 陆逸轩夺冠",
-        "seq": 179
+        "seq": 180
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:17",
+        "time": "2025-10-22 22:17",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251022-7702580",
+        "title": "吉隆坡树倒一死一伤",
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1635,7 @@
         "time": "2025-10-22 22:31",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251021-7696970",
         "title": "菲律宾海军在南中国海发现疑似中国火箭残骸",
-        "seq": 180
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1644,7 @@
         "time": "2025-10-22 22:40",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251019-7688392",
         "title": "建利控股获准在墨尔本建造学生宿舍 可提供268个床位",
-        "seq": 181
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1653,7 @@
         "time": "2025-10-22 23:24",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251020-7691875",
         "title": "丰益国际印尼子公司违反贸易法 总经理被起诉",
-        "seq": 182
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1662,7 @@
         "time": "2025-10-22 23:39",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251021-7697174",
         "title": "以色列敦促加拿大总理放弃逮捕内坦亚胡",
-        "seq": 183
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1671,7 @@
         "time": "2025-10-22 23:55",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251021-7697315",
         "title": "TikTok上传接吻视频 尼日利亚法院强制当事人结婚",
-        "seq": 184
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1662,6 +1680,6 @@
         "time": "2025-10-22 23:58",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251021-7697329",
         "title": "特朗普：中东盟友已准备好“整顿哈马斯”",
-        "seq": 185
+        "seq": 187
     }
 ]
