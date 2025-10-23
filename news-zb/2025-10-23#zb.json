@@ -1711,12 +1711,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:32",
+        "time": "2025-10-23 21:32",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251023-7708616",
+        "title": "乌克兰：俄方移交1000具乌士兵遗体",
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:38",
+        "time": "2025-10-23 21:38",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251023-7705656",
+        "title": "台大中文系名师蔡璧名辞世 享寿60岁　",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "21:47",
         "time": "2025-10-23 21:47",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251022-7702314",
         "title": "丰树泛亚商业信托第二季每单位派息增加1.5%",
-        "seq": 191
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1743,7 @@
         "time": "2025-10-23 22:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251022-7700161",
         "title": "港财政司长吁维护多边贸易体系 推动区域经济增长",
-        "seq": 192
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1752,7 @@
         "time": "2025-10-23 22:17",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251022-7702580",
         "title": "吉隆坡树倒一死一伤",
-        "seq": 193
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1761,7 @@
         "time": "2025-10-23 22:20",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251022-7702416",
         "title": "澳政府要求聊天机器人公司 防范儿童接触危险内容",
-        "seq": 194
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1752,6 +1770,6 @@
         "time": "2025-10-23 22:32",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251022-7702671",
         "title": "报告：朝鲜大量窃取虚拟资产牟利",
-        "seq": 195
+        "seq": 197
     }
 ]
