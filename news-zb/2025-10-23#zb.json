@@ -1748,11 +1748,20 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "22:01",
+        "time": "2025-10-23 22:01",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251023-7705741",
+        "title": "中国9月全社会用电量同比增4.5%",
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "22:03",
         "time": "2025-10-23 22:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251022-7700161",
         "title": "港财政司长吁维护多边贸易体系 推动区域经济增长",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1770,7 @@
         "time": "2025-10-23 22:17",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251022-7702580",
         "title": "吉隆坡树倒一死一伤",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1779,7 @@
         "time": "2025-10-23 22:20",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251022-7702416",
         "title": "澳政府要求聊天机器人公司 防范儿童接触危险内容",
-        "seq": 197
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1779,6 +1788,6 @@
         "time": "2025-10-23 22:32",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251022-7702671",
         "title": "报告：朝鲜大量窃取虚拟资产牟利",
-        "seq": 198
+        "seq": 199
     }
 ]
