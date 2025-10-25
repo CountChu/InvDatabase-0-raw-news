@@ -1469,11 +1469,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:00",
+        "time": "2025-10-25 23:00",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251025-7718227",
+        "title": "特朗普星期天飞抵马国 下午与安华会面",
+        "seq": 164
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:24",
         "time": "2025-10-25 23:24",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251024-7715048",
         "title": "印度接近与美国敲定贸易协议 但不会仓促签署",
-        "seq": 164
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1491,7 @@
         "time": "2025-10-25 23:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251023-7709096",
         "title": "新达信托第三季每单位派息1.778分 同比增12.5％",
-        "seq": 165
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1500,7 @@
         "time": "2025-10-25 23:44",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251024-7715094",
         "title": "订单增长强劲 美国企业活动扩张速度达今年次高",
-        "seq": 166
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1509,7 @@
         "time": "2025-10-25 23:54",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251024-7715115",
         "title": "为通胀担忧 美国消费者信心指数跌至五个月低点",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,6 +1518,6 @@
         "time": "2025-10-25 23:58",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251023-7709194",
         "title": "胜宝工业信托完成管理内化 改名Alpha Integrated REIT",
-        "seq": 168
+        "seq": 169
     }
 ]
