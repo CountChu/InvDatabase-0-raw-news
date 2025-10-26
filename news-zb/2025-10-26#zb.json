@@ -1469,11 +1469,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:01",
+        "time": "2025-10-26 23:01",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251026-7721821",
+        "title": "认错新加坡总理和印尼总统 马国家电视台道歉",
+        "seq": 164
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:27",
         "time": "2025-10-26 23:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251025-7718269",
         "title": "欧洲主要评级机构下调美国主权信用评级",
-        "seq": 164
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1491,7 @@
         "time": "2025-10-26 23:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251023-7709096",
         "title": "新达信托第三季每单位派息1.778分 同比增12.5％",
-        "seq": 165
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1491,6 +1500,6 @@
         "time": "2025-10-26 23:58",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251023-7709194",
         "title": "胜宝工业信托完成管理内化 改名Alpha Integrated REIT",
-        "seq": 166
+        "seq": 167
     }
 ]
