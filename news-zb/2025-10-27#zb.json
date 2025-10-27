@@ -1532,11 +1532,38 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "22:01",
+        "time": "2025-10-27 22:01",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251027-7724650",
+        "title": "中国在北极密集海冰区进行连续载人深潜",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "22:06",
         "time": "2025-10-27 22:06",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251026-7720195",
         "title": "被大陆网民称为“统一女神” 郑丽文：无伤大雅信息“笑一笑就好”",
-        "seq": 171
+        "seq": 172
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:08",
+        "time": "2025-10-27 22:08",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251027-7726881",
+        "title": "消息：为泰党拟几天后开会 选出新党魁",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:13",
+        "time": "2025-10-27 22:13",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251027-7726782",
+        "title": "李资政在英国会见英国副首相拉米",
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1572,16 @@
         "time": "2025-10-27 22:17",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251026-7721688",
         "title": "安华：马国愿与日本深化稀土与关键矿产合作",
-        "seq": 172
+        "seq": 175
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:17",
+        "time": "2025-10-27 22:17",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251027-7726940",
+        "title": "普京会见朝鲜外长：俄朝关系正按计划发展",
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1590,7 @@
         "time": "2025-10-27 22:19",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251024-7714689",
         "title": "奕丰集团今年第三季净利2601万元 创历史新高 ",
-        "seq": 173
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1599,7 @@
         "time": "2025-10-27 22:30",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251024-7714788",
         "title": "Mm2全亚获准延迟提交年度报表 至今年12月29日",
-        "seq": 174
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1608,7 @@
         "time": "2025-10-27 23:01",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251026-7721821",
         "title": "认错新加坡总理和印尼总统 马国家电视台道歉",
-        "seq": 175
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1617,7 @@
         "time": "2025-10-27 23:25",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251026-7721850",
         "title": "德国柏林附近爆发禽流感 当局下令扑杀约13万只家禽",
-        "seq": 176
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1626,7 @@
         "time": "2025-10-27 23:25",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251026-7721850",
         "title": "德国柏林附近暴发禽流感 当局下令扑杀约13万只家禽",
-        "seq": 177
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1635,7 @@
         "time": "2025-10-27 23:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251023-7709096",
         "title": "新达信托第三季每单位派息1.778分 同比增12.5％",
-        "seq": 178
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1608,6 +1644,6 @@
         "time": "2025-10-27 23:58",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251023-7709194",
         "title": "胜宝工业信托完成管理内化 改名Alpha Integrated REIT",
-        "seq": 179
+        "seq": 183
     }
 ]
