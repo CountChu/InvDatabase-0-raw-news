@@ -1630,12 +1630,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:32",
+        "time": "2025-10-28 22:32",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251028-7732911",
+        "title": "疫情过度招聘与AI双重影响 亚马逊裁员1.4万人",
+        "seq": 182
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:01",
         "time": "2025-10-28 23:01",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251027-7727075",
         "title": "涉用爪刀袭警 37岁男子星期二被控",
-        "seq": 182
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1653,7 @@
         "time": "2025-10-28 23:15",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251027-7727148",
         "title": "对第一夫人进行网络骚扰 法国10人被告上法庭",
-        "seq": 183
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1653,6 +1662,6 @@
         "time": "2025-10-28 23:36",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251027-7726337",
         "title": "研究：每晚睡七到九小时者减重最成功",
-        "seq": 184
+        "seq": 185
     }
 ]
