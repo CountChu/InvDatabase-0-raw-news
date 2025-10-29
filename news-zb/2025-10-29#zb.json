@@ -1441,12 +1441,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:51",
+        "time": "2025-10-29 21:51",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251029-7739365",
+        "title": "普京特使：乌克兰将在一年内实现和平",
+        "seq": 161
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "21:52",
         "time": "2025-10-29 21:52",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251028-7732994",
         "title": "加装新科技的C151B概念验证列车抵达我国",
-        "seq": 161
+        "seq": 162
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:58",
+        "time": "2025-10-29 21:58",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251029-7739504",
+        "title": "巴西警方打击犯罪团伙 里约街头发现40多具遗体",
+        "seq": 163
     },
     {
         "media": "聯合早報",
@@ -1455,7 +1473,7 @@
         "time": "2025-10-29 22:09",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251028-7731067",
         "title": "李家超：防范打击任何干扰破坏选举行为",
-        "seq": 162
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1482,7 @@
         "time": "2025-10-29 22:32",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251028-7732911",
         "title": "疫情过度招聘与AI双重影响 亚马逊裁员1.4万人",
-        "seq": 163
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1491,7 @@
         "time": "2025-10-29 22:58",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251028-7733347",
         "title": "下午察：新型无人隐身轰炸机首次腾空",
-        "seq": 164
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1500,7 @@
         "time": "2025-10-29 22:59",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251028-7730615",
         "title": "美国患者移植猪肾近九个月后摘除 创存活时长新纪录",
-        "seq": 165
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1509,7 @@
         "time": "2025-10-29 23:31",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251028-7733258",
         "title": "美国政府签署800亿美元核电协议 支撑AI部署",
-        "seq": 166
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1500,6 +1518,6 @@
         "time": "2025-10-29 23:44",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251028-7733500",
         "title": "印尼班达海发生6.6级地震 暂无海啸风险",
-        "seq": 167
+        "seq": 169
     }
 ]
