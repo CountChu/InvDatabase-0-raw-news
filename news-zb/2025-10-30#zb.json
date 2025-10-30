@@ -1712,11 +1712,29 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "22:01",
+        "time": "2025-10-30 22:01",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251030-7742584",
+        "title": "浙江义乌前三季度进出口首破6000亿人民币 ",
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "22:02",
         "time": "2025-10-30 22:02",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251029-7736921",
         "title": "儿歌平台宝宝巴士就推送成人擦边广告致歉",
-        "seq": 191
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:02",
+        "time": "2025-10-30 22:02",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251030-7746117",
+        "title": "克宫：近期武器试验 并非核武测试",
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1743,7 @@
         "time": "2025-10-30 22:08",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251029-7739243",
         "title": "下午察：郑智化为何“连滚带爬”？",
-        "seq": 192
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1752,7 @@
         "time": "2025-10-30 23:05",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251029-7739252",
         "title": "丰树工业信托第二季派息9071万元 同比减少5.3%",
-        "seq": 193
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1761,7 @@
         "time": "2025-10-30 23:08",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251029-7739534",
         "title": "美国就业机会稀缺工资增长放缓 年轻人首当其冲",
-        "seq": 194
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1770,7 @@
         "time": "2025-10-30 23:12",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251029-7739776",
         "title": "中国玉柴国际董事吴启伟涉嫌严重违纪违法受查 已辞去董事职务",
-        "seq": 195
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1779,7 @@
         "time": "2025-10-30 23:16",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251029-7739790",
         "title": "升禧环球房地产信托首季净房地产收入增0.2%",
-        "seq": 196
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1770,6 +1788,6 @@
         "time": "2025-10-30 23:17",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251029-7739891",
         "title": "分析人士：乌克兰正努力守住东部城市波克罗夫斯克",
-        "seq": 197
+        "seq": 199
     }
 ]
