@@ -1702,12 +1702,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:22",
+        "time": "2025-10-31 22:22",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251031-7751688",
+        "title": "柔佛河原水污染影响自来水厂 柔佛多地制水",
+        "seq": 190
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:29",
         "time": "2025-10-31 22:29",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251030-7746151",
         "title": "丰益国际印尼子公司DSI总经理被判四年监禁",
-        "seq": 190
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:36",
+        "time": "2025-10-31 22:36",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251031-7751501",
+        "title": "南利压制金属董事经理被贪污调查局问话",
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1734,7 @@
         "time": "2025-10-31 22:41",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251030-7746277",
         "title": "印度称获得中国进口稀土磁体许可证",
-        "seq": 191
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1743,7 @@
         "time": "2025-10-31 22:55",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251030-7746239",
         "title": "联实全球商业房地产首季承诺入驻率达95% 杠杆率42.7%",
-        "seq": 192
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1752,7 @@
         "time": "2025-10-31 23:25",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251030-7746332",
         "title": "24岁男子涉诈骗洗钱 星期五将被控",
-        "seq": 193
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1743,6 +1761,6 @@
         "time": "2025-10-31 23:42",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251030-7746423",
         "title": "“67”数字走红网络 评为网上词典“年度词汇”",
-        "seq": 194
+        "seq": 196
     }
 ]
