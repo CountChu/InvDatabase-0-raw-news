@@ -1513,12 +1513,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:01",
+        "time": "2025-11-01 22:01",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251101-7753845",
+        "title": "港政务司长：仍有反中乱港分子死心不息破坏选举",
+        "seq": 169
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:02",
+        "time": "2025-11-01 22:02",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251101-7755159",
+        "title": "高市早苗晒与台APEC代表合照 北京强烈抗议批高调炒作",
+        "seq": 170
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:06",
         "time": "2025-11-01 22:06",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251031-7751606",
         "title": "美菲组建新联合特遣队 提升南中国海等海域战备能力",
-        "seq": 169
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1545,16 @@
         "time": "2025-11-01 22:09",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251031-7749139",
         "title": "云南女童戏水池溺亡 两家涉事酒店被罚款共85万元人民币",
-        "seq": 170
+        "seq": 172
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:13",
+        "time": "2025-11-01 22:13",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251101-7755178",
+        "title": "易纲不再担任中国全国政协经济委员会副主任",
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1563,7 @@
         "time": "2025-11-01 22:22",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251031-7751688",
         "title": "淤泥涌入柔佛河影响多座自来水厂 包括新加坡公用局水厂",
-        "seq": 171
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1572,7 @@
         "time": "2025-11-01 22:36",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251031-7751501",
         "title": "南利压制金属董事经理被贪污调查局问话",
-        "seq": 172
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1581,7 @@
         "time": "2025-11-01 23:16",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251031-7751886",
         "title": "柔佛巴西古当棕榈油污染沿岸四公里",
-        "seq": 173
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1563,6 +1590,6 @@
         "time": "2025-11-01 23:48",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251031-7751988",
         "title": "苏丹法希尔大屠杀：反政府武装围捕射杀数百名男子",
-        "seq": 174
+        "seq": 177
     }
 ]
