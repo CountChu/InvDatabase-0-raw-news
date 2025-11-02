@@ -1054,12 +1054,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:47",
+        "time": "2025-11-02 20:47",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251102-7758203",
+        "title": "菲律宾与加拿大签署军事协议 旨在遏制中国",
+        "seq": 118
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "21:03",
         "time": "2025-11-02 21:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251101-7753833",
         "title": "中国再有一地集中采集男性血样 法律学者质疑“过分违法”",
-        "seq": 118
+        "seq": 119
     },
     {
         "media": "聯合早報",
@@ -1068,15 +1077,6 @@
         "time": "2025-11-02 21:05",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251101-7754911",
         "title": "马国边境油站RON95补贴汽油出现异常消费情况",
-        "seq": 119
-    },
-    {
-        "media": "聯合早報",
-        "category": "国际",
-        "timeText": "21:07",
-        "time": "2025-11-02 21:07",
-        "link": "https://www.zaobao.com.sg/realtime/world/story20251101-7755021",
-        "title": "【APEC花絮】习近平一句“吃得很香” 庆州黄南面包大热",
         "seq": 120
     },
     {
@@ -1085,8 +1085,17 @@
         "timeText": "21:07",
         "time": "2025-11-02 21:07",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251101-7755021",
-        "title": "【APEC花絮】习近平一句“吃得很香” 庆州皇南面包大热",
+        "title": "【APEC花絮】习近平一句“吃得很香” 庆州黄南面包大热",
         "seq": 121
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:07",
+        "time": "2025-11-02 21:07",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251101-7755021",
+        "title": "【APEC花絮】习近平一句“吃得很香” 庆州皇南面包大热",
+        "seq": 122
     },
     {
         "media": "聯合早報",
@@ -1095,7 +1104,7 @@
         "time": "2025-11-02 21:14",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251101-7755008",
         "title": "陈振声：亚细安应为网络安全等新兴领域制定符合需要新规则",
-        "seq": 122
+        "seq": 123
     },
     {
         "media": "聯合早報",
@@ -1104,7 +1113,7 @@
         "time": "2025-11-02 21:20",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251101-7754996",
         "title": "菲律宾外交部：恢复中国公民电子签证服务",
-        "seq": 123
+        "seq": 124
     },
     {
         "media": "聯合早報",
@@ -1113,7 +1122,7 @@
         "time": "2025-11-02 21:52",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251101-7755134",
         "title": "印度东南部发生踩踏事件 至少10人死亡",
-        "seq": 124
+        "seq": 125
     },
     {
         "media": "聯合早報",
@@ -1122,7 +1131,7 @@
         "time": "2025-11-02 21:58",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251031-7749547",
         "title": "周五美市盘前走高 聚焦亚马逊最新季度业绩",
-        "seq": 125
+        "seq": 126
     },
     {
         "media": "聯合早報",
@@ -1131,7 +1140,7 @@
         "time": "2025-11-02 22:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251101-7753845",
         "title": "港政务司长：仍有反中乱港分子死心不息破坏选举",
-        "seq": 126
+        "seq": 127
     },
     {
         "media": "聯合早報",
@@ -1140,7 +1149,7 @@
         "time": "2025-11-02 22:01",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251031-7751350",
         "title": "凯德腾飞REIT第三季入驻率降至91.3%",
-        "seq": 127
+        "seq": 128
     },
     {
         "media": "聯合早報",
@@ -1149,7 +1158,7 @@
         "time": "2025-11-02 22:02",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251101-7755159",
         "title": "高市早苗晒与台APEC代表合照 北京强烈抗议批高调炒作",
-        "seq": 128
+        "seq": 129
     },
     {
         "media": "聯合早報",
@@ -1158,7 +1167,7 @@
         "time": "2025-11-02 22:13",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251101-7755178",
         "title": "易纲不再担任中国全国政协经济委员会副主任",
-        "seq": 129
+        "seq": 130
     },
     {
         "media": "聯合早報",
@@ -1167,7 +1176,7 @@
         "time": "2025-11-02 22:21",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251101-7755195",
         "title": "原中组部副部长傅兴国辞去中国全国政协委员",
-        "seq": 130
+        "seq": 131
     },
     {
         "media": "聯合早報",
@@ -1176,7 +1185,7 @@
         "time": "2025-11-02 22:36",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251031-7751501",
         "title": "南利压制金属董事经理被贪污调查局问话",
-        "seq": 131
+        "seq": 132
     },
     {
         "media": "聯合早報",
@@ -1185,7 +1194,7 @@
         "time": "2025-11-02 22:41",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251101-7755223",
         "title": "马尔代夫启动“世代禁烟”措施 外国游客同样受限",
-        "seq": 132
+        "seq": 133
     },
     {
         "media": "聯合早報",
@@ -1194,7 +1203,7 @@
         "time": "2025-11-02 23:26",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251101-7755314",
         "title": "尼泊尔恶劣天气致机场停航 千余游客滞留珠峰南麓",
-        "seq": 133
+        "seq": 134
     },
     {
         "media": "聯合早報",
@@ -1203,6 +1212,6 @@
         "time": "2025-11-02 23:48",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251101-7755204",
         "title": "涉严重违约及不当行为 富裕集团开除首席执行官萧俊豪",
-        "seq": 134
+        "seq": 135
     }
 ]
