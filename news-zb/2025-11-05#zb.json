@@ -1828,12 +1828,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:53",
+        "time": "2025-11-05 22:53",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251105-7775479",
+        "title": "普京下令起草重启核试验方案",
+        "seq": 204
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:23",
         "time": "2025-11-05 23:23",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251104-7769452",
         "title": "遭美国制裁后 坤集团两名新加坡董事辞职",
-        "seq": 204
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1851,7 @@
         "time": "2025-11-05 23:24",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251104-7769501",
         "title": "向未成年者售卖色情产品 法国调查希音Temu等电商",
-        "seq": 205
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1851,6 +1860,6 @@
         "time": "2025-11-05 23:29",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251104-7769470",
         "title": "联合国：全球将无法实现《巴黎协定》关键气候目标",
-        "seq": 206
+        "seq": 207
     }
 ]
