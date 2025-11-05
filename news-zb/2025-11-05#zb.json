@@ -1783,12 +1783,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:27",
+        "time": "2025-11-05 22:27",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251105-7775290",
+        "title": "男子涉嫌非礼墨西哥女总统被捕",
+        "seq": 199
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:38",
         "time": "2025-11-05 22:38",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251104-7769243",
         "title": "【国会】获金管局提醒信函的五网红 已删除或修改相关内容",
-        "seq": 199
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1806,7 @@
         "time": "2025-11-05 22:40",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251104-7769206",
         "title": "【国会】6.6万住户拥至少两辆车 私宅占4.6万户",
-        "seq": 200
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1815,7 @@
         "time": "2025-11-05 22:41",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251104-7769271",
         "title": "英国实施强制禽类圈养措施 以遏制禽流感蔓延 ",
-        "seq": 201
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1824,7 @@
         "time": "2025-11-05 22:42",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251104-7769313",
         "title": "避免得罪特朗普 多名欧洲领袖缺席欧盟—拉美加勒比峰会",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,7 @@
         "time": "2025-11-05 23:23",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251104-7769452",
         "title": "遭美国制裁后 坤集团两名新加坡董事辞职",
-        "seq": 203
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1842,7 @@
         "time": "2025-11-05 23:24",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251104-7769501",
         "title": "向未成年者售卖色情产品 法国调查希音Temu等电商",
-        "seq": 204
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1842,6 +1851,6 @@
         "time": "2025-11-05 23:29",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251104-7769470",
         "title": "联合国：全球将无法实现《巴黎协定》关键气候目标",
-        "seq": 205
+        "seq": 206
     }
 ]
