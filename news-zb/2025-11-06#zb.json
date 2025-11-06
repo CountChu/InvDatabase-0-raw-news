@@ -1568,11 +1568,38 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "22:04",
+        "time": "2025-11-06 22:04",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251106-7779364",
+        "title": "中国科研团队发现抑郁症新疗法",
+        "seq": 175
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "22:05",
         "time": "2025-11-06 22:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251105-7772434",
         "title": "安徽铜陵长江三桥提前半年于11月6日正式通车",
-        "seq": 175
+        "seq": 176
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:08",
+        "time": "2025-11-06 22:08",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251106-7781214",
+        "title": "业务改善  两公司报盈利预喜",
+        "seq": 177
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:19",
+        "time": "2025-11-06 22:19",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251106-7781315",
+        "title": "台风“海鸥”吹袭越南 洪灾重灾区雪上加霜",
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1608,7 @@
         "time": "2025-11-06 22:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251105-7775290",
         "title": "男子涉嫌非礼墨西哥女总统被捕",
-        "seq": 176
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1617,7 @@
         "time": "2025-11-06 22:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251105-7775479",
         "title": "普京下令起草重启核试验方案",
-        "seq": 177
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1626,7 @@
         "time": "2025-11-06 23:17",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251105-7775544",
         "title": "特朗普再促废除参院冗长辩论 以终止政府停摆",
-        "seq": 178
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,6 +1635,6 @@
         "time": "2025-11-06 23:38",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251105-7775652",
         "title": "美国货机坠毁死亡人数升至9人",
-        "seq": 179
+        "seq": 182
     }
 ]
