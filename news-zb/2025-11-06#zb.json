@@ -1522,12 +1522,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:27",
+        "time": "2025-11-06 21:27",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251106-7781030",
+        "title": "云顶新加坡第三季净利增19％至9460万元",
+        "seq": 170
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:34",
+        "time": "2025-11-06 21:34",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251106-7781114",
+        "title": "印尼民众举行抗议集会 反对授予苏哈多“国家英雄”称号",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "21:37",
         "time": "2025-11-06 21:37",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251105-7775128",
         "title": "德国护士因杀害10名病患 判终身监禁",
-        "seq": 170
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1554,7 @@
         "time": "2025-11-06 22:03",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251105-7775268",
         "title": "欧思礼路38号拟列为国家古迹 梁振伟6日国会发表部长声明",
-        "seq": 171
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,7 @@
         "time": "2025-11-06 22:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251105-7772434",
         "title": "安徽铜陵长江三桥提前半年于11月6日正式通车",
-        "seq": 172
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1572,7 @@
         "time": "2025-11-06 22:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251105-7775290",
         "title": "男子涉嫌非礼墨西哥女总统被捕",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1581,7 @@
         "time": "2025-11-06 22:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251105-7775479",
         "title": "普京下令起草重启核试验方案",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,7 @@
         "time": "2025-11-06 23:17",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251105-7775544",
         "title": "特朗普再促废除参院冗长辩论 以终止政府停摆",
-        "seq": 175
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,6 +1599,6 @@
         "time": "2025-11-06 23:38",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251105-7775652",
         "title": "美国货机坠毁死亡人数升至9人",
-        "seq": 176
+        "seq": 178
     }
 ]
