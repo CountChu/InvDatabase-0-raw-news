@@ -1612,12 +1612,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:05",
+        "time": "2025-11-07 22:05",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251107-7784702",
+        "title": "台前驻日代表谢长廷受勋 中国大陆质问日本意欲何为",
+        "seq": 180
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:08",
         "time": "2025-11-07 22:08",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251106-7781214",
         "title": "业务改善  两公司报盈利预喜",
-        "seq": 180
+        "seq": 181
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:14",
+        "time": "2025-11-07 22:14",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251107-7786726",
+        "title": "英国解除对叙利亚总统制裁 欧盟将跟进",
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1644,7 @@
         "time": "2025-11-07 22:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251106-7781315",
         "title": "台风“海鸥”吹袭越南 洪灾重灾区雪上加霜",
-        "seq": 181
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1653,7 @@
         "time": "2025-11-07 22:54",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251106-7781427",
         "title": "新电信拟售15.24亿元巴帝电信股权",
-        "seq": 182
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1662,7 @@
         "time": "2025-11-07 22:57",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251106-7781364",
         "title": "富裕集团：收到被开除CEO萧俊豪发来两封索偿信",
-        "seq": 183
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1671,7 @@
         "time": "2025-11-07 23:01",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251106-7781328",
         "title": "新中企业签订16项合作备忘录 涵盖贸易与医疗等多领域",
-        "seq": 184
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1680,7 @@
         "time": "2025-11-07 23:03",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251106-7781436",
         "title": "美国众议院首位女议长佩洛西宣布退休",
-        "seq": 185
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1689,7 @@
         "time": "2025-11-07 23:15",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251106-7781505",
         "title": "泛联集团前总裁6100万元售出植物园附近优质洋房",
-        "seq": 186
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1698,7 @@
         "time": "2025-11-07 23:25",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251106-7781435",
         "title": "扬子江金融出资近2亿元重组杉杉股份计划搁浅",
-        "seq": 187
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1707,7 @@
         "time": "2025-11-07 23:32",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251106-7781539",
         "title": "邻居一通电话救三命 马国警方列一民宅火灾为纵火案调查",
-        "seq": 188
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1698,6 +1716,6 @@
         "time": "2025-11-07 23:52",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251106-7781514",
         "title": "一注i多多赢头奖 逾1228万元平分28份",
-        "seq": 189
+        "seq": 191
     }
 ]
