@@ -1262,11 +1262,29 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:05",
+        "time": "2025-11-08 23:05",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251108-7789998",
+        "title": "美国法官：总统向波特兰部署国民警卫队“违法”",
+        "seq": 141
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:10",
+        "time": "2025-11-08 23:10",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251108-7790019",
+        "title": "台陆委会：郑丽文追思吴石是对台湾尊严最严重伤害",
+        "seq": 142
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:11",
         "time": "2025-11-08 23:11",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251107-7786996",
         "title": "联合国：今年近百人在叙利亚被绑架或失踪 ",
-        "seq": 141
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1293,7 @@
         "time": "2025-11-08 23:15",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251106-7781505",
         "title": "泛联集团前总裁6100万元售出植物园附近优质洋房",
-        "seq": 142
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1284,7 +1302,7 @@
         "time": "2025-11-08 23:25",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251106-7781435",
         "title": "扬子江金融出资近2亿元重组杉杉股份计划搁浅",
-        "seq": 143
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1293,6 +1311,6 @@
         "time": "2025-11-08 23:32",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251107-7787064",
         "title": "荷兰选举委员会：六六民主党赢得荷兰众议院选举",
-        "seq": 144
+        "seq": 146
     }
 ]
