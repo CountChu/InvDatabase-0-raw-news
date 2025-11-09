@@ -1288,12 +1288,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:25",
+        "time": "2025-11-09 21:25",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251109-7791303",
+        "title": "何超琼获授中国人民大学名誉博士学位",
+        "seq": 144
+    },
+    {
+        "media": "聯合早報",
         "category": "财经即时",
         "timeText": "21:50",
         "time": "2025-11-09 21:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251107-7786692",
         "title": "美联储副主席杰斐逊：利率接近中性水平 调整须更谨慎",
-        "seq": 144
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1302,7 +1311,7 @@
         "time": "2025-11-09 22:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251108-7788861",
         "title": "杭州800万粉丝网红被指教唆他人吸毒 警方称已介入核查",
-        "seq": 145
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1311,7 +1320,7 @@
         "time": "2025-11-09 22:23",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251108-7789908",
         "title": "日本熊袭击已致13人死亡 专家提醒人们冷静应对",
-        "seq": 146
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1320,7 +1329,7 @@
         "time": "2025-11-09 23:05",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251108-7789998",
         "title": "美国法官：总统向波特兰部署国民警卫队“违法”",
-        "seq": 147
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1329,7 +1338,7 @@
         "time": "2025-11-09 23:10",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251108-7790019",
         "title": "台陆委会：郑丽文出席追思吴石活动 是对台湾尊严最严重伤害",
-        "seq": 148
+        "seq": 149
     },
     {
         "media": "聯合早報",
@@ -1338,7 +1347,7 @@
         "time": "2025-11-09 23:22",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251108-7790028",
         "title": "美国拒绝参加人权审议 联合国人权理事会促美恢复合作",
-        "seq": 149
+        "seq": 150
     },
     {
         "media": "聯合早報",
@@ -1347,6 +1356,6 @@
         "time": "2025-11-09 23:41",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251108-7790048",
         "title": "拉夫罗夫：俄罗斯正在落实总统的核试验指示",
-        "seq": 150
+        "seq": 151
     }
 ]
