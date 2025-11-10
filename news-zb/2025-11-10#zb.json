@@ -1585,12 +1585,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:01",
+        "time": "2025-11-10 22:01",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251110-7796104",
+        "title": "中国媒体：多地投资人被税务部门要求境外投资收益补税",
+        "seq": 177
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:02",
         "time": "2025-11-10 22:02",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251109-7792870",
         "title": "以色列：哈马斯送回2014年阵亡士兵遗骸",
-        "seq": 177
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1608,7 @@
         "time": "2025-11-10 23:10",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251109-7793135",
         "title": "日相高市称就任自民党总裁后无法去美发厅",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,7 @@
         "time": "2025-11-10 23:13",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251109-7793151",
         "title": "未获邀请参加COP30 阿富汗塔利班政府表失望",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,6 +1626,6 @@
         "time": "2025-11-10 23:37",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251109-7793230",
         "title": "载有约百名偷渡客船只沉没酿七人死",
-        "seq": 180
+        "seq": 181
     }
 ]
