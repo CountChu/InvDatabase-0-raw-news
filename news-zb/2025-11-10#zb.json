@@ -1631,11 +1631,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:03",
+        "time": "2025-11-10 23:03",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251110-7798450",
+        "title": "特朗普女婿与内坦亚胡讨论以哈停火协议第二阶段",
+        "seq": 182
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:10",
         "time": "2025-11-10 23:10",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251109-7793135",
         "title": "日相高市称就任自民党总裁后无法去美发厅",
-        "seq": 182
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1653,16 @@
         "time": "2025-11-10 23:13",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251109-7793151",
         "title": "未获邀请参加COP30 阿富汗塔利班政府表失望",
-        "seq": 183
+        "seq": 184
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:14",
+        "time": "2025-11-10 23:14",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251110-7798275",
+        "title": "Grab控股投资6000万美元于远程驾驶公司 未来投资额或增至逾4亿美元",
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1653,6 +1671,6 @@
         "time": "2025-11-10 23:37",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251109-7793230",
         "title": "载有约百名偷渡客船只沉没酿七人死",
-        "seq": 184
+        "seq": 186
     }
 ]
