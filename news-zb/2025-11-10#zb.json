@@ -1513,12 +1513,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:24",
+        "time": "2025-11-10 21:24",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251110-7798036",
+        "title": "法国前总统萨科齐获准保释 10日出狱",
+        "seq": 169
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "21:25",
         "time": "2025-11-10 21:25",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251109-7791303",
         "title": "何超琼获授中国人民大学名誉博士学位",
-        "seq": 169
+        "seq": 170
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:34",
+        "time": "2025-11-10 21:34",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251110-7797925",
+        "title": "马来亚银行提供逾150亿令吉贷款和投资发展柔新经济特区 ",
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1545,7 @@
         "time": "2025-11-10 21:40",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251109-7792792",
         "title": "白桥路边摆70个电子花圈碍人视线 丧家不听劝拒移除",
-        "seq": 170
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1554,7 @@
         "time": "2025-11-10 21:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251107-7786692",
         "title": "美联储副主席杰斐逊：利率接近中性水平 调整须更谨慎",
-        "seq": 171
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,7 @@
         "time": "2025-11-10 22:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251109-7791487",
         "title": "上海满13周岁女孩明可免费接种HPV疫苗",
-        "seq": 172
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1572,7 @@
         "time": "2025-11-10 22:02",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251109-7792870",
         "title": "以色列：哈马斯送回2014年阵亡士兵遗骸",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1581,7 @@
         "time": "2025-11-10 23:10",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251109-7793135",
         "title": "日相高市称就任自民党总裁后无法去美发厅",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,7 @@
         "time": "2025-11-10 23:13",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251109-7793151",
         "title": "未获邀请参加COP30 阿富汗塔利班政府表失望",
-        "seq": 175
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,6 +1599,6 @@
         "time": "2025-11-10 23:37",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251109-7793230",
         "title": "载有约百名偷渡客船只沉没酿七人死",
-        "seq": 176
+        "seq": 178
     }
 ]
