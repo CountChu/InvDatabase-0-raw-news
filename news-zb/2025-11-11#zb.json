@@ -1603,12 +1603,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:37",
+        "time": "2025-11-11 22:37",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251111-7803996",
+        "title": "美企10月每周裁减1万1250份工作",
+        "seq": 179
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:46",
         "time": "2025-11-11 22:46",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251110-7798373",
         "title": "维康第三季净利增45％至990万元",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1626,7 @@
         "time": "2025-11-11 23:03",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251110-7798450",
         "title": "特朗普女婿与内坦亚胡讨论以哈停火协议第二阶段",
-        "seq": 180
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1635,7 @@
         "time": "2025-11-11 23:14",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251110-7798275",
         "title": "Grab控股投资6000万美元于远程驾驶公司 未来投资额或增至逾4亿美元",
-        "seq": 181
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1635,6 +1644,6 @@
         "time": "2025-11-11 23:26",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251110-7797879",
         "title": "最新研究：自闭症与扑热息痛无明确关联",
-        "seq": 182
+        "seq": 183
     }
 ]
