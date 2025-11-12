@@ -1675,12 +1675,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:35",
+        "time": "2025-11-12 22:35",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251112-7809485",
+        "title": "康福德高第三季净利增22.4％至7040万元",
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:37",
         "time": "2025-11-12 22:37",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251111-7803996",
         "title": "美企10月每周裁减1万1250份工作",
-        "seq": 187
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1698,7 @@
         "time": "2025-11-12 22:46",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251110-7798373",
         "title": "维康第三季净利增45％至990万元",
-        "seq": 188
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1707,7 @@
         "time": "2025-11-12 23:06",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251111-7803988",
         "title": "叙利亚国家博物馆多件文物被盗",
-        "seq": 189
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1716,7 @@
         "time": "2025-11-12 23:11",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251111-7804124",
         "title": "美小企业乐观指数跌至六个月低点",
-        "seq": 190
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1716,6 +1725,6 @@
         "time": "2025-11-12 23:14",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251110-7798275",
         "title": "Grab控股投资6000万美元于远程驾驶公司 未来投资额或增至逾4亿美元",
-        "seq": 191
+        "seq": 192
     }
 ]
