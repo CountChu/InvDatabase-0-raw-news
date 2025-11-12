@@ -1621,12 +1621,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:01",
+        "time": "2025-11-12 22:01",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251112-7807238",
+        "title": "中国证监会拟强化稳市机制建设 防止市场大起大落",
+        "seq": 181
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:02",
         "time": "2025-11-12 22:02",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251111-7803822",
         "title": "德国计划未来十多年斥资265亿欧元添购军装军车",
-        "seq": 181
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1644,7 @@
         "time": "2025-11-12 22:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251111-7801331",
         "title": "接送投票 港府向长者及残疾人士中心提供2万港元补助",
-        "seq": 182
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1653,16 @@
         "time": "2025-11-12 22:08",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251111-7803599",
         "title": "指领导腐败网络 土检方寻求判处反对派市长逾2000年监禁",
-        "seq": 183
+        "seq": 184
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:10",
+        "time": "2025-11-12 22:10",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251112-7809142",
+        "title": "特朗普威胁诉讼后 斯塔默力挺BBC并吁其“整顿自身”",
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1671,7 @@
         "time": "2025-11-12 22:18",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251111-7803336",
         "title": "34岁巴西男子涉持复制提款卡被捕 66张被没收",
-        "seq": 184
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1680,7 @@
         "time": "2025-11-12 22:37",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251111-7803996",
         "title": "美企10月每周裁减1万1250份工作",
-        "seq": 185
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1689,7 @@
         "time": "2025-11-12 22:46",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251110-7798373",
         "title": "维康第三季净利增45％至990万元",
-        "seq": 186
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1698,7 @@
         "time": "2025-11-12 23:06",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251111-7803988",
         "title": "叙利亚国家博物馆多件文物被盗",
-        "seq": 187
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1707,7 @@
         "time": "2025-11-12 23:11",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251111-7804124",
         "title": "美小企业乐观指数跌至六个月低点",
-        "seq": 188
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1698,6 +1716,6 @@
         "time": "2025-11-12 23:14",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251110-7798275",
         "title": "Grab控股投资6000万美元于远程驾驶公司 未来投资额或增至逾4亿美元",
-        "seq": 189
+        "seq": 191
     }
 ]
