@@ -1594,12 +1594,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:20",
+        "time": "2025-11-14 23:20",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251114-7820943",
+        "title": "台美同意避免操纵汇率以谋取不公平竞争优势",
+        "seq": 178
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:23",
         "time": "2025-11-14 23:23",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251113-7815426",
         "title": "西班牙下令关闭所有家禽养殖场 防禽流感散播",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,25 @@
         "time": "2025-11-14 23:26",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251112-7809597",
         "title": "可可原料产商JB Foods扭亏为盈 拟派2.8分特别现金股息",
-        "seq": 179
+        "seq": 180
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:35",
+        "time": "2025-11-14 23:35",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251114-7820959",
+        "title": "康盛人生集团第三季净亏增加59.2％至248万元",
+        "seq": 181
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:37",
+        "time": "2025-11-14 23:37",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251114-7820975",
+        "title": "巴黎警方在火车站开枪击伤一名持刀男子",
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1617,6 +1644,6 @@
         "time": "2025-11-14 23:42",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251112-7809564",
         "title": "和美置地9660万澳元收购澳洲五住宅地段",
-        "seq": 180
+        "seq": 183
     }
 ]
