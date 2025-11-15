@@ -1099,12 +1099,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:50",
+        "time": "2025-11-15 21:50",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251115-7823521",
+        "title": "伊朗革命卫队扣押一艘油轮 将其引向伊朗领海",
+        "seq": 123
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:04",
         "time": "2025-11-15 22:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251114-7818812",
         "title": "台F16战机飞行员涉酗酒裸聊被令停飞记过",
-        "seq": 123
+        "seq": 124
     },
     {
         "media": "聯合早報",
@@ -1113,7 +1122,7 @@
         "time": "2025-11-15 22:12",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251113-7815076",
         "title": "运通网城房产信托第三季净房地产收入跌61%",
-        "seq": 124
+        "seq": 125
     },
     {
         "media": "聯合早報",
@@ -1122,7 +1131,7 @@
         "time": "2025-11-15 22:31",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251114-7820667",
         "title": "物流服务公司开幕典礼活动 约20人疑食物中毒",
-        "seq": 125
+        "seq": 126
     },
     {
         "media": "聯合早報",
@@ -1131,7 +1140,7 @@
         "time": "2025-11-15 22:40",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251114-7820571",
         "title": "消息人士：伊朗军队拦截一艘油轮 将其驶向伊朗",
-        "seq": 126
+        "seq": 127
     },
     {
         "media": "聯合早報",
@@ -1140,7 +1149,7 @@
         "time": "2025-11-15 22:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251114-7820843",
         "title": "俄方：朝鲜军队在库尔斯克排雷工作中发挥关键作用",
-        "seq": 127
+        "seq": 128
     },
     {
         "media": "聯合早報",
@@ -1149,15 +1158,6 @@
         "time": "2025-11-15 22:52",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251114-7820859",
         "title": "乌情报部门：俄罗斯计划今年生产12万枚滑翔炸弹",
-        "seq": 128
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "22:59",
-        "time": "2025-11-15 22:59",
-        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251114-7820726",
-        "title": "世凯联控股上半年可派发收入达180万元",
         "seq": 129
     },
     {
@@ -1166,8 +1166,17 @@
         "timeText": "22:59",
         "time": "2025-11-15 22:59",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251114-7820726",
-        "title": "世凯联控股上半年净利达180万元",
+        "title": "世凯联控股上半年可派发收入达180万元",
         "seq": 130
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:59",
+        "time": "2025-11-15 22:59",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251114-7820726",
+        "title": "世凯联控股上半年净利达180万元",
+        "seq": 131
     },
     {
         "media": "聯合早報",
@@ -1176,7 +1185,7 @@
         "time": "2025-11-15 23:04",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251114-7820884",
         "title": "俄乌今年各生产7万架无人机 朝鲜也已大规模生产",
-        "seq": 131
+        "seq": 132
     },
     {
         "media": "聯合早報",
@@ -1185,7 +1194,7 @@
         "time": "2025-11-15 23:20",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251114-7820943",
         "title": "台美同意避免操纵汇率以谋取不公平竞争优势",
-        "seq": 132
+        "seq": 133
     },
     {
         "media": "聯合早報",
@@ -1194,7 +1203,7 @@
         "time": "2025-11-15 23:35",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251114-7820959",
         "title": "康盛人生集团第三季净亏增加59.2％至248万元",
-        "seq": 133
+        "seq": 134
     },
     {
         "media": "聯合早報",
@@ -1203,7 +1212,7 @@
         "time": "2025-11-15 23:37",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251114-7820975",
         "title": "巴黎警方在火车站开枪击伤一名持刀男子",
-        "seq": 134
+        "seq": 135
     },
     {
         "media": "聯合早報",
@@ -1212,7 +1221,7 @@
         "time": "2025-11-15 23:42",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251114-7820991",
         "title": "暴雨致吉隆坡机场天花板漏水 航班未受影响",
-        "seq": 135
+        "seq": 136
     },
     {
         "media": "聯合早報",
@@ -1221,7 +1230,7 @@
         "time": "2025-11-15 23:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251114-7820986",
         "title": "俄罗斯卢克石油公司正在洽谈出售其海外资产",
-        "seq": 136
+        "seq": 137
     },
     {
         "media": "聯合早報",
@@ -1230,6 +1239,6 @@
         "time": "2025-11-15 23:54",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251114-7820735",
         "title": "两辆汽车路口迎面相撞 两人送院治疗",
-        "seq": 137
+        "seq": 138
     }
 ]
