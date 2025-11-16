@@ -1297,12 +1297,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:22",
+        "time": "2025-11-16 23:22",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251116-7826741",
+        "title": "联合国维和人员称以军在黎巴嫩南部向其开火",
+        "seq": 145
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:35",
         "time": "2025-11-16 23:35",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251114-7820959",
         "title": "康盛人生集团第三季净亏增加59.2％至248万元",
-        "seq": 145
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1311,7 +1320,7 @@
         "time": "2025-11-16 23:54",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251114-7820735",
         "title": "两辆汽车路口迎面相撞 两人送院治疗",
-        "seq": 146
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1320,6 +1329,6 @@
         "time": "2025-11-16 23:59",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251115-7823751",
         "title": "美法院：苹果手表血氧侦测技术侵权 须赔8亿元",
-        "seq": 147
+        "seq": 148
     }
 ]
