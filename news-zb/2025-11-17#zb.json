@@ -1774,12 +1774,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:25",
+        "time": "2025-11-17 23:25",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7832190",
+        "title": "扬子江海事以2.345亿元出售四艘船舶",
+        "seq": 198
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:30",
+        "time": "2025-11-17 23:30",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7831686",
+        "title": "科学家首次观测红矮星爆发",
+        "seq": 199
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:35",
         "time": "2025-11-17 23:35",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251114-7820959",
         "title": "康盛人生集团第三季净亏增加59.2％至248万元",
-        "seq": 198
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1806,7 @@
         "time": "2025-11-17 23:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251116-7826856",
         "title": "纽约时报：部分国民警卫队部队将从芝加哥波特兰撤出",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,6 +1815,6 @@
         "time": "2025-11-17 23:54",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251114-7820735",
         "title": "两辆汽车路口迎面相撞 两人送院治疗",
-        "seq": 200
+        "seq": 202
     }
 ]
