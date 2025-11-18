@@ -1684,12 +1684,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:41",
+        "time": "2025-11-18 22:41",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251118-7837563",
+        "title": "职总传计划出售11个零售房地产项目 预示价约3亿元",
+        "seq": 188
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:43",
         "time": "2025-11-18 22:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7830685",
         "title": "美欧新一代海洋监测卫星成功发射 延续海平面观测任务",
-        "seq": 188
+        "seq": 189
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:47",
+        "time": "2025-11-18 22:47",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251118-7837595",
+        "title": "意大利拟建立5000人新单位 应对混合战争威胁",
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1716,7 @@
         "time": "2025-11-18 23:06",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7830792",
         "title": "消息：阿联酋航空拟增购波音777X客机",
-        "seq": 189
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1725,7 @@
         "time": "2025-11-18 23:15",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7832152",
         "title": "新交所下周一将推出比特币和以太币永久期货",
-        "seq": 190
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1734,7 @@
         "time": "2025-11-18 23:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7832190",
         "title": "扬子江海事以2.345亿元出售四艘船舶",
-        "seq": 191
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1743,7 @@
         "time": "2025-11-18 23:30",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7831686",
         "title": "科学家首次观测红矮星爆发",
-        "seq": 192
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,6 +1752,6 @@
         "time": "2025-11-18 23:53",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7832307",
         "title": "中国暂缓日本电影在华上映",
-        "seq": 193
+        "seq": 195
     }
 ]
