@@ -1720,12 +1720,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:07",
+        "time": "2025-11-18 23:07",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251118-7837722",
+        "title": "消息：沙特王储将敦促特朗普介入以结束苏丹战争",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:12",
+        "time": "2025-11-18 23:12",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251118-7837721",
+        "title": "马国铁路工地钢架倒塌砸车 无人受伤",
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:15",
         "time": "2025-11-18 23:15",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7832152",
         "title": "新交所下周一将推出比特币和以太币永久期货",
-        "seq": 192
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1752,7 @@
         "time": "2025-11-18 23:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7832190",
         "title": "扬子江海事以2.345亿元出售四艘船舶",
-        "seq": 193
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1761,7 @@
         "time": "2025-11-18 23:30",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7831686",
         "title": "科学家首次观测红矮星爆发",
-        "seq": 194
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1752,6 +1770,6 @@
         "time": "2025-11-18 23:53",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7832307",
         "title": "中国暂缓日本电影在华上映",
-        "seq": 195
+        "seq": 197
     }
 ]
