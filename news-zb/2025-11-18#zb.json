@@ -1531,12 +1531,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:42",
+        "time": "2025-11-18 21:42",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251118-7837283",
+        "title": "长信传媒影片《闪耀少年之空中接力》获金鸡奖最佳儿童片奖",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "21:45",
         "time": "2025-11-18 21:45",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7830735",
         "title": "德国将解除部分对以色列武器出口暂停令",
-        "seq": 171
+        "seq": 172
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:52",
+        "time": "2025-11-18 21:52",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251118-7837373",
+        "title": "中日关系紧张 约50万中国旅客取消赴日旅行",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:53",
+        "time": "2025-11-18 21:53",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251118-7837410",
+        "title": "网安公司Cloudflare出现故障 X和ChatGPT宕机 ",
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1572,7 @@
         "time": "2025-11-18 22:01",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7831942",
         "title": "室内装修商立铠企业 截至9月底订单总额达1.13亿元",
-        "seq": 172
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1581,7 @@
         "time": "2025-11-18 22:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7829840",
         "title": "香港今年前10个月访客4100万 大陆旅客占逾75%",
-        "seq": 173
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1590,7 @@
         "time": "2025-11-18 22:07",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7831973",
         "title": "冬海集团宣布10亿美元股票回购计划",
-        "seq": 174
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1599,7 @@
         "time": "2025-11-18 22:09",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251116-7826588",
         "title": "警方通缉27名在柬狮城黑帮 两人落网引渡回国将被控",
-        "seq": 175
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1608,7 @@
         "time": "2025-11-18 22:25",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7831789",
         "title": "乌克兰远程武器概览：多款新型导弹与无人机投入实战",
-        "seq": 176
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1617,7 @@
         "time": "2025-11-18 22:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7830685",
         "title": "美欧新一代海洋监测卫星成功发射 延续海平面观测任务",
-        "seq": 177
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1626,7 @@
         "time": "2025-11-18 23:06",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7830792",
         "title": "消息：阿联酋航空拟增购波音777X客机",
-        "seq": 178
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1635,7 @@
         "time": "2025-11-18 23:15",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7832152",
         "title": "新交所下周一将推出比特币和以太币永久期货",
-        "seq": 179
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1644,7 @@
         "time": "2025-11-18 23:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7832190",
         "title": "扬子江海事以2.345亿元出售四艘船舶",
-        "seq": 180
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1653,7 @@
         "time": "2025-11-18 23:30",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7831686",
         "title": "科学家首次观测红矮星爆发",
-        "seq": 181
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1635,6 +1662,6 @@
         "time": "2025-11-18 23:53",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7832307",
         "title": "中国暂缓日本电影在华上映",
-        "seq": 182
+        "seq": 185
     }
 ]
