@@ -1082,11 +1082,20 @@
     {
         "media": "聯合早報",
         "category": "财经",
+        "timeText": "17:30",
+        "time": "2025-11-18 17:30",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251118-7834444",
+        "title": "全球市场抛售潮持续 海指再跌0.86%",
+        "seq": 121
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
         "timeText": "17:35",
         "time": "2025-11-18 17:35",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7830458",
         "title": "等待关键数据市场谨慎 海指周一微跌2.48点",
-        "seq": 121
+        "seq": 122
     },
     {
         "media": "聯合早報",
@@ -1095,7 +1104,7 @@
         "time": "2025-11-18 17:38",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7830565",
         "title": "受贿逾亿人民币 黑龙江省人大常委会原副主任李显刚被判无期",
-        "seq": 122
+        "seq": 123
     },
     {
         "media": "聯合早報",
@@ -1104,7 +1113,7 @@
         "time": "2025-11-18 17:47",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7830636",
         "title": "郑丽文：台湾没事日本没事大家都没事",
-        "seq": 123
+        "seq": 124
     },
     {
         "media": "聯合早報",
@@ -1113,7 +1122,16 @@
         "time": "2025-11-18 17:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7830397",
         "title": "朝鲜多次越界后 韩国提议举行军事会谈设分界线",
-        "seq": 124
+        "seq": 125
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "17:55",
+        "time": "2025-11-18 17:55",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251118-7835877",
+        "title": "地铁独立咨询团：施工时间有限 建议更长时间分段关闭轨道提升效率",
+        "seq": 126
     },
     {
         "media": "聯合早報",
@@ -1122,7 +1140,7 @@
         "time": "2025-11-18 18:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7828988",
         "title": "图瓦卢总理访台六天 将与赖清德会面",
-        "seq": 125
+        "seq": 127
     },
     {
         "media": "聯合早報",
@@ -1131,7 +1149,7 @@
         "time": "2025-11-18 18:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7830763",
         "title": "中国驻大阪总领馆取消日中友好活动",
-        "seq": 126
+        "seq": 128
     },
     {
         "media": "聯合早報",
@@ -1140,7 +1158,7 @@
         "time": "2025-11-18 18:26",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7830057",
         "title": "韩国打击网络性犯罪逮捕逾3500人 近半为青少年",
-        "seq": 127
+        "seq": 129
     },
     {
         "media": "聯合早報",
@@ -1149,7 +1167,7 @@
         "time": "2025-11-18 18:29",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251117-7830847",
         "title": "涉嫌在实龙岗上段商场持刀伤人 44岁马国女子还押接受精神评估",
-        "seq": 128
+        "seq": 130
     },
     {
         "media": "聯合早報",
@@ -1158,7 +1176,7 @@
         "time": "2025-11-18 18:37",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251116-7825900",
         "title": "睡车内被叫醒后却弃车逃 警方追缉疑涉毒拥武器男子",
-        "seq": 129
+        "seq": 131
     },
     {
         "media": "聯合早報",
@@ -1167,7 +1185,7 @@
         "time": "2025-11-18 19:01",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251117-7831049",
         "title": "未遵守我国更正指示 马国网媒MalaysiaNow被屏蔽",
-        "seq": 130
+        "seq": 132
     },
     {
         "media": "聯合早報",
@@ -1176,7 +1194,7 @@
         "time": "2025-11-18 19:09",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7829480",
         "title": "盒马创始人2月创立的“派特鲜生”将全部关闭",
-        "seq": 131
+        "seq": 133
     },
     {
         "media": "聯合早報",
@@ -1185,7 +1203,7 @@
         "time": "2025-11-18 19:16",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7831105",
         "title": "空旅需求推动 新航集团10月份客运量上扬5.3％",
-        "seq": 132
+        "seq": 134
     },
     {
         "media": "聯合早報",
@@ -1194,7 +1212,7 @@
         "time": "2025-11-18 19:29",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251116-7825894",
         "title": "女性权益、家暴防护与水务韧性 三名国庆奖章得奖者事迹获总统表扬",
-        "seq": 133
+        "seq": 135
     },
     {
         "media": "聯合早報",
@@ -1203,7 +1221,7 @@
         "time": "2025-11-18 19:59",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7831349",
         "title": "城市发展第三季售88个私宅单位 销售额减至3.132亿元",
-        "seq": 134
+        "seq": 136
     },
     {
         "media": "聯合早報",
@@ -1212,7 +1230,7 @@
         "time": "2025-11-18 20:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7829603",
         "title": "中日紧张局势升温 赖清德吁大陆勿成麻烦制造者",
-        "seq": 135
+        "seq": 137
     },
     {
         "media": "聯合早報",
@@ -1221,7 +1239,7 @@
         "time": "2025-11-18 20:09",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7831464",
         "title": "扬子江船业今年迄今获22亿美元订单 远低于去年同期116亿美元",
-        "seq": 136
+        "seq": 138
     },
     {
         "media": "聯合早報",
@@ -1230,7 +1248,7 @@
         "time": "2025-11-18 20:14",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251117-7831508",
         "title": "文物局已收到李显扬对欧思礼路38号保存计划的反对上诉",
-        "seq": 137
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1257,7 @@
         "time": "2025-11-18 20:18",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251117-7831466",
         "title": "将九个丧尸烟弹藏在密封袋中 25岁本地男子通关被捕",
-        "seq": 138
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1266,7 @@
         "time": "2025-11-18 20:20",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251117-7831361",
         "title": "车内藏逾2600支电子烟和配件 两男子被控",
-        "seq": 139
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1275,7 @@
         "time": "2025-11-18 20:24",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7831572",
         "title": "孟加拉前总理哈西娜被判反人类罪处绞刑",
-        "seq": 140
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1284,7 @@
         "time": "2025-11-18 21:01",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7830448",
         "title": "报告：OPEC+增产遇需求疲软 全球油市面临供过于求",
-        "seq": 141
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1293,7 @@
         "time": "2025-11-18 21:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7830019",
         "title": "百胜中国：必胜客未来三年年均增店超600家",
-        "seq": 142
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1284,7 +1302,7 @@
         "time": "2025-11-18 21:20",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7831827",
         "title": "日本长期国债大幅下挫 财政刺激担忧加剧",
-        "seq": 143
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1293,7 +1311,7 @@
         "time": "2025-11-18 21:42",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7831618",
         "title": "下午察：中国下一步打出“琉球牌”？",
-        "seq": 144
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1302,7 +1320,7 @@
         "time": "2025-11-18 21:45",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7830735",
         "title": "德国将解除部分对以色列武器出口暂停令",
-        "seq": 145
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1311,7 +1329,7 @@
         "time": "2025-11-18 22:01",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7831942",
         "title": "室内装修商立铠企业 截至9月底订单总额达1.13亿元",
-        "seq": 146
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1320,7 +1338,7 @@
         "time": "2025-11-18 22:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7829840",
         "title": "香港今年前10个月访客4100万 大陆旅客占逾75%",
-        "seq": 147
+        "seq": 149
     },
     {
         "media": "聯合早報",
@@ -1329,7 +1347,7 @@
         "time": "2025-11-18 22:07",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7831973",
         "title": "冬海集团宣布10亿美元股票回购计划",
-        "seq": 148
+        "seq": 150
     },
     {
         "media": "聯合早報",
@@ -1338,7 +1356,7 @@
         "time": "2025-11-18 22:09",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251116-7826588",
         "title": "警方通缉27名在柬狮城黑帮 两人落网引渡回国将被控",
-        "seq": 149
+        "seq": 151
     },
     {
         "media": "聯合早報",
@@ -1347,7 +1365,7 @@
         "time": "2025-11-18 22:25",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7831789",
         "title": "乌克兰远程武器概览：多款新型导弹与无人机投入实战",
-        "seq": 150
+        "seq": 152
     },
     {
         "media": "聯合早報",
@@ -1356,7 +1374,7 @@
         "time": "2025-11-18 22:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7830685",
         "title": "美欧新一代海洋监测卫星成功发射 延续海平面观测任务",
-        "seq": 151
+        "seq": 153
     },
     {
         "media": "聯合早報",
@@ -1365,7 +1383,7 @@
         "time": "2025-11-18 23:06",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7830792",
         "title": "消息：阿联酋航空拟增购波音777X客机",
-        "seq": 152
+        "seq": 154
     },
     {
         "media": "聯合早報",
@@ -1374,7 +1392,7 @@
         "time": "2025-11-18 23:15",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7832152",
         "title": "新交所下周一将推出比特币和以太币永久期货",
-        "seq": 153
+        "seq": 155
     },
     {
         "media": "聯合早報",
@@ -1383,7 +1401,7 @@
         "time": "2025-11-18 23:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7832190",
         "title": "扬子江海事以2.345亿元出售四艘船舶",
-        "seq": 154
+        "seq": 156
     },
     {
         "media": "聯合早報",
@@ -1392,7 +1410,7 @@
         "time": "2025-11-18 23:30",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7831686",
         "title": "科学家首次观测红矮星爆发",
-        "seq": 155
+        "seq": 157
     },
     {
         "media": "聯合早報",
@@ -1401,6 +1419,6 @@
         "time": "2025-11-18 23:53",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7832307",
         "title": "中国暂缓日本电影在华上映",
-        "seq": 156
+        "seq": 158
     }
 ]
