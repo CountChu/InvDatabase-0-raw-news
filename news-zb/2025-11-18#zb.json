@@ -1747,12 +1747,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:24",
+        "time": "2025-11-18 23:24",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251118-7837769",
+        "title": "克宫：俄不会派代表参加乌克兰问题会谈",
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:25",
         "time": "2025-11-18 23:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251117-7832190",
         "title": "扬子江海事以2.345亿元出售四艘船舶",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1770,7 @@
         "time": "2025-11-18 23:30",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251117-7831686",
         "title": "科学家首次观测红矮星爆发",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,6 +1779,6 @@
         "time": "2025-11-18 23:53",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251117-7832307",
         "title": "中国暂缓日本电影在华上映",
-        "seq": 197
+        "seq": 198
     }
 ]
