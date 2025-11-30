@@ -694,12 +694,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:05",
+        "time": "2025-11-30 21:05",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7895251",
+        "title": "美洲玻利瓦尔联盟谴责美国威胁委内瑞拉领空主权",
+        "seq": 78
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "21:10",
         "time": "2025-11-30 21:10",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7888074",
         "title": "GIC东京办公室搬迁楼面倍增 拟加大对日本投资",
-        "seq": 78
+        "seq": 79
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:10",
+        "time": "2025-11-30 21:10",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251130-7894254",
+        "title": "传港建造业议会叫停竹棚课程 工会批模糊火灾追责焦点",
+        "seq": 80
     },
     {
         "media": "聯合早報",
@@ -708,7 +726,7 @@
         "time": "2025-11-30 22:13",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7875911",
         "title": "分析师：政府售地竞标热度高 集售明年料仍冷清",
-        "seq": 79
+        "seq": 81
     },
     {
         "media": "聯合早報",
@@ -717,6 +735,6 @@
         "time": "2025-11-30 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7889533",
         "title": "欠债3亿元 租车集团Autobahn等18公司申请债务延期禁令",
-        "seq": 80
+        "seq": 82
     }
 ]
