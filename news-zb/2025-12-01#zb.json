@@ -1685,11 +1685,29 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "22:01",
+        "time": "2025-12-01 22:01",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251201-7897904",
+        "title": "中国文昌航天发射场年发射量首次达两位数",
+        "seq": 188
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "22:05",
         "time": "2025-12-01 22:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251130-7894319",
         "title": "陆港澳人士违法游说 绿委提最高500万台币罚款",
-        "seq": 188
+        "seq": 189
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:07",
+        "time": "2025-12-01 22:07",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251201-7900849",
+        "title": "业内称空客数十架A320飞机 机身面板有工业质量问题",
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1716,7 @@
         "time": "2025-12-01 22:11",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7895351",
         "title": "李在明下周就“12.3”戒严事件一周年发表讲话",
-        "seq": 189
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1725,7 @@
         "time": "2025-12-01 22:13",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7875911",
         "title": "分析师：政府售地竞标热度高 集售明年料仍冷清",
-        "seq": 190
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1734,7 @@
         "time": "2025-12-01 22:25",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7895504",
         "title": "马国独居老人疑遭谋杀惨死家中 家属数日后才发现遗体",
-        "seq": 191
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1743,7 @@
         "time": "2025-12-01 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7889533",
         "title": "欠债3亿元 租车集团Autobahn等18公司申请债务延期禁令",
-        "seq": 192
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,6 +1752,6 @@
         "time": "2025-12-01 23:44",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7895591",
         "title": "地下管线疑造成马六甲道路坍塌",
-        "seq": 193
+        "seq": 195
     }
 ]
