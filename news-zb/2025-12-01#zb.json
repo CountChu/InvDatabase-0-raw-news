@@ -1441,20 +1441,20 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "19:46",
+        "time": "2025-12-01 19:46",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251201-7900134",
+        "title": "滨崎步一个人的演唱会信息不实 摄像团队人员道歉",
+        "seq": 161
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "19:48",
         "time": "2025-12-01 19:48",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7894964",
         "title": "内坦亚胡向以色列总统提交正式赦免申请",
-        "seq": 161
-    },
-    {
-        "media": "聯合早報",
-        "category": "财经",
-        "timeText": "20:00",
-        "time": "2025-12-01 20:00",
-        "link": "https://www.zaobao.com.sg/realtime/world/story20251128-7886682",
-        "title": "周五美市盘前走高 聚焦盛分析师评晶片制造商博通",
         "seq": 162
     },
     {
@@ -1463,8 +1463,17 @@
         "timeText": "20:00",
         "time": "2025-12-01 20:00",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251128-7886682",
-        "title": "周五美市盘前走高 聚焦高盛分析师评晶片制造商博通",
+        "title": "周五美市盘前走高 聚焦盛分析师评晶片制造商博通",
         "seq": 163
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "20:00",
+        "time": "2025-12-01 20:00",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251128-7886682",
+        "title": "周五美市盘前走高 聚焦高盛分析师评晶片制造商博通",
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1482,7 @@
         "time": "2025-12-01 20:02",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251130-7894029",
         "title": "港警提醒灾民防范骗子假扮义工 用假登记表盗取个资",
-        "seq": 164
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1491,7 @@
         "time": "2025-12-01 20:06",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7888760",
         "title": "贤能集团下半年净利大跌83%至590万元",
-        "seq": 165
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1500,7 @@
         "time": "2025-12-01 20:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251130-7895104",
         "title": "6亿元合约被马士基关联公司终止 海庭展开仲裁程序",
-        "seq": 166
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1509,7 @@
         "time": "2025-12-01 20:15",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7894940",
         "title": "指从地道逃出 以军在加沙南部击毙四巴武装分子",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2025-12-01 20:17",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7888732",
         "title": "香港上市本地建筑公司光荣建筑 标得逾5600万元疗养院",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1527,7 @@
         "time": "2025-12-01 20:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7888755",
         "title": "新加坡金融科技节吸引逾7万人参与增近8% 创历史新高",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1536,7 @@
         "time": "2025-12-01 21:03",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7886016",
         "title": "全球集装箱港口新榜 新加坡全面领先排第一",
-        "seq": 170
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1545,7 @@
         "time": "2025-12-01 21:05",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7895251",
         "title": "美洲玻利瓦尔联盟谴责美国威胁委内瑞拉领空主权",
-        "seq": 171
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1554,7 @@
         "time": "2025-12-01 21:10",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251130-7894254",
         "title": "传港建造业议会叫停竹棚课程 工会批模糊火灾追责焦点",
-        "seq": 172
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1563,7 @@
         "time": "2025-12-01 21:10",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7888074",
         "title": "GIC东京办公室搬迁楼面倍增 拟加大对日本投资",
-        "seq": 173
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1572,7 @@
         "time": "2025-12-01 22:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251130-7894319",
         "title": "陆港澳人士违法游说 绿委提最高500万台币罚款",
-        "seq": 174
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1581,7 @@
         "time": "2025-12-01 22:11",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7895351",
         "title": "李在明下周就“12.3”戒严事件一周年发表讲话",
-        "seq": 175
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1590,7 @@
         "time": "2025-12-01 22:13",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7875911",
         "title": "分析师：政府售地竞标热度高 集售明年料仍冷清",
-        "seq": 176
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1599,7 @@
         "time": "2025-12-01 22:25",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7895504",
         "title": "马国独居老人疑遭谋杀惨死家中 家属数日后才发现遗体",
-        "seq": 177
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1608,7 @@
         "time": "2025-12-01 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7889533",
         "title": "欠债3亿元 租车集团Autobahn等18公司申请债务延期禁令",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,6 +1617,6 @@
         "time": "2025-12-01 23:44",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7895591",
         "title": "地下管线疑造成马六甲道路坍塌",
-        "seq": 179
+        "seq": 180
     }
 ]
