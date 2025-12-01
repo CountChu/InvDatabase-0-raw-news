@@ -1531,12 +1531,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "20:30",
+        "time": "2025-12-01 20:30",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251201-7898171",
+        "title": "萧旭岑指民进党只剩“抗中牌”能打",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:32",
+        "time": "2025-12-01 20:32",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251201-7900394",
+        "title": "2024年地雷事故致死人数创近四年新高",
+        "seq": 172
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "21:03",
         "time": "2025-12-01 21:03",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7886016",
         "title": "全球集装箱港口新榜 新加坡全面领先排第一",
-        "seq": 171
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,7 @@
         "time": "2025-12-01 21:05",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7895251",
         "title": "美洲玻利瓦尔联盟谴责美国威胁委内瑞拉领空主权",
-        "seq": 172
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1572,7 @@
         "time": "2025-12-01 21:10",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251130-7894254",
         "title": "传港建造业议会叫停竹棚课程 工会批模糊火灾追责焦点",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1581,7 @@
         "time": "2025-12-01 21:10",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7888074",
         "title": "GIC东京办公室搬迁楼面倍增 拟加大对日本投资",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,7 @@
         "time": "2025-12-01 22:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251130-7894319",
         "title": "陆港澳人士违法游说 绿委提最高500万台币罚款",
-        "seq": 175
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1599,7 @@
         "time": "2025-12-01 22:11",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7895351",
         "title": "李在明下周就“12.3”戒严事件一周年发表讲话",
-        "seq": 176
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1608,7 @@
         "time": "2025-12-01 22:13",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7875911",
         "title": "分析师：政府售地竞标热度高 集售明年料仍冷清",
-        "seq": 177
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1617,7 @@
         "time": "2025-12-01 22:25",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7895504",
         "title": "马国独居老人疑遭谋杀惨死家中 家属数日后才发现遗体",
-        "seq": 178
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1626,7 @@
         "time": "2025-12-01 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7889533",
         "title": "欠债3亿元 租车集团Autobahn等18公司申请债务延期禁令",
-        "seq": 179
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1617,6 +1635,6 @@
         "time": "2025-12-01 23:44",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251130-7895591",
         "title": "地下管线疑造成马六甲道路坍塌",
-        "seq": 180
+        "seq": 182
     }
 ]
