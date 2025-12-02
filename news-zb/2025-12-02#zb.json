@@ -1666,12 +1666,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:22",
+        "time": "2025-12-02 23:22",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251202-7906402",
+        "title": "赖清德：接受九二共识就是“爱国者治台”",
+        "seq": 186
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:23",
         "time": "2025-12-02 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7889533",
         "title": "欠债3亿元 租车集团Autobahn等18公司申请债务延期禁令",
-        "seq": 186
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:25",
+        "time": "2025-12-02 23:25",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251202-7906412",
+        "title": "伊朗过半议员批司法部门未严格执行女性戴头巾令",
+        "seq": 188
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2025-12-02 23:35",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251202-7906460",
+        "title": "德国组建新警察部队 应对疑似俄国无人机入侵　　",
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1680,6 +1707,6 @@
         "time": "2025-12-02 23:36",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251201-7901103",
         "title": "英伟达20亿美元入股新思科技 加速推动AI产业合作布局",
-        "seq": 187
+        "seq": 190
     }
 ]
