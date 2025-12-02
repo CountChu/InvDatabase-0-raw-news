@@ -1549,12 +1549,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:49",
+        "time": "2025-12-02 21:49",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251202-7906050",
+        "title": "俄11月向乌克兰发射5660个远程无人机和导弹",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:01",
         "time": "2025-12-02 22:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251201-7897904",
         "title": "中国文昌航天发射场年发射量首次达两位数",
-        "seq": 173
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1572,7 @@
         "time": "2025-12-02 22:07",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251201-7900849",
         "title": "业内称空客数十架A320飞机 机身面板有工业质量问题",
-        "seq": 174
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1581,7 @@
         "time": "2025-12-02 22:13",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7875911",
         "title": "分析师：政府售地竞标热度高 集售明年料仍冷清",
-        "seq": 175
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1590,7 @@
         "time": "2025-12-02 22:34",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251201-7900927",
         "title": "下午察：放雪假促经济？",
-        "seq": 176
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1599,7 @@
         "time": "2025-12-02 22:57",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251201-7900900",
         "title": "绿达环球3880万元收购商业大厦作为投资",
-        "seq": 177
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1608,7 @@
         "time": "2025-12-02 23:12",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251201-7900734",
         "title": "俄军11月在乌取得一年来最大进展",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,7 @@
         "time": "2025-12-02 23:20",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251201-7901079",
         "title": "持续近三个月后 民主刚果宣布伊波拉疫情结束",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1626,7 @@
         "time": "2025-12-02 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7889533",
         "title": "欠债3亿元 租车集团Autobahn等18公司申请债务延期禁令",
-        "seq": 180
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1626,6 +1635,6 @@
         "time": "2025-12-02 23:36",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251201-7901103",
         "title": "英伟达20亿美元入股新思科技 加速推动AI产业合作布局",
-        "seq": 181
+        "seq": 182
     }
 ]
