@@ -1576,12 +1576,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:11",
+        "time": "2025-12-02 22:11",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251202-7904144",
+        "title": "阿里国际站在台推出全自动陌生开发AI虚拟机器人应用服务",
+        "seq": 176
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:13",
         "time": "2025-12-02 22:13",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7875911",
         "title": "分析师：政府售地竞标热度高 集售明年料仍冷清",
-        "seq": 176
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1599,7 @@
         "time": "2025-12-02 22:34",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251201-7900927",
         "title": "下午察：放雪假促经济？",
-        "seq": 177
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1608,7 @@
         "time": "2025-12-02 22:57",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251201-7900900",
         "title": "绿达环球3880万元收购商业大厦作为投资",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,7 @@
         "time": "2025-12-02 23:12",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251201-7900734",
         "title": "俄军11月在乌取得一年来最大进展",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1626,7 @@
         "time": "2025-12-02 23:20",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251201-7901079",
         "title": "持续近三个月后 民主刚果宣布伊波拉疫情结束",
-        "seq": 180
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1635,7 @@
         "time": "2025-12-02 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7889533",
         "title": "欠债3亿元 租车集团Autobahn等18公司申请债务延期禁令",
-        "seq": 181
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1635,6 +1644,6 @@
         "time": "2025-12-02 23:36",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251201-7901103",
         "title": "英伟达20亿美元入股新思科技 加速推动AI产业合作布局",
-        "seq": 182
+        "seq": 183
     }
 ]
