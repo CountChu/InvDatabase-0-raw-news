@@ -1594,12 +1594,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:24",
+        "time": "2025-12-02 22:24",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251202-7906162",
+        "title": "UltraGreen售股获13.6倍认购率 周三主板上市",
+        "seq": 178
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:26",
+        "time": "2025-12-02 22:26",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251202-7906167",
+        "title": "内坦亚胡：若叙设立非军事缓冲区 或可达成协议",
+        "seq": 179
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:29",
+        "time": "2025-12-02 22:29",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251202-7906200",
+        "title": "获特朗普赦免 洪都拉斯前总统埃尔南德斯获释",
+        "seq": 180
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:34",
         "time": "2025-12-02 22:34",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251201-7900927",
         "title": "下午察：放雪假促经济？",
-        "seq": 178
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1635,7 @@
         "time": "2025-12-02 22:57",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251201-7900900",
         "title": "绿达环球3880万元收购商业大厦作为投资",
-        "seq": 179
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1644,7 @@
         "time": "2025-12-02 23:12",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251201-7900734",
         "title": "俄军11月在乌取得一年来最大进展",
-        "seq": 180
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1653,7 @@
         "time": "2025-12-02 23:20",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251201-7901079",
         "title": "持续近三个月后 民主刚果宣布伊波拉疫情结束",
-        "seq": 181
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1662,7 @@
         "time": "2025-12-02 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251128-7889533",
         "title": "欠债3亿元 租车集团Autobahn等18公司申请债务延期禁令",
-        "seq": 182
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1644,6 +1671,6 @@
         "time": "2025-12-02 23:36",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251201-7901103",
         "title": "英伟达20亿美元入股新思科技 加速推动AI产业合作布局",
-        "seq": 183
+        "seq": 186
     }
 ]
