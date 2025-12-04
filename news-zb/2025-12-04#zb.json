@@ -1702,12 +1702,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:29",
+        "time": "2025-12-04 22:29",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251204-7916644",
+        "title": "美联储12月降息预期再升温 “影子主席”人选浮上水面   ",
+        "seq": 190
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:50",
         "time": "2025-12-04 22:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251203-7912060",
         "title": "加沙举行集体婚礼 54对新人盼新生活与希望",
-        "seq": 190
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1725,7 @@
         "time": "2025-12-04 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251203-7912007",
         "title": "滨海广场将增建三座建筑 转型为超大型混合发展项目",
-        "seq": 191
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1734,7 @@
         "time": "2025-12-04 22:54",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251203-7911835",
         "title": "陆交局和地铁业者采用新方式 通报有关小故障信息",
-        "seq": 192
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1743,7 @@
         "time": "2025-12-04 23:16",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251202-7906341",
         "title": "康盛人生集团遭顾客起诉索赔逾500万元",
-        "seq": 193
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1752,7 @@
         "time": "2025-12-04 23:31",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251203-7912212",
         "title": "印度最大航空公司IndiGo上百趟航班延误和取消",
-        "seq": 194
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1752,6 +1761,6 @@
         "time": "2025-12-04 23:41",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251202-7906431",
         "title": "花旗新加坡铅库存欲转移他处 成本达500万美元",
-        "seq": 195
+        "seq": 196
     }
 ]
