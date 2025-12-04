@@ -1738,12 +1738,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:12",
+        "time": "2025-12-04 23:12",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251204-7917940",
+        "title": "声称打击真主党目标 以军再次轰炸黎南地区",
+        "seq": 194
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:16",
         "time": "2025-12-04 23:16",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251202-7906341",
         "title": "康盛人生集团遭顾客起诉索赔逾500万元",
-        "seq": 194
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:19",
+        "time": "2025-12-04 23:19",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251204-7917607",
+        "title": "德媒：德法担忧美或背弃基辅 用乌领土换和平协议",
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1770,7 @@
         "time": "2025-12-04 23:31",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251203-7912212",
         "title": "印度最大航空公司IndiGo上百趟航班延误和取消",
-        "seq": 195
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1761,6 +1779,6 @@
         "time": "2025-12-04 23:41",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251202-7906431",
         "title": "花旗新加坡铅库存欲转移他处 成本达500万美元",
-        "seq": 196
+        "seq": 198
     }
 ]
