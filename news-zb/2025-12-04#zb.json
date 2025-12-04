@@ -1612,12 +1612,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:40",
+        "time": "2025-12-04 21:40",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251204-7917481",
+        "title": "英当局：普京对七年前英国女子中毒身亡案负有道德责任",
+        "seq": 180
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "21:42",
         "time": "2025-12-04 21:42",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251203-7911628",
         "title": "DFI零售拟提高派息比率至70% 股价大涨近5%",
-        "seq": 180
+        "seq": 181
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:47",
+        "time": "2025-12-04 21:47",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251204-7917483",
+        "title": "新加坡购物中心以2亿元要价第四次求售",
+        "seq": 182
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:47",
+        "time": "2025-12-04 21:47",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251204-7917552",
+        "title": "为主办金狮大赏 午言媒体贷款融资75万元",
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1653,7 @@
         "time": "2025-12-04 21:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251203-7911852",
         "title": "泰国查扣逾4亿元涉东南亚诈骗团伙资产",
-        "seq": 181
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1662,7 @@
         "time": "2025-12-04 22:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251203-7909522",
         "title": "中国官媒发四川话AI动画 批高市“脑壳有包医都医不好”",
-        "seq": 182
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1671,7 @@
         "time": "2025-12-04 22:24",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251202-7906162",
         "title": "UltraGreen售股获13.6倍认购率 周三主板上市",
-        "seq": 183
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1680,7 @@
         "time": "2025-12-04 22:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251203-7912060",
         "title": "加沙举行集体婚礼 54对新人盼新生活与希望",
-        "seq": 184
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1689,7 @@
         "time": "2025-12-04 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251203-7912007",
         "title": "滨海广场将增建三座建筑 转型为超大型混合发展项目",
-        "seq": 185
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1698,7 @@
         "time": "2025-12-04 22:54",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251203-7911835",
         "title": "陆交局和地铁业者采用新方式 通报有关小故障信息",
-        "seq": 186
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1707,7 @@
         "time": "2025-12-04 23:16",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251202-7906341",
         "title": "康盛人生集团遭顾客起诉索赔逾500万元",
-        "seq": 187
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1716,7 @@
         "time": "2025-12-04 23:31",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251203-7912212",
         "title": "印度最大航空公司IndiGo上百趟航班延误和取消",
-        "seq": 188
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1698,6 +1725,6 @@
         "time": "2025-12-04 23:41",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251202-7906431",
         "title": "花旗新加坡铅库存欲转移他处 成本达500万美元",
-        "seq": 189
+        "seq": 192
     }
 ]
