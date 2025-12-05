@@ -1649,11 +1649,56 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:01",
+        "time": "2025-12-05 23:01",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251205-7923508",
+        "title": "Meta与多家新闻出版商达成人工智能合作协议",
+        "seq": 184
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:01",
+        "time": "2025-12-05 23:01",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251205-7923509",
+        "title": "新加坡数码基础设施公司EFGH计划通过SPAC在美国上市 估值5.5亿元",
+        "seq": 185
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:06",
+        "time": "2025-12-05 23:06",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251205-7923480",
+        "title": "美国战略文件称欧洲面临“文明消亡”的风险",
+        "seq": 186
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:07",
+        "time": "2025-12-05 23:07",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251205-7923520",
+        "title": "日本7个月间发生230起熊袭击事件 创历史新高",
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:11",
+        "time": "2025-12-05 23:11",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251205-7923494",
+        "title": "哈佛教授犹太教堂附近开枪被捕 据称与反犹太主义无关",
+        "seq": 188
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:12",
         "time": "2025-12-05 23:12",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251204-7917940",
         "title": "声称打击真主党目标 以军再次轰炸黎南地区",
-        "seq": 184
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1707,7 @@
         "time": "2025-12-05 23:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251204-7917607",
         "title": "德媒：德法担忧美或背弃基辅 用乌领土换和平协议",
-        "seq": 185
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1716,7 @@
         "time": "2025-12-05 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251204-7917724",
         "title": "The Elegant Group据报以逾8亿元收购金文泰广场 ",
-        "seq": 186
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1680,6 +1725,6 @@
         "time": "2025-12-05 23:34",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251204-7917961",
         "title": "中圣集团861万元收购两中国电力公司股份",
-        "seq": 187
+        "seq": 192
     }
 ]
