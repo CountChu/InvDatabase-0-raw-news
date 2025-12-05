@@ -1558,12 +1558,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:59",
+        "time": "2025-12-05 21:59",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251205-7923290",
+        "title": "Netflix将以现金加股票交易 收购华纳兄弟影业及流媒体 ",
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:02",
         "time": "2025-12-05 22:02",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251204-7914757",
         "title": "中国体育总局：到2035年国家男篮稳定获得奥运会参赛资格",
-        "seq": 174
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1581,25 @@
         "time": "2025-12-05 22:04",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251204-7917708",
         "title": "南非明年不出席美国G20峰会",
-        "seq": 175
+        "seq": 176
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:06",
+        "time": "2025-12-05 22:06",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251205-7921523",
+        "title": "中国国产飞机C909占国内支线客机逾60%",
+        "seq": 177
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:11",
+        "time": "2025-12-05 22:11",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251205-7923188",
+        "title": "消息：美国定欧洲主导北约防御最后期限为2027年",
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1608,7 @@
         "time": "2025-12-05 22:17",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251204-7917505",
         "title": "涉非法放贷活动 76人协助警方调查",
-        "seq": 176
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1617,7 @@
         "time": "2025-12-05 22:29",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251204-7916644",
         "title": "美联储12月降息预期再升温 “影子主席”人选浮上水面   ",
-        "seq": 177
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1626,7 @@
         "time": "2025-12-05 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251203-7912007",
         "title": "滨海广场将增建三座建筑 转型为超大型混合发展项目",
-        "seq": 178
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1635,7 @@
         "time": "2025-12-05 23:12",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251204-7917940",
         "title": "声称打击真主党目标 以军再次轰炸黎南地区",
-        "seq": 179
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1644,7 @@
         "time": "2025-12-05 23:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251204-7917607",
         "title": "德媒：德法担忧美或背弃基辅 用乌领土换和平协议",
-        "seq": 180
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1653,7 @@
         "time": "2025-12-05 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251204-7917724",
         "title": "The Elegant Group据报以逾8亿元收购金文泰广场 ",
-        "seq": 181
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1635,6 +1662,6 @@
         "time": "2025-12-05 23:34",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251204-7917961",
         "title": "中圣集团861万元收购两中国电力公司股份",
-        "seq": 182
+        "seq": 185
     }
 ]
