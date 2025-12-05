@@ -1630,12 +1630,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:46",
+        "time": "2025-12-05 22:46",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251205-7923475",
+        "title": "何立峰与贝森特格里尔通话 交流下一步合作",
+        "seq": 182
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:50",
         "time": "2025-12-05 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251203-7912007",
         "title": "滨海广场将增建三座建筑 转型为超大型混合发展项目",
-        "seq": 182
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1653,7 @@
         "time": "2025-12-05 23:12",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251204-7917940",
         "title": "声称打击真主党目标 以军再次轰炸黎南地区",
-        "seq": 183
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1662,7 @@
         "time": "2025-12-05 23:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251204-7917607",
         "title": "德媒：德法担忧美或背弃基辅 用乌领土换和平协议",
-        "seq": 184
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1671,7 @@
         "time": "2025-12-05 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251204-7917724",
         "title": "The Elegant Group据报以逾8亿元收购金文泰广场 ",
-        "seq": 185
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1671,6 +1680,6 @@
         "time": "2025-12-05 23:34",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251204-7917961",
         "title": "中圣集团861万元收购两中国电力公司股份",
-        "seq": 186
+        "seq": 187
     }
 ]
