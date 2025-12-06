@@ -1333,12 +1333,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:45",
+        "time": "2025-12-06 22:45",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251206-7926547",
+        "title": "误信“财富培训”马国退休男子投资IPO 失财逾78万元",
+        "seq": 149
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:46",
         "time": "2025-12-06 22:46",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251205-7923475",
         "title": "何立峰与贝森特格里尔通话 交流下一步合作",
-        "seq": 149
+        "seq": 150
     },
     {
         "media": "聯合早報",
@@ -1347,7 +1356,7 @@
         "time": "2025-12-06 23:01",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251205-7923508",
         "title": "Meta与多家新闻出版商达成人工智能合作协议",
-        "seq": 150
+        "seq": 151
     },
     {
         "media": "聯合早報",
@@ -1356,7 +1365,7 @@
         "time": "2025-12-06 23:01",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251205-7923509",
         "title": "新加坡数码基础设施公司EFGH计划通过SPAC在美国上市 估值5.5亿元",
-        "seq": 151
+        "seq": 152
     },
     {
         "media": "聯合早報",
@@ -1365,7 +1374,7 @@
         "time": "2025-12-06 23:06",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251205-7923480",
         "title": "美国战略文件称欧洲面临“文明消亡”的风险",
-        "seq": 152
+        "seq": 153
     },
     {
         "media": "聯合早報",
@@ -1374,7 +1383,7 @@
         "time": "2025-12-06 23:07",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251205-7923520",
         "title": "日本熊袭击事件七个月230起 刷新历史纪录",
-        "seq": 153
+        "seq": 154
     },
     {
         "media": "聯合早報",
@@ -1383,7 +1392,7 @@
         "time": "2025-12-06 23:11",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251205-7923494",
         "title": "哈佛教授犹太教堂附近开枪被捕 据称与反犹太主义无关",
-        "seq": 154
+        "seq": 155
     },
     {
         "media": "聯合早報",
@@ -1392,7 +1401,7 @@
         "time": "2025-12-06 23:24",
         "link": "https://www.zaobao.com.sg/finance/world/story20251205-7923560",
         "title": "球星帅罗入股人工智能公司Perplexity AI",
-        "seq": 155
+        "seq": 156
     },
     {
         "media": "聯合早報",
@@ -1401,7 +1410,7 @@
         "time": "2025-12-06 23:34",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251204-7917961",
         "title": "中圣集团861万元收购两中国电力公司股份",
-        "seq": 156
+        "seq": 157
     },
     {
         "media": "聯合早報",
@@ -1410,6 +1419,6 @@
         "time": "2025-12-06 23:55",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251205-7923618",
         "title": "大道工业将通过资本削减退市 退出要约价格每股26.2分",
-        "seq": 157
+        "seq": 158
     }
 ]
