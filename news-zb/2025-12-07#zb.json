@@ -1495,12 +1495,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:11",
+        "time": "2025-12-07 23:11",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251207-7929455",
+        "title": "女性未戴头巾参赛引争议 伊朗马拉松组织者被捕",
+        "seq": 167
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:24",
         "time": "2025-12-07 23:24",
         "link": "https://www.zaobao.com.sg/finance/world/story20251205-7923560",
         "title": "球星帅罗入股人工智能公司Perplexity AI",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2025-12-07 23:46",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251206-7926699",
         "title": "卡塔尔首相：以色列不“全面撤军”  加沙停火协议不完整",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1527,7 @@
         "time": "2025-12-07 23:55",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251206-7926719",
         "title": "埃及外长拒绝通过拉法口岸驱逐巴勒斯坦人",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,6 +1536,6 @@
         "time": "2025-12-07 23:55",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251205-7923618",
         "title": "大道工业将通过资本削减退市 退出要约价格每股26.2分",
-        "seq": 170
+        "seq": 171
     }
 ]
