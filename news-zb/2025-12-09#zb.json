@@ -1721,11 +1721,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:03",
+        "time": "2025-12-09 23:03",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251209-7940714",
+        "title": "微软斥资175亿美元在印度设AI设施 创亚洲最大投资",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:09",
         "time": "2025-12-09 23:09",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251208-7934907",
         "title": "英格兰发现新猴痘病毒株 感染者近期到访亚洲",
-        "seq": 192
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1743,7 @@
         "time": "2025-12-09 23:55",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251205-7923618",
         "title": "大道工业将通过资本削减退市 退出要约价格每股26.2分",
-        "seq": 193
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1743,6 +1752,6 @@
         "time": "2025-12-09 23:56",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251208-7935026",
         "title": "奥奇起诉好超市违约 索赔660万元租金",
-        "seq": 194
+        "seq": 195
     }
 ]
