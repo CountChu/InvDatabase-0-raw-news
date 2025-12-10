@@ -1729,12 +1729,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:04",
+        "time": "2025-12-10 22:04",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251210-7943904",
+        "title": "河南一学校领导要求学生为儿子比赛投票被免职",
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:09",
         "time": "2025-12-10 22:09",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251209-7940308",
         "title": "10月以来空壳投资应用骗局至少20起 涉逾170万元",
-        "seq": 193
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1752,7 @@
         "time": "2025-12-10 22:11",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251209-7937365",
         "title": "韩电子入境卡标注“中国（台湾）”  台敦促改正",
-        "seq": 194
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1761,7 @@
         "time": "2025-12-10 22:13",
         "link": "https://www.zaobao.com.sg/finance/world/story20251209-7940390",
         "title": "柔佛王储的公司推出令吉稳定币RMJDT",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1770,7 @@
         "time": "2025-12-10 22:14",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251209-7939879",
         "title": "下午察：“屎尿屁”惹祸 ？郭德纲被约谈",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1779,16 @@
         "time": "2025-12-10 22:18",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251209-7940267",
         "title": "午言媒体答复新交所有关金狮大赏融资相关质询",
-        "seq": 197
+        "seq": 198
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:18",
+        "time": "2025-12-10 22:18",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251210-7946585",
+        "title": "马斯克：DOGE只取得一定成功 不想再来一次",
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1797,7 @@
         "time": "2025-12-10 22:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251209-7939865",
         "title": "联合国：加沙停火后仍有数千儿童营养不良入院",
-        "seq": 198
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1806,7 @@
         "time": "2025-12-10 22:27",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251209-7939551",
         "title": "赛会历史首个环保圣火点燃 泰国东运会正式开幕",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1815,7 @@
         "time": "2025-12-10 23:03",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251209-7940714",
         "title": "微软斥资175亿美元在印度设AI设施 创亚洲最大投资",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,6 +1824,6 @@
         "time": "2025-12-10 23:56",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251208-7935026",
         "title": "奥奇起诉好超市违约 索赔660万元租金",
-        "seq": 201
+        "seq": 203
     }
 ]
