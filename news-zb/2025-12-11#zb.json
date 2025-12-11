@@ -1513,12 +1513,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:49",
+        "time": "2025-12-11 22:49",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251211-7952439",
+        "title": "联合国：缅甸明年逾1200万人恐面临严重饥饿",
+        "seq": 169
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:51",
         "time": "2025-12-11 22:51",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251210-7946383",
         "title": "恒荣集团拟每股0.64元 向公众发行200万新股",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1536,16 @@
         "time": "2025-12-11 22:52",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251210-7946736",
         "title": "拼多多股价跌超2% 网络疯传“高管与市监总局人员互殴”",
-        "seq": 170
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:57",
+        "time": "2025-12-11 22:57",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251211-7952570",
+        "title": "英国遭遇“超级流感” 住院患者一周激增55%",
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1554,7 @@
         "time": "2025-12-11 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251210-7946669",
         "title": "本地科技公司Toku提交初步招股书 计划在凯利板上市",
-        "seq": 171
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,7 @@
         "time": "2025-12-11 23:20",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251210-7946828",
         "title": "欧盟就2040年温室气体减排90%目标达成协议",
-        "seq": 172
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1554,6 +1572,6 @@
         "time": "2025-12-11 23:40",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251210-7946885",
         "title": "泰国军队称可应对柬埔寨远程火箭弹",
-        "seq": 173
+        "seq": 175
     }
 ]
