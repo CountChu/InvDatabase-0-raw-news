@@ -1486,12 +1486,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:37",
+        "time": "2025-12-12 22:37",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251212-7956931",
+        "title": "个人可支配收入增速连续三季放缓 分析师：明年料保持温和",
+        "seq": 166
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:49",
         "time": "2025-12-12 22:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251211-7952439",
         "title": "联合国：缅甸明年逾1200万人恐面临严重饥饿",
-        "seq": 166
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1500,15 +1509,6 @@
         "time": "2025-12-12 22:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251211-7952570",
         "title": "英国遭遇“超级流感” 住院患者一周激增55%",
-        "seq": 167
-    },
-    {
-        "media": "聯合早報",
-        "category": "财经",
-        "timeText": "23:12",
-        "time": "2025-12-12 23:12",
-        "link": "https://www.zaobao.com.sg/finance/singapore/story20251210-7946669",
-        "title": "本地科技公司Toku提交初步招股书 计划在凯利板上市",
         "seq": 168
     },
     {
@@ -1517,8 +1517,17 @@
         "timeText": "23:12",
         "time": "2025-12-12 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251210-7946669",
-        "title": "本地科技公司Toku提交初步招股书 拟在凯利板上市",
+        "title": "本地科技公司Toku提交初步招股书 计划在凯利板上市",
         "seq": 169
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:12",
+        "time": "2025-12-12 23:12",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251210-7946669",
+        "title": "本地科技公司Toku提交初步招股书 拟在凯利板上市",
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1536,7 @@
         "time": "2025-12-12 23:22",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251211-7952622",
         "title": "印尼营养餐面包车失控冲进小学 撞伤21名师生",
-        "seq": 170
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1545,7 @@
         "time": "2025-12-12 23:41",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251211-7952702",
         "title": "奥地利国会下院通过法案 禁未满14岁女孩戴回教头巾",
-        "seq": 171
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,6 +1554,6 @@
         "time": "2025-12-12 23:46",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251211-7952751",
         "title": "“AI缔造者们”获选《时代》年度人物",
-        "seq": 172
+        "seq": 173
     }
 ]
