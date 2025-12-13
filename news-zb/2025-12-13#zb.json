@@ -1198,12 +1198,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:47",
+        "time": "2025-12-13 20:47",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251213-7960987",
+        "title": "数百泰国人滞留柬边境 柬当局无限期推迟放行",
+        "seq": 134
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "20:50",
         "time": "2025-12-13 20:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251211-7951813",
         "title": "海庭财团取得大合同 为TenneT提供德国北海岸外电网连接",
-        "seq": 134
+        "seq": 135
     },
     {
         "media": "聯合早報",
@@ -1212,7 +1221,7 @@
         "time": "2025-12-13 20:56",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251212-7957022",
         "title": "自卸卡车失控侧翻 男驾驶送院",
-        "seq": 135
+        "seq": 136
     },
     {
         "media": "聯合早報",
@@ -1221,7 +1230,16 @@
         "time": "2025-12-13 20:58",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251212-7957573",
         "title": "【东运会】颜欣慧自由泳再夺冠 男子混合泳接力封王",
-        "seq": 136
+        "seq": 137
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "20:58",
+        "time": "2025-12-13 20:58",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251213-7960588",
+        "title": "文礼通道发生交通事故 汽车撞歪路灯",
+        "seq": 138
     },
     {
         "media": "聯合早報",
@@ -1230,7 +1248,7 @@
         "time": "2025-12-13 21:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251212-7955712",
         "title": "港澳特区政府发声反对美国抹黑两地人权状况",
-        "seq": 137
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1257,7 @@
         "time": "2025-12-13 21:10",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251212-7957723",
         "title": "紧急物资遭阻断 加沙流离失所者面临洪水威胁",
-        "seq": 138
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1266,7 @@
         "time": "2025-12-13 21:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251212-7957801",
         "title": "欧盟商定临时措施 明年7月起征收3欧元小包裹税",
-        "seq": 139
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1275,7 @@
         "time": "2025-12-13 21:22",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251212-7957239",
         "title": "下午察：城市人“荒野求生”乱象丛生",
-        "seq": 140
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1284,7 @@
         "time": "2025-12-13 21:33",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251212-7957860",
         "title": "诺贝尔和平奖得主马查多：离开委内瑞拉时担心生命安全",
-        "seq": 141
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1293,7 @@
         "time": "2025-12-13 21:45",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251211-7951868",
         "title": "胜科工业拟以48亿元收购澳洲能源公司Alinta Energy",
-        "seq": 142
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1284,7 +1302,7 @@
         "time": "2025-12-13 22:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251212-7955157",
         "title": "中国海拔最高县发生5.0级地震 暂无人伤亡",
-        "seq": 143
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1293,7 +1311,7 @@
         "time": "2025-12-13 22:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251212-7957765",
         "title": "高庭批准mm2全亚影视娱乐延长四个月偿付债务",
-        "seq": 144
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1302,7 +1320,7 @@
         "time": "2025-12-13 22:37",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251212-7956931",
         "title": "个人可支配收入增速连续三季放缓 分析师：明年料保持温和",
-        "seq": 145
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1311,7 +1329,7 @@
         "time": "2025-12-13 23:18",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251212-7958195",
         "title": "土总统吁俄乌有限停火 重点针对港口和能源设施",
-        "seq": 146
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1320,6 +1338,6 @@
         "time": "2025-12-13 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251212-7958203",
         "title": "创新科技总部明年搬迁至亚历山大科技园",
-        "seq": 147
+        "seq": 149
     }
 ]
