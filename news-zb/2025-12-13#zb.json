@@ -1360,12 +1360,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:32",
+        "time": "2025-12-13 22:32",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251213-7961308",
+        "title": "290万人次感染 美国流感活动水平上升",
+        "seq": 152
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:37",
         "time": "2025-12-13 22:37",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251212-7956931",
         "title": "个人可支配收入增速连续三季放缓 分析师：明年料保持温和",
-        "seq": 152
+        "seq": 153
     },
     {
         "media": "聯合早報",
@@ -1374,7 +1383,7 @@
         "time": "2025-12-13 23:18",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251212-7958195",
         "title": "土总统吁俄乌有限停火 重点针对港口和能源设施",
-        "seq": 153
+        "seq": 154
     },
     {
         "media": "聯合早報",
@@ -1383,6 +1392,6 @@
         "time": "2025-12-13 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251212-7958203",
         "title": "创新科技总部明年搬迁至亚历山大科技园",
-        "seq": 154
+        "seq": 155
     }
 ]
