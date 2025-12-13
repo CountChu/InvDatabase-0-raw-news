@@ -1252,12 +1252,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:04",
+        "time": "2025-12-13 21:04",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251213-7960096",
+        "title": "中国明年起对部分钢铁产品实施出口许可证管理",
+        "seq": 140
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "21:10",
         "time": "2025-12-13 21:10",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251212-7957723",
         "title": "紧急物资遭阻断 加沙流离失所者面临洪水威胁",
-        "seq": 140
+        "seq": 141
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:13",
+        "time": "2025-12-13 21:13",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251213-7961005",
+        "title": "我国海军参与第二届亚细安—美国海事演习",
+        "seq": 142
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:15",
+        "time": "2025-12-13 21:15",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251213-7961094",
+        "title": "华盛顿州遭遇严重洪灾 特朗普宣布联邦紧急状态",
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1293,7 @@
         "time": "2025-12-13 21:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251212-7957801",
         "title": "欧盟商定临时措施 明年7月起征收3欧元小包裹税",
-        "seq": 141
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1302,7 @@
         "time": "2025-12-13 21:22",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251212-7957239",
         "title": "下午察：城市人“荒野求生”乱象丛生",
-        "seq": 142
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1284,7 +1311,7 @@
         "time": "2025-12-13 21:33",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251212-7957860",
         "title": "诺贝尔和平奖得主马查多：离开委内瑞拉时担心生命安全",
-        "seq": 143
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1293,7 +1320,7 @@
         "time": "2025-12-13 21:45",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251211-7951868",
         "title": "胜科工业拟以48亿元收购澳洲能源公司Alinta Energy",
-        "seq": 144
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1302,7 +1329,7 @@
         "time": "2025-12-13 22:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251212-7955157",
         "title": "中国海拔最高县发生5.0级地震 暂无人伤亡",
-        "seq": 145
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1311,7 +1338,7 @@
         "time": "2025-12-13 22:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251212-7957765",
         "title": "高庭批准mm2全亚影视娱乐延长四个月偿付债务",
-        "seq": 146
+        "seq": 149
     },
     {
         "media": "聯合早報",
@@ -1320,7 +1347,7 @@
         "time": "2025-12-13 22:37",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251212-7956931",
         "title": "个人可支配收入增速连续三季放缓 分析师：明年料保持温和",
-        "seq": 147
+        "seq": 150
     },
     {
         "media": "聯合早報",
@@ -1329,7 +1356,7 @@
         "time": "2025-12-13 23:18",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251212-7958195",
         "title": "土总统吁俄乌有限停火 重点针对港口和能源设施",
-        "seq": 148
+        "seq": 151
     },
     {
         "media": "聯合早報",
@@ -1338,6 +1365,6 @@
         "time": "2025-12-13 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251212-7958203",
         "title": "创新科技总部明年搬迁至亚历山大科技园",
-        "seq": 149
+        "seq": 152
     }
 ]
