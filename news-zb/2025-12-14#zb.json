@@ -1252,12 +1252,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:07",
+        "time": "2025-12-14 22:07",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251214-7962608",
+        "title": "渝昆高铁24.8公里最长隧道贯通 ",
+        "seq": 140
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:12",
         "time": "2025-12-14 22:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251212-7957765",
         "title": "高庭批准mm2全亚影视娱乐延长四个月偿付债务",
-        "seq": 140
+        "seq": 141
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:17",
+        "time": "2025-12-14 22:17",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251214-7964311",
+        "title": "泽连斯基暗示乌克兰或提前大选",
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1284,7 @@
         "time": "2025-12-14 22:32",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251213-7961308",
         "title": "290万人次感染 美国流感活动水平上升",
-        "seq": 141
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1293,7 @@
         "time": "2025-12-14 22:37",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251212-7956931",
         "title": "个人可支配收入增速连续三季放缓 分析师：明年料保持温和",
-        "seq": 142
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1284,7 +1302,7 @@
         "time": "2025-12-14 22:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251213-7961385",
         "title": "巡逻期间遭枪击 叙安全部队和美军多人受伤",
-        "seq": 143
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1293,7 +1311,7 @@
         "time": "2025-12-14 22:56",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251213-7961405",
         "title": "以军称击毙哈马斯高级指挥官",
-        "seq": 144
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1302,6 +1320,6 @@
         "time": "2025-12-14 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251212-7958203",
         "title": "创新科技总部明年搬迁至亚历山大科技园",
-        "seq": 145
+        "seq": 147
     }
 ]
