@@ -1549,12 +1549,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:03",
+        "time": "2025-12-16 22:03",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251216-7972686",
+        "title": "港大律师公会回应黎智英案：法官不作政治考量",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:16",
         "time": "2025-12-16 22:16",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251215-7969674",
         "title": "裕廊西双层巴士追尾车祸 仍有九人留院观察",
-        "seq": 173
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1572,7 @@
         "time": "2025-12-16 22:31",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251215-7969756",
         "title": "城市发展据传以9730万元卖出圣淘沙商场圣景湾",
-        "seq": 174
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1581,7 @@
         "time": "2025-12-16 22:34",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251215-7969123",
         "title": "印尼高级经济部长：对美贸易协议年内难签署",
-        "seq": 175
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1590,7 @@
         "time": "2025-12-16 22:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251215-7969115",
         "title": "美欧数码法规之争 欧盟誓言捍卫科技主权",
-        "seq": 176
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1599,7 @@
         "time": "2025-12-16 23:10",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251215-7969919",
         "title": "中国外交部：支持柬泰直接对话协商",
-        "seq": 177
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1599,6 +1608,6 @@
         "time": "2025-12-16 23:36",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251215-7968291",
         "title": "研究：父母心血管病史影响子女心脏",
-        "seq": 178
+        "seq": 179
     }
 ]
