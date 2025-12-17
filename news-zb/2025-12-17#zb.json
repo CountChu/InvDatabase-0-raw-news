@@ -1630,12 +1630,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:22",
+        "time": "2025-12-17 21:22",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251217-7980600",
+        "title": "普京：俄国寻求扩大乌克兰安全缓冲区",
+        "seq": 182
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "21:26",
         "time": "2025-12-17 21:26",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251216-7974627",
         "title": "吉宝以5050万元出售本地两个数据中心股权予旗下信托",
-        "seq": 182
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1653,7 @@
         "time": "2025-12-17 21:39",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251216-7974703",
         "title": "高登以2100万元顶下澳洲一奢华品零售商业务 ",
-        "seq": 183
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1662,7 @@
         "time": "2025-12-17 22:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251216-7972686",
         "title": "港大律师公会回应黎智英案：法官不作政治考量",
-        "seq": 184
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1671,7 @@
         "time": "2025-12-17 23:39",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251216-7974799",
         "title": "新航工程董事会成立新的创新与科技委员会",
-        "seq": 185
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1680,7 @@
         "time": "2025-12-17 23:40",
         "link": "https://www.zaobao.com.sg/finance/world/story20251216-7974975",
         "title": "非银行金融中介去年全球资产份额达51%",
-        "seq": 186
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1689,7 @@
         "time": "2025-12-17 23:55",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251216-7975220",
         "title": "美国失业率上升至4.6% 达2021年以来最高水平",
-        "seq": 187
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1698,7 @@
         "time": "2025-12-17 23:55",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251216-7975180",
         "title": "传美罗创始人王梓琴与陈嘉庚后人1.48亿元出售优质洋房　",
-        "seq": 188
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1698,6 +1707,6 @@
         "time": "2025-12-17 23:59",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251216-7975228",
         "title": "欧盟八国：面对俄罗斯威胁 保卫欧洲东翼是当务之急",
-        "seq": 189
+        "seq": 190
     }
 ]
