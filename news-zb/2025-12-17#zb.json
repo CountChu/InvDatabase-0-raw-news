@@ -1793,11 +1793,29 @@
     {
         "media": "聯合早報",
         "category": "财经",
+        "timeText": "23:23",
+        "time": "2025-12-17 23:23",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251217-7981079",
+        "title": "紫心集团海南设厂 扩大贸易业务",
+        "seq": 200
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2025-12-17 23:35",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251217-7981116",
+        "title": "哈佛医学院前停尸房主管盗卖捐赠遗体器官被判监",
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
         "timeText": "23:39",
         "time": "2025-12-17 23:39",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251216-7974799",
         "title": "新航工程董事会成立新的创新与科技委员会",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2025-12-17 23:40",
         "link": "https://www.zaobao.com.sg/finance/world/story20251216-7974975",
         "title": "非银行金融中介去年全球资产份额达51%",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1833,7 @@
         "time": "2025-12-17 23:55",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251216-7975220",
         "title": "美国失业率上升至4.6% 达2021年以来最高水平",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1842,7 @@
         "time": "2025-12-17 23:55",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251216-7975180",
         "title": "传美罗创始人王梓琴与陈嘉庚后人1.48亿元出售优质洋房　",
-        "seq": 203
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1833,6 +1851,6 @@
         "time": "2025-12-17 23:59",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251216-7975228",
         "title": "欧盟八国：面对俄罗斯威胁 保卫欧洲东翼是当务之急",
-        "seq": 204
+        "seq": 206
     }
 ]
