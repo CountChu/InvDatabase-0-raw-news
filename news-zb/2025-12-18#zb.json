@@ -1594,12 +1594,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:30",
+        "time": "2025-12-18 22:30",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986268",
+        "title": "沙特提议2028年主办世贸组织会议",
+        "seq": 178
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:40",
         "time": "2025-12-18 22:40",
         "link": "https://www.zaobao.com.sg/finance/world/story20251217-7980806",
         "title": "华纳兄弟要求股东拒绝派拉蒙收购要约",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,7 @@
         "time": "2025-12-18 22:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251217-7980960",
         "title": "华纳兄弟探索：已拒绝派拉蒙恶意收购案",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1626,7 @@
         "time": "2025-12-18 23:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251217-7981024",
         "title": "Acrophyte酒店信托将以1000万元脱售美国一酒店",
-        "seq": 180
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1635,7 @@
         "time": "2025-12-18 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251217-7981079",
         "title": "紫心集团海南设厂 扩大贸易业务",
-        "seq": 181
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1644,7 @@
         "time": "2025-12-18 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251217-7981116",
         "title": "哈佛医学院前停尸房主管盗卖捐赠遗体器官被判监",
-        "seq": 182
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1644,6 +1653,6 @@
         "time": "2025-12-18 23:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251217-7981146",
         "title": "最新一波水灾袭西马三州",
-        "seq": 183
+        "seq": 184
     }
 ]
