@@ -1621,12 +1621,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:58",
+        "time": "2025-12-18 22:58",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986324",
+        "title": "法国麻醉师因毒害30名患者 被判终身监禁",
+        "seq": 181
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:00",
         "time": "2025-12-18 23:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251217-7981024",
         "title": "Acrophyte酒店信托将以1000万元脱售美国一酒店",
-        "seq": 181
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1644,7 @@
         "time": "2025-12-18 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251217-7981079",
         "title": "紫心集团海南设厂 扩大贸易业务",
-        "seq": 182
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1653,7 @@
         "time": "2025-12-18 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251217-7981116",
         "title": "哈佛医学院前停尸房主管盗卖捐赠遗体器官被判监",
-        "seq": 183
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1653,6 +1662,6 @@
         "time": "2025-12-18 23:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251217-7981146",
         "title": "最新一波水灾袭西马三州",
-        "seq": 184
+        "seq": 185
     }
 ]
