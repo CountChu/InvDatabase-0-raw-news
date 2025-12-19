@@ -1216,12 +1216,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "19:32",
+        "time": "2025-12-19 19:32",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251219-7991078",
+        "title": "台北两站捷运发生袭击案 至少五人受伤两人送院",
+        "seq": 136
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "19:36",
         "time": "2025-12-19 19:36",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251219-7990805",
         "title": "SMRT高层人事变动 集团副执行长李遴伟明年2月卸任",
-        "seq": 136
+        "seq": 137
     },
     {
         "media": "聯合早報",
@@ -1230,7 +1239,7 @@
         "time": "2025-12-19 19:38",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251218-7985199",
         "title": "捷星明年3月开通 新加坡飞澳洲阳光海岸和纽卡斯尔航线",
-        "seq": 137
+        "seq": 138
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1248,7 @@
         "time": "2025-12-19 19:43",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251218-7985458",
         "title": "王毅：泰柬当务之急尽快停火 警惕抹黑中国同两国友好关系",
-        "seq": 138
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1257,7 @@
         "time": "2025-12-19 19:45",
         "link": "https://www.zaobao.com.sg/finance/world/story20251219-7989864",
         "title": "周五美市盘前走高 聚焦运动装备巨头耐克业绩",
-        "seq": 139
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1266,43 @@
         "time": "2025-12-19 19:54",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251218-7985184",
         "title": "涉嫌窝藏三名外国人 三男女遭移民局提控",
-        "seq": 140
+        "seq": 141
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "20:04",
+        "time": "2025-12-19 20:04",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251219-7989577",
+        "title": "预测市场爆发式增长 律师：在本地不合法",
+        "seq": 142
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "20:06",
+        "time": "2025-12-19 20:06",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251219-7990845",
+        "title": "考生比龙年少 多所中学入学门槛降低",
+        "seq": 143
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "20:06",
+        "time": "2025-12-19 20:06",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251219-7989596",
+        "title": "北京市今年首10月接待游客总量逾3亿人次",
+        "seq": 144
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:11",
+        "time": "2025-12-19 20:11",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251219-7990177",
+        "title": "法央行：赤字超5%GDP 法国将“置于危险”",
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1311,7 @@
         "time": "2025-12-19 20:19",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251218-7983839",
         "title": "中国官媒呼吁对渲染矛盾煽动对立“毒广告”加大惩处力度",
-        "seq": 141
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1320,7 @@
         "time": "2025-12-19 20:22",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251218-7985554",
         "title": "全福基金会展开筹款活动 助印尼和斯里兰卡洪灾灾民",
-        "seq": 142
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1284,7 +1329,7 @@
         "time": "2025-12-19 20:26",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7985601",
         "title": "泰国罗厘拦腰撞断人行天桥 酿一死一伤",
-        "seq": 143
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1293,7 +1338,7 @@
         "time": "2025-12-19 20:31",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7985713",
         "title": "俄罗斯促特朗普勿在委内瑞拉问题上“犯致命错误”",
-        "seq": 144
+        "seq": 149
     },
     {
         "media": "聯合早報",
@@ -1302,7 +1347,7 @@
         "time": "2025-12-19 20:35",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251218-7985387",
         "title": "预购宝可梦卡牌被骗 警方两月接获近500起报案",
-        "seq": 145
+        "seq": 150
     },
     {
         "media": "聯合早報",
@@ -1311,7 +1356,7 @@
         "time": "2025-12-19 20:36",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7985772",
         "title": "以色列对黎巴嫩发动一系列空袭",
-        "seq": 146
+        "seq": 151
     },
     {
         "media": "聯合早報",
@@ -1320,7 +1365,7 @@
         "time": "2025-12-19 20:42",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7985830",
         "title": "法国政府否认有意让出两太平洋火山岛主权",
-        "seq": 147
+        "seq": 152
     },
     {
         "media": "聯合早報",
@@ -1329,7 +1374,7 @@
         "time": "2025-12-19 20:58",
         "link": "https://www.zaobao.com.sg/finance/world/story20251218-7983784",
         "title": "周四美市盘前上升 聚焦美光科技最新业绩报告    ",
-        "seq": 148
+        "seq": 153
     },
     {
         "media": "聯合早報",
@@ -1338,7 +1383,7 @@
         "time": "2025-12-19 21:06",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251218-7983759",
         "title": "台湾大量采购海马斯火箭 学者：加速淘汰旧式火炮",
-        "seq": 149
+        "seq": 154
     },
     {
         "media": "聯合早報",
@@ -1347,7 +1392,7 @@
         "time": "2025-12-19 21:13",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251218-7985239",
         "title": "国库券收益率略升 分析：长期仍受降息影响料继续下降",
-        "seq": 150
+        "seq": 155
     },
     {
         "media": "聯合早報",
@@ -1356,7 +1401,7 @@
         "time": "2025-12-19 21:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986009",
         "title": "英国央行以5票对4票微差通过今年来第六次降息",
-        "seq": 151
+        "seq": 156
     },
     {
         "media": "聯合早報",
@@ -1365,7 +1410,7 @@
         "time": "2025-12-19 21:28",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251218-7983308",
         "title": "下午察：“中国首父”徐波在美代孕造“徐氏王朝”？",
-        "seq": 152
+        "seq": 157
     },
     {
         "media": "聯合早報",
@@ -1374,7 +1419,7 @@
         "time": "2025-12-19 21:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986130",
         "title": "泽连斯基：乌克兰明年面临高达500亿欧元援助缺口",
-        "seq": 153
+        "seq": 158
     },
     {
         "media": "聯合早報",
@@ -1383,7 +1428,7 @@
         "time": "2025-12-19 21:59",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986139",
         "title": "涉嫌烧死大象引公愤 斯里兰卡警方逮捕三名嫌犯",
-        "seq": 154
+        "seq": 159
     },
     {
         "media": "聯合早報",
@@ -1392,7 +1437,7 @@
         "time": "2025-12-19 22:09",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251218-7983906",
         "title": "山东莱州市发现亚洲最大海底巨型金矿",
-        "seq": 155
+        "seq": 160
     },
     {
         "media": "聯合早報",
@@ -1401,7 +1446,7 @@
         "time": "2025-12-19 22:10",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251218-7986101",
         "title": "印度知名歌手在我国潜水丧命 警方排除他杀",
-        "seq": 156
+        "seq": 161
     },
     {
         "media": "聯合早報",
@@ -1410,7 +1455,7 @@
         "time": "2025-12-19 22:15",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986192",
         "title": "消息：美欧正为乌克兰安全拟定详尽计划",
-        "seq": 157
+        "seq": 162
     },
     {
         "media": "聯合早報",
@@ -1419,7 +1464,7 @@
         "time": "2025-12-19 22:30",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986268",
         "title": "沙特提议2028年主办世贸组织会议",
-        "seq": 158
+        "seq": 163
     },
     {
         "media": "聯合早報",
@@ -1428,7 +1473,7 @@
         "time": "2025-12-19 22:58",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986324",
         "title": "法国麻醉师因毒害30名患者 被判终身监禁",
-        "seq": 159
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1437,7 +1482,7 @@
         "time": "2025-12-19 23:23",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986456",
         "title": "欧洲央行连续第四次维持利率不变",
-        "seq": 160
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1446,6 +1491,6 @@
         "time": "2025-12-19 23:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986533",
         "title": "印尼培养50万熟练工人满足国际需求 减少输出家庭帮佣",
-        "seq": 161
+        "seq": 166
     }
 ]
