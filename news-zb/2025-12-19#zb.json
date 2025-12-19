@@ -1603,12 +1603,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:22",
+        "time": "2025-12-19 22:22",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251219-7991740",
+        "title": "淡滨尼地铁站外咖啡店发生持刀伤人案 一男子受伤送院",
+        "seq": 179
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:30",
         "time": "2025-12-19 22:30",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986268",
         "title": "沙特提议2028年主办世贸组织会议",
-        "seq": 179
+        "seq": 180
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:32",
+        "time": "2025-12-19 22:32",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251219-7991844",
+        "title": "印尼新都努山达拉人口近15万 年轻劳动力快速集聚",
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1635,7 @@
         "time": "2025-12-19 22:58",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986324",
         "title": "法国麻醉师因毒害30名患者 被判终身监禁",
-        "seq": 180
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1644,7 @@
         "time": "2025-12-19 23:23",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986456",
         "title": "欧洲央行连续第四次维持利率不变",
-        "seq": 181
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1635,6 +1653,6 @@
         "time": "2025-12-19 23:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251218-7986533",
         "title": "印尼培养50万熟练工人满足国际需求 减少输出家庭帮佣",
-        "seq": 182
+        "seq": 184
     }
 ]
