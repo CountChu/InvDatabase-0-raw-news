@@ -1180,12 +1180,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:08",
+        "time": "2025-12-20 22:08",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251220-7993459",
+        "title": "越中铁路第一部分工程如期动工",
+        "seq": 132
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:22",
         "time": "2025-12-20 22:22",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251219-7991740",
         "title": "淡滨尼地铁站外咖啡店发生持刀伤人案 一男子受伤送院",
-        "seq": 132
+        "seq": 133
     },
     {
         "media": "聯合早報",
@@ -1194,7 +1203,7 @@
         "time": "2025-12-20 22:32",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251219-7991844",
         "title": "印尼新都努山达拉人口近15万 年轻劳动力快速集聚",
-        "seq": 133
+        "seq": 134
     },
     {
         "media": "聯合早報",
@@ -1203,7 +1212,7 @@
         "time": "2025-12-20 22:59",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251219-7991227",
         "title": "德国央行上调2027年经济增长预测",
-        "seq": 134
+        "seq": 135
     },
     {
         "media": "聯合早報",
@@ -1212,7 +1221,7 @@
         "time": "2025-12-20 23:20",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251219-7991340",
         "title": "美军太平洋打击毒贩致五死 累计死亡人数逾百",
-        "seq": 135
+        "seq": 136
     },
     {
         "media": "聯合早報",
@@ -1221,6 +1230,6 @@
         "time": "2025-12-20 23:47",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251219-7991314",
         "title": "新型流感K亚分支毒株来势汹汹 美国病例显著上升",
-        "seq": 136
+        "seq": 137
     }
 ]
