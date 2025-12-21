@@ -1090,12 +1090,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:05",
+        "time": "2025-12-21 23:05",
+        "link": "https://www.zaobao.com.sg/finance/world/story20251221-7997677",
+        "title": "通胀或因数据失真被低估 美联储官员：未来数月没必要调整利率",
+        "seq": 122
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:11",
+        "time": "2025-12-21 23:11",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251221-7997729",
+        "title": "希腊旅游业今年或又刷新年度纪录",
+        "seq": 123
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:12",
         "time": "2025-12-21 23:12",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251220-7994887",
         "title": "消息称以色列准备向特朗普汇报 再次打击伊朗方案",
-        "seq": 122
+        "seq": 124
     },
     {
         "media": "聯合早報",
@@ -1104,6 +1122,6 @@
         "time": "2025-12-21 23:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251220-7994936",
         "title": "日本与中亚五国首脑会议 未来五年投资3万亿日元",
-        "seq": 123
+        "seq": 125
     }
 ]
