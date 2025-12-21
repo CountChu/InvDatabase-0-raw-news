@@ -946,12 +946,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:45",
+        "time": "2025-12-21 20:45",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251221-7997175",
+        "title": "普京愿与马克龙对话 巴黎：欢迎克宫这一做法",
+        "seq": 106
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "20:48",
         "time": "2025-12-21 20:48",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251219-7991032",
         "title": "【东运会】郭勇蝉联乒乓球男单冠军 我国代表团金牌数超上届",
-        "seq": 106
+        "seq": 107
     },
     {
         "media": "聯合早報",
@@ -960,7 +969,7 @@
         "time": "2025-12-21 20:57",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251219-7991408",
         "title": "Grab收购中国推行科技 发展送货机器人业务",
-        "seq": 107
+        "seq": 108
     },
     {
         "media": "聯合早報",
@@ -969,7 +978,7 @@
         "time": "2025-12-21 21:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251220-7993659",
         "title": "参加殉职消防员路祭被指衣着欠庄重 港官员致歉",
-        "seq": 108
+        "seq": 109
     },
     {
         "media": "聯合早報",
@@ -978,7 +987,7 @@
         "time": "2025-12-21 21:09",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251220-7994592",
         "title": "巴基斯坦法院判前总理伊姆兰汗及妻子因贪污坐牢17年",
-        "seq": 109
+        "seq": 110
     },
     {
         "media": "聯合早報",
@@ -987,7 +996,7 @@
         "time": "2025-12-21 21:38",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251220-7994673",
         "title": "马国警方今年捣毁270个贩毒团伙 起获逾31亿令吉毒品",
-        "seq": 110
+        "seq": 111
     },
     {
         "media": "聯合早報",
@@ -996,7 +1005,7 @@
         "time": "2025-12-21 21:44",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251220-7994695",
         "title": "马国沙巴惊见13尺长巨鳄 三执法单位与村民联手擒捕",
-        "seq": 111
+        "seq": 112
     },
     {
         "media": "聯合早報",
@@ -1005,7 +1014,7 @@
         "time": "2025-12-21 22:08",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251220-7993459",
         "title": "越中铁路第一部分工程如期动工",
-        "seq": 112
+        "seq": 113
     },
     {
         "media": "聯合早報",
@@ -1014,7 +1023,7 @@
         "time": "2025-12-21 22:22",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251219-7991740",
         "title": "淡滨尼地铁站外咖啡店发生持刀伤人案 一男子受伤送院",
-        "seq": 113
+        "seq": 114
     },
     {
         "media": "聯合早報",
@@ -1023,7 +1032,7 @@
         "time": "2025-12-21 22:39",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251220-7994807",
         "title": "巴西总统卢拉警告 美国对委内瑞拉动武将致人道灾难",
-        "seq": 114
+        "seq": 115
     },
     {
         "media": "聯合早報",
@@ -1032,7 +1041,7 @@
         "time": "2025-12-21 23:12",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251220-7994887",
         "title": "消息称以色列准备向特朗普汇报 再次打击伊朗方案",
-        "seq": 115
+        "seq": 116
     },
     {
         "media": "聯合早報",
@@ -1041,6 +1050,6 @@
         "time": "2025-12-21 23:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251220-7994936",
         "title": "日本与中亚五国首脑会议 未来五年投资3万亿日元",
-        "seq": 116
+        "seq": 117
     }
 ]
