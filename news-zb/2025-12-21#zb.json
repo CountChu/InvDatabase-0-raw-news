@@ -1073,11 +1073,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "22:25",
+        "time": "2025-12-21 22:25",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251221-7997545",
+        "title": "韩检方下周同时起诉尹锡悦金建希",
+        "seq": 120
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "22:39",
         "time": "2025-12-21 22:39",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251220-7994807",
         "title": "巴西总统卢拉警告 美国对委内瑞拉动武将致人道灾难",
-        "seq": 120
+        "seq": 121
     },
     {
         "media": "聯合早報",
@@ -1086,7 +1095,7 @@
         "time": "2025-12-21 23:12",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251220-7994887",
         "title": "消息称以色列准备向特朗普汇报 再次打击伊朗方案",
-        "seq": 121
+        "seq": 122
     },
     {
         "media": "聯合早報",
@@ -1095,6 +1104,6 @@
         "time": "2025-12-21 23:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251220-7994936",
         "title": "日本与中亚五国首脑会议 未来五年投资3万亿日元",
-        "seq": 122
+        "seq": 123
     }
 ]
