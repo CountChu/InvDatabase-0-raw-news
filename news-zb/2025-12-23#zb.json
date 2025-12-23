@@ -1360,12 +1360,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:26",
+        "time": "2025-12-23 22:26",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251223-8007547",
+        "title": "以防长称因安全考量 不会全面撤离加沙",
+        "seq": 152
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:05",
         "time": "2025-12-23 23:05",
         "link": "https://www.zaobao.com.sg/finance/world/story20251221-7997677",
         "title": "通胀或因数据失真被低估 美联储官员：未来数月没必要调整利率",
-        "seq": 152
+        "seq": 153
     },
     {
         "media": "聯合早報",
@@ -1374,7 +1383,7 @@
         "time": "2025-12-23 23:11",
         "link": "https://www.zaobao.com.sg/finance/world/story20251222-8002555",
         "title": "美国加强拦截委内瑞拉油槽船 导致油价应声上涨",
-        "seq": 153
+        "seq": 154
     },
     {
         "media": "聯合早報",
@@ -1383,7 +1392,7 @@
         "time": "2025-12-23 23:20",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251222-8002676",
         "title": "俄副外长：与美国就俄乌战争谈判进展“缓慢”",
-        "seq": 154
+        "seq": 155
     },
     {
         "media": "聯合早報",
@@ -1392,6 +1401,6 @@
         "time": "2025-12-23 23:42",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251222-8002702",
         "title": "德国境内今年记录上千起“可疑无人机飞行”事件",
-        "seq": 155
+        "seq": 156
     }
 ]
