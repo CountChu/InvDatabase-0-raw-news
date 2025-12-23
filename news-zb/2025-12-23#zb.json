@@ -1405,12 +1405,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:11",
+        "time": "2025-12-23 23:11",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251223-8007682",
+        "title": "策划对英国犹太社区发动恐袭 两男子被判罪成",
+        "seq": 157
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:12",
         "time": "2025-12-23 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251223-8007437",
         "title": "海庭关注美国事态发展 与客户和解协议不变",
-        "seq": 157
+        "seq": 158
     },
     {
         "media": "聯合早報",
@@ -1419,7 +1428,7 @@
         "time": "2025-12-23 23:20",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251222-8002676",
         "title": "俄副外长：与美国就俄乌战争谈判进展“缓慢”",
-        "seq": 158
+        "seq": 159
     },
     {
         "media": "聯合早報",
@@ -1428,6 +1437,6 @@
         "time": "2025-12-23 23:42",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251222-8002702",
         "title": "德国境内今年记录上千起“可疑无人机飞行”事件",
-        "seq": 159
+        "seq": 160
     }
 ]
