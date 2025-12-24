@@ -1352,11 +1352,29 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "21:03",
+        "time": "2025-12-24 21:03",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251224-8010270",
+        "title": "香港医管局：过去一两周流感病毒阳性维持高位",
+        "seq": 151
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "21:07",
         "time": "2025-12-24 21:07",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251223-8005746",
         "title": "台民调：赖清德满意度增5.5个百分点",
-        "seq": 151
+        "seq": 152
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:16",
+        "time": "2025-12-24 21:16",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251224-8011574",
+        "title": "美H-1B签证高费获法官力挺 政府修改抽签机制",
+        "seq": 153
     },
     {
         "media": "聯合早報",
@@ -1365,7 +1383,7 @@
         "time": "2025-12-24 21:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251223-8007352",
         "title": "马克龙：坚定支持丹麦和格陵兰岛主权与领土完整",
-        "seq": 152
+        "seq": 154
     },
     {
         "media": "聯合早報",
@@ -1374,7 +1392,7 @@
         "time": "2025-12-24 21:24",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251222-8002170",
         "title": "86.5%支持共识决议 陈清汉将任律师公会新会长",
-        "seq": 153
+        "seq": 155
     },
     {
         "media": "聯合早報",
@@ -1383,7 +1401,7 @@
         "time": "2025-12-24 21:45",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251223-8007405",
         "title": "也门胡塞武装与政府达成最大换俘协议 拟交换近3000名囚犯",
-        "seq": 154
+        "seq": 156
     },
     {
         "media": "聯合早報",
@@ -1392,7 +1410,7 @@
         "time": "2025-12-24 21:52",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251222-8002331",
         "title": "维文：我国欢迎泰柬召开边境委员会会议 ",
-        "seq": 155
+        "seq": 157
     },
     {
         "media": "聯合早報",
@@ -1401,7 +1419,7 @@
         "time": "2025-12-24 22:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251223-8007503",
         "title": "美国禁外国无人机新机型批准事宜 中国商务部敦促撤销相关措施",
-        "seq": 156
+        "seq": 158
     },
     {
         "media": "聯合早報",
@@ -1410,7 +1428,7 @@
         "time": "2025-12-24 22:09",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251223-8004869",
         "title": "香港加装充电设施迎接粤车南下",
-        "seq": 157
+        "seq": 159
     },
     {
         "media": "聯合早報",
@@ -1419,7 +1437,7 @@
         "time": "2025-12-24 22:26",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251223-8007547",
         "title": "以防长称因安全考量 不会全面撤离加沙",
-        "seq": 158
+        "seq": 160
     },
     {
         "media": "聯合早報",
@@ -1428,7 +1446,7 @@
         "time": "2025-12-24 23:11",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251223-8007682",
         "title": "策划对英国犹太社区发动恐袭 两男子被判罪成",
-        "seq": 159
+        "seq": 161
     },
     {
         "media": "聯合早報",
@@ -1437,7 +1455,7 @@
         "time": "2025-12-24 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251223-8007437",
         "title": "海庭关注美国事态发展 与客户和解协议不变",
-        "seq": 160
+        "seq": 162
     },
     {
         "media": "聯合早報",
@@ -1446,6 +1464,6 @@
         "time": "2025-12-24 23:44",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251223-8007715",
         "title": "美国拟于2027年对中国晶片征收关税",
-        "seq": 161
+        "seq": 163
     }
 ]
