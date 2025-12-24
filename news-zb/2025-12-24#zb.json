@@ -1442,11 +1442,20 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "22:04",
+        "time": "2025-12-24 22:04",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251224-8010491",
+        "title": "台官员：抗战英雄都在台湾",
+        "seq": 161
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "22:05",
         "time": "2025-12-24 22:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251223-8007503",
         "title": "美国禁外国无人机新机型批准事宜 中国商务部敦促撤销相关措施",
-        "seq": 161
+        "seq": 162
     },
     {
         "media": "聯合早報",
@@ -1455,7 +1464,16 @@
         "time": "2025-12-24 22:09",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251223-8004869",
         "title": "香港加装充电设施迎接粤车南下",
-        "seq": 162
+        "seq": 163
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:11",
+        "time": "2025-12-24 22:11",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251224-8011891",
+        "title": "专家警告：过度依赖AI或导致“认知萎缩”",
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1482,7 @@
         "time": "2025-12-24 22:26",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251223-8007547",
         "title": "以防长称因安全考量 不会全面撤离加沙",
-        "seq": 163
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1491,7 @@
         "time": "2025-12-24 23:11",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251223-8007682",
         "title": "策划对英国犹太社区发动恐袭 两男子被判罪成",
-        "seq": 164
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1500,7 @@
         "time": "2025-12-24 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251223-8007437",
         "title": "海庭关注美国事态发展 与客户和解协议不变",
-        "seq": 165
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1491,6 +1509,6 @@
         "time": "2025-12-24 23:44",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251223-8007715",
         "title": "美国拟于2027年对中国晶片征收关税",
-        "seq": 166
+        "seq": 168
     }
 ]
