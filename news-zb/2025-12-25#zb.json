@@ -1063,12 +1063,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "19:30",
+        "time": "2025-12-25 19:30",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251225-8012574",
+        "title": "故宫养心殿将在周五重新开放",
+        "seq": 119
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "19:44",
         "time": "2025-12-25 19:44",
         "link": "https://www.zaobao.com.sg/finance/world/story20251223-8004762",
         "title": "周二美市盘前几乎持平 聚焦富国银行分析师评软件巨头甲骨文",
-        "seq": 119
+        "seq": 120
     },
     {
         "media": "聯合早報",
@@ -1077,7 +1086,7 @@
         "time": "2025-12-25 20:02",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251224-8010102",
         "title": "中国交通部：十五五谋划建设一批重大工程项目",
-        "seq": 120
+        "seq": 121
     },
     {
         "media": "聯合早報",
@@ -1086,7 +1095,7 @@
         "time": "2025-12-25 20:05",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251224-8011544",
         "title": "英国政府四大经济和统计要职招聘受挫",
-        "seq": 121
+        "seq": 122
     },
     {
         "media": "聯合早報",
@@ -1095,7 +1104,7 @@
         "time": "2025-12-25 20:33",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251224-8011870",
         "title": "民调：近四成美国民众认为领导人没有倾听民意",
-        "seq": 122
+        "seq": 123
     },
     {
         "media": "聯合早報",
@@ -1104,7 +1113,7 @@
         "time": "2025-12-25 21:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251224-8010270",
         "title": "香港医管局：过去一两周流感病毒阳性维持高位",
-        "seq": 123
+        "seq": 124
     },
     {
         "media": "聯合早報",
@@ -1113,7 +1122,7 @@
         "time": "2025-12-25 21:16",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251224-8011574",
         "title": "美H-1B签证高费获法官力挺 政府修改抽签机制",
-        "seq": 124
+        "seq": 125
     },
     {
         "media": "聯合早報",
@@ -1122,7 +1131,7 @@
         "time": "2025-12-25 21:22",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251224-8011889",
         "title": "前律师拉维疑涉毒后昏迷不治 另一男子被肃毒局逮捕",
-        "seq": 125
+        "seq": 126
     },
     {
         "media": "聯合早報",
@@ -1131,7 +1140,7 @@
         "time": "2025-12-25 21:30",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251224-8011906",
         "title": "封路不封欢乐 万人齐聚乌节路迎接圣诞",
-        "seq": 126
+        "seq": 127
     },
     {
         "media": "聯合早報",
@@ -1140,7 +1149,7 @@
         "time": "2025-12-25 22:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251224-8010491",
         "title": "台官员：抗战英雄都在台湾",
-        "seq": 127
+        "seq": 128
     },
     {
         "media": "聯合早報",
@@ -1149,7 +1158,7 @@
         "time": "2025-12-25 22:11",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251224-8011891",
         "title": "专家警告：过度依赖AI或导致“认知萎缩”",
-        "seq": 128
+        "seq": 129
     },
     {
         "media": "聯合早報",
@@ -1158,7 +1167,7 @@
         "time": "2025-12-25 22:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251224-8011910",
         "title": "日本拟接纳逾123万外国人才 应对劳动力短缺",
-        "seq": 129
+        "seq": 130
     },
     {
         "media": "聯合早報",
@@ -1167,7 +1176,7 @@
         "time": "2025-12-25 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251223-8007437",
         "title": "海庭关注美国事态发展 与客户和解协议不变",
-        "seq": 130
+        "seq": 131
     },
     {
         "media": "聯合早報",
@@ -1176,6 +1185,6 @@
         "time": "2025-12-25 23:22",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251224-8010867",
         "title": "古埃及“太阳船”修复工程启动 游客可现场见证历史",
-        "seq": 131
+        "seq": 132
     }
 ]
