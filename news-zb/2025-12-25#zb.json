@@ -1189,12 +1189,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:35",
+        "time": "2025-12-25 21:35",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251225-8013210",
+        "title": "英王室圣诞礼拜 安德鲁缺席但两女儿如常出席",
+        "seq": 133
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:04",
         "time": "2025-12-25 22:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251224-8010491",
         "title": "台官员：抗战英雄都在台湾",
-        "seq": 133
+        "seq": 134
     },
     {
         "media": "聯合早報",
@@ -1203,7 +1212,7 @@
         "time": "2025-12-25 22:11",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251224-8011891",
         "title": "专家警告：过度依赖AI或导致“认知萎缩”",
-        "seq": 134
+        "seq": 135
     },
     {
         "media": "聯合早報",
@@ -1212,7 +1221,7 @@
         "time": "2025-12-25 22:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251224-8011910",
         "title": "日本拟接纳逾123万外国人才 应对劳动力短缺",
-        "seq": 135
+        "seq": 136
     },
     {
         "media": "聯合早報",
@@ -1221,7 +1230,7 @@
         "time": "2025-12-25 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251223-8007437",
         "title": "海庭关注美国事态发展 与客户和解协议不变",
-        "seq": 136
+        "seq": 137
     },
     {
         "media": "聯合早報",
@@ -1230,6 +1239,6 @@
         "time": "2025-12-25 23:22",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251224-8010867",
         "title": "古埃及“太阳船”修复工程启动 游客可现场见证历史",
-        "seq": 137
+        "seq": 138
     }
 ]
