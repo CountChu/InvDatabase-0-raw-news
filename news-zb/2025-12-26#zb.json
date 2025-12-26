@@ -1522,12 +1522,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:51",
+        "time": "2025-12-26 21:51",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251226-8017560",
+        "title": "昇菘以金币酬谢长期服务员工 价值可高达1.86万元",
+        "seq": 170
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "21:57",
         "time": "2025-12-26 21:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251225-8013225",
         "title": "冬季风暴袭击美国加州 已致三死 ",
-        "seq": 170
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1545,7 @@
         "time": "2025-12-26 22:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251225-8012596",
         "title": "西安至延安高铁将在周五开通运营",
-        "seq": 171
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1554,7 @@
         "time": "2025-12-26 22:47",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251225-8013259",
         "title": "巴西前总统博索纳罗亲笔信支持儿子竞选总统 ",
-        "seq": 172
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1563,7 @@
         "time": "2025-12-26 22:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251225-8013274",
         "title": "以色列防长：以色列永远不完全撤出加沙",
-        "seq": 173
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1572,7 @@
         "time": "2025-12-26 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251223-8007437",
         "title": "海庭关注美国事态发展 与客户和解协议不变",
-        "seq": 174
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1572,6 +1581,6 @@
         "time": "2025-12-26 23:48",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251225-8013318",
         "title": "缅甸军政府宣布选举最后一轮投票明年1月25日举行",
-        "seq": 175
+        "seq": 176
     }
 ]
