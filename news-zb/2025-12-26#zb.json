@@ -1549,12 +1549,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:05",
+        "time": "2025-12-26 22:05",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251226-8015949",
+        "title": "张桂梅卸任云南华坪女高校长？官方：不实信息",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:08",
+        "time": "2025-12-26 22:08",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251226-8017678",
+        "title": "纳吉被判监15年 罚款超36亿",
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:47",
         "time": "2025-12-26 22:47",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251225-8013259",
         "title": "巴西前总统博索纳罗亲笔信支持儿子竞选总统 ",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1581,7 @@
         "time": "2025-12-26 22:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251225-8013274",
         "title": "以色列防长：以色列永远不完全撤出加沙",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,7 @@
         "time": "2025-12-26 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251223-8007437",
         "title": "海庭关注美国事态发展 与客户和解协议不变",
-        "seq": 175
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,6 +1599,6 @@
         "time": "2025-12-26 23:48",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251225-8013318",
         "title": "缅甸军政府宣布选举最后一轮投票明年1月25日举行",
-        "seq": 176
+        "seq": 178
     }
 ]
