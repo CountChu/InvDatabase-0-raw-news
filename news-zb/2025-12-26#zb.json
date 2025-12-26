@@ -1576,12 +1576,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:08",
+        "time": "2025-12-26 22:08",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251226-8017678",
+        "title": "纳吉被判刑165年 同时执行监15年 罚款逾36亿新元",
+        "seq": 176
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:28",
         "time": "2025-12-26 22:28",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251226-8017707",
         "title": "圣诞节涉涂鸦 43岁澳大利亚华裔女子将被控上庭",
-        "seq": 176
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1599,7 @@
         "time": "2025-12-26 22:47",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251225-8013259",
         "title": "巴西前总统博索纳罗亲笔信支持儿子竞选总统 ",
-        "seq": 177
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1608,16 @@
         "time": "2025-12-26 22:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251225-8013274",
         "title": "以色列防长：以色列永远不完全撤出加沙",
-        "seq": 178
+        "seq": 179
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:59",
+        "time": "2025-12-26 22:59",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251226-8017823",
+        "title": "纳吉：对司法保持信心 会继续依法争取权利",
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1626,7 @@
         "time": "2025-12-26 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251223-8007437",
         "title": "海庭关注美国事态发展 与客户和解协议不变",
-        "seq": 179
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1617,6 +1635,6 @@
         "time": "2025-12-26 23:48",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251225-8013318",
         "title": "缅甸军政府宣布选举最后一轮投票明年1月25日举行",
-        "seq": 180
+        "seq": 182
     }
 ]
