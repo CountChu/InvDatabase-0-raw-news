@@ -1621,12 +1621,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:07",
+        "time": "2025-12-26 23:07",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251226-8017847",
+        "title": "缅甸军政府选举前解除仰光宵禁",
+        "seq": 181
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:12",
         "time": "2025-12-26 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251223-8007437",
         "title": "海庭关注美国事态发展 与客户和解协议不变",
-        "seq": 181
+        "seq": 182
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:12",
+        "time": "2025-12-26 23:12",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251226-8017855",
+        "title": "暴雪席卷美国纽约 数百架航班停飞",
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1635,6 +1653,6 @@
         "time": "2025-12-26 23:48",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251225-8013318",
         "title": "缅甸军政府宣布选举最后一轮投票明年1月25日举行",
-        "seq": 182
+        "seq": 184
     }
 ]
