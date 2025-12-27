@@ -1208,11 +1208,20 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "22:02",
+        "time": "2025-12-27 22:02",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251227-8019385",
+        "title": "2025年澳门访客量达3941万人次 破2019年纪录",
+        "seq": 135
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "22:05",
         "time": "2025-12-27 22:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251226-8015949",
         "title": "张桂梅卸任云南华坪女高校长？官方：不实信息",
-        "seq": 135
+        "seq": 136
     },
     {
         "media": "聯合早報",
@@ -1221,7 +1230,16 @@
         "time": "2025-12-27 22:08",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251226-8017678",
         "title": "纳吉被判刑165年 同时执行监15年 罚款逾36亿新元",
-        "seq": 136
+        "seq": 137
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:19",
+        "time": "2025-12-27 22:19",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251227-8020318",
+        "title": "王毅将同柬埔寨和泰国外长在云南会晤",
+        "seq": 138
     },
     {
         "media": "聯合早報",
@@ -1230,7 +1248,7 @@
         "time": "2025-12-27 22:28",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251226-8017707",
         "title": "圣诞节涉涂鸦 43岁澳大利亚华裔女子将被控上庭",
-        "seq": 137
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1257,7 @@
         "time": "2025-12-27 22:59",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251226-8017823",
         "title": "纳吉：对司法保持信心 会继续依法争取权利",
-        "seq": 138
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1266,7 @@
         "time": "2025-12-27 23:07",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251226-8017847",
         "title": "缅甸军政府选举前解除仰光宵禁",
-        "seq": 139
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1275,7 @@
         "time": "2025-12-27 23:12",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251226-8017855",
         "title": "暴雪席卷美国纽约 数百架航班停飞",
-        "seq": 140
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1266,6 +1284,6 @@
         "time": "2025-12-27 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251226-8017876",
         "title": "美国再次召回印尼冷冻虾 或遭放射性物质污染",
-        "seq": 141
+        "seq": 143
     }
 ]
