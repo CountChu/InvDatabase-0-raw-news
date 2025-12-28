@@ -1072,12 +1072,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:24",
+        "time": "2025-12-28 22:24",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251228-8022494",
+        "title": "研究：关键蛋白SIRT6影响睡眠情绪与认知障碍",
+        "seq": 120
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:28",
         "time": "2025-12-28 22:28",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251226-8017707",
         "title": "圣诞节涉涂鸦 43岁澳大利亚华裔女子将被控上庭",
-        "seq": 120
+        "seq": 121
     },
     {
         "media": "聯合早報",
@@ -1086,7 +1095,7 @@
         "time": "2025-12-28 22:32",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251227-8020337",
         "title": "南美大陆沿海的美洲狮将企鹅纳入食谱",
-        "seq": 121
+        "seq": 122
     },
     {
         "media": "聯合早報",
@@ -1095,15 +1104,6 @@
         "time": "2025-12-28 22:54",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251227-8020380",
         "title": "危地马拉巴士坠入山沟 15死19伤",
-        "seq": 122
-    },
-    {
-        "media": "聯合早報",
-        "category": "中国",
-        "timeText": "23:26",
-        "time": "2025-12-28 23:26",
-        "link": "https://www.zaobao.com.sg/realtime/china/story20251227-8020433",
-        "title": "台湾发生芮氏规模7级地震 台北高楼摇晃震感强烈",
         "seq": 123
     },
     {
@@ -1112,7 +1112,7 @@
         "timeText": "23:26",
         "time": "2025-12-28 23:26",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251227-8020433",
-        "title": "台湾发生7级地震 台北高楼摇晃震感强烈",
+        "title": "台湾发生芮氏规模7级地震 台北高楼摇晃震感强烈",
         "seq": 124
     },
     {
@@ -1121,8 +1121,17 @@
         "timeText": "23:26",
         "time": "2025-12-28 23:26",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251227-8020433",
-        "title": "【视频】台湾发生7级地震 台北高楼摇晃震感强烈",
+        "title": "台湾发生7级地震 台北高楼摇晃震感强烈",
         "seq": 125
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:26",
+        "time": "2025-12-28 23:26",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251227-8020433",
+        "title": "【视频】台湾发生7级地震 台北高楼摇晃震感强烈",
+        "seq": 126
     },
     {
         "media": "聯合早報",
@@ -1131,6 +1140,6 @@
         "time": "2025-12-28 23:38",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251227-8020442",
         "title": "新柔地铁系统测试运行 列车雨中上轨掀议",
-        "seq": 126
+        "seq": 127
     }
 ]
