@@ -983,11 +983,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "21:15",
+        "time": "2025-12-28 21:15",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251228-8022947",
+        "title": "讨论是否脱离团结政府 巫青团明年召开大会",
+        "seq": 110
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "21:34",
         "time": "2025-12-28 21:34",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251227-8020253",
         "title": "泽连斯基赴美途中在加拿大与欧盟盟友通话",
-        "seq": 110
+        "seq": 111
     },
     {
         "media": "聯合早報",
@@ -996,7 +1005,7 @@
         "time": "2025-12-28 21:51",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251226-8017560",
         "title": "昇菘以金币酬谢长期服务员工 价值可高达1.86万元",
-        "seq": 111
+        "seq": 112
     },
     {
         "media": "聯合早報",
@@ -1005,7 +1014,7 @@
         "time": "2025-12-28 22:02",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251227-8019385",
         "title": "2025年澳门访客量达3941万人次 破2019年纪录",
-        "seq": 112
+        "seq": 113
     },
     {
         "media": "聯合早報",
@@ -1014,7 +1023,7 @@
         "time": "2025-12-28 22:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251227-8020318",
         "title": "王毅将同柬埔寨和泰国外长在云南会晤",
-        "seq": 113
+        "seq": 114
     },
     {
         "media": "聯合早報",
@@ -1023,7 +1032,7 @@
         "time": "2025-12-28 22:28",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251226-8017707",
         "title": "圣诞节涉涂鸦 43岁澳大利亚华裔女子将被控上庭",
-        "seq": 114
+        "seq": 115
     },
     {
         "media": "聯合早報",
@@ -1032,7 +1041,7 @@
         "time": "2025-12-28 22:32",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251227-8020337",
         "title": "南美大陆沿海的美洲狮将企鹅纳入食谱",
-        "seq": 115
+        "seq": 116
     },
     {
         "media": "聯合早報",
@@ -1041,15 +1050,6 @@
         "time": "2025-12-28 22:54",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251227-8020380",
         "title": "危地马拉巴士坠入山沟 15死19伤",
-        "seq": 116
-    },
-    {
-        "media": "聯合早報",
-        "category": "中国",
-        "timeText": "23:26",
-        "time": "2025-12-28 23:26",
-        "link": "https://www.zaobao.com.sg/realtime/china/story20251227-8020433",
-        "title": "台湾发生芮氏规模7级地震 台北高楼摇晃震感强烈",
         "seq": 117
     },
     {
@@ -1058,7 +1058,7 @@
         "timeText": "23:26",
         "time": "2025-12-28 23:26",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251227-8020433",
-        "title": "台湾发生7级地震 台北高楼摇晃震感强烈",
+        "title": "台湾发生芮氏规模7级地震 台北高楼摇晃震感强烈",
         "seq": 118
     },
     {
@@ -1067,8 +1067,17 @@
         "timeText": "23:26",
         "time": "2025-12-28 23:26",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251227-8020433",
-        "title": "【视频】台湾发生7级地震 台北高楼摇晃震感强烈",
+        "title": "台湾发生7级地震 台北高楼摇晃震感强烈",
         "seq": 119
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:26",
+        "time": "2025-12-28 23:26",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251227-8020433",
+        "title": "【视频】台湾发生7级地震 台北高楼摇晃震感强烈",
+        "seq": 120
     },
     {
         "media": "聯合早報",
@@ -1077,6 +1086,6 @@
         "time": "2025-12-28 23:38",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251227-8020442",
         "title": "新柔地铁系统测试运行 列车雨中上轨掀议",
-        "seq": 120
+        "seq": 121
     }
 ]
