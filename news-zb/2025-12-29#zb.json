@@ -1468,12 +1468,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:01",
+        "time": "2025-12-29 22:01",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025417",
+        "title": "中国官方：国民体质合格率优良率创新高",
+        "seq": 164
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:04",
         "time": "2025-12-29 22:04",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251228-8023072",
         "title": "塞尔维亚首都发现二战炸弹 已安全移除",
-        "seq": 164
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1491,7 @@
         "time": "2025-12-29 22:24",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251228-8022494",
         "title": "研究：关键蛋白SIRT6影响睡眠情绪与认知障碍",
-        "seq": 165
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1500,7 @@
         "time": "2025-12-29 22:28",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251226-8017707",
         "title": "圣诞节涉涂鸦 43岁澳大利亚华裔女子将被控上庭",
-        "seq": 166
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1500,6 +1509,6 @@
         "time": "2025-12-29 23:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251228-8023239",
         "title": "伊朗从俄罗斯发射三颗卫星 ",
-        "seq": 167
+        "seq": 168
     }
 ]
