@@ -1450,12 +1450,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "20:45",
+        "time": "2025-12-30 20:45",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20251230-8032386",
+        "title": "共居空间业者The Assembly Place拟在凯利板上市",
+        "seq": 162
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "20:49",
         "time": "2025-12-30 20:49",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025014",
         "title": "下午察：中国老艺术家“人在美国薪在汉”？",
-        "seq": 162
+        "seq": 163
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1473,7 @@
         "time": "2025-12-30 20:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8027432",
         "title": "美国餐饮连锁店Hooters关闭本地唯一门店",
-        "seq": 163
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1482,7 @@
         "time": "2025-12-30 21:00",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027190",
         "title": "韩国铁路通票升级 外国游客可享综合交通服务",
-        "seq": 164
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1491,7 @@
         "time": "2025-12-30 21:04",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251229-8027350",
         "title": "萧振祥：武吉班让轻轨系统更新挑战大 全天停运施工有必要",
-        "seq": 165
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1500,7 @@
         "time": "2025-12-30 21:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8026246",
         "title": "安徽一烈士陵墓遭故意脚踩 涉事者被采取刑事强制措施",
-        "seq": 166
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1509,7 @@
         "time": "2025-12-30 21:31",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8027492",
         "title": "Autobahn租车集团禁令申请被驳回 上诉同时引入上市公司潜在投资者",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2025-12-30 21:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027152",
         "title": "埃里森超越马斯克 成为2025年最具话题性科技大佬",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1527,7 @@
         "time": "2025-12-30 22:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025417",
         "title": "中国官方：国民体质合格率优良率创新高",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,6 +1536,6 @@
         "time": "2025-12-30 22:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027891",
         "title": "获释以色列人质：哈马斯逼拍伪自杀视频",
-        "seq": 170
+        "seq": 171
     }
 ]
