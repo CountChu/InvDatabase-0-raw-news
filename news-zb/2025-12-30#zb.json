@@ -262,12 +262,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "10:37",
+        "time": "2025-12-30 10:37",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251230-8028683",
+        "title": "疑为柬埔寨诈骗团伙成员 马国男子入境时被捕面控",
+        "seq": 30
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "10:38",
         "time": "2025-12-30 10:38",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8028975",
         "title": "《亚洲周刊》微博账号被禁言",
-        "seq": 30
+        "seq": 31
     },
     {
         "media": "聯合早報",
@@ -276,7 +285,7 @@
         "time": "2025-12-30 10:42",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8028866",
         "title": "金正恩视察军工厂 强调火箭炮武器体系升级",
-        "seq": 31
+        "seq": 32
     },
     {
         "media": "聯合早報",
@@ -285,7 +294,7 @@
         "time": "2025-12-30 10:49",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251230-8028964",
         "title": "蔡厝港和武吉甘柏站之间新增地铁站 耗资约2.81亿元建造",
-        "seq": 32
+        "seq": 33
     },
     {
         "media": "聯合早報",
@@ -294,15 +303,6 @@
         "time": "2025-12-30 11:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8024121",
         "title": "本地11月整体私宅转售价跌0.4% 非中央区跌幅最大",
-        "seq": 33
-    },
-    {
-        "media": "聯合早報",
-        "category": "中国",
-        "timeText": "11:00",
-        "time": "2025-12-30 11:00",
-        "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8029075",
-        "title": "解放军在福建平潭岛发射多枚火箭",
         "seq": 34
     },
     {
@@ -311,8 +311,17 @@
         "timeText": "11:00",
         "time": "2025-12-30 11:00",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8029075",
-        "title": "解放军在福建平潭发射多枚火箭",
+        "title": "解放军在福建平潭岛发射多枚火箭",
         "seq": 35
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "11:00",
+        "time": "2025-12-30 11:00",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8029075",
+        "title": "解放军在福建平潭发射多枚火箭",
+        "seq": 36
     },
     {
         "media": "聯合早報",
@@ -321,15 +330,6 @@
         "time": "2025-12-30 11:04",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251230-8028936",
         "title": "六重型车辆司机涉超速 警方吁业者尽快安装限速器",
-        "seq": 36
-    },
-    {
-        "media": "聯合早報",
-        "category": "中国",
-        "timeText": "11:04",
-        "time": "2025-12-30 11:04",
-        "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8029147",
-        "title": "华为轮值董事长孟晚舟新年致辞：别无选择 唯有迎难而上",
         "seq": 37
     },
     {
@@ -338,8 +338,17 @@
         "timeText": "11:04",
         "time": "2025-12-30 11:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8029147",
-        "title": "孟晚舟新年致辞：别无选择 唯有迎难而上",
+        "title": "华为轮值董事长孟晚舟新年致辞：别无选择 唯有迎难而上",
         "seq": 38
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "11:04",
+        "time": "2025-12-30 11:04",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8029147",
+        "title": "孟晚舟新年致辞：别无选择 唯有迎难而上",
+        "seq": 39
     },
     {
         "media": "聯合早報",
@@ -348,7 +357,7 @@
         "time": "2025-12-30 11:38",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251230-8029092",
         "title": "本月上市的科技公司优创康智 荧光技术通过东南亚两地监管审批",
-        "seq": 39
+        "seq": 40
     },
     {
         "media": "聯合早報",
@@ -357,7 +366,7 @@
         "time": "2025-12-30 11:44",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8029413",
         "title": "台湾通报90架次中国大陆军机逾越台海中线",
-        "seq": 40
+        "seq": 41
     },
     {
         "media": "聯合早報",
@@ -366,7 +375,7 @@
         "time": "2025-12-30 11:50",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251229-8024253",
         "title": "灵活行程规划新安排首工作日 多数乘客未加入",
-        "seq": 41
+        "seq": 42
     },
     {
         "media": "聯合早報",
@@ -375,7 +384,7 @@
         "time": "2025-12-30 11:52",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8029462",
         "title": "习近平指示“三农工作”：持续巩固拓展脱贫攻坚成果",
-        "seq": 42
+        "seq": 43
     },
     {
         "media": "聯合早報",
@@ -384,7 +393,7 @@
         "time": "2025-12-30 11:55",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8028981",
         "title": "特朗普称摧毁委内瑞拉毒品地面设施 委方未表态",
-        "seq": 43
+        "seq": 44
     },
     {
         "media": "聯合早報",
@@ -393,7 +402,7 @@
         "time": "2025-12-30 12:00",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251230-8029357",
         "title": "公园局与南非协作 查获逾80公斤野生动物走私品",
-        "seq": 44
+        "seq": 45
     },
     {
         "media": "聯合早報",
@@ -402,7 +411,7 @@
         "time": "2025-12-30 12:08",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8028653",
         "title": "福建摄影大赛一等奖作品被质疑由AI生成",
-        "seq": 45
+        "seq": 46
     },
     {
         "media": "聯合早報",
@@ -411,7 +420,7 @@
         "time": "2025-12-30 12:13",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8029557",
         "title": "台湾通报中国大陆实弹射击落弹散布在台24海里线周边",
-        "seq": 46
+        "seq": 47
     },
     {
         "media": "聯合早報",
@@ -420,7 +429,7 @@
         "time": "2025-12-30 12:17",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8029427",
         "title": "柬埔寨实施无人机飞行禁令",
-        "seq": 47
+        "seq": 48
     },
     {
         "media": "聯合早報",
@@ -429,7 +438,7 @@
         "time": "2025-12-30 12:30",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251229-8024455",
         "title": "建屋局系统错误致拨款偏差 18市镇会获补发180万元",
-        "seq": 48
+        "seq": 49
     },
     {
         "media": "聯合早報",
@@ -438,7 +447,7 @@
         "time": "2025-12-30 12:33",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8028771",
         "title": "华谊王忠磊、王忠军被限制高消费",
-        "seq": 49
+        "seq": 50
     },
     {
         "media": "聯合早報",
@@ -447,7 +456,7 @@
         "time": "2025-12-30 12:38",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8029551",
         "title": "日本首都圈确认发生高致病性禽流感疫情",
-        "seq": 50
+        "seq": 51
     },
     {
         "media": "聯合早報",
@@ -456,7 +465,7 @@
         "time": "2025-12-30 12:49",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251230-8028660",
         "title": "明年首季住家电价和煤气价双双下调",
-        "seq": 51
+        "seq": 52
     },
     {
         "media": "聯合早報",
@@ -465,7 +474,16 @@
         "time": "2025-12-30 12:59",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251230-8028678",
         "title": "逾95万户组屋公民家庭 明年1月获水电费和杂费回扣",
-        "seq": 52
+        "seq": 53
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "12:59",
+        "time": "2025-12-30 12:59",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20251230-8029479",
+        "title": "交警快速公路加强执法 两天发出154张传票",
+        "seq": 54
     },
     {
         "media": "聯合早報",
@@ -474,7 +492,7 @@
         "time": "2025-12-30 13:01",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251229-8024662",
         "title": "两月内造成逾62万损失 警方吁公众谨防假买家骗局",
-        "seq": 53
+        "seq": 55
     },
     {
         "media": "聯合早報",
@@ -483,7 +501,16 @@
         "time": "2025-12-30 13:05",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251229-8024769",
         "title": "涉将近五公斤毒品藏七包裹内 马国男子兀兰关卡被捕",
-        "seq": 54
+        "seq": 56
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "13:09",
+        "time": "2025-12-30 13:09",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8028980",
+        "title": "中国常驻联合国副代表：反对任何分裂索马里领土行为",
+        "seq": 57
     },
     {
         "media": "聯合早報",
@@ -492,7 +519,7 @@
         "time": "2025-12-30 14:49",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251228-8021573",
         "title": "500万元跨年多多1月2日送出",
-        "seq": 55
+        "seq": 58
     },
     {
         "media": "聯合早報",
@@ -501,7 +528,7 @@
         "time": "2025-12-30 14:49",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251228-8021450",
         "title": "假冒警察总监发警告信 警方吁公众提高警惕",
-        "seq": 56
+        "seq": 59
     },
     {
         "media": "聯合早報",
@@ -510,7 +537,7 @@
         "time": "2025-12-30 15:07",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251229-8025434",
         "title": "保时捷被指倒车连撞两车",
-        "seq": 57
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -519,7 +546,7 @@
         "time": "2025-12-30 15:09",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251228-8021620",
         "title": "中年汉反锁屋内闹两小时 民防铺垫攀绳破门救人",
-        "seq": 58
+        "seq": 61
     },
     {
         "media": "聯合早報",
@@ -528,7 +555,7 @@
         "time": "2025-12-30 15:15",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251229-8025488",
         "title": "33年老字号熄灯 老顾客赶最后捧场",
-        "seq": 59
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -537,7 +564,7 @@
         "time": "2025-12-30 15:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8025331",
         "title": "日本2024年度残障人受虐待案件数量写新高",
-        "seq": 60
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -546,7 +573,7 @@
         "time": "2025-12-30 15:20",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025550",
         "title": "路透：大陆首次表明围台军演旨在阻吓外部军事介入",
-        "seq": 61
+        "seq": 64
     },
     {
         "media": "聯合早報",
@@ -555,7 +582,7 @@
         "time": "2025-12-30 15:30",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251228-8021716",
         "title": "国人出游纷归来 家庭医生：流感症状求医患者比例上升",
-        "seq": 62
+        "seq": 65
     },
     {
         "media": "聯合早報",
@@ -564,7 +591,7 @@
         "time": "2025-12-30 15:37",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8025566",
         "title": "马杜罗：美国威胁委内瑞拉人民是犯罪行为",
-        "seq": 63
+        "seq": 66
     },
     {
         "media": "聯合早報",
@@ -573,7 +600,7 @@
         "time": "2025-12-30 16:00",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025823",
         "title": "北京称坚决回击在台湾问题越线挑衅恶劣行径",
-        "seq": 64
+        "seq": 67
     },
     {
         "media": "聯合早報",
@@ -582,7 +609,7 @@
         "time": "2025-12-30 16:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025835",
         "title": "中国大陆巡查示意图 台岸外北东南三面有海警",
-        "seq": 65
+        "seq": 68
     },
     {
         "media": "聯合早報",
@@ -591,7 +618,7 @@
         "time": "2025-12-30 16:20",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025988",
         "title": "大陆国台办：围台军演严正警告“台独”和外部干涉两股势力",
-        "seq": 66
+        "seq": 69
     },
     {
         "media": "聯合早報",
@@ -600,7 +627,7 @@
         "time": "2025-12-30 16:35",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8026107",
         "title": "解放军轰炸机编队赴台湾以东开展远海战备巡航",
-        "seq": 67
+        "seq": 70
     },
     {
         "media": "聯合早報",
@@ -609,7 +636,7 @@
         "time": "2025-12-30 16:39",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8025452",
         "title": "政府2026上半年推六幅工业用地供竞标 总面积约8.58公顷",
-        "seq": 68
+        "seq": 71
     },
     {
         "media": "聯合早報",
@@ -618,7 +645,7 @@
         "time": "2025-12-30 16:41",
         "link": "https://www.zaobao.com.sg/finance/world/story20251229-8025869",
         "title": "比特币突破9万美元 市场或现回暖迹象",
-        "seq": 69
+        "seq": 72
     },
     {
         "media": "聯合早報",
@@ -627,7 +654,7 @@
         "time": "2025-12-30 16:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8026134",
         "title": "远东机构旗下家办 买入燕麦奶厂商Oatside部分股权",
-        "seq": 70
+        "seq": 73
     },
     {
         "media": "聯合早報",
@@ -636,7 +663,7 @@
         "time": "2025-12-30 16:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8026058",
         "title": "蔚来星期一股价一度涨6.7%",
-        "seq": 71
+        "seq": 74
     },
     {
         "media": "聯合早報",
@@ -645,7 +672,7 @@
         "time": "2025-12-30 16:53",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8026236",
         "title": "赖清德称不挑衅大陆坚定维持现状 吁尊重“中华民国”存在事实",
-        "seq": 72
+        "seq": 75
     },
     {
         "media": "聯合早報",
@@ -654,7 +681,7 @@
         "time": "2025-12-30 17:31",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8026553",
         "title": "台阁揆卓荣泰谴责大陆军演分化台湾社会",
-        "seq": 73
+        "seq": 76
     },
     {
         "media": "聯合早報",
@@ -663,7 +690,7 @@
         "time": "2025-12-30 17:39",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8026599",
         "title": "解放军在台湾东南海空域演练对海打击远程奔袭",
-        "seq": 74
+        "seq": 77
     },
     {
         "media": "聯合早報",
@@ -672,7 +699,7 @@
         "time": "2025-12-30 17:48",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8026570",
         "title": "市场静待美联储会议纪要 本地股市星期一跌0.05%",
-        "seq": 75
+        "seq": 78
     },
     {
         "media": "聯合早報",
@@ -681,7 +708,7 @@
         "time": "2025-12-30 18:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8026790",
         "title": "台国防部：台12海里海域被划入大陆军演五个演训区",
-        "seq": 76
+        "seq": 79
     },
     {
         "media": "聯合早報",
@@ -690,7 +717,7 @@
         "time": "2025-12-30 18:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025077",
         "title": "中国对巴拿马运河贡献纪念碑被拆",
-        "seq": 77
+        "seq": 80
     },
     {
         "media": "聯合早報",
@@ -699,7 +726,7 @@
         "time": "2025-12-30 18:15",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8026773",
         "title": "mm2全亚影视娱乐子公司被追讨近1890万元",
-        "seq": 78
+        "seq": 81
     },
     {
         "media": "聯合早報",
@@ -708,7 +735,7 @@
         "time": "2025-12-30 18:27",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8026788",
         "title": "太子集团诈骗洗钱案：警方或再充公逾400万元资产",
-        "seq": 79
+        "seq": 82
     },
     {
         "media": "聯合早報",
@@ -717,7 +744,7 @@
         "time": "2025-12-30 18:28",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251229-8026785",
         "title": "Timbre提前结束租约 榜鹅综合社区中心小贩中心明年更换运营者",
-        "seq": 80
+        "seq": 83
     },
     {
         "media": "聯合早報",
@@ -726,7 +753,7 @@
         "time": "2025-12-30 19:13",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027104",
         "title": "俄罗斯发射52颗卫星 均进入预定轨道",
-        "seq": 81
+        "seq": 84
     },
     {
         "media": "聯合早報",
@@ -735,7 +762,7 @@
         "time": "2025-12-30 19:15",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027017",
         "title": "克宫：若想要和平 乌军应撤出顿巴斯",
-        "seq": 82
+        "seq": 85
     },
     {
         "media": "聯合早報",
@@ -744,7 +771,7 @@
         "time": "2025-12-30 19:16",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027098",
         "title": "非恐袭 警方：森州汝来爆炸案是孤立案件",
-        "seq": 83
+        "seq": 86
     },
     {
         "media": "聯合早報",
@@ -753,7 +780,7 @@
         "time": "2025-12-30 19:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027118",
         "title": "以色列最高法院暂停关闭军方电台",
-        "seq": 84
+        "seq": 87
     },
     {
         "media": "聯合早報",
@@ -762,7 +789,7 @@
         "time": "2025-12-30 19:34",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027187",
         "title": "纳吉长子对刘特佐仍未被绳之以法感失望",
-        "seq": 85
+        "seq": 88
     },
     {
         "media": "聯合早報",
@@ -771,7 +798,7 @@
         "time": "2025-12-30 19:38",
         "link": "https://www.zaobao.com.sg/finance/world/story20251229-8024500",
         "title": "周一美市盘前退低 聚焦激进投资公司Toms Capital入股Target消息",
-        "seq": 86
+        "seq": 89
     },
     {
         "media": "聯合早報",
@@ -780,7 +807,7 @@
         "time": "2025-12-30 19:39",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025243",
         "title": "江旻憓不再全职受聘香港赛马会 周四起转任顾问",
-        "seq": 87
+        "seq": 90
     },
     {
         "media": "聯合早報",
@@ -789,7 +816,7 @@
         "time": "2025-12-30 19:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027251",
         "title": "印尼寻获游船翻覆事故一死者遗体",
-        "seq": 88
+        "seq": 91
     },
     {
         "media": "聯合早報",
@@ -798,7 +825,7 @@
         "time": "2025-12-30 19:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027256",
         "title": "济州航空空难一周年 李在明发文悼念并致歉",
-        "seq": 89
+        "seq": 92
     },
     {
         "media": "聯合早報",
@@ -807,7 +834,7 @@
         "time": "2025-12-30 20:00",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251228-8022577",
         "title": "新柔地铁列车 首次动态试行成功",
-        "seq": 90
+        "seq": 93
     },
     {
         "media": "聯合早報",
@@ -816,7 +843,7 @@
         "time": "2025-12-30 20:08",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027328",
         "title": "高市就任两个月后迁入日首相公邸",
-        "seq": 91
+        "seq": 94
     },
     {
         "media": "聯合早報",
@@ -825,7 +852,7 @@
         "time": "2025-12-30 20:16",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027176",
         "title": "美国向联合国承诺26亿元人道援助",
-        "seq": 92
+        "seq": 95
     },
     {
         "media": "聯合早報",
@@ -834,7 +861,7 @@
         "time": "2025-12-30 20:18",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025375",
         "title": "近千陆配据报将被除籍 台陆委会：仅278人未交证明",
-        "seq": 93
+        "seq": 96
     },
     {
         "media": "聯合早報",
@@ -843,7 +870,7 @@
         "time": "2025-12-30 20:29",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251229-8027341",
         "title": "博纳产业涉“99对1”交易纠纷 第二起官司已和解",
-        "seq": 94
+        "seq": 97
     },
     {
         "media": "聯合早報",
@@ -852,7 +879,7 @@
         "time": "2025-12-30 20:33",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8027357",
         "title": "GDS环球完成股票配售 集资408万元拓展业务",
-        "seq": 95
+        "seq": 98
     },
     {
         "media": "聯合早報",
@@ -861,7 +888,7 @@
         "time": "2025-12-30 20:39",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027451",
         "title": "佩洛西：民主党将在中期选举中重夺众议院",
-        "seq": 96
+        "seq": 99
     },
     {
         "media": "聯合早報",
@@ -870,7 +897,7 @@
         "time": "2025-12-30 20:49",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025014",
         "title": "下午察：中国老艺术家“人在美国薪在汉”？",
-        "seq": 97
+        "seq": 100
     },
     {
         "media": "聯合早報",
@@ -879,7 +906,7 @@
         "time": "2025-12-30 20:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8027432",
         "title": "美国餐饮连锁店Hooters关闭本地唯一门店",
-        "seq": 98
+        "seq": 101
     },
     {
         "media": "聯合早報",
@@ -888,7 +915,7 @@
         "time": "2025-12-30 21:00",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027190",
         "title": "韩国铁路通票升级 外国游客可享综合交通服务",
-        "seq": 99
+        "seq": 102
     },
     {
         "media": "聯合早報",
@@ -897,7 +924,7 @@
         "time": "2025-12-30 21:04",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251229-8027350",
         "title": "萧振祥：武吉班让轻轨系统更新挑战大 全天停运施工有必要",
-        "seq": 100
+        "seq": 103
     },
     {
         "media": "聯合早報",
@@ -906,7 +933,7 @@
         "time": "2025-12-30 21:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8026246",
         "title": "安徽一烈士陵墓遭故意脚踩 涉事者被采取刑事强制措施",
-        "seq": 101
+        "seq": 104
     },
     {
         "media": "聯合早報",
@@ -915,7 +942,7 @@
         "time": "2025-12-30 21:31",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8027492",
         "title": "Autobahn租车集团禁令申请被驳回 上诉同时引入上市公司潜在投资者",
-        "seq": 102
+        "seq": 105
     },
     {
         "media": "聯合早報",
@@ -924,7 +951,7 @@
         "time": "2025-12-30 21:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027152",
         "title": "埃里森超越马斯克 成为2025年最具话题性科技大佬",
-        "seq": 103
+        "seq": 106
     },
     {
         "media": "聯合早報",
@@ -933,7 +960,7 @@
         "time": "2025-12-30 22:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025417",
         "title": "中国官方：国民体质合格率优良率创新高",
-        "seq": 104
+        "seq": 107
     },
     {
         "media": "聯合早報",
@@ -942,6 +969,6 @@
         "time": "2025-12-30 22:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027891",
         "title": "获释以色列人质：哈马斯逼拍伪自杀视频",
-        "seq": 105
+        "seq": 108
     }
 ]
