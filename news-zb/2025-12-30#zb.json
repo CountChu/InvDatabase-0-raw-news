@@ -1504,12 +1504,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:07",
+        "time": "2025-12-30 21:07",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8030981",
+        "title": "台中新光三越气爆事故 检方起诉涉案13人",
+        "seq": 168
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:09",
+        "time": "2025-12-30 21:09",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8032627",
+        "title": "波兰总理图斯克：乌克兰和平有望在几周内实现",
+        "seq": 169
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "21:31",
         "time": "2025-12-30 21:31",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8027492",
         "title": "Autobahn租车集团禁令申请被驳回 上诉同时引入上市公司潜在投资者",
-        "seq": 168
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1536,7 @@
         "time": "2025-12-30 21:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027152",
         "title": "埃里森超越马斯克 成为2025年最具话题性科技大佬",
-        "seq": 169
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1545,7 @@
         "time": "2025-12-30 22:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025417",
         "title": "中国官方：国民体质合格率优良率创新高",
-        "seq": 170
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,6 +1554,6 @@
         "time": "2025-12-30 22:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027891",
         "title": "获释以色列人质：哈马斯逼拍伪自杀视频",
-        "seq": 171
+        "seq": 173
     }
 ]
