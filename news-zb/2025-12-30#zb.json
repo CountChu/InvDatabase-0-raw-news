@@ -1532,11 +1532,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "21:43",
+        "time": "2025-12-30 21:43",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8032767",
+        "title": "印度称已超越日本 成为世界第四大经济体",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "21:51",
         "time": "2025-12-30 21:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027152",
         "title": "埃里森超越马斯克 成为2025年最具话题性科技大佬",
-        "seq": 171
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1554,7 @@
         "time": "2025-12-30 22:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251229-8025417",
         "title": "中国官方：国民体质合格率优良率创新高",
-        "seq": 172
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1554,6 +1563,6 @@
         "time": "2025-12-30 22:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251229-8027891",
         "title": "获释以色列人质：哈马斯逼拍伪自杀视频",
-        "seq": 173
+        "seq": 174
     }
 ]
