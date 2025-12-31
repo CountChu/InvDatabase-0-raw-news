@@ -1532,11 +1532,20 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "21:05",
+        "time": "2025-12-31 21:05",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251231-8036313",
+        "title": "中国今年采购美国大豆量已达承诺三分之二",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "21:07",
         "time": "2025-12-31 21:07",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8030981",
         "title": "台中新光三越气爆事故 检方起诉涉案13人",
-        "seq": 171
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1554,7 @@
         "time": "2025-12-31 21:09",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8032627",
         "title": "波兰总理图斯克：乌克兰和平有望在几周内实现",
-        "seq": 172
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1563,7 @@
         "time": "2025-12-31 21:31",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251229-8027492",
         "title": "Autobahn租车集团禁令申请被驳回 上诉同时引入上市公司潜在投资者",
-        "seq": 173
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1572,7 @@
         "time": "2025-12-31 21:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8032767",
         "title": "印度称已超越日本 成为世界第四大经济体",
-        "seq": 174
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1581,7 @@
         "time": "2025-12-31 22:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251230-8031177",
         "title": "比亚迪否认将打造飞行汽车",
-        "seq": 175
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1590,7 @@
         "time": "2025-12-31 22:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8032881",
         "title": "意大利高山缆车意外 至少四人受伤约100人一度受困",
-        "seq": 176
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1599,7 @@
         "time": "2025-12-31 22:55",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8032970",
         "title": "阿联酋国防部：已自愿结束在也门的反恐部队任务",
-        "seq": 177
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1608,7 @@
         "time": "2025-12-31 23:25",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8033029",
         "title": "美军击毙或俘虏近25个ISIS成员 土耳其逮捕357嫌疑人",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,7 @@
         "time": "2025-12-31 23:34",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8033051",
         "title": "普京与伊朗总统佩泽希齐扬通话 讨论能源交通等合作",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,6 +1626,6 @@
         "time": "2025-12-31 23:41",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8033070",
         "title": "泽连斯基：“自愿联盟”将于明年1月初举行会议",
-        "seq": 180
+        "seq": 181
     }
 ]
