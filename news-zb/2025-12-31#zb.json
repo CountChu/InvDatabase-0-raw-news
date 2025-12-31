@@ -1594,12 +1594,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:04",
+        "time": "2025-12-31 22:04",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20251231-8036243",
+        "title": "港高才通12万人获批 期满者逾半数申请续签",
+        "seq": 178
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:27",
         "time": "2025-12-31 22:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8032881",
         "title": "意大利高山缆车意外 至少四人受伤约100人一度受困",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,7 @@
         "time": "2025-12-31 22:55",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8032970",
         "title": "阿联酋国防部：已自愿结束在也门的反恐部队任务",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1626,7 @@
         "time": "2025-12-31 23:25",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8033029",
         "title": "美军击毙或俘虏近25个ISIS成员 土耳其逮捕357嫌疑人",
-        "seq": 180
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1635,7 @@
         "time": "2025-12-31 23:34",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8033051",
         "title": "普京与伊朗总统佩泽希齐扬通话 讨论能源交通等合作",
-        "seq": 181
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1635,6 +1644,6 @@
         "time": "2025-12-31 23:41",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251230-8033070",
         "title": "泽连斯基：“自愿联盟”将于明年1月初举行会议",
-        "seq": 182
+        "seq": 183
     }
 ]
