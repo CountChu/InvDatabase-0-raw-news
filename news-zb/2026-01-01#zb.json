@@ -1144,12 +1144,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:08",
+        "time": "2026-01-01 21:08",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260101-8039123",
+        "title": "土耳其对华免签 机票搜索最高增3.2倍",
+        "seq": 128
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:19",
+        "time": "2026-01-01 21:19",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8040444",
+        "title": "金正恩出席新年活动 未释放对外信息 专注内部团结",
+        "seq": 129
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "21:58",
         "time": "2026-01-01 21:58",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251231-8037360",
         "title": "本地首场跨年烟火 加冷上空绽放",
-        "seq": 128
+        "seq": 130
     },
     {
         "media": "聯合早報",
@@ -1158,7 +1176,7 @@
         "time": "2026-01-01 22:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251231-8036243",
         "title": "港高才通12万人获批 期满者逾半数申请续签",
-        "seq": 129
+        "seq": 131
     },
     {
         "media": "聯合早報",
@@ -1167,7 +1185,7 @@
         "time": "2026-01-01 22:48",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037316",
         "title": "澳大利亚悉尼放烟花 迎接新年到来",
-        "seq": 130
+        "seq": 132
     },
     {
         "media": "聯合早報",
@@ -1176,7 +1194,7 @@
         "time": "2026-01-01 23:01",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037411",
         "title": "普京在新年讲话中祝愿俄罗斯赢得战争胜利",
-        "seq": 131
+        "seq": 133
     },
     {
         "media": "聯合早報",
@@ -1185,7 +1203,7 @@
         "time": "2026-01-01 23:04",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037422",
         "title": "法国计划9月起禁止15岁以下儿童使用社交媒体",
-        "seq": 132
+        "seq": 134
     },
     {
         "media": "聯合早報",
@@ -1194,7 +1212,7 @@
         "time": "2026-01-01 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037447",
         "title": "玻州议长：三空置议席不补选",
-        "seq": 133
+        "seq": 135
     },
     {
         "media": "聯合早報",
@@ -1203,6 +1221,6 @@
         "time": "2026-01-01 23:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037481",
         "title": "往返新山金马士 南方列车元旦走入历史",
-        "seq": 134
+        "seq": 136
     }
 ]
