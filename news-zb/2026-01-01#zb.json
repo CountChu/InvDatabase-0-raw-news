@@ -955,12 +955,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "18:40",
+        "time": "2026-01-01 18:40",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20260101-8039896",
+        "title": "三巴旺组屋失火 90人疏散四人吸浓烟送院",
+        "seq": 107
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "18:49",
+        "time": "2026-01-01 18:49",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8039931",
+        "title": "韩总统李在明发表新年贺词 希望推动朝韩半岛和平进程",
+        "seq": 108
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "18:52",
         "time": "2026-01-01 18:52",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20251231-8037005",
         "title": "出售港岛一号中心获益 文华东方2026年1月22日派息",
-        "seq": 107
+        "seq": 109
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "18:56",
+        "time": "2026-01-01 18:56",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260101-8039942",
+        "title": "美元创八年来最大年度跌幅 美联储料继续减息",
+        "seq": 110
     },
     {
         "media": "聯合早報",
@@ -969,7 +996,7 @@
         "time": "2026-01-01 19:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251231-8035894",
         "title": "中国2025年全国育儿补贴发放率约达80%",
-        "seq": 108
+        "seq": 111
     },
     {
         "media": "聯合早報",
@@ -978,7 +1005,7 @@
         "time": "2026-01-01 19:36",
         "link": "https://www.zaobao.com.sg/finance/world/story20251231-8035887",
         "title": "周三美市盘前走低 特斯拉“非比寻常”发布交货量预测成焦点",
-        "seq": 109
+        "seq": 112
     },
     {
         "media": "聯合早報",
@@ -987,7 +1014,7 @@
         "time": "2026-01-01 19:59",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037263",
         "title": "卡米拉王后称青少年时期曾遭到陌生男子袭击",
-        "seq": 110
+        "seq": 113
     },
     {
         "media": "聯合早報",
@@ -996,7 +1023,7 @@
         "time": "2026-01-01 20:02",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251231-8036161",
         "title": "台称与洪都拉斯复交可期待 大陆国台办：洪应从本国人民利益出发",
-        "seq": 111
+        "seq": 114
     },
     {
         "media": "聯合早報",
@@ -1005,7 +1032,7 @@
         "time": "2026-01-01 20:19",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251231-8037273",
         "title": "人流达上限 鱼尾狮滨海等四地现已关闭",
-        "seq": 112
+        "seq": 115
     },
     {
         "media": "聯合早報",
@@ -1014,7 +1041,7 @@
         "time": "2026-01-01 20:24",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037274",
         "title": "两名越南民主活动人士因“反国家”活动被定罪",
-        "seq": 113
+        "seq": 116
     },
     {
         "media": "聯合早報",
@@ -1023,7 +1050,7 @@
         "time": "2026-01-01 20:31",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037291",
         "title": "欧盟：以色列暂停加沙非政府组织的活动将阻碍援助",
-        "seq": 114
+        "seq": 117
     },
     {
         "media": "聯合早報",
@@ -1032,7 +1059,7 @@
         "time": "2026-01-01 20:32",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251231-8037294",
         "title": "习近平新年贺词：晶片自主研发取得新突破 国家统一大势不可挡",
-        "seq": 115
+        "seq": 118
     },
     {
         "media": "聯合早報",
@@ -1041,7 +1068,7 @@
         "time": "2026-01-01 20:34",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037298",
         "title": "土耳其大力打击伊斯兰国 逮捕125名嫌疑人",
-        "seq": 116
+        "seq": 119
     },
     {
         "media": "聯合早報",
@@ -1050,7 +1077,7 @@
         "time": "2026-01-01 21:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251231-8036313",
         "title": "中国今年采购美国大豆量已达承诺三分之二",
-        "seq": 117
+        "seq": 120
     },
     {
         "media": "聯合早報",
@@ -1059,7 +1086,7 @@
         "time": "2026-01-01 21:58",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20251231-8037360",
         "title": "本地首场跨年烟火 加冷上空绽放",
-        "seq": 118
+        "seq": 121
     },
     {
         "media": "聯合早報",
@@ -1068,7 +1095,7 @@
         "time": "2026-01-01 22:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20251231-8036243",
         "title": "港高才通12万人获批 期满者逾半数申请续签",
-        "seq": 119
+        "seq": 122
     },
     {
         "media": "聯合早報",
@@ -1077,7 +1104,7 @@
         "time": "2026-01-01 22:48",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037316",
         "title": "澳大利亚悉尼放烟花 迎接新年到来",
-        "seq": 120
+        "seq": 123
     },
     {
         "media": "聯合早報",
@@ -1086,7 +1113,7 @@
         "time": "2026-01-01 23:01",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037411",
         "title": "普京在新年讲话中祝愿俄罗斯赢得战争胜利",
-        "seq": 121
+        "seq": 124
     },
     {
         "media": "聯合早報",
@@ -1095,7 +1122,7 @@
         "time": "2026-01-01 23:04",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037422",
         "title": "法国计划9月起禁止15岁以下儿童使用社交媒体",
-        "seq": 122
+        "seq": 125
     },
     {
         "media": "聯合早報",
@@ -1104,7 +1131,7 @@
         "time": "2026-01-01 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037447",
         "title": "玻州议长：三空置议席不补选",
-        "seq": 123
+        "seq": 126
     },
     {
         "media": "聯合早報",
@@ -1113,6 +1140,6 @@
         "time": "2026-01-01 23:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037481",
         "title": "往返新山金马士 南方列车元旦走入历史",
-        "seq": 124
+        "seq": 127
     }
 ]
