@@ -1271,11 +1271,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:06",
+        "time": "2026-01-01 23:06",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8040683",
+        "title": "伊朗西南部抗议爆警民冲突 两人死亡",
+        "seq": 142
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:21",
         "time": "2026-01-01 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037447",
         "title": "玻州议长：三空置议席不补选",
-        "seq": 142
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1284,6 +1293,6 @@
         "time": "2026-01-01 23:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037481",
         "title": "往返新山金马士 南方列车元旦走入历史",
-        "seq": 143
+        "seq": 144
     }
 ]
