@@ -1207,12 +1207,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:05",
+        "time": "2026-01-01 22:05",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260101-8039191",
+        "title": "澳门特首：今年将推动经济适度多元发展",
+        "seq": 135
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:18",
+        "time": "2026-01-01 22:18",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260101-8040284",
+        "title": "下午察：台湾网红“馆长”进军抖音直播带货",
+        "seq": 136
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:48",
         "time": "2026-01-01 22:48",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037316",
         "title": "澳大利亚悉尼放烟花 迎接新年到来",
-        "seq": 135
+        "seq": 137
     },
     {
         "media": "聯合早報",
@@ -1221,7 +1239,7 @@
         "time": "2026-01-01 23:01",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037411",
         "title": "普京在新年讲话中祝愿俄罗斯赢得战争胜利",
-        "seq": 136
+        "seq": 138
     },
     {
         "media": "聯合早報",
@@ -1230,7 +1248,7 @@
         "time": "2026-01-01 23:04",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037422",
         "title": "法国计划9月起禁止15岁以下儿童使用社交媒体",
-        "seq": 137
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1257,7 @@
         "time": "2026-01-01 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037447",
         "title": "玻州议长：三空置议席不补选",
-        "seq": 138
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1248,6 +1266,6 @@
         "time": "2026-01-01 23:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20251231-8037481",
         "title": "往返新山金马士 南方列车元旦走入历史",
-        "seq": 139
+        "seq": 141
     }
 ]
