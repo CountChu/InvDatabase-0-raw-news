@@ -496,12 +496,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:00",
+        "time": "2026-01-03 23:00",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8044945",
+        "title": "金字品牌奖揭晓 Work+Store三度获奖登荣誉榜",
+        "seq": 56
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:05",
         "time": "2026-01-03 23:05",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260102-8045303",
         "title": "传工人党提前召开中委会例会 讨论国会追责对策",
-        "seq": 56
+        "seq": 57
     },
     {
         "media": "聯合早報",
@@ -510,7 +519,7 @@
         "time": "2026-01-03 23:07",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260102-8045077",
         "title": "涉一般利敌罪 韩前总统尹锡悦被追加逮捕令",
-        "seq": 57
+        "seq": 58
     },
     {
         "media": "聯合早報",
@@ -519,7 +528,7 @@
         "time": "2026-01-03 23:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260102-8045444",
         "title": "特朗普邀请我国出席美国G20峰会 黄总理表示感谢",
-        "seq": 58
+        "seq": 59
     },
     {
         "media": "聯合早報",
@@ -528,7 +537,7 @@
         "time": "2026-01-03 23:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260102-8043498",
         "title": "“星链”拟降低4400颗卫星轨道高度 维护空间安全",
-        "seq": 59
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -537,6 +546,6 @@
         "time": "2026-01-03 23:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260102-8043801",
         "title": "印度饮用水疑遭厕所污水污染 致10死逾千人患病",
-        "seq": 60
+        "seq": 61
     }
 ]
