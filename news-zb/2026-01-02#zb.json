@@ -1486,12 +1486,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:05",
+        "time": "2026-01-02 23:05",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20260102-8045303",
+        "title": "传工人党提前召开中委会例会 讨论国会追责对策",
+        "seq": 166
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:06",
         "time": "2026-01-02 23:06",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8040683",
         "title": "伊朗西南部抗议爆警民冲突 两人死亡",
-        "seq": 166
+        "seq": 167
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:07",
+        "time": "2026-01-02 23:07",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260102-8045077",
+        "title": "涉一般利敌罪 韩前总统尹锡悦被追加逮捕令",
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1518,7 @@
         "time": "2026-01-02 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8040702",
         "title": "意外交部：美大幅调降意大利面关税",
-        "seq": 167
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1509,6 +1527,6 @@
         "time": "2026-01-02 23:28",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8040735",
         "title": "马国新法令生效首日 当局跨年夜揪出42名垃圾虫",
-        "seq": 168
+        "seq": 170
     }
 ]
