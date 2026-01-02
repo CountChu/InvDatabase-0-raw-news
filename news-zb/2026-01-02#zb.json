@@ -1468,12 +1468,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:43",
+        "time": "2026-01-02 22:43",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260102-8045178",
+        "title": "下午察：中国渐冻人殷盼新年第一缕曙光",
+        "seq": 164
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:45",
+        "time": "2026-01-02 22:45",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260102-8045202",
+        "title": "马斯克旗下AI机器人Grok生成未成年人不当图像",
+        "seq": 165
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:06",
         "time": "2026-01-02 23:06",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8040683",
         "title": "伊朗西南部抗议爆警民冲突 两人死亡",
-        "seq": 164
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1500,7 @@
         "time": "2026-01-02 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8040702",
         "title": "意外交部：美大幅调降意大利面关税",
-        "seq": 165
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1491,6 +1509,6 @@
         "time": "2026-01-02 23:28",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8040735",
         "title": "马国新法令生效首日 当局跨年夜揪出42名垃圾虫",
-        "seq": 166
+        "seq": 168
     }
 ]
