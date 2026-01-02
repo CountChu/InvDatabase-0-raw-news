@@ -1451,11 +1451,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "22:37",
+        "time": "2026-01-02 22:37",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260102-8045397",
+        "title": "墨西哥格雷罗州发生6.3级地震",
+        "seq": 162
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "22:40",
         "time": "2026-01-02 22:40",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8040636",
         "title": "马国律师疑与囚犯勾结 企图人体走私毒品到监狱遭识破",
-        "seq": 162
+        "seq": 163
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1473,7 @@
         "time": "2026-01-02 23:06",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8040683",
         "title": "伊朗西南部抗议爆警民冲突 两人死亡",
-        "seq": 163
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1482,7 @@
         "time": "2026-01-02 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8040702",
         "title": "意外交部：美大幅调降意大利面关税",
-        "seq": 164
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1482,6 +1491,6 @@
         "time": "2026-01-02 23:28",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260101-8040735",
         "title": "马国新法令生效首日 当局跨年夜揪出42名垃圾虫",
-        "seq": 165
+        "seq": 166
     }
 ]
