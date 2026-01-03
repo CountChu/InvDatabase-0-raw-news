@@ -1234,12 +1234,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:44",
+        "time": "2026-01-03 22:44",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8048283",
+        "title": "中国外交部：强烈谴责美方悍然对主权国家使用武力",
+        "seq": 138
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:45",
         "time": "2026-01-03 22:45",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260102-8045202",
         "title": "马斯克旗下AI机器人Grok生成未成年人不当图像",
-        "seq": 138
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1257,7 @@
         "time": "2026-01-03 23:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8044945",
         "title": "金字品牌奖揭晓 Work+Store三度获奖登荣誉榜",
-        "seq": 139
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1266,7 @@
         "time": "2026-01-03 23:05",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260102-8045303",
         "title": "传工人党提前召开中委会例会 讨论国会追责对策",
-        "seq": 140
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1275,7 @@
         "time": "2026-01-03 23:07",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260102-8045077",
         "title": "涉一般利敌罪 韩前总统尹锡悦被追加逮捕令",
-        "seq": 141
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1284,7 @@
         "time": "2026-01-03 23:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260102-8045444",
         "title": "特朗普邀请我国出席美国G20峰会 黄总理表示感谢",
-        "seq": 142
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1284,7 +1293,7 @@
         "time": "2026-01-03 23:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260102-8043498",
         "title": "“星链”拟降低4400颗卫星轨道高度 维护空间安全",
-        "seq": 143
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1293,6 +1302,6 @@
         "time": "2026-01-03 23:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260102-8043801",
         "title": "印度饮用水疑遭厕所污水污染 致10死逾千人患病",
-        "seq": 144
+        "seq": 145
     }
 ]
