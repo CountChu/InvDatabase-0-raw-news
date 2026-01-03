@@ -1298,11 +1298,29 @@
     {
         "media": "聯合早報",
         "category": "新加坡",
+        "timeText": "23:31",
+        "time": "2026-01-03 23:31",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8048353",
+        "title": "福禄寿大厦停车场现积水 公用局：水管漏水所致",
+        "seq": 145
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
         "timeText": "23:32",
         "time": "2026-01-03 23:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260102-8045444",
         "title": "特朗普邀请我国出席美国G20峰会 黄总理表示感谢",
-        "seq": 145
+        "seq": 146
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2026-01-03 23:35",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8048354",
+        "title": "古特雷斯对委内瑞拉局势升级深感震惊",
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1311,7 +1329,7 @@
         "time": "2026-01-03 23:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260102-8043498",
         "title": "“星链”拟降低4400颗卫星轨道高度 维护空间安全",
-        "seq": 146
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1320,6 +1338,6 @@
         "time": "2026-01-03 23:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260102-8043801",
         "title": "印度饮用水疑遭厕所污水污染 致10死逾千人患病",
-        "seq": 147
+        "seq": 149
     }
 ]
