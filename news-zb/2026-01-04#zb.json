@@ -1171,12 +1171,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:27",
+        "time": "2026-01-04 23:27",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051554",
+        "title": "鲁比奥：若委内瑞拉领导层作出“正确决定” 美国愿合作",
+        "seq": 131
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:31",
         "time": "2026-01-04 23:31",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8048353",
         "title": "福禄寿大厦停车场现积水 公用局：水管漏水所致",
-        "seq": 131
+        "seq": 132
     },
     {
         "media": "聯合早報",
@@ -1185,7 +1194,7 @@
         "time": "2026-01-04 23:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260102-8045444",
         "title": "特朗普邀请我国出席美国G20峰会 黄总理表示感谢",
-        "seq": 132
+        "seq": 133
     },
     {
         "media": "聯合早報",
@@ -1194,7 +1203,16 @@
         "time": "2026-01-04 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8048354",
         "title": "古特雷斯对委内瑞拉局势升级深感震惊",
-        "seq": 133
+        "seq": 134
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2026-01-04 23:35",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051563",
+        "title": "俄高官：特朗普委内瑞拉行动违法 但符合美国利益",
+        "seq": 135
     },
     {
         "media": "聯合早報",
@@ -1203,6 +1221,6 @@
         "time": "2026-01-04 23:46",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8048393",
         "title": "特朗普：不会允许任何人接替马杜罗继续掌权",
-        "seq": 134
+        "seq": 136
     }
 ]
