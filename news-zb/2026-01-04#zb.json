@@ -172,12 +172,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "09:22",
+        "time": "2026-01-04 09:22",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8048826",
+        "title": "美国为抓捕马杜罗策划数月 派遣逾1万5000名士兵",
+        "seq": 20
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "09:33",
         "time": "2026-01-04 09:33",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8041300",
         "title": "本地私宅价格去年增3.4% 五年来最小涨幅",
-        "seq": 20
+        "seq": 21
     },
     {
         "media": "聯合早報",
@@ -186,7 +195,7 @@
         "time": "2026-01-04 09:36",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8048940",
         "title": "陈水扁宣布新节目取消 称卓荣泰下令不准播出",
-        "seq": 21
+        "seq": 22
     },
     {
         "media": "聯合早報",
@@ -195,15 +204,6 @@
         "time": "2026-01-04 09:38",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8048924",
         "title": "韩国：朝鲜发射弹道导弹",
-        "seq": 22
-    },
-    {
-        "media": "聯合早報",
-        "category": "中国",
-        "timeText": "09:53",
-        "time": "2026-01-04 09:53",
-        "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8048979",
-        "title": "美空袭委内瑞拉活抓马杜罗 台外交部：当地200侨胞安全无虞",
         "seq": 23
     },
     {
@@ -212,8 +212,17 @@
         "timeText": "09:53",
         "time": "2026-01-04 09:53",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8048979",
-        "title": "台外交部：委内瑞拉200侨胞安全无虞",
+        "title": "美空袭委内瑞拉活抓马杜罗 台外交部：当地200侨胞安全无虞",
         "seq": 24
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "09:53",
+        "time": "2026-01-04 09:53",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8048979",
+        "title": "台外交部：委内瑞拉200侨胞安全无虞",
+        "seq": 25
     },
     {
         "media": "聯合早報",
@@ -222,7 +231,7 @@
         "time": "2026-01-04 10:15",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049065",
         "title": "台媒称北京定调韩国为战略伙伴",
-        "seq": 25
+        "seq": 26
     },
     {
         "media": "聯合早報",
@@ -231,7 +240,7 @@
         "time": "2026-01-04 10:33",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8046038",
         "title": "饮料瓶罐退费制过渡期延长至10月全面落实",
-        "seq": 26
+        "seq": 27
     },
     {
         "media": "聯合早報",
@@ -240,7 +249,7 @@
         "time": "2026-01-04 10:48",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049190",
         "title": "雷军：小米汽车今年全年交付55万辆",
-        "seq": 27
+        "seq": 28
     },
     {
         "media": "聯合早報",
@@ -249,7 +258,7 @@
         "time": "2026-01-04 10:59",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8049130",
         "title": "美国民主党议员称在委内瑞拉问题上受到误导",
-        "seq": 28
+        "seq": 29
     },
     {
         "media": "聯合早報",
@@ -258,15 +267,6 @@
         "time": "2026-01-04 11:03",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8049218",
         "title": "委内瑞拉最高法院下令副总统罗德里格斯担任代理总统",
-        "seq": 29
-    },
-    {
-        "media": "聯合早報",
-        "category": "中国",
-        "timeText": "11:22",
-        "time": "2026-01-04 11:22",
-        "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049313",
-        "title": "今起至春季前 每人每日限购六瓶飞天茅台",
         "seq": 30
     },
     {
@@ -275,8 +275,17 @@
         "timeText": "11:22",
         "time": "2026-01-04 11:22",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049313",
-        "title": "茅台：今起至春季前 每人每日限购六瓶飞天茅台",
+        "title": "今起至春季前 每人每日限购六瓶飞天茅台",
         "seq": 31
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "11:22",
+        "time": "2026-01-04 11:22",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049313",
+        "title": "茅台：今起至春季前 每人每日限购六瓶飞天茅台",
+        "seq": 32
     },
     {
         "media": "聯合早報",
@@ -285,7 +294,7 @@
         "time": "2026-01-04 11:25",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8048968",
         "title": "美国抓捕马杜罗“绝对决心”行动事件簿",
-        "seq": 32
+        "seq": 33
     },
     {
         "media": "聯合早報",
@@ -294,7 +303,7 @@
         "time": "2026-01-04 11:29",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8049264",
         "title": "海外委内瑞拉人庆祝马杜罗被抓捕",
-        "seq": 33
+        "seq": 34
     },
     {
         "media": "聯合早報",
@@ -303,7 +312,7 @@
         "time": "2026-01-04 11:33",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8049339",
         "title": "美国袭击造成至少40名委内瑞拉人丧生",
-        "seq": 34
+        "seq": 35
     },
     {
         "media": "聯合早報",
@@ -312,15 +321,6 @@
         "time": "2026-01-04 11:54",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049422",
         "title": "国民党副主席指赖清德恐想借修两岸条例落实新两国论",
-        "seq": 35
-    },
-    {
-        "media": "聯合早報",
-        "category": "国际",
-        "timeText": "11:56",
-        "time": "2026-01-04 11:56",
-        "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8049354",
-        "title": "特朗普：我对普京很不满意，他杀的人太多了",
         "seq": 36
     },
     {
@@ -329,8 +329,17 @@
         "timeText": "11:56",
         "time": "2026-01-04 11:56",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8049354",
-        "title": "特朗普：我对普京很不满意 他杀的人太多了",
+        "title": "特朗普：我对普京很不满意，他杀的人太多了",
         "seq": 37
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "11:56",
+        "time": "2026-01-04 11:56",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8049354",
+        "title": "特朗普：我对普京很不满意 他杀的人太多了",
+        "seq": 38
     },
     {
         "media": "聯合早報",
@@ -339,7 +348,7 @@
         "time": "2026-01-04 12:08",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049455",
         "title": "澳门去年访客人次突破4000万创新高",
-        "seq": 38
+        "seq": 39
     },
     {
         "media": "聯合早報",
@@ -348,7 +357,7 @@
         "time": "2026-01-04 12:10",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8046506",
         "title": "工人党成立纪律委员会 审查毕丹星是否违党章",
-        "seq": 39
+        "seq": 40
     },
     {
         "media": "聯合早報",
@@ -357,7 +366,7 @@
         "time": "2026-01-04 12:20",
         "link": "https://www.zaobao.com.sg/finance/world/story20260103-8046530",
         "title": "金价开年首日交易报捷 周五上涨0.30％收报4332.29美元",
-        "seq": 40
+        "seq": 41
     },
     {
         "media": "聯合早報",
@@ -366,7 +375,7 @@
         "time": "2026-01-04 12:30",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049171",
         "title": "中国铁路投资去年创历史新高",
-        "seq": 41
+        "seq": 42
     },
     {
         "media": "聯合早報",
@@ -375,7 +384,7 @@
         "time": "2026-01-04 12:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8049563",
         "title": "瑞士警方对新年火患酒吧经理展开调查",
-        "seq": 42
+        "seq": 43
     },
     {
         "media": "聯合早報",
@@ -384,7 +393,7 @@
         "time": "2026-01-04 12:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8049571",
         "title": "缅甸庆祝独立日 军政府赦免6134名囚犯",
-        "seq": 43
+        "seq": 44
     },
     {
         "media": "聯合早報",
@@ -393,7 +402,7 @@
         "time": "2026-01-04 12:59",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8046550",
         "title": "邻里购物券派发第二天 部分民众俱乐部现人潮 ",
-        "seq": 44
+        "seq": 45
     },
     {
         "media": "聯合早報",
@@ -402,7 +411,7 @@
         "time": "2026-01-04 13:00",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8046556",
         "title": "新活跃乐龄中心开幕 PCF Sparkle Care拟添八护理和活动中心",
-        "seq": 45
+        "seq": 46
     },
     {
         "media": "聯合早報",
@@ -411,7 +420,7 @@
         "time": "2026-01-04 13:02",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8049583",
         "title": "缅甸大选官方结果：亲军方的巩发党赢超九成席位",
-        "seq": 46
+        "seq": 47
     },
     {
         "media": "聯合早報",
@@ -420,15 +429,6 @@
         "time": "2026-01-04 13:20",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049510",
         "title": "台北捷运无差别袭击案 舍身救人死者获颁总统褒扬令",
-        "seq": 47
-    },
-    {
-        "media": "聯合早報",
-        "category": "中国",
-        "timeText": "13:39",
-        "time": "2026-01-04 13:39",
-        "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049680",
-        "title": "港行政会议成员：美军事行动对香港影响不大 ",
         "seq": 48
     },
     {
@@ -437,8 +437,17 @@
         "timeText": "13:39",
         "time": "2026-01-04 13:39",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049680",
-        "title": "港行政会议成员：美袭击委内瑞拉事件对香港影响不大 ",
+        "title": "港行政会议成员：美军事行动对香港影响不大 ",
         "seq": 49
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "13:39",
+        "time": "2026-01-04 13:39",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049680",
+        "title": "港行政会议成员：美袭击委内瑞拉事件对香港影响不大 ",
+        "seq": 50
     },
     {
         "media": "聯合早報",
@@ -447,7 +456,7 @@
         "time": "2026-01-04 13:53",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049730",
         "title": "李在明抵达北京 开启就任韩国总统首次访华行程",
-        "seq": 50
+        "seq": 51
     },
     {
         "media": "聯合早報",
@@ -456,7 +465,7 @@
         "time": "2026-01-04 14:17",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049802",
         "title": "中国外交部吁美国立即释放马杜罗夫妇",
-        "seq": 51
+        "seq": 52
     },
     {
         "media": "聯合早報",
@@ -465,7 +474,7 @@
         "time": "2026-01-04 14:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8046790",
         "title": "花木入站 植物园地铁站迎新装",
-        "seq": 52
+        "seq": 53
     },
     {
         "media": "聯合早報",
@@ -474,7 +483,7 @@
         "time": "2026-01-04 14:52",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8046861",
         "title": "居民被指走廊烧冥纸 爆粗辱骂市镇会人员",
-        "seq": 53
+        "seq": 54
     },
     {
         "media": "聯合早報",
@@ -483,7 +492,7 @@
         "time": "2026-01-04 14:58",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8049990",
         "title": "中国大陆网民称特朗普对马杜罗行动是台湾模版",
-        "seq": 54
+        "seq": 55
     },
     {
         "media": "聯合早報",
@@ -492,7 +501,7 @@
         "time": "2026-01-04 15:00",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260104-8049937",
         "title": "行人指百辆脚踏车占道 骑士：停车架在露天忧爱车淋雨",
-        "seq": 55
+        "seq": 56
     },
     {
         "media": "聯合早報",
@@ -501,7 +510,7 @@
         "time": "2026-01-04 15:03",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260103-8046832",
         "title": "铝价三年多来首次突破3000美元",
-        "seq": 56
+        "seq": 57
     },
     {
         "media": "聯合早報",
@@ -510,7 +519,7 @@
         "time": "2026-01-04 15:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8050011",
         "title": "中国官媒指美国抓马杜罗是赤裸裸的霸权行径",
-        "seq": 57
+        "seq": 58
     },
     {
         "media": "聯合早報",
@@ -519,7 +528,7 @@
         "time": "2026-01-04 15:09",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8046909",
         "title": "拖车在巴士转换站外起火 车长协力应对获赞",
-        "seq": 58
+        "seq": 59
     },
     {
         "media": "聯合早報",
@@ -528,7 +537,7 @@
         "time": "2026-01-04 15:10",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8046891",
         "title": "两少女结伴离家失联四天 父母报警哭吁回家",
-        "seq": 59
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -537,15 +546,6 @@
         "time": "2026-01-04 15:13",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260104-8050026",
         "title": "疑一团纸巾酿冲突 两食客食阁互推搡",
-        "seq": 60
-    },
-    {
-        "media": "聯合早報",
-        "category": "国际",
-        "timeText": "15:15",
-        "time": "2026-01-04 15:15",
-        "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8050038",
-        "title": "疑遮狮城车牌添马国津贴汽油 警方追查车主身分",
         "seq": 61
     },
     {
@@ -554,8 +554,17 @@
         "timeText": "15:15",
         "time": "2026-01-04 15:15",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8050038",
-        "title": "狮城车疑遮车牌添马国津贴汽油 警方追查车主身份",
+        "title": "疑遮狮城车牌添马国津贴汽油 警方追查车主身分",
         "seq": 62
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "15:15",
+        "time": "2026-01-04 15:15",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8050038",
+        "title": "狮城车疑遮车牌添马国津贴汽油 警方追查车主身份",
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -564,7 +573,7 @@
         "time": "2026-01-04 15:23",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8050104",
         "title": "爱尔兰总理马丁抵达北京开展五天访华行程",
-        "seq": 63
+        "seq": 64
     },
     {
         "media": "聯合早報",
@@ -573,7 +582,7 @@
         "time": "2026-01-04 15:34",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260104-8050094",
         "title": "台湾男子飞新当跑腿 一周收逾17万元赃款",
-        "seq": 64
+        "seq": 65
     },
     {
         "media": "聯合早報",
@@ -582,7 +591,34 @@
         "time": "2026-01-04 15:40",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8047019",
         "title": "沈伯洋住处与工作地点被曝光 台警政署加强人身安全维护",
-        "seq": 65
+        "seq": 66
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "15:45",
+        "time": "2026-01-04 15:45",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8050164",
+        "title": "丁薛祥见巴基斯坦外长：中巴加强重大国际地区事务沟通协调",
+        "seq": 67
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "15:47",
+        "time": "2026-01-04 15:47",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8050143",
+        "title": "美国宣布解除对加勒比海地区空域禁飞限制",
+        "seq": 68
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "15:59",
+        "time": "2026-01-04 15:59",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20260104-8050142",
+        "title": "珍珠坊高楼住宅单位失火 约20人紧急疏散",
+        "seq": 69
     },
     {
         "media": "聯合早報",
@@ -591,7 +627,7 @@
         "time": "2026-01-04 16:15",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8047127",
         "title": "台陆委会要求大陆下架涉沈伯洋隐私内容并道歉",
-        "seq": 66
+        "seq": 70
     },
     {
         "media": "聯合早報",
@@ -600,7 +636,7 @@
         "time": "2026-01-04 16:31",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8047175",
         "title": "李在明：习近平谈吐幽默 是真正可靠邻居",
-        "seq": 67
+        "seq": 71
     },
     {
         "media": "聯合早報",
@@ -609,7 +645,7 @@
         "time": "2026-01-04 16:36",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8047159",
         "title": "武吉宝美路组屋PAB引发火患 所幸无人受伤",
-        "seq": 68
+        "seq": 72
     },
     {
         "media": "聯合早報",
@@ -618,7 +654,7 @@
         "time": "2026-01-04 17:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8043509",
         "title": "负债率逼近上限 吉宝房产信托无法收购更多MBFC产权",
-        "seq": 69
+        "seq": 73
     },
     {
         "media": "聯合早報",
@@ -627,7 +663,7 @@
         "time": "2026-01-04 17:24",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8047376",
         "title": "隐私被曝光 沈伯洋：北京分化台湾社会经典做法",
-        "seq": 70
+        "seq": 74
     },
     {
         "media": "聯合早報",
@@ -636,7 +672,7 @@
         "time": "2026-01-04 17:33",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8047409",
         "title": "云南德宏州长卫岗主动投案",
-        "seq": 71
+        "seq": 75
     },
     {
         "media": "聯合早報",
@@ -645,7 +681,7 @@
         "time": "2026-01-04 17:33",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8043891",
         "title": "新一批储蓄债券利率回升至2.25%",
-        "seq": 72
+        "seq": 76
     },
     {
         "media": "聯合早報",
@@ -654,7 +690,7 @@
         "time": "2026-01-04 17:44",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8047453",
         "title": "调查：近半数日企认为日中关系恶化影响业务",
-        "seq": 73
+        "seq": 77
     },
     {
         "media": "聯合早報",
@@ -663,7 +699,7 @@
         "time": "2026-01-04 17:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8047459",
         "title": "马国榴梿爆量 联邦农业销售局出手收购稳价",
-        "seq": 74
+        "seq": 78
     },
     {
         "media": "聯合早報",
@@ -672,7 +708,7 @@
         "time": "2026-01-04 17:59",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8043321",
         "title": "科技与AI板块再次火热 亚股开年涨海指起0.21% ",
-        "seq": 75
+        "seq": 79
     },
     {
         "media": "聯合早報",
@@ -681,7 +717,7 @@
         "time": "2026-01-04 18:02",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8046699",
         "title": "中国佛协：汉传佛教住持同一场所连任不超过两届",
-        "seq": 76
+        "seq": 80
     },
     {
         "media": "聯合早報",
@@ -690,7 +726,7 @@
         "time": "2026-01-04 18:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8047530",
         "title": "特朗普：委内瑞拉总统马杜罗已被捕",
-        "seq": 77
+        "seq": 81
     },
     {
         "media": "聯合早報",
@@ -699,7 +735,7 @@
         "time": "2026-01-04 18:37",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8047587",
         "title": "美国突袭委内瑞拉抓获马杜罗 多国强烈谴责",
-        "seq": 78
+        "seq": 82
     },
     {
         "media": "聯合早報",
@@ -708,7 +744,7 @@
         "time": "2026-01-04 18:44",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8047605",
         "title": "两少女离家出走四天 星期六被警方寻回",
-        "seq": 79
+        "seq": 83
     },
     {
         "media": "聯合早報",
@@ -717,7 +753,7 @@
         "time": "2026-01-04 19:01",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8047666",
         "title": "淡滨尼组屋发生火患 同一天第二起",
-        "seq": 80
+        "seq": 84
     },
     {
         "media": "聯合早報",
@@ -726,7 +762,7 @@
         "time": "2026-01-04 19:02",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8046920",
         "title": "电影《寻秦记》主题曲被疑刻意隐去填词人林夕名字",
-        "seq": 81
+        "seq": 85
     },
     {
         "media": "聯合早報",
@@ -735,7 +771,7 @@
         "time": "2026-01-04 19:13",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8047706",
         "title": "西班牙：愿为美国与委内瑞拉危机进行斡旋",
-        "seq": 82
+        "seq": 86
     },
     {
         "media": "聯合早報",
@@ -744,7 +780,7 @@
         "time": "2026-01-04 19:19",
         "link": "https://www.zaobao.com.sg/finance/world/story20260102-8043140",
         "title": "周五美市盘前上升 聚焦没股神巴菲特的伯克希尔哈撒韦",
-        "seq": 83
+        "seq": 87
     },
     {
         "media": "聯合早報",
@@ -753,7 +789,7 @@
         "time": "2026-01-04 19:44",
         "link": "https://www.zaobao.com.sg/finance/world/story20260101-8040096",
         "title": "特朗普公司计划发行新代币并派发给股东",
-        "seq": 84
+        "seq": 88
     },
     {
         "media": "聯合早報",
@@ -762,7 +798,7 @@
         "time": "2026-01-04 19:48",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8047806",
         "title": "伊朗最高领袖承认示威者诉求合理  但警告将严惩“暴徒”",
-        "seq": 85
+        "seq": 89
     },
     {
         "media": "聯合早報",
@@ -771,7 +807,7 @@
         "time": "2026-01-04 19:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8047790",
         "title": "砂拉越婆罗洲航空正式投入营运",
-        "seq": 86
+        "seq": 90
     },
     {
         "media": "聯合早報",
@@ -780,7 +816,7 @@
         "time": "2026-01-04 20:02",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8046977",
         "title": "宝马中国31款车降价 最高降幅达30万人民币",
-        "seq": 87
+        "seq": 91
     },
     {
         "media": "聯合早報",
@@ -789,7 +825,7 @@
         "time": "2026-01-04 20:03",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8042690",
         "title": "徐芳达：户外广告及临时活动执照审批下半年简化提速 助企业运营",
-        "seq": 88
+        "seq": 92
     },
     {
         "media": "聯合早報",
@@ -798,7 +834,7 @@
         "time": "2026-01-04 20:20",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8047914",
         "title": "委内瑞拉中企人员暂无伤亡",
-        "seq": 89
+        "seq": 93
     },
     {
         "media": "聯合早報",
@@ -807,7 +843,7 @@
         "time": "2026-01-04 20:34",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8047933",
         "title": "欧盟密切关注委内瑞拉局势 吁各方保持克制",
-        "seq": 90
+        "seq": 94
     },
     {
         "media": "聯合早報",
@@ -816,7 +852,7 @@
         "time": "2026-01-04 20:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8047972",
         "title": "美司法部长：马杜罗已在纽约被起诉 ",
-        "seq": 91
+        "seq": 95
     },
     {
         "media": "聯合早報",
@@ -825,7 +861,7 @@
         "time": "2026-01-04 20:57",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8047088",
         "title": "瓜州汉武帝雕像被疑“用心险恶” 胡锡进吁信任清华美院",
-        "seq": 92
+        "seq": 96
     },
     {
         "media": "聯合早報",
@@ -834,7 +870,7 @@
         "time": "2026-01-04 21:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8043810",
         "title": "制造业连续扩张五个月 电子业PMI去年12月回升至关税冲击前水平",
-        "seq": 93
+        "seq": 97
     },
     {
         "media": "聯合早報",
@@ -843,7 +879,7 @@
         "time": "2026-01-04 21:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8048003",
         "title": "中国外交部提醒中国公民近期暂勿前往委内瑞拉",
-        "seq": 94
+        "seq": 98
     },
     {
         "media": "聯合早報",
@@ -852,7 +888,7 @@
         "time": "2026-01-04 21:38",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8048084",
         "title": "巴西总统卢拉：美国立下极其危险先例",
-        "seq": 95
+        "seq": 99
     },
     {
         "media": "聯合早報",
@@ -861,7 +897,7 @@
         "time": "2026-01-04 22:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8047371",
         "title": "台官员军演隔天餐叙被批 家属吁台湾适应大陆“军演新常态”",
-        "seq": 96
+        "seq": 100
     },
     {
         "media": "聯合早報",
@@ -870,7 +906,7 @@
         "time": "2026-01-04 22:10",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8048148",
         "title": "斯塔默：英国没参与空袭委内瑞拉",
-        "seq": 97
+        "seq": 101
     },
     {
         "media": "聯合早報",
@@ -879,7 +915,7 @@
         "time": "2026-01-04 22:28",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8048229",
         "title": "万斯：委内瑞拉无视特朗普提出的多项解决方案",
-        "seq": 98
+        "seq": 102
     },
     {
         "media": "聯合早報",
@@ -888,7 +924,7 @@
         "time": "2026-01-04 22:35",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8048265",
         "title": "马杜罗被美抓获前一天曾接见中国政府代表",
-        "seq": 99
+        "seq": 103
     },
     {
         "media": "聯合早報",
@@ -897,7 +933,7 @@
         "time": "2026-01-04 22:44",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260103-8048283",
         "title": "中国外交部：强烈谴责美方悍然对主权国家使用武力",
-        "seq": 100
+        "seq": 104
     },
     {
         "media": "聯合早報",
@@ -906,7 +942,7 @@
         "time": "2026-01-04 23:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8044945",
         "title": "金字品牌奖揭晓 Work+Store三度获奖登荣誉榜",
-        "seq": 101
+        "seq": 105
     },
     {
         "media": "聯合早報",
@@ -915,7 +951,7 @@
         "time": "2026-01-04 23:05",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8048284",
         "title": "特朗普：如看电视般 全程观看抓马杜罗过程",
-        "seq": 102
+        "seq": 106
     },
     {
         "media": "聯合早報",
@@ -924,7 +960,7 @@
         "time": "2026-01-04 23:06",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8048298",
         "title": "美媒：马杜罗夫妇被美军从卧室拖出带走",
-        "seq": 103
+        "seq": 107
     },
     {
         "media": "聯合早報",
@@ -933,7 +969,7 @@
         "time": "2026-01-04 23:31",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8048353",
         "title": "福禄寿大厦停车场现积水 公用局：水管漏水所致",
-        "seq": 104
+        "seq": 108
     },
     {
         "media": "聯合早報",
@@ -942,7 +978,7 @@
         "time": "2026-01-04 23:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260102-8045444",
         "title": "特朗普邀请我国出席美国G20峰会 黄总理表示感谢",
-        "seq": 105
+        "seq": 109
     },
     {
         "media": "聯合早報",
@@ -951,7 +987,7 @@
         "time": "2026-01-04 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8048354",
         "title": "古特雷斯对委内瑞拉局势升级深感震惊",
-        "seq": 106
+        "seq": 110
     },
     {
         "media": "聯合早報",
@@ -960,6 +996,6 @@
         "time": "2026-01-04 23:46",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260103-8048393",
         "title": "特朗普：不会允许任何人接替马杜罗继续掌权",
-        "seq": 107
+        "seq": 111
     }
 ]
