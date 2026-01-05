@@ -1549,12 +1549,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:05",
+        "time": "2026-01-05 22:05",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260105-8054731",
+        "title": "元旦假期海南离岛免税购物金额同比增近129%",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:11",
+        "time": "2026-01-05 22:11",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20260105-8056424",
+        "title": "6岁男童在星耀樟宜摔倒致鼻梁骨折 家长吁加强防护措施",
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:13",
         "time": "2026-01-05 22:13",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051429",
         "title": "虽面临党内逼宫猜测 斯塔默坚称将完成五年英首相任期",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1581,7 @@
         "time": "2026-01-05 23:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8044945",
         "title": "金字品牌奖揭晓 Work+Store三度获奖登荣誉榜",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,7 @@
         "time": "2026-01-05 23:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051554",
         "title": "鲁比奥：若委内瑞拉领导层作出“正确决定” 美国愿合作",
-        "seq": 175
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1599,7 @@
         "time": "2026-01-05 23:31",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8048353",
         "title": "福禄寿大厦停车场现积水 公用局：水管漏水所致",
-        "seq": 176
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1590,6 +1608,6 @@
         "time": "2026-01-05 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051563",
         "title": "俄高官：特朗普委内瑞拉行动违法 但符合美国利益",
-        "seq": 177
+        "seq": 179
     }
 ]
