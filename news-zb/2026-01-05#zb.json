@@ -1289,11 +1289,38 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "19:52",
+        "time": "2026-01-05 19:52",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260105-8055892",
+        "title": "习近平会李在明：中韩携手捍卫二战胜利成果",
+        "seq": 144
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "19:53",
+        "time": "2026-01-05 19:53",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260105-8054928",
+        "title": "风电企业新交所第二上市 主席：瞄准AI带动电力与数据中心投资",
+        "seq": 145
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "19:59",
+        "time": "2026-01-05 19:59",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260105-8054497",
+        "title": "周一美市盘前走高 聚焦特斯拉最新交货量数字",
+        "seq": 146
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "20:03",
         "time": "2026-01-05 20:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8050117",
         "title": "港行会成员：财政改善 公务员不应再冻薪",
-        "seq": 144
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1302,7 +1329,7 @@
         "time": "2026-01-05 20:03",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8042690",
         "title": "徐芳达：户外广告及临时活动执照审批下半年简化提速 助企业运营",
-        "seq": 145
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1311,7 +1338,7 @@
         "time": "2026-01-05 20:34",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051191",
         "title": "希腊意大利空域系统故障 暂停航班数千人滞留机场",
-        "seq": 146
+        "seq": 149
     },
     {
         "media": "聯合早報",
@@ -1320,7 +1347,7 @@
         "time": "2026-01-05 20:47",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051213",
         "title": "以色列总理内坦亚胡：支持美国攻击委内瑞拉",
-        "seq": 147
+        "seq": 150
     },
     {
         "media": "聯合早報",
@@ -1329,7 +1356,7 @@
         "time": "2026-01-05 21:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8043810",
         "title": "制造业连续扩张五个月 电子业PMI去年12月回升至关税冲击前水平",
-        "seq": 148
+        "seq": 151
     },
     {
         "media": "聯合早報",
@@ -1338,7 +1365,7 @@
         "time": "2026-01-05 21:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8050155",
         "title": "台国安局：大陆去年对台关键基础设施发动日均263万次网攻",
-        "seq": 149
+        "seq": 152
     },
     {
         "media": "聯合早報",
@@ -1347,7 +1374,7 @@
         "time": "2026-01-05 21:41",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051358",
         "title": "尼日利亚市集遭武装分子袭击 至少30人死亡 多人被绑架",
-        "seq": 150
+        "seq": 153
     },
     {
         "media": "聯合早報",
@@ -1356,7 +1383,7 @@
         "time": "2026-01-05 21:58",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051395",
         "title": "英法对叙利亚境内“ISIS”目标发动联合空袭",
-        "seq": 151
+        "seq": 154
     },
     {
         "media": "聯合早報",
@@ -1365,7 +1392,7 @@
         "time": "2026-01-05 22:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8050253",
         "title": "两中国人东京被撞伤 中使馆再发赴日旅游提醒",
-        "seq": 152
+        "seq": 155
     },
     {
         "media": "聯合早報",
@@ -1374,7 +1401,7 @@
         "time": "2026-01-05 22:13",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051429",
         "title": "虽面临党内逼宫猜测 斯塔默坚称将完成五年英首相任期",
-        "seq": 153
+        "seq": 156
     },
     {
         "media": "聯合早報",
@@ -1383,7 +1410,7 @@
         "time": "2026-01-05 23:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8044945",
         "title": "金字品牌奖揭晓 Work+Store三度获奖登荣誉榜",
-        "seq": 154
+        "seq": 157
     },
     {
         "media": "聯合早報",
@@ -1392,7 +1419,7 @@
         "time": "2026-01-05 23:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051554",
         "title": "鲁比奥：若委内瑞拉领导层作出“正确决定” 美国愿合作",
-        "seq": 155
+        "seq": 158
     },
     {
         "media": "聯合早報",
@@ -1401,7 +1428,7 @@
         "time": "2026-01-05 23:31",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8048353",
         "title": "福禄寿大厦停车场现积水 公用局：水管漏水所致",
-        "seq": 156
+        "seq": 159
     },
     {
         "media": "聯合早報",
@@ -1410,6 +1437,6 @@
         "time": "2026-01-05 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051563",
         "title": "俄高官：特朗普委内瑞拉行动违法 但符合美国利益",
-        "seq": 157
+        "seq": 160
     }
 ]
