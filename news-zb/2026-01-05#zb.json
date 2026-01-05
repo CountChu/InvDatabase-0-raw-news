@@ -1576,12 +1576,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:53",
+        "time": "2026-01-05 22:53",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056785",
+        "title": "面对特朗普威胁 哥伦比亚总统准备“拿起武器”",
+        "seq": 176
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:59",
+        "time": "2026-01-05 22:59",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056803",
+        "title": "瑞士酒吧元旦大火 所有伤者身份已确认",
+        "seq": 177
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:00",
         "time": "2026-01-05 23:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8044945",
         "title": "金字品牌奖揭晓 Work+Store三度获奖登荣誉榜",
-        "seq": 176
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1608,7 @@
         "time": "2026-01-05 23:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051554",
         "title": "鲁比奥：若委内瑞拉领导层作出“正确决定” 美国愿合作",
-        "seq": 177
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1617,7 @@
         "time": "2026-01-05 23:31",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8048353",
         "title": "福禄寿大厦停车场现积水 公用局：水管漏水所致",
-        "seq": 178
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1608,6 +1626,6 @@
         "time": "2026-01-05 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051563",
         "title": "俄高官：特朗普委内瑞拉行动违法 但符合美国利益",
-        "seq": 179
+        "seq": 181
     }
 ]
