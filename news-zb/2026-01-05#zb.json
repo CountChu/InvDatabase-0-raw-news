@@ -1504,12 +1504,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:46",
+        "time": "2026-01-05 21:46",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260105-8055826",
+        "title": "标普：亚细安制造业12月扩张放缓 商业信心达近10个月最高",
+        "seq": 168
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:50",
+        "time": "2026-01-05 21:50",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260105-8056178",
+        "title": "下午察：中国迎来2026年首个行业倒闭潮？",
+        "seq": 169
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:53",
+        "time": "2026-01-05 21:53",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260105-8055690",
+        "title": "美国想重建委内瑞拉石油业 未来十年需投入1000亿美元",
+        "seq": 170
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "21:58",
         "time": "2026-01-05 21:58",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051395",
         "title": "英法对叙利亚境内“ISIS”目标发动联合空袭",
-        "seq": 168
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1545,7 @@
         "time": "2026-01-05 22:03",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260104-8050253",
         "title": "两中国人东京被撞伤 中使馆再发赴日旅游提醒",
-        "seq": 169
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1554,7 @@
         "time": "2026-01-05 22:13",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051429",
         "title": "虽面临党内逼宫猜测 斯塔默坚称将完成五年英首相任期",
-        "seq": 170
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1563,7 @@
         "time": "2026-01-05 23:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260102-8044945",
         "title": "金字品牌奖揭晓 Work+Store三度获奖登荣誉榜",
-        "seq": 171
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1572,7 @@
         "time": "2026-01-05 23:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051554",
         "title": "鲁比奥：若委内瑞拉领导层作出“正确决定” 美国愿合作",
-        "seq": 172
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1581,7 @@
         "time": "2026-01-05 23:31",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8048353",
         "title": "福禄寿大厦停车场现积水 公用局：水管漏水所致",
-        "seq": 173
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1563,6 +1590,6 @@
         "time": "2026-01-05 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051563",
         "title": "俄高官：特朗普委内瑞拉行动违法 但符合美国利益",
-        "seq": 174
+        "seq": 177
     }
 ]
