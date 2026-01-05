@@ -1603,12 +1603,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:20",
+        "time": "2026-01-05 23:20",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260105-8056789",
+        "title": "本地咖啡馆Kith Cafe连月关数店 仅剩两店营业",
+        "seq": 179
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:27",
         "time": "2026-01-05 23:27",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051554",
         "title": "鲁比奥：若委内瑞拉领导层作出“正确决定” 美国愿合作",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1626,7 @@
         "time": "2026-01-05 23:31",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260103-8048353",
         "title": "福禄寿大厦停车场现积水 公用局：水管漏水所致",
-        "seq": 180
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1626,6 +1635,6 @@
         "time": "2026-01-05 23:35",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260104-8051563",
         "title": "俄高官：特朗普委内瑞拉行动违法 但符合美国利益",
-        "seq": 181
+        "seq": 182
     }
 ]
