@@ -1567,12 +1567,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:02",
+        "time": "2026-01-06 22:02",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062076",
+        "title": "不法分子用AI冒充西班牙公主骗钱",
+        "seq": 175
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:05",
         "time": "2026-01-06 22:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260105-8054731",
         "title": "元旦假期海南离岛免税购物金额同比增近129%",
-        "seq": 175
+        "seq": 176
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:08",
+        "time": "2026-01-06 22:08",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062083",
+        "title": "韩国：朝鲜突出金正恩女儿形象重在塑造“社会主义大家庭”",
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1599,7 @@
         "time": "2026-01-06 22:11",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260105-8056424",
         "title": "6岁男童在星耀樟宜摔倒致鼻梁骨折 家长吁加强防护措施",
-        "seq": 176
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1608,7 @@
         "time": "2026-01-06 22:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056785",
         "title": "面对特朗普威胁 哥伦比亚总统准备“拿起武器”",
-        "seq": 177
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1617,7 @@
         "time": "2026-01-06 22:59",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056803",
         "title": "瑞士酒吧元旦大火 所有伤者身份已确认",
-        "seq": 178
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1626,7 @@
         "time": "2026-01-06 23:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260105-8056789",
         "title": "本地咖啡馆Kith Cafe连月关数店 仅剩两店营业",
-        "seq": 179
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1635,7 @@
         "time": "2026-01-06 23:46",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056809",
         "title": "泽连斯基撤换乌克兰最高情报官员",
-        "seq": 180
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1644,7 @@
         "time": "2026-01-06 23:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056923",
         "title": "古特雷斯在委内瑞拉会议上敦促各方尊重政治独立",
-        "seq": 181
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1635,6 +1653,6 @@
         "time": "2026-01-06 23:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056935",
         "title": "墨西哥总统：美洲不属于任何强权",
-        "seq": 182
+        "seq": 184
     }
 ]
