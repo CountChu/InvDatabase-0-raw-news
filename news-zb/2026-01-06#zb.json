@@ -1666,12 +1666,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:08",
+        "time": "2026-01-06 23:08",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062281",
+        "title": "美联储理事米兰：今年降息逾一个百分点是合理的",
+        "seq": 186
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:12",
+        "time": "2026-01-06 23:12",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062300",
+        "title": "乌盟友声明草案：若达成和平协议 美国将牵头监督停火",
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:14",
+        "time": "2026-01-06 23:14",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260106-8062256",
+        "title": "近六成英国首席财务官预计AI将推动公司发展",
+        "seq": 188
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:20",
         "time": "2026-01-06 23:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260105-8056789",
         "title": "本地咖啡馆Kith Cafe连月关数店 仅剩两店营业",
-        "seq": 186
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1707,7 @@
         "time": "2026-01-06 23:46",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056809",
         "title": "泽连斯基撤换乌克兰最高情报官员",
-        "seq": 187
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1716,7 @@
         "time": "2026-01-06 23:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056923",
         "title": "古特雷斯在委内瑞拉会议上敦促各方尊重政治独立",
-        "seq": 188
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1698,6 +1725,6 @@
         "time": "2026-01-06 23:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056935",
         "title": "墨西哥总统：美洲不属于任何强权",
-        "seq": 189
+        "seq": 192
     }
 ]
