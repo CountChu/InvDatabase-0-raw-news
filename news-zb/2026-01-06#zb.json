@@ -1513,12 +1513,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:43",
+        "time": "2026-01-06 21:43",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062026",
+        "title": "寒流周二续席卷欧洲 法交通事故已五人丧命",
+        "seq": 169
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "21:46",
         "time": "2026-01-06 21:46",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260105-8055826",
         "title": "标普：亚细安制造业12月扩张放缓 商业信心达近10个月最高",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1536,16 @@
         "time": "2026-01-06 21:50",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260105-8056178",
         "title": "下午察：中国迎来2026年首个行业倒闭潮？",
-        "seq": 170
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:52",
+        "time": "2026-01-06 21:52",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062066",
+        "title": "乌法领导人讨论加强乌克兰防御",
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1554,16 @@
         "time": "2026-01-06 21:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260105-8055690",
         "title": "美国想重建委内瑞拉石油业 未来十年需投入1000亿美元",
-        "seq": 171
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:59",
+        "time": "2026-01-06 21:59",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260106-8059883",
+        "title": "投行预计香港今年楼价升10%",
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1572,7 @@
         "time": "2026-01-06 22:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260105-8054731",
         "title": "元旦假期海南离岛免税购物金额同比增近129%",
-        "seq": 172
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1581,7 @@
         "time": "2026-01-06 22:11",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260105-8056424",
         "title": "6岁男童在星耀樟宜摔倒致鼻梁骨折 家长吁加强防护措施",
-        "seq": 173
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1590,7 @@
         "time": "2026-01-06 22:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056785",
         "title": "面对特朗普威胁 哥伦比亚总统准备“拿起武器”",
-        "seq": 174
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1599,7 @@
         "time": "2026-01-06 22:59",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056803",
         "title": "瑞士酒吧元旦大火 所有伤者身份已确认",
-        "seq": 175
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1608,7 @@
         "time": "2026-01-06 23:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260105-8056789",
         "title": "本地咖啡馆Kith Cafe连月关数店 仅剩两店营业",
-        "seq": 176
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1617,7 @@
         "time": "2026-01-06 23:46",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056809",
         "title": "泽连斯基撤换乌克兰最高情报官员",
-        "seq": 177
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1626,7 @@
         "time": "2026-01-06 23:53",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056923",
         "title": "古特雷斯在委内瑞拉会议上敦促各方尊重政治独立",
-        "seq": 178
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,6 +1635,6 @@
         "time": "2026-01-06 23:57",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260105-8056935",
         "title": "墨西哥总统：美洲不属于任何强权",
-        "seq": 179
+        "seq": 182
     }
 ]
