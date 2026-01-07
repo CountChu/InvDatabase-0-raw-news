@@ -1585,20 +1585,20 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:38",
+        "time": "2026-01-07 22:38",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260107-8067908",
+        "title": "星狮地产信托获4亿元绿色贷款",
+        "seq": 177
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:43",
         "time": "2026-01-07 22:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062202",
         "title": "15年涉收“保护费”逾百万令吉 马国三移民局官员被控",
-        "seq": 177
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "22:52",
-        "time": "2026-01-07 22:52",
-        "link": "https://www.zaobao.com.sg/realtime/singapore/story20260106-8062203",
-        "title": "实龙岗路上段一巴士道去除 缓解兀里区交通拥堵情况",
         "seq": 178
     },
     {
@@ -1607,8 +1607,17 @@
         "timeText": "22:52",
         "time": "2026-01-07 22:52",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260106-8062203",
-        "title": "实龙岗路上段一巴士道改成虚线 缓解兀里区交通拥堵情况",
+        "title": "实龙岗路上段一巴士道去除 缓解兀里区交通拥堵情况",
         "seq": 179
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:52",
+        "time": "2026-01-07 22:52",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20260106-8062203",
+        "title": "实龙岗路上段一巴士道改成虚线 缓解兀里区交通拥堵情况",
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1626,7 @@
         "time": "2026-01-07 23:08",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062281",
         "title": "美联储理事米兰：今年降息逾一个百分点是合理的",
-        "seq": 180
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1635,7 @@
         "time": "2026-01-07 23:12",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062300",
         "title": "乌盟友声明草案：若达成和平协议 美国将牵头监督停火",
-        "seq": 181
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1635,6 +1644,6 @@
         "time": "2026-01-07 23:14",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260106-8062256",
         "title": "近六成英国首席财务官预计AI将推动公司发展",
-        "seq": 182
+        "seq": 183
     }
 ]
