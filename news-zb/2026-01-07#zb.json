@@ -1513,12 +1513,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:01",
+        "time": "2026-01-07 22:01",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260107-8065348",
+        "title": "新一代小米SU7开启小订 预计4月上市",
+        "seq": 169
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:02",
         "time": "2026-01-07 22:02",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062076",
         "title": "不法分子用AI冒充西班牙公主骗钱",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1536,25 @@
         "time": "2026-01-07 22:08",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062083",
         "title": "韩国：朝鲜突出金正恩女儿形象重在塑造“社会主义大家庭”",
-        "seq": 170
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:13",
+        "time": "2026-01-07 22:13",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260107-8067858",
+        "title": "荷兰情侣使用AI生成的结婚誓词 被法院裁定婚姻无效",
+        "seq": 172
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:19",
+        "time": "2026-01-07 22:19",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260107-8067895",
+        "title": "加拿大总理卡尼将访问中国 时隔九年首次访华",
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1563,7 @@
         "time": "2026-01-07 22:22",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062138",
         "title": "指违反党章 土团党开除赛富丁",
-        "seq": 171
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1572,7 @@
         "time": "2026-01-07 22:33",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062171",
         "title": "G7财长下周一在华盛顿讨论稀土供应链问题",
-        "seq": 172
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1581,7 @@
         "time": "2026-01-07 22:37",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260106-8062166",
         "title": "莱佛士教育脱售资产减债 未来半年料获1.323亿元现金收益",
-        "seq": 173
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1590,7 @@
         "time": "2026-01-07 22:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062202",
         "title": "15年涉收“保护费”逾百万令吉 马国三移民局官员被控",
-        "seq": 174
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1599,7 @@
         "time": "2026-01-07 22:52",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260106-8062203",
         "title": "实龙岗路上段一巴士道去除 缓解兀里区交通拥堵情况",
-        "seq": 175
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1608,7 @@
         "time": "2026-01-07 22:52",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260106-8062203",
         "title": "实龙岗路上段一巴士道改成虚线 缓解兀里区交通拥堵情况",
-        "seq": 176
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1617,7 @@
         "time": "2026-01-07 23:08",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062281",
         "title": "美联储理事米兰：今年降息逾一个百分点是合理的",
-        "seq": 177
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1626,7 @@
         "time": "2026-01-07 23:12",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260106-8062300",
         "title": "乌盟友声明草案：若达成和平协议 美国将牵头监督停火",
-        "seq": 178
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,6 +1635,6 @@
         "time": "2026-01-07 23:14",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260106-8062256",
         "title": "近六成英国首席财务官预计AI将推动公司发展",
-        "seq": 179
+        "seq": 182
     }
 ]
