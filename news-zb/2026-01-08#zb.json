@@ -1694,11 +1694,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:07",
+        "time": "2026-01-08 23:07",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260108-8073737",
+        "title": "进口下滑 美国去年10月贸易逆差跌至2009年来最低",
+        "seq": 189
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:15",
         "time": "2026-01-08 23:15",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260107-8068075",
         "title": "印尼总统普拉博沃宣布 提前实现大米自给自足的目标",
-        "seq": 189
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1716,16 @@
         "time": "2026-01-08 23:17",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260108-8073783",
         "title": "初步数据：墨总统辛鲍姆上任后 每日谋杀案下降近40%",
-        "seq": 190
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:17",
+        "time": "2026-01-08 23:17",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260108-8073783",
+        "title": "墨总统辛鲍姆上任后 每日谋杀案下降近四成",
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1734,16 @@
         "time": "2026-01-08 23:28",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260107-8068097",
         "title": "强调美国永远支持北约 特朗普称中俄惧怕的是美国",
-        "seq": 191
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:31",
+        "time": "2026-01-08 23:31",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260108-8073819",
+        "title": "美联储理事米兰：今年应降息1.5百分点",
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1725,6 +1752,6 @@
         "time": "2026-01-08 23:42",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260107-8068114",
         "title": "美国扣押俄罗斯注册油轮 俄议员谴责是海盗行为",
-        "seq": 192
+        "seq": 195
     }
 ]
