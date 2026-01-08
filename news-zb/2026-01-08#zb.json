@@ -1495,12 +1495,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:43",
+        "time": "2026-01-08 21:43",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260108-8073419",
+        "title": "油轮被扣 俄称美“加剧军事政治紧张局势”",
+        "seq": 167
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "21:44",
         "time": "2026-01-08 21:44",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260107-8067676",
         "title": "双溪加株道一工业建筑起火 30人疏散一人送院",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2026-01-08 21:50",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260107-8067742",
         "title": "德国冬天经历二战以来最长的停电 最低气温低于零下",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1527,16 @@
         "time": "2026-01-08 21:54",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260107-8067789",
         "title": "韩国高校和医院等21家单位遭网袭",
-        "seq": 169
+        "seq": 170
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:55",
+        "time": "2026-01-08 21:55",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260108-8073494",
+        "title": "德外长谴责伊朗暴力对付示威群众",
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1545,7 @@
         "time": "2026-01-08 22:01",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260107-8065348",
         "title": "新一代小米SU7开启小订 预计4月上市",
-        "seq": 170
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1554,7 @@
         "time": "2026-01-08 22:13",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260107-8067858",
         "title": "荷兰情侣使用AI生成的结婚誓词 被法院裁定婚姻无效",
-        "seq": 171
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,7 @@
         "time": "2026-01-08 22:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260107-8067895",
         "title": "加拿大总理卡尼将访问中国 时隔九年首次访华",
-        "seq": 172
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1572,7 @@
         "time": "2026-01-08 22:38",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260107-8067908",
         "title": "星狮地产信托获4亿元绿色贷款",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1581,7 @@
         "time": "2026-01-08 22:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260107-8067969",
         "title": "陈唱国际预计去年投资收益达3.27亿港元",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,7 @@
         "time": "2026-01-08 23:01",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260107-8067719",
         "title": "合乐屋平均入住率增至96.1%",
-        "seq": 175
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1599,7 @@
         "time": "2026-01-08 23:15",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260107-8068075",
         "title": "印尼总统普拉博沃宣布 提前实现大米自给自足的目标",
-        "seq": 176
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1608,7 @@
         "time": "2026-01-08 23:28",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260107-8068097",
         "title": "强调美国永远支持北约 特朗普称中俄惧怕的是美国",
-        "seq": 177
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1599,6 +1617,6 @@
         "time": "2026-01-08 23:42",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260107-8068114",
         "title": "美国扣押俄罗斯注册油轮 俄议员谴责是海盗行为",
-        "seq": 178
+        "seq": 180
     }
 ]
