@@ -1612,12 +1612,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:42",
+        "time": "2026-01-09 22:42",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260109-8079294",
+        "title": "意大利总理：欧盟应就乌克兰问题与俄罗斯对话",
+        "seq": 180
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:46",
+        "time": "2026-01-09 22:46",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260109-8079302",
+        "title": "美国去年10月新房开工量创冠病疫情来新低",
+        "seq": 181
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:48",
         "time": "2026-01-09 22:48",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260108-8073355",
         "title": "五批雀巢婴儿配方奶粉或含毒素 食品局下令暂停销售　 ",
-        "seq": 180
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1644,7 @@
         "time": "2026-01-09 23:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260108-8072183",
         "title": "本地大宗房地产交易去年创新高 分析：今年或难复现破纪录式增长",
-        "seq": 181
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1653,7 @@
         "time": "2026-01-09 23:03",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260108-8073711",
         "title": "2025年全球合作恶化 企业高管叹生意更难做",
-        "seq": 182
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1662,7 @@
         "time": "2026-01-09 23:07",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260108-8073737",
         "title": "进口下滑 美国去年10月贸易逆差跌至2009年来最低",
-        "seq": 183
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1671,7 @@
         "time": "2026-01-09 23:17",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260108-8073783",
         "title": "墨总统辛鲍姆上任后 每日谋杀案下降近四成",
-        "seq": 184
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1662,6 +1680,6 @@
         "time": "2026-01-09 23:31",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260108-8073819",
         "title": "美联储理事米兰：今年应降息1.5百分点",
-        "seq": 185
+        "seq": 187
     }
 ]
