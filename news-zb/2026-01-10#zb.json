@@ -1252,12 +1252,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:40",
+        "time": "2026-01-10 22:40",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20260110-8082150",
+        "title": "Autobahn租车公司债务冲击司机生计  NPHVA呼吁陆交局加强监管",
+        "seq": 140
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:42",
         "time": "2026-01-10 22:42",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260109-8079294",
         "title": "意大利总理：欧盟应就乌克兰问题与俄罗斯对话",
-        "seq": 140
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1275,16 @@
         "time": "2026-01-10 22:46",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260109-8079302",
         "title": "美国去年10月新房开工量创冠病疫情来新低",
-        "seq": 141
+        "seq": 142
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:50",
+        "time": "2026-01-10 22:50",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260110-8082202",
+        "title": "爱尔兰农民上街抗议欧盟通过与南美州贸易协议",
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1293,7 @@
         "time": "2026-01-10 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260109-8079389",
         "title": "美国去年新增就业创冠病疫情来最低",
-        "seq": 142
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1284,6 +1302,6 @@
         "time": "2026-01-10 23:42",
         "link": "https://www.zaobao.com.sg/finance/world/story20260109-8079441",
         "title": "特朗普千亿购债令下 美房地产股应声上涨",
-        "seq": 143
+        "seq": 145
     }
 ]
