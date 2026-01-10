@@ -1217,11 +1217,38 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "22:02",
+        "time": "2026-01-10 22:02",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260110-8082123",
+        "title": "卫报：英国移民锐减 但多数选民误以为在增加",
+        "seq": 136
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:03",
+        "time": "2026-01-10 22:03",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260110-8081139",
+        "title": "韩中关系专家：韩国应在中日间发挥斡旋作用",
+        "seq": 137
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:08",
+        "time": "2026-01-10 22:08",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260110-8082129",
+        "title": "涉军购贪污案 马反贪会在前陆军司令妻家搜出大量名表珠宝",
+        "seq": 138
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "22:19",
         "time": "2026-01-10 22:19",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260109-8079218",
         "title": "日本秋田千叶两县接连发生地震",
-        "seq": 136
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1230,7 +1257,7 @@
         "time": "2026-01-10 22:42",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260109-8079294",
         "title": "意大利总理：欧盟应就乌克兰问题与俄罗斯对话",
-        "seq": 137
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1266,7 @@
         "time": "2026-01-10 22:46",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260109-8079302",
         "title": "美国去年10月新房开工量创冠病疫情来新低",
-        "seq": 138
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1275,7 @@
         "time": "2026-01-10 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260109-8079389",
         "title": "美国去年新增就业创冠病疫情来最低",
-        "seq": 139
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1257,6 +1284,6 @@
         "time": "2026-01-10 23:42",
         "link": "https://www.zaobao.com.sg/finance/world/story20260109-8079441",
         "title": "特朗普千亿购债令下 美房地产股应声上涨",
-        "seq": 140
+        "seq": 143
     }
 ]
