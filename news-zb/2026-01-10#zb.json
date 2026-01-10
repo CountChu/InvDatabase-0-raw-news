@@ -1289,11 +1289,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:09",
+        "time": "2026-01-10 23:09",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260110-8082222",
+        "title": " 马国去年11月失业率2.9% 11年来新低",
+        "seq": 144
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:21",
         "time": "2026-01-10 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260109-8079389",
         "title": "美国去年新增就业创冠病疫情来最低",
-        "seq": 144
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1302,6 +1311,6 @@
         "time": "2026-01-10 23:42",
         "link": "https://www.zaobao.com.sg/finance/world/story20260109-8079441",
         "title": "特朗普千亿购债令下 美房地产股应声上涨",
-        "seq": 145
+        "seq": 146
     }
 ]
