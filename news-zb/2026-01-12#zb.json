@@ -1621,12 +1621,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:10",
+        "time": "2026-01-12 22:10",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260112-8090086",
+        "title": "美国防部1.9亿元入股关键矿产企业 打破中国镓市场主导地位",
+        "seq": 181
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:13",
         "time": "2026-01-12 22:13",
         "link": "https://www.zaobao.com.sg/finance/world/story20260112-8088924",
         "title": "金价自2024年以来创新高近百次 地缘政治不稳持续支撑黄金上涨",
-        "seq": 181
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1644,7 @@
         "time": "2026-01-12 22:20",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260112-8090266",
         "title": "下午察：“国民媳妇”闫学晶哭穷的下场",
-        "seq": 182
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1653,7 @@
         "time": "2026-01-12 22:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260112-8090349",
         "title": "【国会】颜金勇：竞消委将关注金文泰广场、凯德丰树并购案",
-        "seq": 183
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1662,7 @@
         "time": "2026-01-12 22:34",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260111-8085087",
         "title": "菲政坛传有议员要弹劾小马可斯",
-        "seq": 184
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1671,7 @@
         "time": "2026-01-12 22:40",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260110-8082150",
         "title": "Autobahn租车公司债务冲击司机生计  NPHVA呼吁陆交局加强监管",
-        "seq": 185
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1680,16 @@
         "time": "2026-01-12 22:46",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260109-8079302",
         "title": "美国去年10月新房开工量创冠病疫情来新低",
-        "seq": 186
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:46",
+        "time": "2026-01-12 22:46",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260112-8090361",
+        "title": "北约将加强北极安全 应对特朗普欲接管格陵兰岛意图",
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1698,16 @@
         "time": "2026-01-12 22:49",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260111-8085117",
         "title": "泰人民党抛改革蓝图 欲重振“亚洲第五虎”雄风",
-        "seq": 187
+        "seq": 189
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:51",
+        "time": "2026-01-12 22:51",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260112-8089945",
+        "title": "俄政府：2025年逾千种新型军事装备前线测试",
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1716,7 @@
         "time": "2026-01-12 23:07",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260111-8085161",
         "title": "内坦亚胡：以色列将减少依赖美国军援",
-        "seq": 188
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1725,7 @@
         "time": "2026-01-12 23:29",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260111-8085183",
         "title": "特朗普转发社媒贴文：鲁比奥应当古巴领导人",
-        "seq": 189
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1707,6 +1734,6 @@
         "time": "2026-01-12 23:42",
         "link": "https://www.zaobao.com.sg/finance/world/story20260109-8079441",
         "title": "特朗普千亿购债令下 美房地产股应声上涨",
-        "seq": 190
+        "seq": 193
     }
 ]
