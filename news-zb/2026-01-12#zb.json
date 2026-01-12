@@ -1720,12 +1720,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:14",
+        "time": "2026-01-12 23:14",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260112-8090713",
+        "title": "新交所拟推出印度和东南亚债券期货",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:29",
         "time": "2026-01-12 23:29",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260111-8085183",
         "title": "特朗普转发社媒贴文：鲁比奥应当古巴领导人",
-        "seq": 192
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1734,6 +1743,6 @@
         "time": "2026-01-12 23:42",
         "link": "https://www.zaobao.com.sg/finance/world/story20260109-8079441",
         "title": "特朗普千亿购债令下 美房地产股应声上涨",
-        "seq": 193
+        "seq": 194
     }
 ]
