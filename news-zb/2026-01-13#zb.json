@@ -523,12 +523,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:51",
+        "time": "2026-01-13 22:51",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260112-8089945",
+        "title": "俄去年逾千种新型军备投入前线测试",
+        "seq": 59
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:14",
         "time": "2026-01-13 23:14",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260112-8090713",
         "title": "新交所拟推出印度和东南亚债券期货",
-        "seq": 59
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -537,6 +546,6 @@
         "time": "2026-01-13 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260112-8088078",
         "title": "水母海葵也睡觉 研究：为修复神经元DNA",
-        "seq": 60
+        "seq": 61
     }
 ]
