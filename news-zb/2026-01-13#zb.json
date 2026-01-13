@@ -1756,12 +1756,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:03",
+        "time": "2026-01-13 23:03",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260113-8096818",
+        "title": "社媒X出现故障 全球数万用户无法访问平台",
+        "seq": 196
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:05",
+        "time": "2026-01-13 23:05",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260113-8096696",
+        "title": "吉宝REIT优先献售计划 有效认购率达76.9%",
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:14",
         "time": "2026-01-13 23:14",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260112-8090713",
         "title": "新交所拟推出印度和东南亚债券期货",
-        "seq": 196
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1770,6 +1788,6 @@
         "time": "2026-01-13 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260112-8088078",
         "title": "水母海葵也睡觉 研究：为修复神经元DNA",
-        "seq": 197
+        "seq": 199
     }
 ]
