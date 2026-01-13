@@ -1667,11 +1667,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "22:20",
+        "time": "2026-01-13 22:20",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260113-8096603",
+        "title": "消息：哈马斯将推选新领导人",
+        "seq": 186
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "22:21",
         "time": "2026-01-13 22:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260113-8096465",
         "title": "严寒冬季 俄军密集空袭致基辅逾千公寓无供暖",
-        "seq": 186
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1680,15 +1689,6 @@
         "time": "2026-01-13 22:21",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260113-8096590",
         "title": "为筹运作资金 星狮集团发行总值1.25亿元票据",
-        "seq": 187
-    },
-    {
-        "media": "聯合早報",
-        "category": "财经",
-        "timeText": "22:32",
-        "time": "2026-01-13 22:32",
-        "link": "https://www.zaobao.com.sg/finance/singapore/story20260112-8090349",
-        "title": "【国会】颜金勇：竞消委将关注金文泰广场、凯德丰树并购案",
         "seq": 188
     },
     {
@@ -1697,8 +1697,17 @@
         "timeText": "22:32",
         "time": "2026-01-13 22:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260112-8090349",
-        "title": "未接金文泰广场收购及凯德丰树合并通知 竞消委持续关注两项进展",
+        "title": "【国会】颜金勇：竞消委将关注金文泰广场、凯德丰树并购案",
         "seq": 189
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:32",
+        "time": "2026-01-13 22:32",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260112-8090349",
+        "title": "未接金文泰广场收购及凯德丰树合并通知 竞消委持续关注两项进展",
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1707,15 +1716,6 @@
         "time": "2026-01-13 22:46",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260112-8090361",
         "title": "北约将加强北极安全 应对特朗普欲接管格陵兰岛意图",
-        "seq": 190
-    },
-    {
-        "media": "聯合早報",
-        "category": "国际",
-        "timeText": "22:51",
-        "time": "2026-01-13 22:51",
-        "link": "https://www.zaobao.com.sg/realtime/world/story20260112-8089945",
-        "title": "俄政府：2025年逾千种新型军事装备前线测试",
         "seq": 191
     },
     {
@@ -1724,8 +1724,35 @@
         "timeText": "22:51",
         "time": "2026-01-13 22:51",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260112-8089945",
-        "title": "俄去年逾千种新型军备投入前线测试",
+        "title": "俄政府：2025年逾千种新型军事装备前线测试",
         "seq": 192
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:51",
+        "time": "2026-01-13 22:51",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260112-8089945",
+        "title": "俄去年逾千种新型军备投入前线测试",
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:52",
+        "time": "2026-01-13 22:52",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260113-8096639",
+        "title": "锦佳集团上半年净利报187万元 派息每股0.05分",
+        "seq": 194
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:58",
+        "time": "2026-01-13 22:58",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260113-8096745",
+        "title": "金与正：改善朝韩关系只是韩方“痴心妄想”",
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1761,7 @@
         "time": "2026-01-13 23:14",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260112-8090713",
         "title": "新交所拟推出印度和东南亚债券期货",
-        "seq": 193
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1743,6 +1770,6 @@
         "time": "2026-01-13 23:21",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260112-8088078",
         "title": "水母海葵也睡觉 研究：为修复神经元DNA",
-        "seq": 194
+        "seq": 197
     }
 ]
