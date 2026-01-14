@@ -1747,12 +1747,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:11",
+        "time": "2026-01-14 23:11",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260114-8099483",
+        "title": "经济增长超预期 分析：金管局或最早4月收紧货币政策",
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:26",
         "time": "2026-01-14 23:26",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260113-8096895",
         "title": "丹麦美国二选一？格陵兰总理尼尔森：选丹麦",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,6 +1770,6 @@
         "time": "2026-01-14 23:47",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260113-8096913",
         "title": "涉假冒政府官员诈骗1万元 31岁马国男子将被控",
-        "seq": 196
+        "seq": 197
     }
 ]
