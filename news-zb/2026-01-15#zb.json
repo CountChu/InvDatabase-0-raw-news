@@ -1576,12 +1576,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:59",
+        "time": "2026-01-15 22:59",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20260115-8108109",
+        "title": "元旦前夕展开执法行动 交警逮捕四人开103张罚单",
+        "seq": 176
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:11",
         "time": "2026-01-15 23:11",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260114-8099483",
         "title": "经济增长超预期 分析：金管局或最早4月收紧货币政策",
-        "seq": 176
+        "seq": 177
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:14",
+        "time": "2026-01-15 23:14",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260115-8108369",
+        "title": "伊朗骚乱以来首次公开接触 中国反对世界退回“丛林法则”",
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1608,7 @@
         "time": "2026-01-15 23:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260114-8102699",
         "title": "政府探讨让少单位组屋集群投票 增加参与家居改进计划投票户数",
-        "seq": 177
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1599,6 +1617,6 @@
         "time": "2026-01-15 23:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260114-8102834",
         "title": "民调：46%民众支持废除美国移民与海关执法局",
-        "seq": 178
+        "seq": 180
     }
 ]
