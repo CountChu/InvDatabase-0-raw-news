@@ -1504,12 +1504,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:03",
+        "time": "2026-01-15 22:03",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260115-8107527",
+        "title": "担心被外国竞争者超越 零售商提出七项预算案建议　",
+        "seq": 168
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:04",
         "time": "2026-01-15 22:04",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260114-8099465",
         "title": "蔡易余初选大胜 将代表民进党参选嘉义县长",
-        "seq": 168
+        "seq": 169
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:05",
+        "time": "2026-01-15 22:05",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260115-8105965",
+        "title": "台海基会新任董事长苏嘉全：恢复两岸健康交流为首要目标",
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1536,7 @@
         "time": "2026-01-15 22:26",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260114-8102514",
         "title": "丹麦先遣分队赴格陵兰运送军备",
-        "seq": 169
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1545,7 @@
         "time": "2026-01-15 23:11",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260114-8099483",
         "title": "经济增长超预期 分析：金管局或最早4月收紧货币政策",
-        "seq": 170
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1554,7 @@
         "time": "2026-01-15 23:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260114-8102699",
         "title": "政府探讨让少单位组屋集群投票 增加参与家居改进计划投票户数",
-        "seq": 171
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,6 +1563,6 @@
         "time": "2026-01-15 23:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260114-8102834",
         "title": "民调：46%民众支持废除美国移民与海关执法局",
-        "seq": 172
+        "seq": 174
     }
 ]
