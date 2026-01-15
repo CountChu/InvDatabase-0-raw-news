@@ -1540,12 +1540,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:26",
+        "time": "2026-01-15 22:26",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260115-8108240",
+        "title": "英国智库：亚洲经济体今年继续为全球增长重要引擎",
+        "seq": 172
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:29",
+        "time": "2026-01-15 22:29",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260115-8108233",
+        "title": "林增控股2026财年上半年净利料取得显著增长",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:11",
         "time": "2026-01-15 23:11",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260114-8099483",
         "title": "经济增长超预期 分析：金管局或最早4月收紧货币政策",
-        "seq": 172
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1572,7 @@
         "time": "2026-01-15 23:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260114-8102699",
         "title": "政府探讨让少单位组屋集群投票 增加参与家居改进计划投票户数",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,6 +1581,6 @@
         "time": "2026-01-15 23:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260114-8102834",
         "title": "民调：46%民众支持废除美国移民与海关执法局",
-        "seq": 174
+        "seq": 176
     }
 ]
