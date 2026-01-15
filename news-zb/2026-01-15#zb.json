@@ -1558,12 +1558,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:41",
+        "time": "2026-01-15 22:41",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260115-8108269",
+        "title": "支出提振 德国经济自2022年以来首年实现增长",
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:56",
+        "time": "2026-01-15 22:56",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260115-8108305",
+        "title": "英国经济11月反弹 0.3%增长率高过预期",
+        "seq": 175
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:11",
         "time": "2026-01-15 23:11",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260114-8099483",
         "title": "经济增长超预期 分析：金管局或最早4月收紧货币政策",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,7 @@
         "time": "2026-01-15 23:32",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260114-8102699",
         "title": "政府探讨让少单位组屋集群投票 增加参与家居改进计划投票户数",
-        "seq": 175
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,6 +1599,6 @@
         "time": "2026-01-15 23:43",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260114-8102834",
         "title": "民调：46%民众支持废除美国移民与海关执法局",
-        "seq": 176
+        "seq": 178
     }
 ]
