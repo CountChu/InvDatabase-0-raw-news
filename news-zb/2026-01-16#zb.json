@@ -1531,12 +1531,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:02",
+        "time": "2026-01-16 22:02",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260116-8111212",
+        "title": "中国生态环境部：2026年持续深入推进污染防治攻坚",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:03",
         "time": "2026-01-16 22:03",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260115-8107527",
         "title": "担心被外国竞争者超越 零售商提出七项预算案建议　",
-        "seq": 171
+        "seq": 172
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:04",
+        "time": "2026-01-16 22:04",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260116-8113855",
+        "title": "马查多赠予特朗普诺贝尔和平奖奖章 挪威直呼“难以置信”",
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,25 @@
         "time": "2026-01-16 22:05",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260115-8105965",
         "title": "台海基会新任董事长苏嘉全：恢复两岸健康交流为首要目标",
-        "seq": 172
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:09",
+        "time": "2026-01-16 22:09",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260116-8113841",
+        "title": "中国珠宝商周大福曼谷开设新店 计划全球开设更多门店",
+        "seq": 175
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:13",
+        "time": "2026-01-16 22:13",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260116-8113897",
+        "title": "消息：美国CIA局长会见委内瑞拉代总统讨论合作",
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1590,7 @@
         "time": "2026-01-16 22:26",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260115-8108240",
         "title": "英国智库：亚洲经济体今年继续为全球增长重要引擎",
-        "seq": 173
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1599,7 @@
         "time": "2026-01-16 22:29",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260115-8108233",
         "title": "林增控股2026财年上半年净利料取得显著增长",
-        "seq": 174
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1608,7 @@
         "time": "2026-01-16 22:41",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260115-8108269",
         "title": "支出提振 德国经济自2022年以来首年实现增长",
-        "seq": 175
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1617,7 @@
         "time": "2026-01-16 22:56",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260115-8108305",
         "title": "英国经济11月反弹 0.3%增长率高过预期",
-        "seq": 176
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1626,7 @@
         "time": "2026-01-16 22:59",
         "link": "https://www.zaobao.com.sg/realtime/singapore/story20260115-8108109",
         "title": "元旦前夕展开执法行动 交警逮捕四人开103张罚单",
-        "seq": 177
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1635,7 @@
         "time": "2026-01-16 23:14",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260115-8108369",
         "title": "伊朗骚乱以来首次公开接触 中国反对世界退回“丛林法则”",
-        "seq": 178
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1644,7 @@
         "time": "2026-01-16 23:32",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260115-8108382",
         "title": "伊朗承诺不处决抗议者 暂时避免美国军事打击",
-        "seq": 179
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1653,7 @@
         "time": "2026-01-16 23:54",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260115-8108458",
         "title": "美国在委内瑞拉附近海域扣押第六艘油轮",
-        "seq": 180
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1626,6 +1662,6 @@
         "time": "2026-01-16 23:59",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260115-8108482",
         "title": "荷兰城市乌得勒支发生“巨大爆炸” 一人受伤",
-        "seq": 181
+        "seq": 185
     }
 ]
