@@ -1234,12 +1234,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:30",
+        "time": "2026-01-18 21:30",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260118-8120111",
+        "title": "防弹少年团巡演前夕 釜山酒店取消风波不断",
+        "seq": 138
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:32",
+        "time": "2026-01-18 21:32",
+        "link": "https://www.zaobao.com.sg/realtime/china/story20260118-8118693",
+        "title": "港财政司长：香港正加紧推动建立黄金中央结算系统",
+        "seq": 139
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:38",
+        "time": "2026-01-18 21:38",
+        "link": "https://www.zaobao.com.sg/realtime/singapore/story20260118-8120148",
+        "title": "尚达曼总统对达沃斯进行工作访问",
+        "seq": 140
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:07",
         "time": "2026-01-18 22:07",
         "link": "https://www.zaobao.com.sg/realtime/china/story20260117-8116001",
         "title": "宏福苑大火后 港府拟修例要求所有地盘禁烟",
-        "seq": 138
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1275,7 @@
         "time": "2026-01-18 22:07",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260117-8117082",
         "title": "南非民众再度集会 声援委内瑞拉",
-        "seq": 139
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1284,7 @@
         "time": "2026-01-18 22:09",
         "link": "https://www.zaobao.com.sg/finance/world/story20260116-8113841",
         "title": "中国珠宝商周大福曼谷开设新店 计划全球开设更多门店",
-        "seq": 140
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1293,7 @@
         "time": "2026-01-18 22:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260116-8114045",
         "title": "莱佛士教育完成配售库存股 筹得550万元净资金",
-        "seq": 141
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1302,7 @@
         "time": "2026-01-18 23:14",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260117-8117218",
         "title": "穆塞韦尼在乌干达总统选举中获胜 赢得第七个任期",
-        "seq": 142
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1284,6 +1311,6 @@
         "time": "2026-01-18 23:55",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260117-8117329",
         "title": "叙利亚列库尔德语为国家语言 库尔德人：未达期待",
-        "seq": 143
+        "seq": 146
     }
 ]
