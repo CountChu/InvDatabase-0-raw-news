@@ -1307,11 +1307,29 @@
     {
         "media": "聯合早報",
         "category": "财经",
+        "timeText": "22:23",
+        "time": "2026-01-18 22:23",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260118-8120208",
+        "title": "红杉资本据报参与美国AI巨头Anthropic融资",
+        "seq": 146
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:39",
+        "time": "2026-01-18 22:39",
+        "link": "https://www.zaobao.com.sg/realtime/world/story20260118-8120279",
+        "title": "澳洲去年枪支数量超过400万 创历史新高",
+        "seq": 147
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
         "timeText": "22:58",
         "time": "2026-01-18 22:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260116-8114045",
         "title": "莱佛士教育完成配售库存股 筹得550万元净资金",
-        "seq": 146
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1320,7 +1338,7 @@
         "time": "2026-01-18 23:14",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260117-8117218",
         "title": "穆塞韦尼在乌干达总统选举中获胜 赢得第七个任期",
-        "seq": 147
+        "seq": 149
     },
     {
         "media": "聯合早報",
@@ -1329,6 +1347,6 @@
         "time": "2026-01-18 23:55",
         "link": "https://www.zaobao.com.sg/realtime/world/story20260117-8117329",
         "title": "叙利亚列库尔德语为国家语言 库尔德人：未达期待",
-        "seq": 148
+        "seq": 150
     }
 ]
