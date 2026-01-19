@@ -2800,12 +2800,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:22",
+        "time": "2026-01-19 23:22",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260119-8125672",
+        "title": "乔天王澳网首轮过关 酷热天气让多名球员吃不消",
+        "seq": 312
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:26",
         "time": "2026-01-19 23:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260117-8117104",
         "title": "白宫公布加沙和平委员会成员创始名单",
-        "seq": 312
+        "seq": 313
     },
     {
         "media": "聯合早報",
@@ -2814,7 +2823,7 @@
         "time": "2026-01-19 23:27",
         "link": "https://www.zaobao.com.sg/news/sports/story20260117-8117221",
         "title": "英超2比0勇挫曼市 曼联临时主帅卡里克回锅首秀建奇功",
-        "seq": 313
+        "seq": 314
     },
     {
         "media": "聯合早報",
@@ -2823,7 +2832,25 @@
         "time": "2026-01-19 23:29",
         "link": "https://www.zaobao.com.sg/news/sea/story20260118-8119259",
         "title": "柬称泰自豪党若胜边境将再起冲突 为泰大选加重火药味",
-        "seq": 314
+        "seq": 315
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:29",
+        "time": "2026-01-19 23:29",
+        "link": "https://www.zaobao.com.sg/news/china/story20260119-8124974",
+        "title": "中国2025全年经济增5%达标 分析：依赖出口不可持续",
+        "seq": 316
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:34",
+        "time": "2026-01-19 23:34",
+        "link": "https://www.zaobao.com.sg/news/world/story20260119-8125409",
+        "title": "悉尼两天内三起鲨鱼袭击 部分海滩关闭 ",
+        "seq": 317
     },
     {
         "media": "聯合早報",
@@ -2832,7 +2859,7 @@
         "time": "2026-01-19 23:40",
         "link": "https://www.zaobao.com.sg/news/sea/story20260118-8119405",
         "title": "学生人数下滑 马国华小面临七大挑战",
-        "seq": 315
+        "seq": 318
     },
     {
         "media": "聯合早報",
@@ -2841,7 +2868,7 @@
         "time": "2026-01-19 23:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260119-8120411",
         "title": "刘太格致力建设新加坡 规划理念也在他乡开花结果",
-        "seq": 316
+        "seq": 319
     },
     {
         "media": "聯合早報",
@@ -2850,7 +2877,7 @@
         "time": "2026-01-19 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260118-8120285",
         "title": "艺理会：刘太格以独特视角 彻底重塑新加坡文化景观",
-        "seq": 317
+        "seq": 320
     },
     {
         "media": "聯合早報",
@@ -2859,6 +2886,6 @@
         "time": "2026-01-19 23:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260119-8120377",
         "title": "新加坡城市规划之父 刘太格一生怀抱理性思维与人文艺术关怀",
-        "seq": 318
+        "seq": 321
     }
 ]
