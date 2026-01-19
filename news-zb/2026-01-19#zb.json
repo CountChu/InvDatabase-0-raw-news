@@ -2764,12 +2764,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:07",
+        "time": "2026-01-19 23:07",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260119-8125590",
+        "title": "“金马”跃入牛车水 公众直叹惊喜",
+        "seq": 308
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:11",
         "time": "2026-01-19 23:11",
         "link": "https://www.zaobao.com.sg/news/sea/story20260117-8117066",
         "title": "阿末扎希拟组马来政党大联盟 承诺不威胁政府稳定",
-        "seq": 308
+        "seq": 309
     },
     {
         "media": "聯合早報",
@@ -2778,7 +2787,16 @@
         "time": "2026-01-19 23:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20260118-8120284",
         "title": "土耳其女将澳网搀扶中暑球童 赢比赛也赢人心",
-        "seq": 309
+        "seq": 310
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:16",
+        "time": "2026-01-19 23:16",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260119-8125287",
+        "title": "首个基因诊断与咨询中心正式开幕 助患者了解与完成检测",
+        "seq": 311
     },
     {
         "media": "聯合早報",
@@ -2787,7 +2805,7 @@
         "time": "2026-01-19 23:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260117-8117104",
         "title": "白宫公布加沙和平委员会成员创始名单",
-        "seq": 310
+        "seq": 312
     },
     {
         "media": "聯合早報",
@@ -2796,7 +2814,7 @@
         "time": "2026-01-19 23:27",
         "link": "https://www.zaobao.com.sg/news/sports/story20260117-8117221",
         "title": "英超2比0勇挫曼市 曼联临时主帅卡里克回锅首秀建奇功",
-        "seq": 311
+        "seq": 313
     },
     {
         "media": "聯合早報",
@@ -2805,7 +2823,7 @@
         "time": "2026-01-19 23:29",
         "link": "https://www.zaobao.com.sg/news/sea/story20260118-8119259",
         "title": "柬称泰自豪党若胜边境将再起冲突 为泰大选加重火药味",
-        "seq": 312
+        "seq": 314
     },
     {
         "media": "聯合早報",
@@ -2814,7 +2832,7 @@
         "time": "2026-01-19 23:40",
         "link": "https://www.zaobao.com.sg/news/sea/story20260118-8119405",
         "title": "学生人数下滑 马国华小面临七大挑战",
-        "seq": 313
+        "seq": 315
     },
     {
         "media": "聯合早報",
@@ -2823,7 +2841,7 @@
         "time": "2026-01-19 23:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260119-8120411",
         "title": "刘太格致力建设新加坡 规划理念也在他乡开花结果",
-        "seq": 314
+        "seq": 316
     },
     {
         "media": "聯合早報",
@@ -2832,7 +2850,7 @@
         "time": "2026-01-19 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260118-8120285",
         "title": "艺理会：刘太格以独特视角 彻底重塑新加坡文化景观",
-        "seq": 315
+        "seq": 317
     },
     {
         "media": "聯合早報",
@@ -2841,6 +2859,6 @@
         "time": "2026-01-19 23:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260119-8120377",
         "title": "新加坡城市规划之父 刘太格一生怀抱理性思维与人文艺术关怀",
-        "seq": 316
+        "seq": 318
     }
 ]
