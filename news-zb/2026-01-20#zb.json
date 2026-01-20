@@ -2342,11 +2342,20 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "23:25",
+        "time": "2026-01-20 23:25",
+        "link": "https://www.zaobao.com.sg/news/china/story20260120-8131220",
+        "title": "何立峰：贸易受泛安全化影响 中国想买对方不卖",
+        "seq": 261
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "23:29",
         "time": "2026-01-20 23:29",
         "link": "https://www.zaobao.com.sg/news/china/story20260119-8124974",
         "title": "中国2025全年经济增5%达标 分析：依赖出口不可持续",
-        "seq": 261
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2364,7 @@
         "time": "2026-01-20 23:29",
         "link": "https://www.zaobao.com.sg/news/sea/story20260118-8119259",
         "title": "柬称泰自豪党若胜边境将再起冲突 为泰大选加重火药味",
-        "seq": 262
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2373,16 @@
         "time": "2026-01-20 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260119-8125409",
         "title": "悉尼两天内三起鲨鱼袭击 部分海滩关闭 ",
-        "seq": 263
+        "seq": 264
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:37",
+        "time": "2026-01-20 23:37",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260120-8131426",
+        "title": "Netflix全现金收购华纳兄弟 获得华纳董事会支持",
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2391,7 @@
         "time": "2026-01-20 23:40",
         "link": "https://www.zaobao.com.sg/news/sea/story20260118-8119405",
         "title": "学生人数下滑 马国华小面临七大挑战",
-        "seq": 264
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2382,6 +2400,6 @@
         "time": "2026-01-20 23:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260119-8125690",
         "title": "瑞典研究：人体机能35岁开始衰退",
-        "seq": 265
+        "seq": 267
     }
 ]
