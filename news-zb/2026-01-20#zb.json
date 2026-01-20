@@ -2287,12 +2287,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:06",
+        "time": "2026-01-20 23:06",
+        "link": "https://www.zaobao.com.sg/news/world/story20260120-8131332",
+        "title": "特朗普邀普京加入和平委员会 英乌表示担忧",
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:07",
         "time": "2026-01-20 23:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260119-8125590",
         "title": "“金马”跃入牛车水 公众直叹惊喜",
-        "seq": 255
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2310,7 @@
         "time": "2026-01-20 23:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20260118-8120284",
         "title": "土耳其女将澳网搀扶中暑球童 赢比赛也赢人心",
-        "seq": 256
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2319,16 @@
         "time": "2026-01-20 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260119-8125287",
         "title": "首个基因诊断与咨询中心正式开幕 助患者了解与完成检测",
-        "seq": 257
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:18",
+        "time": "2026-01-20 23:18",
+        "link": "https://www.zaobao.com.sg/news/world/story20260120-8130627",
+        "title": "中国游客虽减 入境日本旅客仍再创新高　",
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2337,7 @@
         "time": "2026-01-20 23:22",
         "link": "https://www.zaobao.com.sg/news/sports/story20260119-8125672",
         "title": "乔天王澳网首轮过关 酷热天气让多名球员吃不消",
-        "seq": 258
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2346,7 @@
         "time": "2026-01-20 23:29",
         "link": "https://www.zaobao.com.sg/news/china/story20260119-8124974",
         "title": "中国2025全年经济增5%达标 分析：依赖出口不可持续",
-        "seq": 259
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2355,7 @@
         "time": "2026-01-20 23:29",
         "link": "https://www.zaobao.com.sg/news/sea/story20260118-8119259",
         "title": "柬称泰自豪党若胜边境将再起冲突 为泰大选加重火药味",
-        "seq": 260
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2364,7 @@
         "time": "2026-01-20 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260119-8125409",
         "title": "悉尼两天内三起鲨鱼袭击 部分海滩关闭 ",
-        "seq": 261
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2373,7 @@
         "time": "2026-01-20 23:40",
         "link": "https://www.zaobao.com.sg/news/sea/story20260118-8119405",
         "title": "学生人数下滑 马国华小面临七大挑战",
-        "seq": 262
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2364,6 +2382,6 @@
         "time": "2026-01-20 23:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260119-8125690",
         "title": "瑞典研究：人体机能35岁开始衰退",
-        "seq": 263
+        "seq": 265
     }
 ]
