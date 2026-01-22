@@ -2539,12 +2539,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:23",
+        "time": "2026-01-22 23:23",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260122-8143985",
+        "title": "GIC第三方代理商进行无票卖空交易 被韩国监管机构罚款10.5万元",
+        "seq": 283
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:25",
         "time": "2026-01-22 23:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260121-8136734",
         "title": "未持许可提供跨境支付服务 新加坡贵金属交易所将被控",
-        "seq": 283
+        "seq": 284
     },
     {
         "media": "聯合早報",
@@ -2553,7 +2562,16 @@
         "time": "2026-01-22 23:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260121-8137461",
         "title": "特朗普称将在达沃斯会见泽连斯基 遭基辅否认",
-        "seq": 284
+        "seq": 285
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:26",
+        "time": "2026-01-22 23:26",
+        "link": "https://www.zaobao.com.sg/news/world/story20260122-8144208",
+        "title": "泽连斯基：与特朗普会晤“富有成效”",
+        "seq": 286
     },
     {
         "media": "聯合早報",
@@ -2562,7 +2580,7 @@
         "time": "2026-01-22 23:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260121-8137434",
         "title": "斯塔默拒向特朗普屈服 反对美收购格陵兰岛",
-        "seq": 285
+        "seq": 287
     },
     {
         "media": "聯合早報",
@@ -2571,7 +2589,7 @@
         "time": "2026-01-22 23:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260121-8137494",
         "title": "特朗普：美国对北约“付出太多回报少”",
-        "seq": 286
+        "seq": 288
     },
     {
         "media": "聯合早報",
@@ -2580,7 +2598,7 @@
         "time": "2026-01-22 23:40",
         "link": "https://www.zaobao.com.sg/news/sea/story20260121-8136334",
         "title": "马国前武装部队总司令与前陆军司令将被控贪污",
-        "seq": 287
+        "seq": 289
     },
     {
         "media": "聯合早報",
@@ -2589,7 +2607,7 @@
         "time": "2026-01-22 23:41",
         "link": "https://www.zaobao.com.sg/news/sea/story20260120-8131406",
         "title": "联合国将雅加达列“全球人口最多城市”引争议",
-        "seq": 288
+        "seq": 290
     },
     {
         "media": "聯合早報",
@@ -2598,7 +2616,7 @@
         "time": "2026-01-22 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260121-8137498",
         "title": "特朗普：加拿大能存活全靠美国",
-        "seq": 289
+        "seq": 291
     },
     {
         "media": "聯合早報",
@@ -2607,7 +2625,7 @@
         "time": "2026-01-22 23:50",
         "link": "https://www.zaobao.com.sg/news/sea/story20260120-8129868",
         "title": "苏林承诺越南未来五年年均经济增速达至少10%",
-        "seq": 290
+        "seq": 292
     },
     {
         "media": "聯合早報",
@@ -2616,6 +2634,6 @@
         "time": "2026-01-22 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260121-8137563",
         "title": "特朗普调侃马克龙戴墨镜 追问“发生了什么”",
-        "seq": 291
+        "seq": 293
     }
 ]
