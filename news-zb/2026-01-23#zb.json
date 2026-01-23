@@ -2405,11 +2405,29 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:02",
+        "time": "2026-01-23 23:02",
+        "link": "https://www.zaobao.com.sg/news/world/story20260123-8154164",
+        "title": "美国移民执法人员扣留5岁男童 引发众怒",
+        "seq": 268
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:08",
         "time": "2026-01-23 23:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260122-8143562",
         "title": "特朗普“和平委员会”正式成立 美国西欧盟友全体缺席",
-        "seq": 268
+        "seq": 269
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:09",
+        "time": "2026-01-23 23:09",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260123-8153818",
+        "title": "印尼加入和平委员会遭国内反弹 唯恐今后受制于美",
+        "seq": 270
     },
     {
         "media": "聯合早報",
@@ -2418,7 +2436,25 @@
         "time": "2026-01-23 23:15",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260122-8143802",
         "title": "第四届新加坡艺博会掀幕 展位布局吸睛富巧思",
-        "seq": 269
+        "seq": 271
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:15",
+        "time": "2026-01-23 23:15",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260123-8154175",
+        "title": "沙巴双补选1月24日投票 成绩最快当晚揭晓",
+        "seq": 272
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:15",
+        "time": "2026-01-23 23:15",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260123-8154207",
+        "title": "海峡贸易合资公司以3.8亿元脱售韩国物流房地产 ",
+        "seq": 273
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2463,7 @@
         "time": "2026-01-23 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260122-8143985",
         "title": "GIC第三方代理商进行无票卖空交易 被韩国监管机构罚款10.5万元",
-        "seq": 270
+        "seq": 274
     },
     {
         "media": "聯合早報",
@@ -2436,7 +2472,7 @@
         "time": "2026-01-23 23:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260122-8144208",
         "title": "泽连斯基：与特朗普会晤“富有成效”",
-        "seq": 271
+        "seq": 275
     },
     {
         "media": "聯合早報",
@@ -2445,7 +2481,7 @@
         "time": "2026-01-23 23:42",
         "link": "https://www.zaobao.com.sg/news/china/story20260122-8143950",
         "title": "传港府两官员短期内离任 学者：未必和宏福苑大火有关",
-        "seq": 272
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2454,7 +2490,7 @@
         "time": "2026-01-23 23:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260122-8143392",
         "title": "2024财年本地慈善机构 善款及总收入皆创新高",
-        "seq": 273
+        "seq": 277
     },
     {
         "media": "聯合早報",
@@ -2463,7 +2499,7 @@
         "time": "2026-01-23 23:47",
         "link": "https://www.zaobao.com.sg/news/china/story20260122-8144087",
         "title": "中日周六亚洲杯足球决战 场内场外交织新仇旧恨",
-        "seq": 274
+        "seq": 278
     },
     {
         "media": "聯合早報",
@@ -2472,6 +2508,6 @@
         "time": "2026-01-23 23:47",
         "link": "https://www.zaobao.com.sg/news/china/story20260122-8144087",
         "title": "中日周六U23亚洲杯足球决战 场内场外交织新仇旧恨",
-        "seq": 275
+        "seq": 279
     }
 ]
