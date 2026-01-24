@@ -1919,11 +1919,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:19",
+        "time": "2026-01-24 23:19",
+        "link": "https://www.zaobao.com.sg/news/world/story20260124-8161159",
+        "title": "阿联酋：俄乌会谈聚焦和平计划“未决事项” 俄外交部：愿继续对话",
+        "seq": 214
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:20",
         "time": "2026-01-24 23:20",
         "link": "https://www.zaobao.com.sg/news/world/story20260123-8154267",
         "title": "希腊总理：和平委员会超出安理会决议范围",
-        "seq": 214
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1941,7 @@
         "time": "2026-01-24 23:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260123-8154334",
         "title": "西班牙高铁事故调查报告：事发前轨道已断裂",
-        "seq": 215
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1941,6 +1950,6 @@
         "time": "2026-01-24 23:55",
         "link": "https://www.zaobao.com.sg/finance/world/story20260123-8153540",
         "title": "标普公司AppLovin被指涉洗钱 以太子集团为黑金中转站",
-        "seq": 216
+        "seq": 217
     }
 ]
