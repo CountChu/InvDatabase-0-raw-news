@@ -1865,11 +1865,20 @@
     {
         "media": "聯合早報",
         "category": "东南亚",
+        "timeText": "23:02",
+        "time": "2026-01-25 23:02",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260125-8170908",
+        "title": "马国政府幼儿园五岁学前教育由教育部统办",
+        "seq": 208
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
         "timeText": "23:09",
         "time": "2026-01-25 23:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20260123-8153818",
         "title": "印尼加入和平委员会遭国内反弹 唯恐今后受制于美",
-        "seq": 208
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1887,7 @@
         "time": "2026-01-25 23:15",
         "link": "https://www.zaobao.com.sg/news/sea/story20260123-8154175",
         "title": "沙巴双补选1月24日投票 成绩最快当晚揭晓",
-        "seq": 209
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1896,7 @@
         "time": "2026-01-25 23:15",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260123-8154207",
         "title": "海峡贸易合资公司以3.8亿元脱售韩国物流房地产 ",
-        "seq": 210
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1905,7 @@
         "time": "2026-01-25 23:19",
         "link": "https://www.zaobao.com.sg/news/world/story20260124-8161159",
         "title": "阿联酋：俄乌会谈聚焦和平计划“未决事项” 俄外交部：愿继续对话",
-        "seq": 211
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1914,7 @@
         "time": "2026-01-25 23:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260124-8161344",
         "title": "张又侠刘振立落马 分析：或涉团团伙伙 台海短期趋稳定 ",
-        "seq": 212
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1923,7 @@
         "time": "2026-01-25 23:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260124-8161368",
         "title": "用剪刀感受古老技艺 60名《早报》读者参加新春剪纸工坊",
-        "seq": 213
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1932,7 @@
         "time": "2026-01-25 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260124-8161571",
         "title": "特朗普威胁加拿大 若与中国达成贸易协议就征100%关税",
-        "seq": 214
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1941,7 @@
         "time": "2026-01-25 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260124-8161518",
         "title": "幼儿培育辅助计划盼三年后 每年援助八成低收入户孩童",
-        "seq": 215
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1950,7 @@
         "time": "2026-01-25 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20260124-8161665",
         "title": "印尼西爪哇省山体滑坡已致10人遇难 仍有71人失联",
-        "seq": 216
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1959,7 @@
         "time": "2026-01-25 23:55",
         "link": "https://www.zaobao.com.sg/finance/world/story20260123-8153540",
         "title": "标普公司AppLovin被指涉洗钱 以太子集团为黑金中转站",
-        "seq": 217
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1968,7 @@
         "time": "2026-01-25 23:59",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260124-8160970",
         "title": "美国数学测评首日即外泄 电商平台公然出售考题答案",
-        "seq": 218
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1977,7 @@
         "time": "2026-01-25 23:59",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260124-8158059",
         "title": "3和3A驾照“松绑”后 电动车车商接获咨询猛增",
-        "seq": 219
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1977,6 +1986,6 @@
         "time": "2026-01-25 23:59",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260124-8160970",
         "title": "美国数学测评首日外泄 电商平台出售考题答案",
-        "seq": 220
+        "seq": 221
     }
 ]
