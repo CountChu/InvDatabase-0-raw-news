@@ -1801,12 +1801,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:27",
+        "time": "2026-01-26 20:27",
+        "link": "https://www.zaobao.com.sg/news/world/story20260126-8180941",
+        "title": "法国总统希望加快立法禁止青少年使用社媒",
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "20:28",
+        "time": "2026-01-26 20:28",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260126-8180439",
+        "title": "忠忠熟食中心整修后重开 设施升级迎食客 摊主期待生意回暖",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "20:30",
         "time": "2026-01-26 20:30",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260125-8170390",
         "title": "分析师：地铁站人流大 部分零售空间设计不理想难招客",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1833,16 @@
         "time": "2026-01-26 20:31",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260125-8147911",
         "title": "地铁站零售空间Hive疑“人去楼空” SMRT：正策划新方案 ",
-        "seq": 202
+        "seq": 204
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "20:32",
+        "time": "2026-01-26 20:32",
+        "link": "https://www.zaobao.com.sg/news/china/story20260126-8179900",
+        "title": "港支联会前副主席涉国安法案 申请传召台湾学者作证被驳回",
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1851,7 @@
         "time": "2026-01-26 20:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260125-8170954",
         "title": "伊拉克国会周二选举总统 马利基料获任重掌总理",
-        "seq": 203
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1860,7 @@
         "time": "2026-01-26 20:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260125-8167923",
         "title": "前央视主持人海霞：感谢家乡的信任 ",
-        "seq": 204
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1869,7 @@
         "time": "2026-01-26 21:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260125-8171061",
         "title": "印度允孟加拉流亡总理公开演讲 遭达卡指责",
-        "seq": 205
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1878,7 @@
         "time": "2026-01-26 21:13",
         "link": "https://www.zaobao.com.sg/news/sports/story20260124-8160530",
         "title": "热浪一度中断澳网比赛 卫冕冠军辛纳“获益”过关",
-        "seq": 206
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1887,7 @@
         "time": "2026-01-26 21:16",
         "link": "https://www.zaobao.com.sg/finance/china/story20260125-8168708",
         "title": "北京今年经济增长目标设为5%左右 ",
-        "seq": 207
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1896,7 @@
         "time": "2026-01-26 21:30",
         "link": "https://www.zaobao.com.sg/news/china/story20260125-8168014",
         "title": "香港青少年军成立10周年 团员从100余人增至近5000人",
-        "seq": 208
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1905,7 @@
         "time": "2026-01-26 21:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260125-8171051",
         "title": "明尼苏达移民执法再酿人命 联邦地方政府紧张加剧",
-        "seq": 209
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1914,7 @@
         "time": "2026-01-26 21:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260125-8170961",
         "title": "本地首个青年职业体验营 商场里举行受青睐",
-        "seq": 210
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1923,7 @@
         "time": "2026-01-26 21:57",
         "link": "https://www.zaobao.com.sg/news/sea/story20260125-8170956",
         "title": "银弹攻势民族主义改革牌纷出招 泰国选战白热化  人民党民调仍最高",
-        "seq": 211
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1932,7 @@
         "time": "2026-01-26 22:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260125-8167669",
         "title": "中国在线旅游平台数据：巴西旅游相关搜索猛增",
-        "seq": 212
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1941,7 @@
         "time": "2026-01-26 22:10",
         "link": "https://www.zaobao.com.sg/news/sea/story20260125-8171199",
         "title": "菲律宾南部一市长遭伏击 三名枪手被击毙",
-        "seq": 213
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1950,7 @@
         "time": "2026-01-26 22:15",
         "link": "https://www.zaobao.com.sg/news/sea/story20260124-8161356",
         "title": "美军舰首访中国援建柬海军基地 ",
-        "seq": 214
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1959,7 @@
         "time": "2026-01-26 22:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260125-8171225",
         "title": "法国防长：军事干预伊朗非法国首选方案",
-        "seq": 215
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1968,7 @@
         "time": "2026-01-26 22:23",
         "link": "https://www.zaobao.com.sg/news/sea/story20260125-8170275",
         "title": "马公民每月出入新加坡八次以上不能领政府援金",
-        "seq": 216
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1977,7 @@
         "time": "2026-01-26 22:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260125-8170429",
         "title": "斋戒月首日巧遇农历新年 武吉甘柏亮灯共庆",
-        "seq": 217
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1986,7 @@
         "time": "2026-01-26 22:52",
         "link": "https://www.zaobao.com.sg/news/sea/story20260124-8161497",
         "title": "印尼与阿联酋集团签协议 建设新首都综合用途项目",
-        "seq": 218
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1995,7 @@
         "time": "2026-01-26 23:02",
         "link": "https://www.zaobao.com.sg/news/sea/story20260125-8170908",
         "title": "马国政府幼儿园五岁学前教育由教育部统办",
-        "seq": 219
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2004,7 @@
         "time": "2026-01-26 23:22",
         "link": "https://www.zaobao.com.sg/news/china/story20260125-8171052",
         "title": "芬兰总理访华为制约及表达对美国不满",
-        "seq": 220
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2013,7 @@
         "time": "2026-01-26 23:22",
         "link": "https://www.zaobao.com.sg/news/china/story20260125-8171052",
         "title": "芬兰总理访华 或为制约及表达对美国不满",
-        "seq": 221
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2022,7 @@
         "time": "2026-01-26 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260125-8171354",
         "title": "美特使与内坦亚胡会谈 美方促以开放拉法口岸",
-        "seq": 222
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2031,7 @@
         "time": "2026-01-26 23:54",
         "link": "https://www.zaobao.com.sg/news/sea/story20260124-8161665",
         "title": "印尼西爪哇省山体滑坡已致10人遇难 仍有71人失联",
-        "seq": 223
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2013,6 +2040,6 @@
         "time": "2026-01-26 23:59",
         "link": "https://www.zaobao.com.sg/news/china/story20260125-8171280",
         "title": "中国军媒批张又侠刘振立“践踏军委主席负责制”  两人或涉越权搞小圈子",
-        "seq": 224
+        "seq": 227
     }
 ]
