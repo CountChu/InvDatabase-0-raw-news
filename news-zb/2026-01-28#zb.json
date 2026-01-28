@@ -2413,12 +2413,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:00",
+        "time": "2026-01-28 23:00",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260128-8204822",
+        "title": "扎夫鲁：新马应专注互补合作 与他国竞争",
+        "seq": 269
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:09",
         "time": "2026-01-28 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260127-8193873",
         "title": "意大利西西里岛山体滑坡 地面裂4公里千人疏散",
-        "seq": 269
+        "seq": 270
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2436,16 @@
         "time": "2026-01-28 23:11",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260127-8192776",
         "title": "筹建工作迈入新阶段 回教学院公布理事会与指导委员会阵容",
-        "seq": 270
+        "seq": 271
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:13",
+        "time": "2026-01-28 23:13",
+        "link": "https://www.zaobao.com.sg/news/world/story20260128-8205235",
+        "title": "前第一夫人金建希受贿案一审  判囚1年8个月",
+        "seq": 272
     },
     {
         "media": "聯合早報",
@@ -2436,7 +2454,25 @@
         "time": "2026-01-28 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260127-8193160",
         "title": "印度欧盟达成“史上最大”自贸协议 应对美国关税威胁与中国出口限制 ",
-        "seq": 271
+        "seq": 273
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:17",
+        "time": "2026-01-28 23:17",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260128-8205844",
+        "title": "亚马逊将裁1.6万名员工 聚焦AI竞争精简公司架构",
+        "seq": 274
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:17",
+        "time": "2026-01-28 23:17",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260128-8205364",
+        "title": "主场三球惨败武里南联 淡滨尼流浪虾皮杯晋级形势转紧",
+        "seq": 275
     },
     {
         "media": "聯合早報",
@@ -2445,7 +2481,7 @@
         "time": "2026-01-28 23:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260127-8193403",
         "title": "全国校际运动会开幕 近7万学生参赛再创新高",
-        "seq": 272
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2454,7 +2490,7 @@
         "time": "2026-01-28 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260127-8192602",
         "title": "儿子反对父亲再娶入禀法庭 九旬商人被裁定具备做决定心智能力",
-        "seq": 273
+        "seq": 277
     },
     {
         "media": "聯合早報",
@@ -2463,7 +2499,7 @@
         "time": "2026-01-28 23:46",
         "link": "https://www.zaobao.com.sg/news/china/story20260127-8193164",
         "title": "会见芬兰总理 习近平称“大国要带头讲平等法治合作诚信”",
-        "seq": 274
+        "seq": 278
     },
     {
         "media": "聯合早報",
@@ -2472,7 +2508,7 @@
         "time": "2026-01-28 23:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260127-8193611",
         "title": "牛车水年货市场开跑 摊贩盼天公作美买气奔腾",
-        "seq": 275
+        "seq": 279
     },
     {
         "media": "聯合早報",
@@ -2481,7 +2517,7 @@
         "time": "2026-01-28 23:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260127-8193966",
         "title": "创办人家族买回好运集团 估值达14亿美元",
-        "seq": 276
+        "seq": 280
     },
     {
         "media": "聯合早報",
@@ -2490,7 +2526,7 @@
         "time": "2026-01-28 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260127-8193814",
         "title": "韩国成为关税战新焦点 我国以多元化策略应对不确定性",
-        "seq": 277
+        "seq": 281
     },
     {
         "media": "聯合早報",
@@ -2499,7 +2535,7 @@
         "time": "2026-01-28 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260127-8193814",
         "title": "韩国成为关税战新焦点 多元化发展是本地企业应对良策",
-        "seq": 278
+        "seq": 282
     },
     {
         "media": "聯合早報",
@@ -2508,7 +2544,7 @@
         "time": "2026-01-28 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260127-8194013",
         "title": "历经844天 以色列记录人质扣押时钟停止计时",
-        "seq": 279
+        "seq": 283
     },
     {
         "media": "聯合早報",
@@ -2517,6 +2553,6 @@
         "time": "2026-01-28 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260127-8194013",
         "title": "历经844天 以色列人质广场时钟停止计时",
-        "seq": 280
+        "seq": 284
     }
 ]
