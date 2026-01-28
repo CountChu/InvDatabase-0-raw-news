@@ -2359,12 +2359,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:40",
+        "time": "2026-01-28 22:40",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260128-8205518",
+        "title": "新加坡羽队泰国大师赛双喜临门 男单混双闯次圈",
+        "seq": 263
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:42",
         "time": "2026-01-28 22:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260127-8193112",
         "title": "不满韩国未兑现投资承诺  特朗普扬言调高对韩关税",
-        "seq": 263
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2382,7 @@
         "time": "2026-01-28 22:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260127-8193555",
         "title": "德国首次发行20年期国债 获近创纪录认购",
-        "seq": 264
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2391,16 @@
         "time": "2026-01-28 22:52",
         "link": "https://www.zaobao.com.sg/news/sea/story20260127-8193547",
         "title": "避免影响学生心理 马国6岁入学前不必测试",
-        "seq": 265
+        "seq": 266
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:53",
+        "time": "2026-01-28 22:53",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260128-8203905",
+        "title": "泰国电动车销量大涨 助汽车市场创两年新高",
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2409,7 @@
         "time": "2026-01-28 22:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260127-8193629",
         "title": "日本选战开打 高市吁民众支持她与维新党组联合政府",
-        "seq": 266
+        "seq": 268
     },
     {
         "media": "聯合早報",
@@ -2400,7 +2418,7 @@
         "time": "2026-01-28 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260127-8193873",
         "title": "意大利西西里岛山体滑坡 地面裂4公里千人疏散",
-        "seq": 267
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2409,7 +2427,7 @@
         "time": "2026-01-28 23:11",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260127-8192776",
         "title": "筹建工作迈入新阶段 回教学院公布理事会与指导委员会阵容",
-        "seq": 268
+        "seq": 270
     },
     {
         "media": "聯合早報",
@@ -2418,7 +2436,7 @@
         "time": "2026-01-28 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260127-8193160",
         "title": "印度欧盟达成“史上最大”自贸协议 应对美国关税威胁与中国出口限制 ",
-        "seq": 269
+        "seq": 271
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2445,7 @@
         "time": "2026-01-28 23:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260127-8193403",
         "title": "全国校际运动会开幕 近7万学生参赛再创新高",
-        "seq": 270
+        "seq": 272
     },
     {
         "media": "聯合早報",
@@ -2436,7 +2454,7 @@
         "time": "2026-01-28 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260127-8192602",
         "title": "儿子反对父亲再娶入禀法庭 九旬商人被裁定具备做决定心智能力",
-        "seq": 271
+        "seq": 273
     },
     {
         "media": "聯合早報",
@@ -2445,7 +2463,7 @@
         "time": "2026-01-28 23:46",
         "link": "https://www.zaobao.com.sg/news/china/story20260127-8193164",
         "title": "会见芬兰总理 习近平称“大国要带头讲平等法治合作诚信”",
-        "seq": 272
+        "seq": 274
     },
     {
         "media": "聯合早報",
@@ -2454,7 +2472,7 @@
         "time": "2026-01-28 23:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260127-8193611",
         "title": "牛车水年货市场开跑 摊贩盼天公作美买气奔腾",
-        "seq": 273
+        "seq": 275
     },
     {
         "media": "聯合早報",
@@ -2463,7 +2481,7 @@
         "time": "2026-01-28 23:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260127-8193966",
         "title": "创办人家族买回好运集团 估值达14亿美元",
-        "seq": 274
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2472,7 +2490,7 @@
         "time": "2026-01-28 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260127-8193814",
         "title": "韩国成为关税战新焦点 我国以多元化策略应对不确定性",
-        "seq": 275
+        "seq": 277
     },
     {
         "media": "聯合早報",
@@ -2481,7 +2499,7 @@
         "time": "2026-01-28 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260127-8193814",
         "title": "韩国成为关税战新焦点 多元化发展是本地企业应对良策",
-        "seq": 276
+        "seq": 278
     },
     {
         "media": "聯合早報",
@@ -2490,7 +2508,7 @@
         "time": "2026-01-28 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260127-8194013",
         "title": "历经844天 以色列记录人质扣押时钟停止计时",
-        "seq": 277
+        "seq": 279
     },
     {
         "media": "聯合早報",
@@ -2499,6 +2517,6 @@
         "time": "2026-01-28 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260127-8194013",
         "title": "历经844天 以色列人质广场时钟停止计时",
-        "seq": 278
+        "seq": 280
     }
 ]
