@@ -2485,12 +2485,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:04",
+        "time": "2026-01-29 23:04",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260129-8216913",
+        "title": "被指机制欠透明 印尼股市两日内重挫16％",
+        "seq": 277
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:10",
+        "time": "2026-01-29 23:10",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260129-8216955",
+        "title": "缅甸亲军方巩发党获联邦议会多数席位 ",
+        "seq": 278
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:13",
         "time": "2026-01-29 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260128-8205235",
         "title": "前第一夫人金建希受贿案一审  判囚1年8个月",
-        "seq": 277
+        "seq": 279
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:15",
+        "time": "2026-01-29 23:15",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260129-8217020",
+        "title": "得益于金银价格上涨 中色金矿全财年净利料显著增长 ",
+        "seq": 280
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:16",
+        "time": "2026-01-29 23:16",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260129-8216746",
+        "title": "菲外长：亚细安暂时不承认缅甸选举结果",
+        "seq": 281
     },
     {
         "media": "聯合早報",
@@ -2499,7 +2535,7 @@
         "time": "2026-01-29 23:17",
         "link": "https://www.zaobao.com.sg/finance/world/story20260128-8205844",
         "title": "亚马逊将裁1.6万名员工 聚焦AI竞争精简公司架构",
-        "seq": 278
+        "seq": 282
     },
     {
         "media": "聯合早報",
@@ -2508,7 +2544,7 @@
         "time": "2026-01-29 23:17",
         "link": "https://www.zaobao.com.sg/news/sports/story20260128-8205364",
         "title": "主场三球惨败武里南联 淡滨尼流浪虾皮杯晋级形势转紧",
-        "seq": 279
+        "seq": 283
     },
     {
         "media": "聯合早報",
@@ -2517,7 +2553,7 @@
         "time": "2026-01-29 23:21",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260128-8204986",
         "title": "新菲外长会晤商缅甸局势 聚焦区域共同利益与合作",
-        "seq": 280
+        "seq": 284
     },
     {
         "media": "聯合早報",
@@ -2526,7 +2562,7 @@
         "time": "2026-01-29 23:22",
         "link": "https://www.zaobao.com.sg/news/sea/story20260128-8204448",
         "title": "野生象数量激增 泰国试行避孕疫苗管理",
-        "seq": 281
+        "seq": 285
     },
     {
         "media": "聯合早報",
@@ -2535,7 +2571,7 @@
         "time": "2026-01-29 23:30",
         "link": "https://www.zaobao.com.sg/news/sea/story20260128-8204353",
         "title": "泰国烧芭烟雾面积大如曼谷 全国三分一地区空污亮红色预警",
-        "seq": 282
+        "seq": 286
     },
     {
         "media": "聯合早報",
@@ -2544,7 +2580,7 @@
         "time": "2026-01-29 23:42",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260128-8205260",
         "title": "开放式游戏平台自创暴力内容 学者：从“看”到“演练”加剧激进化风险",
-        "seq": 283
+        "seq": 287
     },
     {
         "media": "聯合早報",
@@ -2553,7 +2589,7 @@
         "time": "2026-01-29 23:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260128-8189673",
         "title": "能源局局长：全球地缘政治不稳 天然气价格存变数",
-        "seq": 284
+        "seq": 288
     },
     {
         "media": "聯合早報",
@@ -2562,7 +2598,7 @@
         "time": "2026-01-29 23:51",
         "link": "https://www.zaobao.com.sg/news/sea/story20260128-8205973",
         "title": "欧盟越南拟加强稀土晶片与5G合作",
-        "seq": 285
+        "seq": 289
     },
     {
         "media": "聯合早報",
@@ -2571,6 +2607,6 @@
         "time": "2026-01-29 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260128-8135550",
         "title": "我国料提前完成太阳能部署 能源局探讨调高发电目标",
-        "seq": 286
+        "seq": 290
     }
 ]
