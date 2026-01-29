@@ -2575,12 +2575,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:30",
+        "time": "2026-01-29 23:30",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260129-8179982",
+        "title": "理财锦囊：海外留学耗资大 聪明规划不“烧钱”",
+        "seq": 287
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:35",
+        "time": "2026-01-29 23:35",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260129-8216869",
+        "title": "今年首千万多多开彩 六注各赢225万",
+        "seq": 288
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:36",
+        "time": "2026-01-29 23:36",
+        "link": "https://www.zaobao.com.sg/news/china/story20260129-8216874",
+        "title": "中国国防部否认张又侠因向美国泄露核武信息落马",
+        "seq": 289
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:42",
         "time": "2026-01-29 23:42",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260128-8205260",
         "title": "开放式游戏平台自创暴力内容 学者：从“看”到“演练”加剧激进化风险",
-        "seq": 287
+        "seq": 290
     },
     {
         "media": "聯合早報",
@@ -2589,7 +2616,7 @@
         "time": "2026-01-29 23:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260128-8189673",
         "title": "能源局局长：全球地缘政治不稳 天然气价格存变数",
-        "seq": 288
+        "seq": 291
     },
     {
         "media": "聯合早報",
@@ -2598,7 +2625,7 @@
         "time": "2026-01-29 23:51",
         "link": "https://www.zaobao.com.sg/news/sea/story20260128-8205973",
         "title": "欧盟越南拟加强稀土晶片与5G合作",
-        "seq": 289
+        "seq": 292
     },
     {
         "media": "聯合早報",
@@ -2607,6 +2634,6 @@
         "time": "2026-01-29 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260128-8135550",
         "title": "我国料提前完成太阳能部署 能源局探讨调高发电目标",
-        "seq": 290
+        "seq": 293
     }
 ]
