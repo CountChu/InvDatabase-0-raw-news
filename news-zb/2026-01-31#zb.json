@@ -1981,12 +1981,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:25",
+        "time": "2026-01-31 23:25",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8247756",
+        "title": "二手电动车转售量三年持续倍增 去年逾2300辆转手",
+        "seq": 221
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:31",
         "time": "2026-01-31 23:31",
         "link": "https://www.zaobao.com.sg/finance/china/story20260130-8235877",
         "title": "美财政部吁人民币升值后 人民币汇率中间价创新高",
-        "seq": 221
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2004,7 @@
         "time": "2026-01-31 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260130-8236129",
         "title": "停火与整合 “叙利亚民主力量”与叙过渡政府达成共识",
-        "seq": 222
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2013,7 @@
         "time": "2026-01-31 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260130-8235456",
         "title": "乔天王宝刀未老苦战五盘 掀翻卫冕冠军闯澳网决赛",
-        "seq": 223
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2022,7 @@
         "time": "2026-01-31 23:47",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8236177",
         "title": "中国超越新加坡 跃居槟城第二大旅游客源国",
-        "seq": 224
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2031,7 @@
         "time": "2026-01-31 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20260130-8236198",
         "title": "新研究揭示免疫系统“快速刹车”机制 或为治病提供思路",
-        "seq": 225
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2031,6 +2040,6 @@
         "time": "2026-01-31 23:57",
         "link": "https://www.zaobao.com.sg/news/sea/story20260129-8217107",
         "title": "查电子废料弊案 马国反贪会逮捕环境局正副总监 ",
-        "seq": 226
+        "seq": 227
     }
 ]
