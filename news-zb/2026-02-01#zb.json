@@ -2,11 +2,29 @@
     {
         "media": "聯合早報",
         "category": "财经",
+        "timeText": "00:00",
+        "time": "2026-02-01 00:00",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260201-8234797",
+        "title": "淡马锡旗下GenZero委任邢晶晶为董事会新成员",
+        "seq": 1
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "00:12",
+        "time": "2026-02-01 00:12",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260201-8247933",
+        "title": "印尼金管局代主席誓打击股市操纵行为",
+        "seq": 2
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
         "timeText": "09:18",
         "time": "2026-02-01 09:18",
         "link": "https://www.zaobao.com.sg/finance/china/story20260131-8237188",
         "title": "中国调降威士忌进口关税至5%",
-        "seq": 1
+        "seq": 3
     },
     {
         "media": "聯合早報",
@@ -15,7 +33,7 @@
         "time": "2026-02-01 09:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260131-8236618",
         "title": "合乐屋1.01亿元向ESR信托收购樟宜商业园区酒店地段",
-        "seq": 2
+        "seq": 4
     },
     {
         "media": "聯合早報",
@@ -24,7 +42,7 @@
         "time": "2026-02-01 09:34",
         "link": "https://www.zaobao.com.sg/finance/world/story20260131-8237310",
         "title": "消息：SpaceX去年盈利约102亿元 为今年上市铺路",
-        "seq": 3
+        "seq": 5
     },
     {
         "media": "聯合早報",
@@ -33,7 +51,7 @@
         "time": "2026-02-01 09:58",
         "link": "https://www.zaobao.com.sg/finance/world/story20260131-8238083",
         "title": "黄金与白银暴跌 金属市场遭遇剧烈震荡",
-        "seq": 4
+        "seq": 6
     },
     {
         "media": "聯合早報",
@@ -42,7 +60,7 @@
         "time": "2026-02-01 10:21",
         "link": "https://www.zaobao.com.sg/finance/china/story20260131-8239259",
         "title": "中国1月PMI再陷收缩区间 经济师预计第一季度增长放缓",
-        "seq": 5
+        "seq": 7
     },
     {
         "media": "聯合早報",
@@ -51,7 +69,7 @@
         "time": "2026-02-01 10:50",
         "link": "https://www.zaobao.com.sg/news/sports/story20260130-8219232",
         "title": "美国足球队主帅：像对待世界杯一样认真对待友谊赛",
-        "seq": 6
+        "seq": 8
     },
     {
         "media": "聯合早報",
@@ -60,7 +78,7 @@
         "time": "2026-02-01 10:51",
         "link": "https://www.zaobao.com.sg/finance/china/story20260131-8237817",
         "title": "丹麦航运巨企马士基暂时接管长和巴拿马港口运营权",
-        "seq": 7
+        "seq": 9
     },
     {
         "media": "聯合早報",
@@ -69,7 +87,7 @@
         "time": "2026-02-01 11:37",
         "link": "https://www.zaobao.com.sg/finance/china/story20260131-8242247",
         "title": "中国欢迎世贸要求美取消清洁能源补贴措施",
-        "seq": 8
+        "seq": 10
     },
     {
         "media": "聯合早報",
@@ -78,7 +96,7 @@
         "time": "2026-02-01 12:43",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260131-8239686",
         "title": "中国银行新加坡分行与制造商总会签战略合作协议",
-        "seq": 9
+        "seq": 11
     },
     {
         "media": "聯合早報",
@@ -87,7 +105,7 @@
         "time": "2026-02-01 14:11",
         "link": "https://www.zaobao.com.sg/finance/china/story20260131-8246140",
         "title": "英国成为首个签署出口中国备忘录国家",
-        "seq": 10
+        "seq": 12
     },
     {
         "media": "聯合早報",
@@ -96,7 +114,7 @@
         "time": "2026-02-01 14:16",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8246125",
         "title": "美国政府部分“技术性停摆” 周末冲击小白宫望短暂",
-        "seq": 11
+        "seq": 13
     },
     {
         "media": "聯合早報",
@@ -105,7 +123,7 @@
         "time": "2026-02-01 14:39",
         "link": "https://www.zaobao.com.sg/finance/china/story20260131-8246243",
         "title": "西藏2026全年经济增长预期目标7%以上",
-        "seq": 12
+        "seq": 14
     },
     {
         "media": "聯合早報",
@@ -114,7 +132,7 @@
         "time": "2026-02-01 15:02",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8246168",
         "title": "美国本流感季病例已有至少2000万起",
-        "seq": 13
+        "seq": 15
     },
     {
         "media": "聯合早報",
@@ -123,7 +141,7 @@
         "time": "2026-02-01 15:13",
         "link": "https://www.zaobao.com.sg/news/sports/story20260131-8246192",
         "title": "一球力克勒阿弗尔 朗斯超越PSG重登法甲榜首",
-        "seq": 14
+        "seq": 16
     },
     {
         "media": "聯合早報",
@@ -132,7 +150,7 @@
         "time": "2026-02-01 15:19",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8246349",
         "title": "美军：不会容忍伊朗在军演中的“不安全行为”",
-        "seq": 15
+        "seq": 17
     },
     {
         "media": "聯合早報",
@@ -141,7 +159,7 @@
         "time": "2026-02-01 15:22",
         "link": "https://www.zaobao.com.sg/finance/china/story20260131-8246411",
         "title": "阿斯利康携手中国石药开发减肥药物",
-        "seq": 16
+        "seq": 18
     },
     {
         "media": "聯合早報",
@@ -150,7 +168,7 @@
         "time": "2026-02-01 15:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8246457",
         "title": "狮城母女新山搭私召车 惊见司机仅穿内裤",
-        "seq": 17
+        "seq": 19
     },
     {
         "media": "聯合早報",
@@ -159,7 +177,7 @@
         "time": "2026-02-01 15:44",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8246501",
         "title": "疑摔倒撞上路过车辆 老妇满脸血急送院",
-        "seq": 18
+        "seq": 20
     },
     {
         "media": "聯合早報",
@@ -168,7 +186,7 @@
         "time": "2026-02-01 15:46",
         "link": "https://www.zaobao.com.sg/news/sports/story20260131-8246308",
         "title": "掀翻世界第一阿丽娜 伊莲娜首夺澳网女单冠军",
-        "seq": 19
+        "seq": 21
     },
     {
         "media": "聯合早報",
@@ -177,7 +195,7 @@
         "time": "2026-02-01 15:53",
         "link": "https://www.zaobao.com.sg/news/sports/story20260130-8223075",
         "title": "炮兵盼擒利兹重回英超胜轨 红蓝军有望主场赢球",
-        "seq": 20
+        "seq": 22
     },
     {
         "media": "聯合早報",
@@ -186,7 +204,7 @@
         "time": "2026-02-01 15:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8246572",
         "title": "搭讪14岁少女被拒 工程师跟踪骚扰被判监",
-        "seq": 21
+        "seq": 23
     },
     {
         "media": "聯合早報",
@@ -195,7 +213,7 @@
         "time": "2026-02-01 15:57",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8246578",
         "title": "美国政府技术性停摆后 AIT脸书专页停更",
-        "seq": 22
+        "seq": 24
     },
     {
         "media": "聯合早報",
@@ -204,7 +222,7 @@
         "time": "2026-02-01 16:01",
         "link": "https://www.zaobao.com.sg/finance/china/story20260131-8246513",
         "title": "习近平强调走好中国特色金融发展之路",
-        "seq": 23
+        "seq": 25
     },
     {
         "media": "聯合早報",
@@ -213,7 +231,7 @@
         "time": "2026-02-01 16:18",
         "link": "https://www.zaobao.com.sg/news/sports/story20260131-8246351",
         "title": "约基奇伤愈归队砍全场最高31分 金块NBA终止快艇三连胜",
-        "seq": 24
+        "seq": 26
     },
     {
         "media": "聯合早報",
@@ -222,7 +240,7 @@
         "time": "2026-02-01 16:23",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8246661",
         "title": "中国官媒：解放军军机飞进菲军演划设区",
-        "seq": 25
+        "seq": 27
     },
     {
         "media": "聯合早報",
@@ -231,7 +249,7 @@
         "time": "2026-02-01 16:23",
         "link": "https://www.zaobao.com.sg/news/sea/story20260131-8246582",
         "title": "马国新任武装部队总司令2月1日上任",
-        "seq": 26
+        "seq": 28
     },
     {
         "media": "聯合早報",
@@ -240,7 +258,7 @@
         "time": "2026-02-01 16:28",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8246567",
         "title": "柯文哲：蓝白合作战略态势没变 行有余力再帮站台",
-        "seq": 27
+        "seq": 29
     },
     {
         "media": "聯合早報",
@@ -249,7 +267,7 @@
         "time": "2026-02-01 16:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8246715",
         "title": "抗议暴力移民执法 全美至少300城参加",
-        "seq": 28
+        "seq": 30
     },
     {
         "media": "聯合早報",
@@ -258,7 +276,7 @@
         "time": "2026-02-01 16:57",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8246864",
         "title": "习近平：发挥比较优势 推动中国未来产业发展不断取得新突破",
-        "seq": 29
+        "seq": 31
     },
     {
         "media": "聯合早報",
@@ -267,7 +285,7 @@
         "time": "2026-02-01 17:00",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8245961",
         "title": "四癌症组织成立本地首个癌症关怀联盟",
-        "seq": 30
+        "seq": 32
     },
     {
         "media": "聯合早報",
@@ -276,7 +294,7 @@
         "time": "2026-02-01 17:11",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8246921",
         "title": "缺席重要会议后 中国应急管理部部长王祥喜任上落马",
-        "seq": 31
+        "seq": 33
     },
     {
         "media": "聯合早報",
@@ -285,7 +303,7 @@
         "time": "2026-02-01 17:24",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8232313",
         "title": "涉滥用161万元福利基金 马国陆军少将被控刑事失信",
-        "seq": 32
+        "seq": 34
     },
     {
         "media": "聯合早報",
@@ -294,7 +312,7 @@
         "time": "2026-02-01 17:25",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8246962",
         "title": "夏宝龙促立会监督港府不越位 谭耀宗解读：不能代替政府行事",
-        "seq": 33
+        "seq": 35
     },
     {
         "media": "聯合早報",
@@ -303,7 +321,7 @@
         "time": "2026-02-01 17:31",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8246988",
         "title": "赖清德称面对境外势力要并吞 台湾须更团结",
-        "seq": 34
+        "seq": 36
     },
     {
         "media": "聯合早報",
@@ -312,7 +330,7 @@
         "time": "2026-02-01 17:31",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260131-8246960",
         "title": "星展研究看好圣淘沙名胜世界翻新后争回贵宾市场",
-        "seq": 35
+        "seq": 37
     },
     {
         "media": "聯合早報",
@@ -321,7 +339,7 @@
         "time": "2026-02-01 17:36",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8234071",
         "title": "康埔桦巴士转换站重开 五条巴士路线改发车点",
-        "seq": 36
+        "seq": 38
     },
     {
         "media": "聯合早報",
@@ -330,7 +348,7 @@
         "time": "2026-02-01 17:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8246964",
         "title": "刚果民主共和国东部铁矿崩塌 至少227人罹难",
-        "seq": 37
+        "seq": 39
     },
     {
         "media": "聯合早報",
@@ -339,7 +357,7 @@
         "time": "2026-02-01 17:42",
         "link": "https://www.zaobao.com.sg/news/sports/story20260130-8231100",
         "title": "小牛状元弗拉格NBA狂砍49分创纪录 不敌大学同窗",
-        "seq": 38
+        "seq": 40
     },
     {
         "media": "聯合早報",
@@ -348,7 +366,7 @@
         "time": "2026-02-01 17:55",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8247072",
         "title": "民进党立院党团改选 书记长仅一人登记参选",
-        "seq": 39
+        "seq": 41
     },
     {
         "media": "聯合早報",
@@ -357,7 +375,7 @@
         "time": "2026-02-01 18:02",
         "link": "https://www.zaobao.com.sg/news/sports/story20260130-8230900",
         "title": "非洲杯决赛风波延烧 塞内加尔主帅遭禁赛足总接61.5万美元罚单",
-        "seq": 40
+        "seq": 42
     },
     {
         "media": "聯合早報",
@@ -366,7 +384,7 @@
         "time": "2026-02-01 18:05",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8246141",
         "title": "北京市获批启动互联网诊疗首诊试点",
-        "seq": 41
+        "seq": 43
     },
     {
         "media": "聯合早報",
@@ -375,7 +393,7 @@
         "time": "2026-02-01 18:07",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8233969",
         "title": "股市暴跌后印尼证交所CEO引咎辞职 当局誓推改革",
-        "seq": 42
+        "seq": 44
     },
     {
         "media": "聯合早報",
@@ -384,7 +402,7 @@
         "time": "2026-02-01 18:08",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8216397",
         "title": "农历新年前居家清洁需求激增 清洁公司靠AI调度应对",
-        "seq": 43
+        "seq": 45
     },
     {
         "media": "聯合早報",
@@ -393,7 +411,7 @@
         "time": "2026-02-01 18:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8130011",
         "title": "增设球场方便居民运动 榜鹅北岸社区广场拟改建双用途空间",
-        "seq": 44
+        "seq": 46
     },
     {
         "media": "聯合早報",
@@ -402,7 +420,7 @@
         "time": "2026-02-01 18:19",
         "link": "https://www.zaobao.com.sg/news/sea/story20260131-8247139",
         "title": "泰国军方指柬埔寨士兵以激光瞄准 朝柬方鸣枪示警",
-        "seq": 45
+        "seq": 47
     },
     {
         "media": "聯合早報",
@@ -411,7 +429,7 @@
         "time": "2026-02-01 18:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8247104",
         "title": "泛岛快速公路车祸 一人送院",
-        "seq": 46
+        "seq": 48
     },
     {
         "media": "聯合早報",
@@ -420,7 +438,7 @@
         "time": "2026-02-01 18:24",
         "link": "https://www.zaobao.com.sg/news/sports/story20260130-8230672",
         "title": "维拉直接晋级欧联赛16强 森林获附加赛资格",
-        "seq": 47
+        "seq": 49
     },
     {
         "media": "聯合早報",
@@ -429,7 +447,7 @@
         "time": "2026-02-01 18:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8203762",
         "title": "全国杰出华文教师奖即日起接受提名",
-        "seq": 48
+        "seq": 50
     },
     {
         "media": "聯合早報",
@@ -438,7 +456,7 @@
         "time": "2026-02-01 18:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8247239",
         "title": "柔佛仍见火点 本地24小时空气污染指数良好及中等水平",
-        "seq": 49
+        "seq": 51
     },
     {
         "media": "聯合早報",
@@ -447,7 +465,7 @@
         "time": "2026-02-01 19:09",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8246339",
         "title": "台中市长卢秀燕：有必要适当增加国防支出",
-        "seq": 50
+        "seq": 52
     },
     {
         "media": "聯合早報",
@@ -456,7 +474,7 @@
         "time": "2026-02-01 19:36",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8234490",
         "title": "咖啡变豆浆 越南作坊用大豆冒充咖啡豆被查",
-        "seq": 51
+        "seq": 53
     },
     {
         "media": "聯合早報",
@@ -465,7 +483,7 @@
         "time": "2026-02-01 19:45",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8235058",
         "title": "马国归化球员丑闻引省思 马足总受促重视培养本土人才",
-        "seq": 52
+        "seq": 54
     },
     {
         "media": "聯合早報",
@@ -474,7 +492,7 @@
         "time": "2026-02-01 19:46",
         "link": "https://www.zaobao.com.sg/news/sports/story20260131-8247052",
         "title": "英超连斩曼市炮兵后迎来“村民” 主帅警告曼联球员勿得意忘形",
-        "seq": 53
+        "seq": 55
     },
     {
         "media": "聯合早報",
@@ -483,7 +501,7 @@
         "time": "2026-02-01 19:49",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8234468",
         "title": "柔新经济特区规划收官在即 或今年3月推介",
-        "seq": 54
+        "seq": 56
     },
     {
         "media": "聯合早報",
@@ -492,7 +510,7 @@
         "time": "2026-02-01 20:02",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8246429",
         "title": "港保安局长以习近平早年经历 吁警员“自找苦吃”",
-        "seq": 55
+        "seq": 57
     },
     {
         "media": "聯合早報",
@@ -501,7 +519,7 @@
         "time": "2026-02-01 20:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8247416",
         "title": "联合国缺经费 资金或最多撑半年",
-        "seq": 56
+        "seq": 58
     },
     {
         "media": "聯合早報",
@@ -510,7 +528,7 @@
         "time": "2026-02-01 20:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8247438",
         "title": "乌克兰大范围停电 基辅地铁停运",
-        "seq": 57
+        "seq": 59
     },
     {
         "media": "聯合早報",
@@ -519,7 +537,7 @@
         "time": "2026-02-01 20:19",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8224829",
         "title": "马国选举季来临 马来政党酝酿合纵连横",
-        "seq": 58
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -528,7 +546,7 @@
         "time": "2026-02-01 20:23",
         "link": "https://www.zaobao.com.sg/news/sports/story20260129-8214708",
         "title": "狮城七人橄榄球战火再起 全国校际赛随后登场",
-        "seq": 59
+        "seq": 61
     },
     {
         "media": "聯合早報",
@@ -537,7 +555,7 @@
         "time": "2026-02-01 20:25",
         "link": "https://www.zaobao.com.sg/news/sea/story20260131-8247034",
         "title": "新山两华小明年开课 副教长：马国政府重视华校",
-        "seq": 60
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -546,7 +564,7 @@
         "time": "2026-02-01 20:31",
         "link": "https://www.zaobao.com.sg/news/sports/story20260129-8216328",
         "title": "直落两盘横扫叶连娜 阿丽娜连续四年闯澳网决赛 ",
-        "seq": 61
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -555,7 +573,7 @@
         "time": "2026-02-01 20:49",
         "link": "https://www.zaobao.com.sg/news/sea/story20260131-8247262",
         "title": "马内阁同意限制首相任期 须由国会表决通过",
-        "seq": 62
+        "seq": 64
     },
     {
         "media": "聯合早報",
@@ -564,7 +582,7 @@
         "time": "2026-02-01 20:58",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8234479",
         "title": "缅甸“佛教徒版奥萨马”支持大选结果 望推广佛教民族主义",
-        "seq": 63
+        "seq": 65
     },
     {
         "media": "聯合早報",
@@ -573,7 +591,7 @@
         "time": "2026-02-01 21:00",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8247560",
         "title": "伊朗南部阿巴斯港一栋建筑发生爆炸 原因未明",
-        "seq": 64
+        "seq": 66
     },
     {
         "media": "聯合早報",
@@ -582,7 +600,7 @@
         "time": "2026-02-01 21:05",
         "link": "https://www.zaobao.com.sg/finance/china/story20260131-8246566",
         "title": "中国采用全球债券回购标准 以推动人民币资产发展",
-        "seq": 65
+        "seq": 67
     },
     {
         "media": "聯合早報",
@@ -591,7 +609,7 @@
         "time": "2026-02-01 21:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8247464",
         "title": "沃什获提名出任美联储主席 共和党内有反对声音",
-        "seq": 66
+        "seq": 68
     },
     {
         "media": "聯合早報",
@@ -600,7 +618,7 @@
         "time": "2026-02-01 21:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8246905",
         "title": "专家：等候时间较短组屋持续供应 转售组屋价格涨幅或放缓",
-        "seq": 67
+        "seq": 69
     },
     {
         "media": "聯合早報",
@@ -609,7 +627,7 @@
         "time": "2026-02-01 21:16",
         "link": "https://www.zaobao.com.sg/news/sports/story20260130-8235363",
         "title": "欧冠附加赛皇马再碰“克星”本菲卡 PSG法甲内战摩纳哥",
-        "seq": 68
+        "seq": 70
     },
     {
         "media": "聯合早報",
@@ -618,7 +636,7 @@
         "time": "2026-02-01 21:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8237336",
         "title": "陆交局: “灵活行程规划”的临时积分兑换措施延长两个月",
-        "seq": 69
+        "seq": 71
     },
     {
         "media": "聯合早報",
@@ -627,7 +645,7 @@
         "time": "2026-02-01 21:27",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8137388",
         "title": "韩国天团难登中国大陆舞台 限韩令解除仍待时日 ",
-        "seq": 70
+        "seq": 72
     },
     {
         "media": "聯合早報",
@@ -636,7 +654,7 @@
         "time": "2026-02-01 21:54",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8247580",
         "title": "泰药品局警告 Chang Thai草本吸入剂涉冒用产品注册号",
-        "seq": 71
+        "seq": 73
     },
     {
         "media": "聯合早報",
@@ -645,7 +663,7 @@
         "time": "2026-02-01 21:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8247662",
         "title": "俄乌停攻对方能源设施 俄军转攻铁路枢纽",
-        "seq": 72
+        "seq": 74
     },
     {
         "media": "聯合早報",
@@ -654,7 +672,7 @@
         "time": "2026-02-01 22:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8246630",
         "title": "中国旅游平台：俄罗斯游客春节赴华预订单增471%",
-        "seq": 73
+        "seq": 75
     },
     {
         "media": "聯合早報",
@@ -663,7 +681,7 @@
         "time": "2026-02-01 22:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8247610",
         "title": "“燃放”150米长气球鞭炮 为义顺添新春气息",
-        "seq": 74
+        "seq": 76
     },
     {
         "media": "聯合早報",
@@ -672,7 +690,7 @@
         "time": "2026-02-01 22:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8246502",
         "title": "60盏灯计划 为红十字会青年之心筹款46万元",
-        "seq": 75
+        "seq": 77
     },
     {
         "media": "聯合早報",
@@ -681,7 +699,7 @@
         "time": "2026-02-01 22:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8247770",
         "title": "日本与英国首相会谈 同意深化防务与安全合作",
-        "seq": 76
+        "seq": 78
     },
     {
         "media": "聯合早報",
@@ -690,7 +708,7 @@
         "time": "2026-02-01 22:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260131-8247667",
         "title": "印尼金管局委任代主席稳市场",
-        "seq": 77
+        "seq": 79
     },
     {
         "media": "聯合早報",
@@ -699,7 +717,7 @@
         "time": "2026-02-01 22:27",
         "link": "https://www.zaobao.com.sg/finance/world/story20260131-8247712",
         "title": "英伟达确认参与OpenAI新一轮融资 投资额“远低于”1000亿美元",
-        "seq": 78
+        "seq": 80
     },
     {
         "media": "聯合早報",
@@ -708,7 +726,7 @@
         "time": "2026-02-01 22:36",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8247578",
         "title": "特朗普下最后通牒促达协议 伊朗全面备战愿平等谈判",
-        "seq": 79
+        "seq": 81
     },
     {
         "media": "聯合早報",
@@ -717,7 +735,7 @@
         "time": "2026-02-01 22:36",
         "link": "https://www.zaobao.com.sg/news/sports/story20260131-8247618",
         "title": "新加坡七人橄榄球赛开战 斐济男队新西兰女队卫冕路上高歌猛进",
-        "seq": 80
+        "seq": 82
     },
     {
         "media": "聯合早報",
@@ -726,7 +744,7 @@
         "time": "2026-02-01 22:38",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8247687",
         "title": "斯塔默结束访华 英国成首个签署出口中国备忘录国家",
-        "seq": 81
+        "seq": 83
     },
     {
         "media": "聯合早報",
@@ -735,7 +753,7 @@
         "time": "2026-02-01 22:41",
         "link": "https://www.zaobao.com.sg/news/sports/story20260131-8247763",
         "title": "我国新搭档周哲宇黎明映夺WTT支线赛多哈站混双亚军",
-        "seq": 82
+        "seq": 84
     },
     {
         "media": "聯合早報",
@@ -744,7 +762,7 @@
         "time": "2026-02-01 22:49",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8235658",
         "title": "已发生多起事故 泰国寻求终止与意泰公司铁路合同",
-        "seq": 83
+        "seq": 85
     },
     {
         "media": "聯合早報",
@@ -753,7 +771,7 @@
         "time": "2026-02-01 23:00",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8236061",
         "title": "联合国：缅甸大选期间仍发生逾400起空袭 至少170人丧生",
-        "seq": 84
+        "seq": 86
     },
     {
         "media": "聯合早報",
@@ -762,7 +780,7 @@
         "time": "2026-02-01 23:02",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8247835",
         "title": "伊朗发生两起爆炸 以色列否认与事件有关",
-        "seq": 85
+        "seq": 87
     },
     {
         "media": "聯合早報",
@@ -771,7 +789,16 @@
         "time": "2026-02-01 23:06",
         "link": "https://www.zaobao.com.sg/news/china/story20260131-8247765",
         "title": "巴拿马运河港口暂由马士基接手 分析：难撼中国在拉美地缘经济影响力 ",
-        "seq": 86
+        "seq": 88
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:23",
+        "time": "2026-02-01 23:23",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260201-8246827",
+        "title": "我国七大电动车电池回收设施 具备能力应对未来回收需求",
+        "seq": 89
     },
     {
         "media": "聯合早報",
@@ -780,7 +807,7 @@
         "time": "2026-02-01 23:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8247756",
         "title": "二手电动车转售量三年持续倍增 去年逾2300辆转手",
-        "seq": 87
+        "seq": 90
     },
     {
         "media": "聯合早報",
@@ -789,7 +816,7 @@
         "time": "2026-02-01 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260130-8235456",
         "title": "乔天王宝刀未老苦战五盘 掀翻卫冕冠军闯澳网决赛",
-        "seq": 88
+        "seq": 91
     },
     {
         "media": "聯合早報",
@@ -798,7 +825,7 @@
         "time": "2026-02-01 23:47",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8236177",
         "title": "中国超越新加坡 跃居槟城第二大旅游客源国",
-        "seq": 89
+        "seq": 92
     },
     {
         "media": "聯合早報",
@@ -807,6 +834,6 @@
         "time": "2026-02-01 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8247926",
         "title": "巴基斯坦分离主义分子攻击俾路支省多地 47人死亡",
-        "seq": 90
+        "seq": 93
     }
 ]
