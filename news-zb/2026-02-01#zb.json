@@ -3232,12 +3232,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:14",
+        "time": "2026-02-01 23:14",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260201-8257761",
+        "title": "超半数省份未达去年GDP目标  中国前10经济大省仅三地增速加快",
+        "seq": 360
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:22",
+        "time": "2026-02-01 23:22",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260201-8257582",
+        "title": "新科工程多项前沿技术航空展亮相 机场通关无须过闸门不必取护照",
+        "seq": 361
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:23",
         "time": "2026-02-01 23:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260201-8246827",
         "title": "我国七大电动车电池回收设施 具备能力应对未来回收需求",
-        "seq": 360
+        "seq": 362
     },
     {
         "media": "聯合早報",
@@ -3246,7 +3264,7 @@
         "time": "2026-02-01 23:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260201-8246827",
         "title": "æå½ä¸å¤§çµå¨è½¦çµæ± åæ¶è®¾æ½ å·å¤è½ååºå¯¹æªæ¥åæ¶éæ±",
-        "seq": 361
+        "seq": 363
     },
     {
         "media": "聯合早報",
@@ -3255,7 +3273,7 @@
         "time": "2026-02-01 23:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8247756",
         "title": "二手电动车转售量三年持续倍增 去年逾2300辆转手",
-        "seq": 362
+        "seq": 364
     },
     {
         "media": "聯合早報",
@@ -3264,7 +3282,16 @@
         "time": "2026-02-01 23:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260131-8247756",
         "title": "äºæçµå¨è½¦è½¬å®éä¸å¹´æç»­åå¢ å»å¹´é¾2300è¾è½¬æ",
-        "seq": 363
+        "seq": 365
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:30",
+        "time": "2026-02-01 23:30",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260201-8258142",
+        "title": "监管变严新法律出台 泰国逾7000家大麻店关闭",
+        "seq": 366
     },
     {
         "media": "聯合早報",
@@ -3273,7 +3300,7 @@
         "time": "2026-02-01 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260130-8235456",
         "title": "乔天王宝刀未老苦战五盘 掀翻卫冕冠军闯澳网决赛",
-        "seq": 364
+        "seq": 367
     },
     {
         "media": "聯合早報",
@@ -3282,7 +3309,7 @@
         "time": "2026-02-01 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260130-8235456",
         "title": "ä¹å¤©çå®åæªèè¦æäºç æç¿»å«åå åé¯æ¾³ç½å³èµ",
-        "seq": 365
+        "seq": 368
     },
     {
         "media": "聯合早報",
@@ -3291,7 +3318,7 @@
         "time": "2026-02-01 23:47",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8236177",
         "title": "中国超越新加坡 跃居槟城第二大旅游客源国",
-        "seq": 366
+        "seq": 369
     },
     {
         "media": "聯合早報",
@@ -3300,7 +3327,7 @@
         "time": "2026-02-01 23:47",
         "link": "https://www.zaobao.com.sg/news/sea/story20260130-8236177",
         "title": "ä¸­å½è¶è¶æ°å å¡ è·å±æ§åç¬¬äºå¤§ææ¸¸å®¢æºå½",
-        "seq": 367
+        "seq": 370
     },
     {
         "media": "聯合早報",
@@ -3309,7 +3336,7 @@
         "time": "2026-02-01 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8247926",
         "title": "巴基斯坦分离主义分子攻击俾路支省多地 47人死亡",
-        "seq": 368
+        "seq": 371
     },
     {
         "media": "聯合早報",
@@ -3318,6 +3345,6 @@
         "time": "2026-02-01 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260131-8247926",
         "title": "å·´åºæ¯å¦åç¦»ä¸»ä¹åå­æ»å»ä¿¾è·¯æ¯çå¤å° 47äººæ­»äº¡",
-        "seq": 369
+        "seq": 372
     }
 ]
