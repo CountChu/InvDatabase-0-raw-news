@@ -2557,12 +2557,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:00",
+        "time": "2026-02-02 23:00",
+        "link": "https://www.zaobao.com.sg/news/world/story20260202-8276151",
+        "title": "日本众院选战民调：自民党可能大跃进 独揽逾300席",
+        "seq": 285
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:08",
         "time": "2026-02-02 23:08",
         "link": "https://www.zaobao.com.sg/news/sports/story20260201-8258023",
         "title": "冬奥车票涨价被赶下巴士走6公里 男孩获参加开幕式机会",
-        "seq": 285
+        "seq": 286
     },
     {
         "media": "聯合早報",
@@ -2571,7 +2580,16 @@
         "time": "2026-02-02 23:10",
         "link": "https://www.zaobao.com.sg/news/china/story20260201-8258113",
         "title": "曾涉贪入狱 港前政务司司长许仕仁离世",
-        "seq": 286
+        "seq": 287
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:10",
+        "time": "2026-02-02 23:10",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260202-8276282",
+        "title": "分析师：麦里芝蓄水池附近地点优越 新组屋料抢手",
+        "seq": 288
     },
     {
         "media": "聯合早報",
@@ -2580,7 +2598,16 @@
         "time": "2026-02-02 23:14",
         "link": "https://www.zaobao.com.sg/finance/china/story20260201-8257761",
         "title": "超半数省份未达去年GDP目标  中国前10经济大省仅三地增速加快",
-        "seq": 287
+        "seq": 289
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:15",
+        "time": "2026-02-02 23:15",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260202-8272159",
+        "title": "多多参与积极带头 乐龄中心长者更易交朋友",
+        "seq": 290
     },
     {
         "media": "聯合早報",
@@ -2589,7 +2616,7 @@
         "time": "2026-02-02 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260201-8257582",
         "title": "新科工程多项前沿技术航空展亮相 机场通关无须过闸门不必取护照",
-        "seq": 288
+        "seq": 291
     },
     {
         "media": "聯合早報",
@@ -2598,7 +2625,7 @@
         "time": "2026-02-02 23:30",
         "link": "https://www.zaobao.com.sg/news/sea/story20260201-8258142",
         "title": "监管变严新法律出台 泰国逾7000家大麻店关闭",
-        "seq": 289
+        "seq": 292
     },
     {
         "media": "聯合早報",
@@ -2607,7 +2634,7 @@
         "time": "2026-02-02 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8258174",
         "title": "民调：日本自民党比例代表支持率领先优势扩大",
-        "seq": 290
+        "seq": 293
     },
     {
         "media": "聯合早報",
@@ -2616,7 +2643,7 @@
         "time": "2026-02-02 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8258200",
         "title": "瑞士滑雪胜地酒吧火灾死亡人数升至41人",
-        "seq": 291
+        "seq": 294
     },
     {
         "media": "聯合早報",
@@ -2625,6 +2652,6 @@
         "time": "2026-02-02 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8258190",
         "title": "调查：日本选民不太支持女性政治人物佩戴口罩",
-        "seq": 292
+        "seq": 295
     }
 ]
