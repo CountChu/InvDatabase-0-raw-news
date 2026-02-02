@@ -2062,12 +2062,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "20:22",
+        "time": "2026-02-02 20:22",
+        "link": "https://www.zaobao.com.sg/news/china/story20260202-8275264",
+        "title": "下午察：硅谷OpenClaw刷屏 中国AI转向圈地运动",
+        "seq": 230
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "20:27",
         "time": "2026-02-02 20:27",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8257408",
         "title": "印度公布新预算案 加大投资制造业和基建应对关税挑战",
-        "seq": 230
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "20:30",
+        "time": "2026-02-02 20:30",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260202-8274410",
+        "title": "国会复会聚焦“吃喝”议题 校园供餐瓶罐退费受关注",
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2094,25 @@
         "time": "2026-02-02 20:31",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260201-8213551",
         "title": "第三产蚊厂两次流标 环境局积极优化招标",
-        "seq": 231
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:32",
+        "time": "2026-02-02 20:32",
+        "link": "https://www.zaobao.com.sg/news/world/story20260202-8275388",
+        "title": "被调侃与爱泼斯坦关系 特朗普怒告格莱美主持人",
+        "seq": 234
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "20:36",
+        "time": "2026-02-02 20:36",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260202-8274583",
+        "title": "吉隆坡机场接驳电车多次故障 评估：属常见情况不影响安全",
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2121,7 @@
         "time": "2026-02-02 20:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260201-8249855",
         "title": "三家公共巴士业者开出2万元签约金 盼吸引本地居民当车长 ",
-        "seq": 232
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2130,7 @@
         "time": "2026-02-02 20:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8257260",
         "title": "今冬暴风雪致全美逾百死 东南多州迎新一轮风暴",
-        "seq": 233
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2139,7 @@
         "time": "2026-02-02 21:04",
         "link": "https://www.zaobao.com.sg/news/china/story20260201-8255682",
         "title": "重庆一小学家长花1500人民币雇保洁打扫教室",
-        "seq": 234
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2148,7 @@
         "time": "2026-02-02 21:05",
         "link": "https://www.zaobao.com.sg/finance/china/story20260131-8246566",
         "title": "中国采用全球债券回购标准 以推动人民币资产发展",
-        "seq": 235
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2157,7 @@
         "time": "2026-02-02 21:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8256204",
         "title": "特朗普证实与伊朗谈判 望达成“满意协议”",
-        "seq": 236
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2166,7 @@
         "time": "2026-02-02 21:37",
         "link": "https://www.zaobao.com.sg/news/sea/story20260201-8257082",
         "title": "马国反贪会调查环境局正副总监 扣押近38万元",
-        "seq": 237
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2175,7 @@
         "time": "2026-02-02 21:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8257854",
         "title": "梅德韦杰夫赞扬特朗普 称俄罗斯很快获得军事胜利",
-        "seq": 238
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2184,7 @@
         "time": "2026-02-02 21:52",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8257882",
         "title": "绍伊古：俄罗斯支持中国在台湾问题上的立场",
-        "seq": 239
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2193,7 @@
         "time": "2026-02-02 21:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260201-8250025",
         "title": "泛林集团东南亚总经理吴达胜：三大推动力使新加坡半导体业前景大好",
-        "seq": 240
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2202,7 @@
         "time": "2026-02-02 22:02",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8257893",
         "title": "美俄乌三方新一轮会谈 2月4日于阿布扎比举行",
-        "seq": 241
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2211,7 @@
         "time": "2026-02-02 22:09",
         "link": "https://www.zaobao.com.sg/news/china/story20260201-8256655",
         "title": "《名侦探柯南》与辱华漫画联动　代理商紧急发声明",
-        "seq": 242
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2220,7 @@
         "time": "2026-02-02 22:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8257363",
         "title": "谈“日元贬值利好”被炮轰 高市早苗社媒发文澄清",
-        "seq": 243
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2229,7 @@
         "time": "2026-02-02 22:27",
         "link": "https://www.zaobao.com.sg/finance/world/story20260131-8247712",
         "title": "英伟达确认参与OpenAI新一轮融资 投资额“远低于”1000亿美元",
-        "seq": 244
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2238,7 @@
         "time": "2026-02-02 22:31",
         "link": "https://www.zaobao.com.sg/news/china/story20260201-7972655",
         "title": "特稿：体制内食堂宾馆对外开放受追捧 学者：对冲部分土地财政缺口",
-        "seq": 245
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2211,7 +2247,7 @@
         "time": "2026-02-02 22:31",
         "link": "https://www.zaobao.com.sg/news/china/story20260201-7972655",
         "title": "特稿：中国体制内食堂宾馆对外开放受追捧 学者：对冲部分土地财政缺口",
-        "seq": 246
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2220,7 +2256,7 @@
         "time": "2026-02-02 22:36",
         "link": "https://www.zaobao.com.sg/news/sports/story20260131-8247618",
         "title": "新加坡七人橄榄球赛开战 斐济男队新西兰女队卫冕路上高歌猛进",
-        "seq": 247
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2265,7 @@
         "time": "2026-02-02 22:41",
         "link": "https://www.zaobao.com.sg/news/sports/story20260131-8247763",
         "title": "我国新搭档周哲宇黎明映夺WTT支线赛多哈站混双亚军",
-        "seq": 248
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2274,7 @@
         "time": "2026-02-02 22:42",
         "link": "https://www.zaobao.com.sg/news/sports/story20260201-8257851",
         "title": "新加坡七人制橄榄球决赛 斐济男队新西兰女队成功卫冕",
-        "seq": 249
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2283,7 @@
         "time": "2026-02-02 22:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8258019",
         "title": "爱泼斯坦档案曝光后 斯洛伐克国安顾问辞职",
-        "seq": 250
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2292,7 @@
         "time": "2026-02-02 23:08",
         "link": "https://www.zaobao.com.sg/news/sports/story20260201-8258023",
         "title": "冬奥车票涨价被赶下巴士走6公里 男孩获参加开幕式机会",
-        "seq": 251
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2301,7 @@
         "time": "2026-02-02 23:10",
         "link": "https://www.zaobao.com.sg/news/china/story20260201-8258113",
         "title": "曾涉贪入狱 港前政务司司长许仕仁离世",
-        "seq": 252
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2310,7 @@
         "time": "2026-02-02 23:14",
         "link": "https://www.zaobao.com.sg/finance/china/story20260201-8257761",
         "title": "超半数省份未达去年GDP目标  中国前10经济大省仅三地增速加快",
-        "seq": 253
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2319,7 @@
         "time": "2026-02-02 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260201-8257582",
         "title": "新科工程多项前沿技术航空展亮相 机场通关无须过闸门不必取护照",
-        "seq": 254
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2328,7 @@
         "time": "2026-02-02 23:30",
         "link": "https://www.zaobao.com.sg/news/sea/story20260201-8258142",
         "title": "监管变严新法律出台 泰国逾7000家大麻店关闭",
-        "seq": 255
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2337,7 @@
         "time": "2026-02-02 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8258174",
         "title": "民调：日本自民党比例代表支持率领先优势扩大",
-        "seq": 256
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2346,7 @@
         "time": "2026-02-02 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8258200",
         "title": "瑞士滑雪胜地酒吧火灾死亡人数升至41人",
-        "seq": 257
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2319,6 +2355,6 @@
         "time": "2026-02-02 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8258190",
         "title": "调查：日本选民不太支持女性政治人物佩戴口罩",
-        "seq": 258
+        "seq": 262
     }
 ]
