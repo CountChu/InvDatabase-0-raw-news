@@ -2620,12 +2620,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:26",
+        "time": "2026-02-02 23:26",
+        "link": "https://www.zaobao.com.sg/news/world/story20260202-8275268",
+        "title": "科学家新发现：生命所需原料或源自宇宙",
+        "seq": 292
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:30",
         "time": "2026-02-02 23:30",
         "link": "https://www.zaobao.com.sg/news/sea/story20260201-8258142",
         "title": "监管变严新法律出台 泰国逾7000家大麻店关闭",
-        "seq": 292
+        "seq": 293
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:36",
+        "time": "2026-02-02 23:36",
+        "link": "https://www.zaobao.com.sg/news/china/story20260202-8276109",
+        "title": "金价大跌后中国黄金市场抄底与观望并存",
+        "seq": 294
     },
     {
         "media": "聯合早報",
@@ -2634,7 +2652,7 @@
         "time": "2026-02-02 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8258174",
         "title": "民调：日本自民党比例代表支持率领先优势扩大",
-        "seq": 293
+        "seq": 295
     },
     {
         "media": "聯合早報",
@@ -2643,7 +2661,7 @@
         "time": "2026-02-02 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8258200",
         "title": "瑞士滑雪胜地酒吧火灾死亡人数升至41人",
-        "seq": 294
+        "seq": 296
     },
     {
         "media": "聯合早報",
@@ -2652,6 +2670,6 @@
         "time": "2026-02-02 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260201-8258190",
         "title": "调查：日本选民不太支持女性政治人物佩戴口罩",
-        "seq": 295
+        "seq": 297
     }
 ]
