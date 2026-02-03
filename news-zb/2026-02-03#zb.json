@@ -2521,12 +2521,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:06",
+        "time": "2026-02-03 23:06",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260203-8293062",
+        "title": "ERP 2或按行驶距离收费 议员担心冲击送餐员私召车",
+        "seq": 281
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:08",
         "time": "2026-02-03 23:08",
         "link": "https://www.zaobao.com.sg/news/sports/story20260201-8258023",
         "title": "冬奥车票涨价被赶下巴士走6公里 男孩获参加开幕式机会",
-        "seq": 281
+        "seq": 282
     },
     {
         "media": "聯合早報",
@@ -2535,7 +2544,7 @@
         "time": "2026-02-03 23:10",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260202-8276282",
         "title": "分析师：麦里芝蓄水池附近地点优越 新组屋料抢手",
-        "seq": 282
+        "seq": 283
     },
     {
         "media": "聯合早報",
@@ -2544,7 +2553,7 @@
         "time": "2026-02-03 23:15",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260202-8272159",
         "title": "多多参与积极带头 乐龄中心长者更易交朋友",
-        "seq": 283
+        "seq": 284
     },
     {
         "media": "聯合早報",
@@ -2553,7 +2562,7 @@
         "time": "2026-02-03 23:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260202-8275268",
         "title": "科学家新发现：生命所需原料或源自宇宙",
-        "seq": 284
+        "seq": 285
     },
     {
         "media": "聯合早報",
@@ -2562,15 +2571,6 @@
         "time": "2026-02-03 23:30",
         "link": "https://www.zaobao.com.sg/news/sea/story20260201-8258142",
         "title": "监管变严新法律出台 泰国逾7000家大麻店关闭",
-        "seq": 285
-    },
-    {
-        "media": "聯合早報",
-        "category": "中国",
-        "timeText": "23:36",
-        "time": "2026-02-03 23:36",
-        "link": "https://www.zaobao.com.sg/news/china/story20260202-8276109",
-        "title": "金价大跌后中国黄金市场抄底与观望并存",
         "seq": 286
     },
     {
@@ -2579,16 +2579,16 @@
         "timeText": "23:36",
         "time": "2026-02-03 23:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260202-8276109",
-        "title": "金价大跌 中国黄金市场抄底与观望并存",
+        "title": "金价大跌后中国黄金市场抄底与观望并存",
         "seq": 287
     },
     {
         "media": "聯合早報",
         "category": "中国",
-        "timeText": "23:50",
-        "time": "2026-02-03 23:50",
-        "link": "https://www.zaobao.com.sg/news/china/story20260202-8276509",
-        "title": "国共智库论坛星期二登场     萧旭岑：两岸关系将如冬日回暖",
+        "timeText": "23:36",
+        "time": "2026-02-03 23:36",
+        "link": "https://www.zaobao.com.sg/news/china/story20260202-8276109",
+        "title": "金价大跌 中国黄金市场抄底与观望并存",
         "seq": 288
     },
     {
@@ -2597,8 +2597,17 @@
         "timeText": "23:50",
         "time": "2026-02-03 23:50",
         "link": "https://www.zaobao.com.sg/news/china/story20260202-8276509",
-        "title": "国共智库论坛星期二登场 萧旭岑：两岸关系将如冬日回暖",
+        "title": "国共智库论坛星期二登场     萧旭岑：两岸关系将如冬日回暖",
         "seq": 289
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:50",
+        "time": "2026-02-03 23:50",
+        "link": "https://www.zaobao.com.sg/news/china/story20260202-8276509",
+        "title": "国共智库论坛星期二登场 萧旭岑：两岸关系将如冬日回暖",
+        "seq": 290
     },
     {
         "media": "聯合早報",
@@ -2607,6 +2616,6 @@
         "time": "2026-02-03 23:58",
         "link": "https://www.zaobao.com.sg/news/china/story20260202-8276591",
         "title": "深圳黄金交易平台杰我睿暴雷 官方通报指网传金额明显夸大",
-        "seq": 290
+        "seq": 291
     }
 ]
