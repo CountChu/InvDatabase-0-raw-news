@@ -2413,12 +2413,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:40",
+        "time": "2026-02-04 22:40",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260204-8310937",
+        "title": "涉串谋操控股价 新丝路集团前主席吴仁轩不认罪案件开审",
+        "seq": 269
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:41",
         "time": "2026-02-04 22:41",
         "link": "https://www.zaobao.com.sg/finance/china/story20260203-8294110",
         "title": "中国外卖价格战降温 主要餐饮连锁商上调价格",
-        "seq": 269
+        "seq": 270
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:45",
+        "time": "2026-02-04 22:45",
+        "link": "https://www.zaobao.com.sg/news/china/story20260204-8311624",
+        "title": "巴拿马港口合约被判违宪 长和：启动国际仲裁程序",
+        "seq": 271
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2445,7 @@
         "time": "2026-02-04 22:48",
         "link": "https://www.zaobao.com.sg/news/sea/story20260203-8292759",
         "title": "马国槟城大宝森节45吨椰子废弃物转化为生物燃料",
-        "seq": 270
+        "seq": 272
     },
     {
         "media": "聯合早報",
@@ -2436,7 +2454,25 @@
         "time": "2026-02-04 22:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260203-8293866",
         "title": "【国会】多40座组屋将陆续获电梯翻新",
-        "seq": 271
+        "seq": 273
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:51",
+        "time": "2026-02-04 22:51",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260204-8311665",
+        "title": "羽毛球亚团赛小组两连败 我国男女队无缘出线",
+        "seq": 274
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:54",
+        "time": "2026-02-04 22:54",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260204-8310748",
+        "title": "展翅亚洲携手泰国公司 建新机库维修商务喷气机",
+        "seq": 275
     },
     {
         "media": "聯合早報",
@@ -2445,7 +2481,7 @@
         "time": "2026-02-04 23:06",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260203-8293062",
         "title": "【国会】ERP 2或按行驶距离收费 议员担心冲击送餐员私召车",
-        "seq": 272
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2454,7 +2490,7 @@
         "time": "2026-02-04 23:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260203-8293981",
         "title": "瞄准职场新鲜人 新加坡聚焦亚洲九国推广旅游",
-        "seq": 273
+        "seq": 277
     },
     {
         "media": "聯合早報",
@@ -2463,7 +2499,7 @@
         "time": "2026-02-04 23:24",
         "link": "https://www.zaobao.com.sg/news/sea/story20260203-8294616",
         "title": "丹州音乐会男女混杂起舞 主办方被罚1.1万新元",
-        "seq": 274
+        "seq": 278
     },
     {
         "media": "聯合早報",
@@ -2472,7 +2508,7 @@
         "time": "2026-02-04 23:28",
         "link": "https://www.zaobao.com.sg/news/world/story20260203-8290416",
         "title": "研究：引入AI阅片有助提升乳腺癌筛查效果",
-        "seq": 275
+        "seq": 279
     },
     {
         "media": "聯合早報",
@@ -2481,7 +2517,7 @@
         "time": "2026-02-04 23:32",
         "link": "https://www.zaobao.com.sg/news/china/story20260203-8294588",
         "title": "香港巴士安全带新法暂缓 立法会被质疑把关不力",
-        "seq": 276
+        "seq": 280
     },
     {
         "media": "聯合早報",
@@ -2490,6 +2526,6 @@
         "time": "2026-02-04 23:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260203-8294392",
         "title": "国共智库论坛登场 达成恢复两岸人员往来正常化等共同意见",
-        "seq": 277
+        "seq": 281
     }
 ]
