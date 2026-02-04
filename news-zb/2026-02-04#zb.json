@@ -2476,12 +2476,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:01",
+        "time": "2026-02-04 23:01",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260204-8308750",
+        "title": "令吉兑美元新元屡创新高",
+        "seq": 276
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:04",
+        "time": "2026-02-04 23:04",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260204-8311541",
+        "title": "【国会】我国将向IMF提供最多4400万元助扶贫",
+        "seq": 277
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:06",
         "time": "2026-02-04 23:06",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260203-8293062",
         "title": "【国会】ERP 2或按行驶距离收费 议员担心冲击送餐员私召车",
-        "seq": 276
+        "seq": 278
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:11",
+        "time": "2026-02-04 23:11",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260204-8311597",
+        "title": "约6900个预购组屋单位6月推出 南部濒水区项目受瞩目",
+        "seq": 279
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:12",
+        "time": "2026-02-04 23:12",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260204-8310798",
+        "title": "灯火辉煌迎新岁 裕华园7日起办新春活动",
+        "seq": 280
     },
     {
         "media": "聯合早報",
@@ -2490,7 +2526,7 @@
         "time": "2026-02-04 23:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260203-8293981",
         "title": "瞄准职场新鲜人 新加坡聚焦亚洲九国推广旅游",
-        "seq": 277
+        "seq": 281
     },
     {
         "media": "聯合早報",
@@ -2499,7 +2535,7 @@
         "time": "2026-02-04 23:24",
         "link": "https://www.zaobao.com.sg/news/sea/story20260203-8294616",
         "title": "丹州音乐会男女混杂起舞 主办方被罚1.1万新元",
-        "seq": 278
+        "seq": 282
     },
     {
         "media": "聯合早報",
@@ -2508,7 +2544,7 @@
         "time": "2026-02-04 23:28",
         "link": "https://www.zaobao.com.sg/news/world/story20260203-8290416",
         "title": "研究：引入AI阅片有助提升乳腺癌筛查效果",
-        "seq": 279
+        "seq": 283
     },
     {
         "media": "聯合早報",
@@ -2517,7 +2553,7 @@
         "time": "2026-02-04 23:32",
         "link": "https://www.zaobao.com.sg/news/china/story20260203-8294588",
         "title": "香港巴士安全带新法暂缓 立法会被质疑把关不力",
-        "seq": 280
+        "seq": 284
     },
     {
         "media": "聯合早報",
@@ -2526,6 +2562,6 @@
         "time": "2026-02-04 23:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260203-8294392",
         "title": "国共智库论坛登场 达成恢复两岸人员往来正常化等共同意见",
-        "seq": 281
+        "seq": 285
     }
 ]
