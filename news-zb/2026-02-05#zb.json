@@ -2278,12 +2278,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:21",
+        "time": "2026-02-05 23:21",
+        "link": "https://www.zaobao.com.sg/news/china/story20260205-8331440",
+        "title": "中国三军工央企高管被罢免人大代表 分析：或涉贪未必因张又侠案",
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:24",
         "time": "2026-02-05 23:24",
         "link": "https://www.zaobao.com.sg/news/sea/story20260203-8294616",
         "title": "丹州音乐会男女混杂起舞 主办方被罚1.1万新元",
-        "seq": 254
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2301,16 @@
         "time": "2026-02-05 23:28",
         "link": "https://www.zaobao.com.sg/news/china/story20260204-8311383",
         "title": "中国大陆宣布将恢复上海居民金马游  ",
-        "seq": 255
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:30",
+        "time": "2026-02-05 23:30",
+        "link": "https://www.zaobao.com.sg/news/world/story20260205-8332334",
+        "title": "美俄同意恢复军事对话 核条约续约有望",
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2319,7 @@
         "time": "2026-02-05 23:31",
         "link": "https://www.zaobao.com.sg/news/china/story20260204-8310295",
         "title": "王沪宁会萧旭岑 强调“九二共识”“反台独”基础推两岸交流合作",
-        "seq": 256
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2328,16 @@
         "time": "2026-02-05 23:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260204-8181964",
         "title": "每天按一下“我很好” 科技助独居年长者报平安",
-        "seq": 257
+        "seq": 259
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:33",
+        "time": "2026-02-05 23:33",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260205-8332835",
+        "title": "Taka珠宝控股预计上半年营收和净利取得显著增长",
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2346,7 @@
         "time": "2026-02-05 23:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260204-8311897",
         "title": "【国会】警方正检讨按摩院法令 确保监管机制妥当适用",
-        "seq": 258
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2355,7 @@
         "time": "2026-02-05 23:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260204-8311897",
         "title": "警方正检讨按摩院法令 确保监管机制妥当适用",
-        "seq": 259
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2364,7 @@
         "time": "2026-02-05 23:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260204-8312010",
         "title": "纽时：华邮计划裁掉数百名记者",
-        "seq": 260
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2373,7 @@
         "time": "2026-02-05 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260204-8312026",
         "title": "挪威王储妃之子出庭作证 坦言生活奢靡否认强奸",
-        "seq": 261
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2382,7 @@
         "time": "2026-02-05 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260204-8312103",
         "title": "美官员称将立即从明尼苏达州撤离700名执法人员",
-        "seq": 262
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2391,7 @@
         "time": "2026-02-05 23:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260204-8310852",
         "title": "PropertyLimBrothers风波 引发KW Singapore多名房地产经纪过档ERA产业",
-        "seq": 263
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2400,7 @@
         "time": "2026-02-05 23:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260204-8310852",
         "title": "PLB风波引发 KW Singapore多名房地产经纪过档ERA产业",
-        "seq": 264
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2382,6 +2409,6 @@
         "time": "2026-02-05 23:59",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260204-8312053",
         "title": "运通网城房产信托杭州资产未经授权抵押案上诉遭驳回",
-        "seq": 265
+        "seq": 268
     }
 ]
