@@ -2377,12 +2377,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:22",
+        "time": "2026-02-06 23:22",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260206-8350625",
+        "title": "充电5分钟可续航多达200公里 带电池超高速充电站落户淡马锡理工",
+        "seq": 265
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:30",
         "time": "2026-02-06 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260205-8332334",
         "title": "美俄同意恢复军事对话 核条约续约有望",
-        "seq": 265
+        "seq": 266
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:30",
+        "time": "2026-02-06 23:30",
+        "link": "https://www.zaobao.com.sg/news/world/story20260206-8355573",
+        "title": "欧盟对美国进口商品的关税暂停期限延长六个月",
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2409,7 @@
         "time": "2026-02-06 23:33",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260205-8332835",
         "title": "Taka珠宝控股上半年营收和净利料增长显著",
-        "seq": 266
+        "seq": 268
     },
     {
         "media": "聯合早報",
@@ -2400,6 +2418,6 @@
         "time": "2026-02-06 23:46",
         "link": "https://www.zaobao.com.sg/news/sea/story20260205-8332836",
         "title": "印尼总统下令严打股市违规行为 穆迪下调评级展望至负面",
-        "seq": 267
+        "seq": 269
     }
 ]
