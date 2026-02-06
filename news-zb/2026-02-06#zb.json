@@ -2224,12 +2224,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:40",
+        "time": "2026-02-06 22:40",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260206-8355255",
+        "title": "四天吸引6.5万人次 新加坡航空展商客创新高",
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:43",
+        "time": "2026-02-06 22:43",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260206-8354942",
+        "title": "中国投机资金涌入金属市场 网红白银期货基金连续五日跌停",
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:44",
         "time": "2026-02-06 22:44",
         "link": "https://www.zaobao.com.sg/news/sports/story20260205-8332408",
         "title": "羽毛球亚团赛八强出炉 中日韩印尼均闯八强",
-        "seq": 248
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2256,25 @@
         "time": "2026-02-06 22:51",
         "link": "https://www.zaobao.com.sg/news/sports/story20260204-8311665",
         "title": "羽毛球亚团赛小组两连败 我国男女队无缘出线",
-        "seq": 249
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:53",
+        "time": "2026-02-06 22:53",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260206-8355252",
+        "title": "乒乓亚洲杯郭勇成我国独苗 夺副盟闯16强硬碰王楚钦",
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:54",
+        "time": "2026-02-06 22:54",
+        "link": "https://www.zaobao.com.sg/news/world/story20260206-8355461",
+        "title": "巴基斯坦首都爆炸袭击 死者增至31人 伤者170人",
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2283,7 @@
         "time": "2026-02-06 22:57",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260205-8332584",
         "title": "先锋医疗产业信托全年每单位派息下跌8.1%",
-        "seq": 250
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2292,7 @@
         "time": "2026-02-06 23:01",
         "link": "https://www.zaobao.com.sg/news/sea/story20260204-8308750",
         "title": "令吉兑美元新元屡创新高",
-        "seq": 251
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2301,7 @@
         "time": "2026-02-06 23:01",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260205-8332276",
         "title": "凯德腾飞REIT下半年派息跌2% 每单位7.528分",
-        "seq": 252
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2310,7 @@
         "time": "2026-02-06 23:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260205-8332677",
         "title": "涉多起假冒政府官员骗案 两男子周五面控",
-        "seq": 253
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2319,7 @@
         "time": "2026-02-06 23:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260205-8332152",
         "title": "创作者齐聚狮城 彩色地画迎新春",
-        "seq": 254
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2328,7 @@
         "time": "2026-02-06 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260205-8332701",
         "title": "前英驻美大使丑闻发酵 斯塔默向爱泼斯坦案受害者致歉",
-        "seq": 255
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2337,7 @@
         "time": "2026-02-06 23:17",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260205-8330858",
         "title": "追讨已故祖父遗产 三子告父亲滥用信托基金获赔3000万元",
-        "seq": 256
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2346,7 @@
         "time": "2026-02-06 23:21",
         "link": "https://www.zaobao.com.sg/news/china/story20260205-8331440",
         "title": "中国三军工央企高管被罢免人大代表 分析：或涉贪未必因张又侠案",
-        "seq": 257
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2355,7 @@
         "time": "2026-02-06 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260205-8332334",
         "title": "美俄同意恢复军事对话 核条约续约有望",
-        "seq": 258
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2364,7 @@
         "time": "2026-02-06 23:33",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260205-8332835",
         "title": "Taka珠宝控股上半年营收和净利料增长显著",
-        "seq": 259
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2337,6 +2373,6 @@
         "time": "2026-02-06 23:46",
         "link": "https://www.zaobao.com.sg/news/sea/story20260205-8332836",
         "title": "印尼总统下令严打股市违规行为 穆迪下调评级展望至负面",
-        "seq": 260
+        "seq": 264
     }
 ]
