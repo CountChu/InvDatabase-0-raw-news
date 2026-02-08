@@ -2162,11 +2162,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:02",
+        "time": "2026-02-08 23:02",
+        "link": "https://www.zaobao.com.sg/news/world/story20260208-8391347",
+        "title": "日本执政联盟确定获超过三分之二议席",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:03",
         "time": "2026-02-08 23:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260207-8376834",
         "title": "【日本大选】高市最后拉票对移民放狠话 自民党或放眼修宪优势",
-        "seq": 241
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2184,25 @@
         "time": "2026-02-08 23:05",
         "link": "https://www.zaobao.com.sg/news/sports/story20260207-8376970",
         "title": "红魔“拔刺”取英超四连胜 卡里克蜜月期甜蜜继续",
-        "seq": 242
+        "seq": 243
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:13",
+        "time": "2026-02-08 23:13",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260208-8391365",
+        "title": "泰前首相阿比昔：民主党做好成为反对党的准备",
+        "seq": 244
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:15",
+        "time": "2026-02-08 23:15",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260208-8391317",
+        "title": "马国考虑发放执照监管AI应用",
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2211,7 @@
         "time": "2026-02-08 23:25",
         "link": "https://www.zaobao.com.sg/news/world/story20260207-8377061",
         "title": "墨西哥援助古巴 同时寻求结束美国石油封锁",
-        "seq": 243
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2193,6 +2220,6 @@
         "time": "2026-02-08 23:33",
         "link": "https://www.zaobao.com.sg/news/sea/story20260207-8377064",
         "title": "砂盟4月举办首次代表大会",
-        "seq": 244
+        "seq": 247
     }
 ]
