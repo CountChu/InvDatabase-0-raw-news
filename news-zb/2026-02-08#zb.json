@@ -1765,12 +1765,57 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:21",
+        "time": "2026-02-08 21:21",
+        "link": "https://www.zaobao.com.sg/news/china/story20260208-8386112",
+        "title": "康泰生物终止与阿斯利康合资设企项目",
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:21",
+        "time": "2026-02-08 21:21",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260208-8390383",
+        "title": "马国印度同意加强贸易能源等领域合作",
+        "seq": 198
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:21",
+        "time": "2026-02-08 21:21",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260208-8390870",
+        "title": "李强要求促进有效投资  推动重点领域重大项目工程",
+        "seq": 199
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "21:23",
         "time": "2026-02-08 21:23",
         "link": "https://www.zaobao.com.sg/news/world/story20260207-8376767",
         "title": "伊朗与美国谈判人员握手致意 新一轮会谈将“尽快”举行",
-        "seq": 197
+        "seq": 200
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:26",
+        "time": "2026-02-08 21:26",
+        "link": "https://www.zaobao.com.sg/news/world/story20260208-8391065",
+        "title": "日本众院选举执政联盟已确保“稳定多数”",
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "21:27",
+        "time": "2026-02-08 21:27",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260208-8390827",
+        "title": "韧带断仍坚持战冬奥 美国滑雪传奇林赛再受重伤",
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1824,16 @@
         "time": "2026-02-08 21:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260207-8375487",
         "title": "3000战备军人参与动员演习 智能系统提升报到效率",
-        "seq": 198
+        "seq": 203
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:35",
+        "time": "2026-02-08 21:35",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260208-8391068",
+        "title": "裕差南：无论结果如何 为泰党尊重选民决定并将履行职责",
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1842,7 @@
         "time": "2026-02-08 21:37",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260206-8354749",
         "title": "创新科技委任已故创办人沈望傅侄儿沈利恩为新主席",
-        "seq": 199
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1851,7 @@
         "time": "2026-02-08 21:40",
         "link": "https://www.zaobao.com.sg/news/sea/story20260206-8353189",
         "title": "菲外长：工作组将每月开会 盼今年敲定签署《南中国海行为准则》",
-        "seq": 200
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1860,7 @@
         "time": "2026-02-08 21:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260207-8374871",
         "title": "唐振辉：讨论敏感课题应理性不对立 优先聚焦国家利益",
-        "seq": 201
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1869,7 @@
         "time": "2026-02-08 21:54",
         "link": "https://www.zaobao.com.sg/news/sea/story20260206-8353817",
         "title": "【泰国大选】星期天投票选情仍胶着 泰自豪党与人民党争高下",
-        "seq": 202
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1878,7 @@
         "time": "2026-02-08 21:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260207-8376579",
         "title": "傅海燕：政府有必要助业者分担海岸防护费",
-        "seq": 203
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1887,7 @@
         "time": "2026-02-08 21:57",
         "link": "https://www.zaobao.com.sg/finance/china/story20260206-8355254",
         "title": "官方：应禁止在中国境内开展现实世界资产代币化活动",
-        "seq": 204
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1896,7 @@
         "time": "2026-02-08 22:01",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260206-8355158",
         "title": "杨莉明：推出“人工智能快速启动计划” 在中小企业培养1000家“领跑者”",
-        "seq": 205
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1905,7 @@
         "time": "2026-02-08 22:02",
         "link": "https://www.zaobao.com.sg/news/china/story20260207-8373359",
         "title": "研究生举报教授学术不端发亲日言论 四川大学回应",
-        "seq": 206
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1914,7 @@
         "time": "2026-02-08 22:05",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260207-8376283",
         "title": "本地麻疹病例增加 学前中心疗养院加强预防措施",
-        "seq": 207
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1923,7 @@
         "time": "2026-02-08 22:05",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260207-8376283",
         "title": "本地麻疹病例增加 学前中心社区医院加强预防措施",
-        "seq": 208
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1932,7 @@
         "time": "2026-02-08 22:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260207-8376871",
         "title": "本月就爱泼斯坦案作证 克林顿夫妇呼吁公开证词",
-        "seq": 209
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1941,7 @@
         "time": "2026-02-08 22:18",
         "link": "https://www.zaobao.com.sg/news/sports/story20260206-8355019",
         "title": "蒙古队服装惊艳冬奥 蓝色羊绒长袍引热议",
-        "seq": 210
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1950,7 @@
         "time": "2026-02-08 22:20",
         "link": "https://www.zaobao.com.sg/news/sea/story20260206-8354739",
         "title": "越南风电项目花落本土公司 德国巨头出局",
-        "seq": 211
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1959,7 @@
         "time": "2026-02-08 22:28",
         "link": "https://www.zaobao.com.sg/news/sea/story20260206-8355010",
         "title": "印澳签署防务条约 通过协商交流提升“共同安全”",
-        "seq": 212
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1968,7 @@
         "time": "2026-02-08 22:29",
         "link": "https://www.zaobao.com.sg/news/china/story20260207-8376788",
         "title": "中国AI应用红包大战升温 阿里千问发免单卡茶饮店爆单系统承压",
-        "seq": 213
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1977,7 @@
         "time": "2026-02-08 22:40",
         "link": "https://www.zaobao.com.sg/news/sea/story20260207-8376955",
         "title": "印尼警方在峇厘岛打击赌博活动 逮捕数十人",
-        "seq": 214
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1986,7 @@
         "time": "2026-02-08 22:43",
         "link": "https://www.zaobao.com.sg/finance/china/story20260206-8354942",
         "title": "中国投机资金涌入金属市场 网红白银期货基金连续五日跌停",
-        "seq": 215
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1995,7 @@
         "time": "2026-02-08 22:53",
         "link": "https://www.zaobao.com.sg/news/sports/story20260206-8355252",
         "title": "乒乓亚洲杯郭勇成我国独苗 夺副盟闯16强硬碰王楚钦",
-        "seq": 216
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1950,7 +2004,7 @@
         "time": "2026-02-08 23:01",
         "link": "https://www.zaobao.com.sg/news/world/story20260207-8377016",
         "title": "古巴宣布措施 应对美国新一轮石油封锁",
-        "seq": 217
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1959,7 +2013,7 @@
         "time": "2026-02-08 23:01",
         "link": "https://www.zaobao.com.sg/news/sports/story20260207-8376888",
         "title": "备战27年亚洲杯 雄狮3月友谊赛约战法罗群岛 ",
-        "seq": 218
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2022,7 @@
         "time": "2026-02-08 23:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260207-8376834",
         "title": "【日本大选】高市最后拉票对移民放狠话 自民党或放眼修宪优势",
-        "seq": 219
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2031,7 @@
         "time": "2026-02-08 23:05",
         "link": "https://www.zaobao.com.sg/news/sports/story20260207-8376970",
         "title": "红魔“拔刺”取英超四连胜 卡里克蜜月期甜蜜继续",
-        "seq": 220
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2040,7 @@
         "time": "2026-02-08 23:25",
         "link": "https://www.zaobao.com.sg/news/world/story20260207-8377061",
         "title": "墨西哥援助古巴 同时寻求结束美国石油封锁",
-        "seq": 221
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -1995,6 +2049,6 @@
         "time": "2026-02-08 23:33",
         "link": "https://www.zaobao.com.sg/news/sea/story20260207-8377064",
         "title": "砂盟4月举办首次代表大会",
-        "seq": 222
+        "seq": 228
     }
 ]
