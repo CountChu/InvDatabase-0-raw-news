@@ -2413,12 +2413,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:22",
+        "time": "2026-02-10 23:22",
+        "link": "https://www.zaobao.com.sg/news/china/story20260210-8442171",
+        "title": "国务院强调香港维护国安斗争从未停止",
+        "seq": 269
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:25",
         "time": "2026-02-10 23:25",
         "link": "https://www.zaobao.com.sg/news/world/story20260209-8412716",
         "title": "欧盟谴责以色列在约旦河西岸扩大定居点",
-        "seq": 269
+        "seq": 270
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2436,16 @@
         "time": "2026-02-10 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260209-8412593",
         "title": "平台今年内落实四措施 私召车司机接单前更清楚车费",
-        "seq": 270
+        "seq": 271
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:31",
+        "time": "2026-02-10 23:31",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260210-8441831",
+        "title": "杨莉明：预算案将宣布如何加快 各行业和劳动队伍应用AI",
+        "seq": 272
     },
     {
         "media": "聯合早報",
@@ -2436,7 +2454,7 @@
         "time": "2026-02-10 23:39",
         "link": "https://www.zaobao.com.sg/news/sports/story20260208-8391380",
         "title": "王楚钦乒乓亚洲杯卫冕成功 孙颖莎复仇王曼昱夺冠",
-        "seq": 271
+        "seq": 273
     },
     {
         "media": "聯合早報",
@@ -2445,7 +2463,7 @@
         "time": "2026-02-10 23:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260209-8412789",
         "title": "尚穆根谈中国行：理解历史 不视和平为理所当然",
-        "seq": 272
+        "seq": 274
     },
     {
         "media": "聯合早報",
@@ -2454,6 +2472,6 @@
         "time": "2026-02-10 23:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260209-8412789",
         "title": "尚穆根谈中国行：和平绝非理所当然　理解历史助益与伙伴互动",
-        "seq": 273
+        "seq": 275
     }
 ]
