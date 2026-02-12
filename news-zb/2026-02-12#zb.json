@@ -2332,12 +2332,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:41",
+        "time": "2026-02-12 22:41",
+        "link": "https://www.zaobao.com.sg/news/world/story20260212-8454686",
+        "title": "调查：日本众院保守派势大 逾九成议员支持修宪 ",
+        "seq": 260
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:44",
         "time": "2026-02-12 22:44",
         "link": "https://www.zaobao.com.sg/news/china/story20260211-8448206",
         "title": "李强赴江西调研走访稀土企业　学者：巩固中国稀土技术优势",
-        "seq": 260
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2355,34 @@
         "time": "2026-02-12 22:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260211-8447486",
         "title": "金融科技软件即服务公司Carta扩张区域业务 本地团队增至逾70人",
-        "seq": 261
+        "seq": 262
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:45",
+        "time": "2026-02-12 22:45",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260212-8455417",
+        "title": "国际青少年保龄球友谊赛 我国再夺女双冠军",
+        "seq": 263
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:46",
+        "time": "2026-02-12 22:46",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260212-8455156",
+        "title": "尽管卷入巴拿马港口风波 李嘉诚稳坐香港首富宝座",
+        "seq": 264
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:55",
+        "time": "2026-02-12 22:55",
+        "link": "https://www.zaobao.com.sg/news/world/story20260212-8455615",
+        "title": "德国飞行员和机组人员罢工 近800个航班取消",
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2391,7 @@
         "time": "2026-02-12 23:16",
         "link": "https://www.zaobao.com.sg/news/world/story20260211-8448554",
         "title": "波兰女子杀害伴侣分尸埋花园 判监21年",
-        "seq": 262
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2400,7 @@
         "time": "2026-02-12 23:18",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260211-8448425",
         "title": "李光前两孙频频买入我国高价房地产",
-        "seq": 263
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2409,7 @@
         "time": "2026-02-12 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260211-8448634",
         "title": "总干事伊维拉：世贸组织须紧急推动改革",
-        "seq": 264
+        "seq": 268
     },
     {
         "media": "聯合早報",
@@ -2382,6 +2418,6 @@
         "time": "2026-02-12 23:59",
         "link": "https://www.zaobao.com.sg/news/world/story20260211-8448696",
         "title": "葡萄牙北部遭暴雨侵袭 3000居民疏散",
-        "seq": 265
+        "seq": 269
     }
 ]
