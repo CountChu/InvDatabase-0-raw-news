@@ -2161,12 +2161,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:21",
+        "time": "2026-02-13 23:21",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260213-8460581",
+        "title": "2025财年盈余高出预估约120% 预测准确度再成焦点",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:22",
         "time": "2026-02-13 23:22",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260212-8455742",
         "title": "林增创筑上半年净利增104%至1100万元",
-        "seq": 241
+        "seq": 242
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:23",
+        "time": "2026-02-13 23:23",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260213-8462083",
+        "title": "团圆多多开彩 头奖逾600万元由一注独享",
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2193,7 @@
         "time": "2026-02-13 23:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260212-8455751",
         "title": "番茄腐烂食用油重复用 印度麦当劳接警告",
-        "seq": 242
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2202,16 @@
         "time": "2026-02-13 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260212-8451498",
         "title": "本地员工薪金门槛 7月调高至1800元",
-        "seq": 243
+        "seq": 245
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:28",
+        "time": "2026-02-13 23:28",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260213-8461465",
+        "title": "214名教练获表彰 “金牌教练”库尼亚：带着压力冲击亚运奖牌",
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2220,7 @@
         "time": "2026-02-13 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260212-8455461",
         "title": "学者：预算案着眼外部风险与国家韧性",
-        "seq": 244
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2229,7 @@
         "time": "2026-02-13 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260212-8455838",
         "title": "古巴燃料短缺 俄罗斯将运送一批原油和燃料",
-        "seq": 245
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2211,7 +2238,7 @@
         "time": "2026-02-13 23:44",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260212-8455582",
         "title": "商会商团：预算案提供明确方向加强我国竞争力",
-        "seq": 246
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2220,7 +2247,7 @@
         "time": "2026-02-13 23:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260212-8455433",
         "title": "陈国明：预算案端出AI全盘战略 助各阶段工友勇敢应对职场转型影响",
-        "seq": 247
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2229,6 +2256,6 @@
         "time": "2026-02-13 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260212-8455887",
         "title": "热带气旋“格扎尼”过境 马达加斯加进入“国家灾难状态” ",
-        "seq": 248
+        "seq": 251
     }
 ]
