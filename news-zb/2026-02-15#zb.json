@@ -1486,12 +1486,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:43",
+        "time": "2026-02-15 21:43",
+        "link": "https://www.zaobao.com.sg/news/world/story20260215-8518273",
+        "title": "英国：俄军在俄乌战争中愈加依赖外国战士",
+        "seq": 166
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:48",
+        "time": "2026-02-15 21:48",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260215-8517869",
+        "title": "“害羞”鲨鱼“青睐”我国海域 本地海洋生物多样性又添佐证",
+        "seq": 167
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "21:50",
         "time": "2026-02-15 21:50",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260214-8495148",
         "title": "工会：打造面向未来劳动队伍 是提升地铁可靠度关键",
-        "seq": 166
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1518,16 @@
         "time": "2026-02-15 21:50",
         "link": "https://www.zaobao.com.sg/news/sea/story20260214-8496192",
         "title": "情人节三语告白爱妻 李宗伟：与你相伴是我最成功的双打组合",
-        "seq": 167
+        "seq": 169
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:57",
+        "time": "2026-02-15 21:57",
+        "link": "https://www.zaobao.com.sg/news/world/story20260215-8518309",
+        "title": "鲁比奥：美国不要求欧洲成为附庸",
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1536,7 @@
         "time": "2026-02-15 21:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260214-8496237",
         "title": "泽连斯基调侃欧尔班“大肚腩”  称乌克兰抗敌换来欧洲安全",
-        "seq": 168
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1545,7 @@
         "time": "2026-02-15 22:05",
         "link": "https://www.zaobao.com.sg/news/china/story20260214-8496207",
         "title": "中国前调查记者刘虎被取保候审 官方指其批评官员文章不实",
-        "seq": 169
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1554,7 @@
         "time": "2026-02-15 22:05",
         "link": "https://www.zaobao.com.sg/news/china/story20260214-8489156",
         "title": "中国奥运冠军刘诗雯任广州乒协会长",
-        "seq": 170
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1563,7 @@
         "time": "2026-02-15 22:21",
         "link": "https://www.zaobao.com.sg/news/world/story20260214-8485616",
         "title": "鲁比奥称美国永远是“欧洲之子” 避谈俄罗斯北约引疑虑",
-        "seq": 171
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1572,7 @@
         "time": "2026-02-15 22:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260214-8484773",
         "title": "农历年前最后周末 巴刹人潮拥挤抢购食材",
-        "seq": 172
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1581,7 @@
         "time": "2026-02-15 22:37",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260214-8496149",
         "title": "课后托管中心Little Professors被指违约 有家长指财路被重复扣费",
-        "seq": 173
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1590,7 @@
         "time": "2026-02-15 22:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260214-8493920",
         "title": "特朗普：伊朗神权政府倒台是最好结果",
-        "seq": 174
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1599,7 @@
         "time": "2026-02-15 22:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260214-8494229",
         "title": "颜金勇：多元文化是我国在全球市场竞争优势",
-        "seq": 175
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1608,7 @@
         "time": "2026-02-15 23:15",
         "link": "https://www.zaobao.com.sg/news/china/story20260214-8496126",
         "title": "王毅警告华盛顿若脱钩断链踩台湾问题红线  中美将陷入对抗",
-        "seq": 176
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1617,7 @@
         "time": "2026-02-15 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260214-8496459",
         "title": "欧洲五国：俄罗斯异议人士纳瓦尔尼死于毒杀",
-        "seq": 177
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1626,7 @@
         "time": "2026-02-15 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260214-8486839",
         "title": "触爱推出新支援工具 助家长培养孩子健康数码习惯",
-        "seq": 178
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1635,7 @@
         "time": "2026-02-15 23:24",
         "link": "https://www.zaobao.com.sg/news/sea/story20260214-8496464",
         "title": "为泰党为加入阿努廷政府向支持者道歉",
-        "seq": 179
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1644,7 @@
         "time": "2026-02-15 23:28",
         "link": "https://www.zaobao.com.sg/news/sports/story20260213-8461465",
         "title": "214名教练获表彰 “金牌教练”库尼亚：带着压力冲击亚运奖牌",
-        "seq": 180
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1653,7 @@
         "time": "2026-02-15 23:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20260214-8496474",
         "title": "杜特尔特亲信德拉罗萨吴顿等八人 列暴力肃毒战共犯",
-        "seq": 181
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1662,7 @@
         "time": "2026-02-15 23:35",
         "link": "https://www.zaobao.com.sg/news/sports/story20260214-8496377",
         "title": "巴西选手夺男子高山滑雪大回转金牌创历史 我国法伊兹失误未完赛",
-        "seq": 182
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1671,7 @@
         "time": "2026-02-15 23:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260214-8331863",
         "title": "美国贫富差距扩大形成“K型经济”",
-        "seq": 183
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1680,7 @@
         "time": "2026-02-15 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260214-8350782",
         "title": "中情局《世界概况》发行60年后停刊",
-        "seq": 184
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1662,6 +1689,6 @@
         "time": "2026-02-15 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260214-8496540",
         "title": "粮农组织：粮食废弃物或助长抗微生物药物耐药性 ",
-        "seq": 185
+        "seq": 188
     }
 ]
