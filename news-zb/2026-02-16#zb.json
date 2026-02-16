@@ -1270,12 +1270,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:52",
+        "time": "2026-02-16 22:52",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260216-8546371",
+        "title": "牛车水越夜越“嗨” 摊贩开始大甩卖",
+        "seq": 142
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:59",
         "time": "2026-02-16 22:59",
         "link": "https://www.zaobao.com.sg/news/china/story20260215-8518444",
         "title": "中国春运绿皮火车翻红 官方否认绿皮车“严重超员人满为患”",
-        "seq": 142
+        "seq": 143
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:04",
+        "time": "2026-02-16 23:04",
+        "link": "https://www.zaobao.com.sg/news/world/story20260216-8546392",
+        "title": "美伊新一轮谈判周二登场 伊朗外长：绝不屈服于威胁",
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1284,7 +1302,7 @@
         "time": "2026-02-16 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260215-8518448",
         "title": "法国亲极右青年遭袭身亡 司法部长指极左势力酿祸端",
-        "seq": 143
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1293,7 +1311,7 @@
         "time": "2026-02-16 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260215-8518403",
         "title": "春到河畔在灿烂烟花秀中开幕 老照片特展回顾40载年味",
-        "seq": 144
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1302,7 +1320,7 @@
         "time": "2026-02-16 23:47",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260215-8517814",
         "title": "我国政要：面对分化而危险世界 全民须团结挺身卫国",
-        "seq": 145
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1311,6 +1329,6 @@
         "time": "2026-02-16 23:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260215-8518443",
         "title": "春到河畔开幕 总理祝国人春节斋月双节快乐",
-        "seq": 146
+        "seq": 148
     }
 ]
