@@ -1171,12 +1171,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:48",
+        "time": "2026-02-16 21:48",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260216-8546340",
+        "title": "马国首相以刘德华“恭喜发财”贺岁",
+        "seq": 131
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "21:57",
         "time": "2026-02-16 21:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260215-8518309",
         "title": "鲁比奥：美国不要求欧洲成为附庸",
-        "seq": 131
+        "seq": 132
     },
     {
         "media": "聯合早報",
@@ -1185,7 +1194,7 @@
         "time": "2026-02-16 22:04",
         "link": "https://www.zaobao.com.sg/news/china/story20260215-8515863",
         "title": "王毅和身高近2米的德国总理比个头",
-        "seq": 132
+        "seq": 133
     },
     {
         "media": "聯合早報",
@@ -1194,7 +1203,7 @@
         "time": "2026-02-16 22:09",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8518254",
         "title": "意甲裁判长承认错判红卡 向尤文图斯致歉",
-        "seq": 133
+        "seq": 134
     },
     {
         "media": "聯合早報",
@@ -1203,7 +1212,7 @@
         "time": "2026-02-16 22:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260215-8518234",
         "title": "北部最大斋戒月市集开幕 三巴旺精神甘榜风情洋溢",
-        "seq": 134
+        "seq": 135
     },
     {
         "media": "聯合早報",
@@ -1212,15 +1221,6 @@
         "time": "2026-02-16 22:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8518366",
         "title": "越野滑雪之王克莱博摘第九金 成为冬奥史上金牌最多选手",
-        "seq": 135
-    },
-    {
-        "media": "聯合早報",
-        "category": "财经",
-        "timeText": "22:52",
-        "time": "2026-02-16 22:52",
-        "link": "https://www.zaobao.com.sg/finance/china/story20260215-8518120",
-        "title": "中国企业盈利预期恶化或拖累股市",
         "seq": 136
     },
     {
@@ -1229,8 +1229,17 @@
         "timeText": "22:52",
         "time": "2026-02-16 22:52",
         "link": "https://www.zaobao.com.sg/finance/china/story20260215-8518120",
-        "title": "中企盈利预期恶化股市后市蒙阴影 节后或进入政策博弈窗口期",
+        "title": "中国企业盈利预期恶化或拖累股市",
         "seq": 137
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:52",
+        "time": "2026-02-16 22:52",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260215-8518120",
+        "title": "中企盈利预期恶化股市后市蒙阴影 节后或进入政策博弈窗口期",
+        "seq": 138
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1248,7 @@
         "time": "2026-02-16 22:59",
         "link": "https://www.zaobao.com.sg/news/china/story20260215-8518444",
         "title": "中国春运绿皮火车翻红 官方否认绿皮车“严重超员人满为患”",
-        "seq": 138
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1257,7 @@
         "time": "2026-02-16 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260215-8518448",
         "title": "法国亲极右青年遭袭身亡 司法部长指极左势力酿祸端",
-        "seq": 139
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1266,7 @@
         "time": "2026-02-16 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260215-8518403",
         "title": "春到河畔在灿烂烟花秀中开幕 老照片特展回顾40载年味",
-        "seq": 140
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1275,7 @@
         "time": "2026-02-16 23:47",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260215-8517814",
         "title": "我国政要：面对分化而危险世界 全民须团结挺身卫国",
-        "seq": 141
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1275,6 +1284,6 @@
         "time": "2026-02-16 23:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260215-8518443",
         "title": "春到河畔开幕 总理祝国人春节斋月双节快乐",
-        "seq": 142
+        "seq": 143
     }
 ]
