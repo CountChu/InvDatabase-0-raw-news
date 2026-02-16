@@ -532,12 +532,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:52",
+        "time": "2026-02-17 22:52",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260216-8546371",
+        "title": "66串鞭炮齐燃放 赤马奔临牛车水",
+        "seq": 60
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:04",
         "time": "2026-02-17 23:04",
         "link": "https://www.zaobao.com.sg/news/world/story20260216-8546392",
         "title": "美伊新一轮谈判周二登场 伊朗外长：绝不屈服于威胁",
-        "seq": 60
+        "seq": 61
     },
     {
         "media": "聯合早報",
@@ -546,7 +555,7 @@
         "time": "2026-02-17 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260216-8546417",
         "title": "新柔地铁工程新年期间不停工",
-        "seq": 61
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -555,6 +564,6 @@
         "time": "2026-02-17 23:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260216-8546413",
         "title": "我国法伊兹冬奥回转赛得第35 过半选手未完赛",
-        "seq": 62
+        "seq": 63
     }
 ]
