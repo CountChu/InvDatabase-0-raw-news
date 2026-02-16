@@ -1207,12 +1207,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:33",
+        "time": "2026-02-16 22:33",
+        "link": "https://www.zaobao.com.sg/news/world/story20260216-8546364",
+        "title": "撤离叙利亚拘留营受阻 34澳籍伊国组织家属折返",
+        "seq": 135
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:40",
         "time": "2026-02-16 22:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260215-8518234",
         "title": "北部最大斋戒月市集开幕 三巴旺精神甘榜风情洋溢",
-        "seq": 135
+        "seq": 136
     },
     {
         "media": "聯合早報",
@@ -1221,15 +1230,6 @@
         "time": "2026-02-16 22:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8518366",
         "title": "越野滑雪之王克莱博摘第九金 成为冬奥史上金牌最多选手",
-        "seq": 136
-    },
-    {
-        "media": "聯合早報",
-        "category": "财经",
-        "timeText": "22:52",
-        "time": "2026-02-16 22:52",
-        "link": "https://www.zaobao.com.sg/finance/china/story20260215-8518120",
-        "title": "中国企业盈利预期恶化或拖累股市",
         "seq": 137
     },
     {
@@ -1238,8 +1238,17 @@
         "timeText": "22:52",
         "time": "2026-02-16 22:52",
         "link": "https://www.zaobao.com.sg/finance/china/story20260215-8518120",
-        "title": "中企盈利预期恶化股市后市蒙阴影 节后或进入政策博弈窗口期",
+        "title": "中国企业盈利预期恶化或拖累股市",
         "seq": 138
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:52",
+        "time": "2026-02-16 22:52",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260215-8518120",
+        "title": "中企盈利预期恶化股市后市蒙阴影 节后或进入政策博弈窗口期",
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1257,7 @@
         "time": "2026-02-16 22:59",
         "link": "https://www.zaobao.com.sg/news/china/story20260215-8518444",
         "title": "中国春运绿皮火车翻红 官方否认绿皮车“严重超员人满为患”",
-        "seq": 139
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1266,7 @@
         "time": "2026-02-16 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260215-8518448",
         "title": "法国亲极右青年遭袭身亡 司法部长指极左势力酿祸端",
-        "seq": 140
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1275,7 @@
         "time": "2026-02-16 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260215-8518403",
         "title": "春到河畔在灿烂烟花秀中开幕 老照片特展回顾40载年味",
-        "seq": 141
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1284,7 @@
         "time": "2026-02-16 23:47",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260215-8517814",
         "title": "我国政要：面对分化而危险世界 全民须团结挺身卫国",
-        "seq": 142
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1284,6 +1293,6 @@
         "time": "2026-02-16 23:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260215-8518443",
         "title": "春到河畔开幕 总理祝国人春节斋月双节快乐",
-        "seq": 143
+        "seq": 144
     }
 ]
