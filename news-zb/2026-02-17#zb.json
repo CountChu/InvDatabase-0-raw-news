@@ -1001,11 +1001,29 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "22:24",
+        "time": "2026-02-17 22:24",
+        "link": "https://www.zaobao.com.sg/news/world/story20260217-8547936",
+        "title": "美国民权领袖杰克逊逝世 享年84岁",
+        "seq": 112
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "22:33",
         "time": "2026-02-17 22:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260216-8546364",
         "title": "撤离叙利亚拘留营受阻 34澳籍伊国组织家属折返",
-        "seq": 112
+        "seq": 113
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:38",
+        "time": "2026-02-17 22:38",
+        "link": "https://www.zaobao.com.sg/news/china/story20260217-8547977",
+        "title": "农历初一新措施 上海迎首批加拿大英国免签旅客",
+        "seq": 114
     },
     {
         "media": "聯合早報",
@@ -1014,7 +1032,7 @@
         "time": "2026-02-17 22:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8518366",
         "title": "越野滑雪之王克莱博摘第九金 成为冬奥史上金牌最多选手",
-        "seq": 113
+        "seq": 115
     },
     {
         "media": "聯合早報",
@@ -1023,24 +1041,6 @@
         "time": "2026-02-17 22:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260216-8546374",
         "title": "美伊谈判前夕 伊朗革命卫队在霍尔木兹海峡军演",
-        "seq": 114
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "22:52",
-        "time": "2026-02-17 22:52",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260216-8546371",
-        "title": "牛车水越夜越“嗨” 摊贩开始大甩卖",
-        "seq": 115
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "22:52",
-        "time": "2026-02-17 22:52",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260216-8546371",
-        "title": "66串鞭炮齐燃放 赤马奔腾“驾到”牛车水",
         "seq": 116
     },
     {
@@ -1049,8 +1049,26 @@
         "timeText": "22:52",
         "time": "2026-02-17 22:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260216-8546371",
-        "title": "66串鞭炮齐燃放 赤马奔临牛车水",
+        "title": "牛车水越夜越“嗨” 摊贩开始大甩卖",
         "seq": 117
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:52",
+        "time": "2026-02-17 22:52",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260216-8546371",
+        "title": "66串鞭炮齐燃放 赤马奔腾“驾到”牛车水",
+        "seq": 118
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:52",
+        "time": "2026-02-17 22:52",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260216-8546371",
+        "title": "66串鞭炮齐燃放 赤马奔临牛车水",
+        "seq": 119
     },
     {
         "media": "聯合早報",
@@ -1059,7 +1077,7 @@
         "time": "2026-02-17 23:04",
         "link": "https://www.zaobao.com.sg/news/world/story20260216-8546392",
         "title": "美伊新一轮谈判周二登场 伊朗外长：绝不屈服于威胁",
-        "seq": 118
+        "seq": 120
     },
     {
         "media": "聯合早報",
@@ -1068,7 +1086,7 @@
         "time": "2026-02-17 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260216-8546417",
         "title": "新柔地铁工程新年期间不停工",
-        "seq": 119
+        "seq": 121
     },
     {
         "media": "聯合早報",
@@ -1077,6 +1095,6 @@
         "time": "2026-02-17 23:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260216-8546413",
         "title": "我国法伊兹冬奥回转赛得第35 过半选手未完赛",
-        "seq": 120
+        "seq": 122
     }
 ]
