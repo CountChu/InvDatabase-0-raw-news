@@ -1045,12 +1045,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "17:47",
+        "time": "2026-02-18 17:47",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260218-8450666",
+        "title": "医疗和交通等因素推动 今年核心通胀率料上升到至少1.5%",
+        "seq": 117
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "17:51",
         "time": "2026-02-18 17:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260218-8461691",
         "title": "设工会企业去年加薪幅度略降 花红维持涨势",
-        "seq": 117
+        "seq": 118
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "18:01",
+        "time": "2026-02-18 18:01",
+        "link": "https://www.zaobao.com.sg/news/china/story20260218-8550503",
+        "title": "农历新年首两天 未见大陆军机飞越台海中线",
+        "seq": 119
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "18:01",
+        "time": "2026-02-18 18:01",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260218-8550539",
+        "title": "马国元首接见柔佛官员 谕令严厉打贪",
+        "seq": 120
     },
     {
         "media": "聯合早報",
@@ -1059,7 +1086,16 @@
         "time": "2026-02-18 18:12",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8517358",
         "title": "终结龚倩云10连冠 13岁小将成为本地国际象棋棋后",
-        "seq": 118
+        "seq": 121
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "18:12",
+        "time": "2026-02-18 18:12",
+        "link": "https://www.zaobao.com.sg/news/world/story20260218-8550475",
+        "title": "日本履行对美投资承诺 敲定首批项目总值360亿美元",
+        "seq": 122
     },
     {
         "media": "聯合早報",
@@ -1068,7 +1104,7 @@
         "time": "2026-02-18 18:20",
         "link": "https://www.zaobao.com.sg/news/sea/story20260217-8547587",
         "title": "马国吉隆坡机场农历初一早上接待上万旅客",
-        "seq": 119
+        "seq": 123
     },
     {
         "media": "聯合早報",
@@ -1077,7 +1113,7 @@
         "time": "2026-02-18 18:28",
         "link": "https://www.zaobao.com.sg/news/world/story20260217-8547601",
         "title": "英国去年第四季就业市场走软 失业率近五年最高位",
-        "seq": 120
+        "seq": 124
     },
     {
         "media": "聯合早報",
@@ -1086,7 +1122,7 @@
         "time": "2026-02-18 18:29",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8516393",
         "title": "利拉德NBA全明星赛三度加冕三分王 扣篮亚军凭名字抢戏  ",
-        "seq": 121
+        "seq": 125
     },
     {
         "media": "聯合早報",
@@ -1095,7 +1131,7 @@
         "time": "2026-02-18 18:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260217-8547651",
         "title": "意大利发生火灾波及著名剧院 多人吸入浓烟送院",
-        "seq": 122
+        "seq": 126
     },
     {
         "media": "聯合早報",
@@ -1104,7 +1140,7 @@
         "time": "2026-02-18 18:59",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8517649",
         "title": "皇马大胜暂登西甲榜首 维尼修斯梅开二度迎来制造200球里程碑",
-        "seq": 123
+        "seq": 127
     },
     {
         "media": "聯合早報",
@@ -1113,7 +1149,7 @@
         "time": "2026-02-18 19:13",
         "link": "https://www.zaobao.com.sg/news/sea/story20260217-8547686",
         "title": "马国新年一家五口惨案 男子疑弑母杀妻女后自杀",
-        "seq": 124
+        "seq": 128
     },
     {
         "media": "聯合早報",
@@ -1122,7 +1158,7 @@
         "time": "2026-02-18 19:23",
         "link": "https://www.zaobao.com.sg/news/china/story20260217-8547702",
         "title": "台湾澎湖县长陈光复重摔脑出血 一度无心跳呼吸",
-        "seq": 125
+        "seq": 129
     },
     {
         "media": "聯合早報",
@@ -1131,7 +1167,7 @@
         "time": "2026-02-18 19:30",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8517759",
         "title": "拜仁3比0轻取不莱梅 凯恩喜迎职业生涯500球里程碑",
-        "seq": 126
+        "seq": 130
     },
     {
         "media": "聯合早報",
@@ -1140,7 +1176,7 @@
         "time": "2026-02-18 19:52",
         "link": "https://www.zaobao.com.sg/news/world/story20260217-8547736",
         "title": "消息：高市早苗施政方针料推食品饮料消费税免征",
-        "seq": 127
+        "seq": 131
     },
     {
         "media": "聯合早報",
@@ -1149,7 +1185,7 @@
         "time": "2026-02-18 20:18",
         "link": "https://www.zaobao.com.sg/news/world/story20260217-8547785",
         "title": "消息：高市早苗料邀黄循财3月中旬访日",
-        "seq": 128
+        "seq": 132
     },
     {
         "media": "聯合早報",
@@ -1158,7 +1194,7 @@
         "time": "2026-02-18 20:28",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8517891",
         "title": "打职业高球四年多首夺冠 我国詹耀淳称霸雪兰莪大师赛",
-        "seq": 129
+        "seq": 133
     },
     {
         "media": "聯合早報",
@@ -1167,7 +1203,7 @@
         "time": "2026-02-18 21:13",
         "link": "https://www.zaobao.com.sg/news/china/story20260217-8547857",
         "title": "拉赫曼宣誓就任孟加拉总理 李强致电恭贺",
-        "seq": 130
+        "seq": 134
     },
     {
         "media": "聯合早報",
@@ -1176,7 +1212,7 @@
         "time": "2026-02-18 21:25",
         "link": "https://www.zaobao.com.sg/news/china/story20260217-8547871",
         "title": "中国云南旅游区游船侧翻 四人落水其中两人死亡",
-        "seq": 131
+        "seq": 135
     },
     {
         "media": "聯合早報",
@@ -1185,7 +1221,7 @@
         "time": "2026-02-18 21:30",
         "link": "https://www.zaobao.com.sg/news/china/story20260217-8547878",
         "title": "德国总理默茨社媒发文 送上马年新春祝福",
-        "seq": 132
+        "seq": 136
     },
     {
         "media": "聯合早報",
@@ -1194,7 +1230,7 @@
         "time": "2026-02-18 21:47",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260217-8547876",
         "title": "黄循财总理祝贺孟加拉国总理拉赫曼就任",
-        "seq": 133
+        "seq": 137
     },
     {
         "media": "聯合早報",
@@ -1203,7 +1239,7 @@
         "time": "2026-02-18 21:48",
         "link": "https://www.zaobao.com.sg/news/sea/story20260216-8546340",
         "title": "马国首相以刘德华“恭喜发财”贺岁",
-        "seq": 134
+        "seq": 138
     },
     {
         "media": "聯合早報",
@@ -1212,7 +1248,7 @@
         "time": "2026-02-18 21:53",
         "link": "https://www.zaobao.com.sg/news/sea/story20260217-8547897",
         "title": "马国霹州陆交局局长乔装乘客 新年期间抓违规司机",
-        "seq": 135
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1221,7 +1257,7 @@
         "time": "2026-02-18 22:09",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8518254",
         "title": "意甲裁判长承认错判红卡 向尤文图斯致歉",
-        "seq": 136
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1230,7 +1266,7 @@
         "time": "2026-02-18 22:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260217-8547936",
         "title": "美国民权领袖杰克逊逝世 享年84岁",
-        "seq": 137
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1275,7 @@
         "time": "2026-02-18 22:38",
         "link": "https://www.zaobao.com.sg/news/china/story20260217-8547977",
         "title": "农历初一新措施 上海迎首批加拿大英国免签旅客",
-        "seq": 138
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1284,7 @@
         "time": "2026-02-18 22:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8518366",
         "title": "越野滑雪之王克莱博摘第九金 成为冬奥史上金牌最多选手",
-        "seq": 139
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1293,7 @@
         "time": "2026-02-18 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260217-8547925",
         "title": "小雨不阻人潮 上千人齐聚春到河畔庆初一",
-        "seq": 140
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1302,7 @@
         "time": "2026-02-18 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260217-8548014",
         "title": "伊朗外长：谈判富有“建设性” 美伊达成指导原则",
-        "seq": 141
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1311,7 @@
         "time": "2026-02-18 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260216-8546417",
         "title": "新柔地铁工程新年期间不停工",
-        "seq": 142
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1284,6 +1320,6 @@
         "time": "2026-02-18 23:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260216-8546413",
         "title": "我国法伊兹冬奥回转赛得第35 过半选手未完赛",
-        "seq": 143
+        "seq": 147
     }
 ]
