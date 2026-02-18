@@ -1639,12 +1639,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:25",
+        "time": "2026-02-18 23:25",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260218-8551693",
+        "title": "中国官方力挺春节消费  零售餐饮销售额同比增10.6%",
+        "seq": 183
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:27",
         "time": "2026-02-18 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260216-8546417",
         "title": "新柔地铁工程新年期间不停工",
-        "seq": 183
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1653,6 +1662,6 @@
         "time": "2026-02-18 23:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260216-8546413",
         "title": "我国法伊兹冬奥回转赛得第35 过半选手未完赛",
-        "seq": 184
+        "seq": 185
     }
 ]
