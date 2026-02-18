@@ -1495,12 +1495,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:05",
+        "time": "2026-02-18 22:05",
+        "link": "https://www.zaobao.com.sg/news/china/story20260218-8550794",
+        "title": "邓炳强：冀香港继续安全平稳发展",
+        "seq": 167
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:09",
         "time": "2026-02-18 22:09",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8518254",
         "title": "意甲裁判长承认错判红卡 向尤文图斯致歉",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2026-02-18 22:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260217-8547936",
         "title": "美国民权领袖杰克逊逝世 享年84岁",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1527,7 @@
         "time": "2026-02-18 22:38",
         "link": "https://www.zaobao.com.sg/news/china/story20260217-8547977",
         "title": "农历初一新措施 上海迎首批加拿大英国免签旅客",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1536,7 @@
         "time": "2026-02-18 22:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260215-8518366",
         "title": "越野滑雪之王克莱博摘第九金 成为冬奥史上金牌最多选手",
-        "seq": 170
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1545,7 @@
         "time": "2026-02-18 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260217-8547925",
         "title": "小雨不阻人潮 上千人齐聚春到河畔庆初一",
-        "seq": 171
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1554,7 @@
         "time": "2026-02-18 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260217-8548014",
         "title": "伊朗外长：谈判富有“建设性” 美伊达成指导原则",
-        "seq": 172
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1563,7 @@
         "time": "2026-02-18 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260216-8546417",
         "title": "新柔地铁工程新年期间不停工",
-        "seq": 173
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1563,6 +1572,6 @@
         "time": "2026-02-18 23:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260216-8546413",
         "title": "我国法伊兹冬奥回转赛得第35 过半选手未完赛",
-        "seq": 174
+        "seq": 175
     }
 ]
