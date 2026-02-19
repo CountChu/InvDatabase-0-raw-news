@@ -2017,12 +2017,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:18",
+        "time": "2026-02-19 23:18",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260219-8576702",
+        "title": "全岛冷飕飕 多个地区夜晚气温降至21到22摄氏度",
+        "seq": 225
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:23",
+        "time": "2026-02-19 23:23",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260219-8096967",
+        "title": "亏本都做？中企“外卷”东南亚 是战略转向非经济癌症",
+        "seq": 226
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:25",
         "time": "2026-02-19 23:25",
         "link": "https://www.zaobao.com.sg/finance/china/story20260218-8551693",
         "title": "中国官方力挺春节消费  零售餐饮销售额同比增10.6%",
-        "seq": 225
+        "seq": 227
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:25",
+        "time": "2026-02-19 23:25",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260219-8576752",
+        "title": "莱佛士坊一号据传求售 预示价约23亿元至24亿元",
+        "seq": 228
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:32",
+        "time": "2026-02-19 23:32",
+        "link": "https://www.zaobao.com.sg/news/world/story20260219-8576253",
+        "title": "美国伊朗数十年仇怨错综复杂 ",
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2067,7 @@
         "time": "2026-02-19 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260218-8551598",
         "title": "高市早苗高票蝉联日本第105任首相",
-        "seq": 226
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2040,6 +2076,6 @@
         "time": "2026-02-19 23:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260216-8546413",
         "title": "我国法伊兹冬奥回转赛得第35 过半选手未完赛",
-        "seq": 227
+        "seq": 231
     }
 ]
