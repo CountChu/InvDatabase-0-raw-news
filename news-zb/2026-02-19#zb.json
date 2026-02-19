@@ -1981,12 +1981,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:09",
+        "time": "2026-02-19 23:09",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260219-8576749",
+        "title": "长信传媒去年全年业绩 预计扭亏为盈",
+        "seq": 221
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:11",
         "time": "2026-02-19 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260218-8551812",
         "title": "马克龙抨击社媒：捍卫言论自由是“胡扯”",
-        "seq": 221
+        "seq": 222
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:13",
+        "time": "2026-02-19 23:13",
+        "link": "https://www.zaobao.com.sg/news/world/story20260219-8576440",
+        "title": "韩国前总统尹锡悦发动内乱案一审 判处无期徒刑 ",
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:18",
+        "time": "2026-02-19 23:18",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260219-8576702",
+        "title": "全岛冷飕飕 纽顿气温降至21摄氏度",
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2022,7 @@
         "time": "2026-02-19 23:25",
         "link": "https://www.zaobao.com.sg/finance/china/story20260218-8551693",
         "title": "中国官方力挺春节消费  零售餐饮销售额同比增10.6%",
-        "seq": 222
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2031,7 @@
         "time": "2026-02-19 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260218-8551598",
         "title": "高市早苗高票蝉联日本第105任首相",
-        "seq": 223
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2013,6 +2040,6 @@
         "time": "2026-02-19 23:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260216-8546413",
         "title": "我国法伊兹冬奥回转赛得第35 过半选手未完赛",
-        "seq": 224
+        "seq": 227
     }
 ]
