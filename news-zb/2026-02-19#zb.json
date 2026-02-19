@@ -1945,12 +1945,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:41",
+        "time": "2026-02-19 22:41",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260219-8576599",
+        "title": "IMF指人民币贬值促贸易顺差 经济师：国内需求疲弱压缩进口是主因",
+        "seq": 217
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:44",
+        "time": "2026-02-19 22:44",
+        "link": "https://www.zaobao.com.sg/news/world/story20260219-8576673",
+        "title": "印度力争AI枢纽地位 总理莫迪强调开放与共享",
+        "seq": 218
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:56",
+        "time": "2026-02-19 22:56",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260219-8576573",
+        "title": "顶住国内非议出席首会 普拉博沃借和平委员会提升印尼地位 ",
+        "seq": 219
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:05",
         "time": "2026-02-19 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20260218-8551805",
         "title": "法国重启爱泼斯坦案调查 涉人口贩运金融欺诈",
-        "seq": 217
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1986,7 @@
         "time": "2026-02-19 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260218-8551812",
         "title": "马克龙抨击社媒：捍卫言论自由是“胡扯”",
-        "seq": 218
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1995,7 @@
         "time": "2026-02-19 23:25",
         "link": "https://www.zaobao.com.sg/finance/china/story20260218-8551693",
         "title": "中国官方力挺春节消费  零售餐饮销售额同比增10.6%",
-        "seq": 219
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2004,7 @@
         "time": "2026-02-19 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260218-8551598",
         "title": "高市早苗高票蝉联日本第105任首相",
-        "seq": 220
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1986,6 +2013,6 @@
         "time": "2026-02-19 23:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260216-8546413",
         "title": "我国法伊兹冬奥回转赛得第35 过半选手未完赛",
-        "seq": 221
+        "seq": 224
     }
 ]
