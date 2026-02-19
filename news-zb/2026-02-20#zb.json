@@ -514,12 +514,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:13",
+        "time": "2026-02-20 23:13",
+        "link": "https://www.zaobao.com.sg/news/world/story20260219-8576440",
+        "title": "内乱罪成判无期徒刑 韩国前总统尹锡悦逃过死刑",
+        "seq": 58
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:18",
         "time": "2026-02-20 23:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260219-8576702",
         "title": "全岛冷飕飕 多个地区夜晚气温降至21到22摄氏度",
-        "seq": 58
+        "seq": 59
     },
     {
         "media": "聯合早報",
@@ -528,7 +537,16 @@
         "time": "2026-02-20 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260219-8096967",
         "title": "亏本都做？中企“外卷”东南亚 是战略转向而非经济癌症",
-        "seq": 59
+        "seq": 60
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:23",
+        "time": "2026-02-20 23:23",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260219-8096967",
+        "title": "亏本都做？中企“外卷”东南亚 是战略转向而非“经济癌症”",
+        "seq": 61
     },
     {
         "media": "聯合早報",
@@ -537,7 +555,7 @@
         "time": "2026-02-20 23:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260219-8576752",
         "title": "莱佛士坊一号据传求售 预示价约23亿元至24亿元",
-        "seq": 60
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -546,7 +564,7 @@
         "time": "2026-02-20 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260219-8576253",
         "title": "美国伊朗数十年仇怨错综复杂 ",
-        "seq": 61
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -555,7 +573,7 @@
         "time": "2026-02-20 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260219-8576826",
         "title": "污水泄漏 美国首都进入紧急状态",
-        "seq": 62
+        "seq": 64
     },
     {
         "media": "聯合早報",
@@ -564,6 +582,6 @@
         "time": "2026-02-20 23:59",
         "link": "https://www.zaobao.com.sg/news/world/story20260219-8576893",
         "title": "加拿大2025年贸易逆差扩大 达疫情外新高",
-        "seq": 63
+        "seq": 65
     }
 ]
