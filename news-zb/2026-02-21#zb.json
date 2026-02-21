@@ -1559,19 +1559,19 @@
     {
         "media": "聯合早報",
         "category": "国际",
-        "timeText": "23:05",
-        "time": "2026-02-21 23:05",
-        "link": "https://www.zaobao.com.sg/news/world/story20260220-8605765",
-        "title": "阿富汗东部发生5.8级地震",
+        "timeText": "22:53",
+        "time": "2026-02-21 22:53",
+        "link": "https://www.zaobao.com.sg/news/world/story20260221-8608916",
+        "title": "法国贸易部长：欧盟有能力反击特朗普关税政策",
         "seq": 174
     },
     {
         "media": "聯合早報",
-        "category": "中国",
-        "timeText": "23:07",
-        "time": "2026-02-21 23:07",
-        "link": "https://www.zaobao.com.sg/news/china/story20260220-8605795",
-        "title": "路透社引述白宫消息：特朗普将于3月31日到4月2日访华",
+        "category": "国际",
+        "timeText": "23:05",
+        "time": "2026-02-21 23:05",
+        "link": "https://www.zaobao.com.sg/news/world/story20260220-8605765",
+        "title": "阿富汗东部发生5.8级地震",
         "seq": 175
     },
     {
@@ -1580,8 +1580,17 @@
         "timeText": "23:07",
         "time": "2026-02-21 23:07",
         "link": "https://www.zaobao.com.sg/news/china/story20260220-8605795",
-        "title": "路透社引述白宫消息：特朗普将于3月31日到4月2日访问中国",
+        "title": "路透社引述白宫消息：特朗普将于3月31日到4月2日访华",
         "seq": 176
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:07",
+        "time": "2026-02-21 23:07",
+        "link": "https://www.zaobao.com.sg/news/china/story20260220-8605795",
+        "title": "路透社引述白宫消息：特朗普将于3月31日到4月2日访问中国",
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1599,7 @@
         "time": "2026-02-21 23:10",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260220-8605556",
         "title": "忠邦区试点“繁荣社区计划” 拨逾66万元助民间慈善企划成长",
-        "seq": 177
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1608,7 @@
         "time": "2026-02-21 23:17",
         "link": "https://www.zaobao.com.sg/news/sea/story20260220-8605292",
         "title": "美印联盟迈向“新黄金时代” 美国对印尼关税降至19%",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,15 +1617,6 @@
         "time": "2026-02-21 23:24",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260220-8605459",
         "title": "经典歌曲配流行元素 春到河畔歌台之夜撞出新火花",
-        "seq": 179
-    },
-    {
-        "media": "聯合早報",
-        "category": "国际",
-        "timeText": "23:32",
-        "time": "2026-02-21 23:32",
-        "link": "https://www.zaobao.com.sg/news/world/story20260220-8605930",
-        "title": "美国最高法院裁定特朗普违宪 总统无权单方面加征关税",
         "seq": 180
     },
     {
@@ -1625,8 +1625,17 @@
         "timeText": "23:32",
         "time": "2026-02-21 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260220-8605930",
-        "title": "美国最高法院裁决特朗普关税政策违宪 1750亿美元税款或须退还",
+        "title": "美国最高法院裁定特朗普违宪 总统无权单方面加征关税",
         "seq": 181
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:32",
+        "time": "2026-02-21 23:32",
+        "link": "https://www.zaobao.com.sg/news/world/story20260220-8605930",
+        "title": "美国最高法院裁决特朗普关税政策违宪 1750亿美元税款或须退还",
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1644,7 @@
         "time": "2026-02-21 23:38",
         "link": "https://www.zaobao.com.sg/news/china/story20260220-8605783",
         "title": "下午察：中国“超级智库”的陨落",
-        "seq": 182
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1653,7 @@
         "time": "2026-02-21 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260220-8605921",
         "title": "受政府停摆拖累 美国第四季度GDP仅增1.4%",
-        "seq": 183
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1653,6 +1662,6 @@
         "time": "2026-02-21 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260220-8605887",
         "title": "兀兰关卡交通执法行动 59名驾驶者因触犯交通条例被捉",
-        "seq": 184
+        "seq": 185
     }
 ]
