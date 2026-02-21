@@ -1423,12 +1423,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:00",
+        "time": "2026-02-21 22:00",
+        "link": "https://www.zaobao.com.sg/news/china/story20260221-8608533",
+        "title": "分析：美国高院关税违宪裁决让中国处于“更有利位置”",
+        "seq": 159
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:02",
         "time": "2026-02-21 22:02",
         "link": "https://www.zaobao.com.sg/news/sea/story20260220-8605506",
         "title": "虐待行为令人心碎 联合国促取缔电诈园区",
-        "seq": 159
+        "seq": 160
     },
     {
         "media": "聯合早報",
@@ -1437,7 +1446,7 @@
         "time": "2026-02-21 22:05",
         "link": "https://www.zaobao.com.sg/news/china/story20260220-8600041",
         "title": "台外交部欢迎日外长强调台海和平稳定重要性",
-        "seq": 160
+        "seq": 161
     },
     {
         "media": "聯合早報",
@@ -1446,7 +1455,34 @@
         "time": "2026-02-21 22:05",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260220-8600515",
         "title": "新电信增长潜能受看好 星和恢复盈利料需时",
-        "seq": 161
+        "seq": 162
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:09",
+        "time": "2026-02-21 22:09",
+        "link": "https://www.zaobao.com.sg/news/world/story20260221-8608809",
+        "title": "移民船在希腊克里特岛附近海域倾覆 至少五人死亡",
+        "seq": 163
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:11",
+        "time": "2026-02-21 22:11",
+        "link": "https://www.zaobao.com.sg/news/china/story20260221-8607452",
+        "title": "粤车南下赴港市区措施：香港接到及处理3000份申请",
+        "seq": 164
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:12",
+        "time": "2026-02-21 22:12",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260221-8608733",
+        "title": "单届狂揽六金 挪威越野滑雪好手克莱博创冬奥历史",
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1455,7 +1491,7 @@
         "time": "2026-02-21 22:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260220-8605429",
         "title": "汽车与电单车停车场前路口相撞 30岁男骑士送院",
-        "seq": 162
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1500,7 @@
         "time": "2026-02-21 22:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260220-8605561",
         "title": "法国公布2026年预算案：削减公共支出 增加国防开支",
-        "seq": 163
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1509,7 @@
         "time": "2026-02-21 22:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260220-8605407",
         "title": "WTT新加坡大满贯：曾尖首轮碰王曼昱 陈昭澐签运佳",
-        "seq": 164
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1518,7 @@
         "time": "2026-02-21 22:38",
         "link": "https://www.zaobao.com.sg/news/china/story20260220-8602991",
         "title": "进出口回落 美国去年对华贸易逆差缩至20年最低 ",
-        "seq": 165
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1527,7 @@
         "time": "2026-02-21 22:42",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260220-8605509",
         "title": "百汇生命REIT首获星展7200万元社会贷款 并将发行7000万元绿色债券",
-        "seq": 166
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1536,7 @@
         "time": "2026-02-21 22:43",
         "link": "https://www.zaobao.com.sg/finance/china/story20260220-8605466",
         "title": "马年首个交易日“黑盘”收市 港府承诺继续推动股市改革",
-        "seq": 167
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1545,7 @@
         "time": "2026-02-21 22:48",
         "link": "https://www.zaobao.com.sg/news/sports/story20260220-8605645",
         "title": "与妻子徐梦桃先后登顶 王心迪摘中国冬奥第四金 ",
-        "seq": 168
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1554,7 @@
         "time": "2026-02-21 22:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260220-8605575",
         "title": "大华保险2025财年净利增8% 派发终期股息19.5分",
-        "seq": 169
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1563,7 @@
         "time": "2026-02-21 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20260220-8605765",
         "title": "阿富汗东部发生5.8级地震",
-        "seq": 170
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1572,7 @@
         "time": "2026-02-21 23:07",
         "link": "https://www.zaobao.com.sg/news/china/story20260220-8605795",
         "title": "路透社引述白宫消息：特朗普将于3月31日到4月2日访华",
-        "seq": 171
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1581,7 @@
         "time": "2026-02-21 23:07",
         "link": "https://www.zaobao.com.sg/news/china/story20260220-8605795",
         "title": "路透社引述白宫消息：特朗普将于3月31日到4月2日访问中国",
-        "seq": 172
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1590,7 @@
         "time": "2026-02-21 23:10",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260220-8605556",
         "title": "忠邦区试点“繁荣社区计划” 拨逾66万元助民间慈善企划成长",
-        "seq": 173
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1599,7 @@
         "time": "2026-02-21 23:17",
         "link": "https://www.zaobao.com.sg/news/sea/story20260220-8605292",
         "title": "美印联盟迈向“新黄金时代” 美国对印尼关税降至19%",
-        "seq": 174
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1608,7 @@
         "time": "2026-02-21 23:24",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260220-8605459",
         "title": "经典歌曲配流行元素 春到河畔歌台之夜撞出新火花",
-        "seq": 175
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1617,7 @@
         "time": "2026-02-21 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260220-8605930",
         "title": "美国最高法院裁定特朗普违宪 总统无权单方面加征关税",
-        "seq": 176
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1626,7 @@
         "time": "2026-02-21 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260220-8605930",
         "title": "美国最高法院裁决特朗普关税政策违宪 1750亿美元税款或须退还",
-        "seq": 177
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1635,7 @@
         "time": "2026-02-21 23:38",
         "link": "https://www.zaobao.com.sg/news/china/story20260220-8605783",
         "title": "下午察：中国“超级智库”的陨落",
-        "seq": 178
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1644,7 @@
         "time": "2026-02-21 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260220-8605921",
         "title": "受政府停摆拖累 美国第四季度GDP仅增1.4%",
-        "seq": 179
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1617,6 +1653,6 @@
         "time": "2026-02-21 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260220-8605887",
         "title": "兀兰关卡交通执法行动 59名驾驶者因触犯交通条例被捉",
-        "seq": 180
+        "seq": 184
     }
 ]
