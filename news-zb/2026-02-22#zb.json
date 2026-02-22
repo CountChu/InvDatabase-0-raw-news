@@ -1441,12 +1441,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:35",
+        "time": "2026-02-22 22:35",
+        "link": "https://www.zaobao.com.sg/news/china/story20260222-8620303",
+        "title": "学者分析：美国15%新关税为中美经贸谈判增添变数",
+        "seq": 161
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:42",
         "time": "2026-02-22 22:42",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260220-8605509",
         "title": "百汇生命REIT首获星展7200万元社会贷款 并将发行7000万元绿色债券",
-        "seq": 161
+        "seq": 162
     },
     {
         "media": "聯合早報",
@@ -1455,7 +1464,7 @@
         "time": "2026-02-22 22:43",
         "link": "https://www.zaobao.com.sg/finance/china/story20260220-8605466",
         "title": "马年首个交易日“黑盘”收市 港府承诺继续推动股市改革",
-        "seq": 162
+        "seq": 163
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1473,7 @@
         "time": "2026-02-22 22:48",
         "link": "https://www.zaobao.com.sg/news/sports/story20260220-8605645",
         "title": "与妻子徐梦桃先后登顶 王心迪摘中国冬奥第四金 ",
-        "seq": 163
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1482,7 @@
         "time": "2026-02-22 22:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260220-8605575",
         "title": "大华保险2025财年净利增8% 派发终期股息19.5分",
-        "seq": 164
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1491,7 @@
         "time": "2026-02-22 22:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608916",
         "title": "法国贸易部长：欧盟有能力反击特朗普关税政策",
-        "seq": 165
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1500,7 @@
         "time": "2026-02-22 23:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608899",
         "title": "特朗普考虑“有限度打击”伊朗 伊外长称数日内完成核协议草案",
-        "seq": 166
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1509,7 @@
         "time": "2026-02-22 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608939",
         "title": "欧洲央行管理委员：关税对美国损害大于其他国家",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2026-02-22 23:17",
         "link": "https://www.zaobao.com.sg/news/sea/story20260220-8605292",
         "title": "美印联盟迈向“新黄金时代” 美国对印尼关税降至19%",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1527,7 @@
         "time": "2026-02-22 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608988",
         "title": "默茨：美最高法院驳回关税政策 德国关税负担将减轻",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,6 +1536,6 @@
         "time": "2026-02-22 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608612",
         "title": "欧洲五强联手 打破“昂贵导弹打廉价无人机”困境",
-        "seq": 170
+        "seq": 171
     }
 ]
