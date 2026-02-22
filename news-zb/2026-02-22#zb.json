@@ -892,12 +892,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "17:51",
+        "time": "2026-02-22 17:51",
+        "link": "https://www.zaobao.com.sg/news/world/story20260222-8619435",
+        "title": "专家：美国攻打伊朗风险高于捉拿马杜罗",
+        "seq": 100
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "17:58",
         "time": "2026-02-22 17:58",
         "link": "https://www.zaobao.com.sg/news/sea/story20260222-8619554",
         "title": "马国沙巴水灾受影响人数下降 砂拉越柔佛仍受灾",
-        "seq": 100
+        "seq": 101
     },
     {
         "media": "聯合早報",
@@ -906,7 +915,7 @@
         "time": "2026-02-22 18:00",
         "link": "https://www.zaobao.com.sg/news/sea/story20260221-8608198",
         "title": "今年首月1381起 马国网购骗局投报增57%",
-        "seq": 101
+        "seq": 102
     },
     {
         "media": "聯合早報",
@@ -915,7 +924,7 @@
         "time": "2026-02-22 18:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260222-8619559",
         "title": "贸工部：关注美新关税发展 部分产品不属援引条款范围",
-        "seq": 102
+        "seq": 103
     },
     {
         "media": "聯合早報",
@@ -924,7 +933,7 @@
         "time": "2026-02-22 18:06",
         "link": "https://www.zaobao.com.sg/news/sports/story20260221-8608042",
         "title": "炮兵要证明不是“软脚虾” 热刺新帅面临严峻考验",
-        "seq": 103
+        "seq": 104
     },
     {
         "media": "聯合早報",
@@ -933,7 +942,7 @@
         "time": "2026-02-22 18:07",
         "link": "https://www.zaobao.com.sg/news/china/story20260221-8607369",
         "title": "《香港铁路标准》下周面世",
-        "seq": 104
+        "seq": 105
     },
     {
         "media": "聯合早報",
@@ -942,7 +951,7 @@
         "time": "2026-02-22 18:09",
         "link": "https://www.zaobao.com.sg/news/china/story20260222-8618938",
         "title": "中国80%以上粗钢产能实现超低排放",
-        "seq": 105
+        "seq": 106
     },
     {
         "media": "聯合早報",
@@ -951,7 +960,7 @@
         "time": "2026-02-22 18:10",
         "link": "https://www.zaobao.com.sg/news/sports/story20260222-8619443",
         "title": "139比122击败大王 马刺NBA取八连胜",
-        "seq": 106
+        "seq": 107
     },
     {
         "media": "聯合早報",
@@ -960,7 +969,7 @@
         "time": "2026-02-22 18:15",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260222-8619592",
         "title": "颜金勇：必要时会加大支持 暂不修改今年经济增长预测",
-        "seq": 107
+        "seq": 108
     },
     {
         "media": "聯合早報",
@@ -969,15 +978,6 @@
         "time": "2026-02-22 18:24",
         "link": "https://www.zaobao.com.sg/news/sports/story20260222-8619257",
         "title": "奥萨苏纳西甲爆冷胜出 皇马榜首摇摇欲坠",
-        "seq": 108
-    },
-    {
-        "media": "聯合早報",
-        "category": "财经",
-        "timeText": "18:26",
-        "time": "2026-02-22 18:26",
-        "link": "https://www.zaobao.com.sg/finance/singapore/story20260221-8608212",
-        "title": "美国征10%新关税 王乙康：商界已习惯“新常态” 但不确定性不利企业",
         "seq": 109
     },
     {
@@ -986,7 +986,7 @@
         "timeText": "18:26",
         "time": "2026-02-22 18:26",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260221-8608212",
-        "title": "美国征新关税 王乙康：商界习惯“新常态” 但不确定性不利企业",
+        "title": "美国征10%新关税 王乙康：商界已习惯“新常态” 但不确定性不利企业",
         "seq": 110
     },
     {
@@ -995,8 +995,17 @@
         "timeText": "18:26",
         "time": "2026-02-22 18:26",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260221-8608212",
-        "title": "美国征新关税 王乙康：商界已习惯“新常态” 但不确定性不利企业",
+        "title": "美国征新关税 王乙康：商界习惯“新常态” 但不确定性不利企业",
         "seq": 111
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "18:26",
+        "time": "2026-02-22 18:26",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260221-8608212",
+        "title": "美国征新关税 王乙康：商界已习惯“新常态” 但不确定性不利企业",
+        "seq": 112
     },
     {
         "media": "聯合早報",
@@ -1005,7 +1014,7 @@
         "time": "2026-02-22 18:31",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260221-8179726",
         "title": "本地团队破解细胞RNA“送货密码” 可推动新药开发治疗癌症等重症",
-        "seq": 112
+        "seq": 113
     },
     {
         "media": "聯合早報",
@@ -1014,7 +1023,7 @@
         "time": "2026-02-22 18:41",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260222-8619232",
         "title": "涉非法交易船用轻柴油 11人落网星期一被控",
-        "seq": 113
+        "seq": 114
     },
     {
         "media": "聯合早報",
@@ -1023,7 +1032,7 @@
         "time": "2026-02-22 18:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260221-8093836",
         "title": "绿荫降温解热气 组屋电费每年可省逾4700万元",
-        "seq": 114
+        "seq": 115
     },
     {
         "media": "聯合早報",
@@ -1032,7 +1041,7 @@
         "time": "2026-02-22 19:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260222-8618698",
         "title": "江启臣谈美关税政策：特朗普想要改变美外贸不平衡状态",
-        "seq": 115
+        "seq": 116
     },
     {
         "media": "聯合早報",
@@ -1041,7 +1050,7 @@
         "time": "2026-02-22 19:05",
         "link": "https://www.zaobao.com.sg/news/china/story20260221-8607697",
         "title": "中国对惩治水运物流领域侵犯财产犯罪发布指导意见",
-        "seq": 116
+        "seq": 117
     },
     {
         "media": "聯合早報",
@@ -1050,7 +1059,7 @@
         "time": "2026-02-22 19:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260222-8619450",
         "title": "暗示以可占领圣经所记载“应许之地” 美大使遭阿拉伯国家谴责",
-        "seq": 117
+        "seq": 118
     },
     {
         "media": "聯合早報",
@@ -1059,7 +1068,7 @@
         "time": "2026-02-22 19:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260222-8619710",
         "title": "美国国内呼吁特朗普结束关税乱局 企业联盟发起运动追讨潜在退税",
-        "seq": 118
+        "seq": 119
     },
     {
         "media": "聯合早報",
@@ -1068,7 +1077,7 @@
         "time": "2026-02-22 19:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260222-8502894",
         "title": "【早镜头】从改造庇护所到夜间咖啡馆 社群齐心助街友",
-        "seq": 119
+        "seq": 120
     },
     {
         "media": "聯合早報",
@@ -1077,7 +1086,7 @@
         "time": "2026-02-22 19:29",
         "link": "https://www.zaobao.com.sg/news/sports/story20260220-8602208",
         "title": "打破尘封近24年世界纪录 英女将基莉田径女子室内800米夺魁",
-        "seq": 120
+        "seq": 121
     },
     {
         "media": "聯合早報",
@@ -1086,7 +1095,7 @@
         "time": "2026-02-22 19:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260222-8618561",
         "title": "本地去年诈骗损失近9亿元 政府重点探讨防范三类常见骗局",
-        "seq": 121
+        "seq": 122
     },
     {
         "media": "聯合早報",
@@ -1095,7 +1104,7 @@
         "time": "2026-02-22 19:40",
         "link": "https://www.zaobao.com.sg/finance/world/story20260222-8619911",
         "title": "OpenAI预计到2030年算力支出约达6000亿美元",
-        "seq": 122
+        "seq": 123
     },
     {
         "media": "聯合早報",
@@ -1104,7 +1113,7 @@
         "time": "2026-02-22 19:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260222-8619870",
         "title": "日本拟规定 航司须拒绝未持合法许可者登机",
-        "seq": 123
+        "seq": 124
     },
     {
         "media": "聯合早報",
@@ -1113,7 +1122,7 @@
         "time": "2026-02-22 19:46",
         "link": "https://www.zaobao.com.sg/news/sports/story20260222-8619906",
         "title": "谷爱凌女子U型池卫冕成功 中国创境外冬奥最佳成绩",
-        "seq": 124
+        "seq": 125
     },
     {
         "media": "聯合早報",
@@ -1122,7 +1131,7 @@
         "time": "2026-02-22 19:51",
         "link": "https://www.zaobao.com.sg/finance/world/story20260222-8619451",
         "title": "美国亿万富豪达利欧家办披露 对美股持仓超5亿美元",
-        "seq": 125
+        "seq": 126
     },
     {
         "media": "聯合早報",
@@ -1131,7 +1140,7 @@
         "time": "2026-02-22 19:59",
         "link": "https://www.zaobao.com.sg/news/sea/story20260222-8619923",
         "title": "泰国新联合政府基本敲定",
-        "seq": 126
+        "seq": 127
     },
     {
         "media": "聯合早報",
@@ -1140,7 +1149,7 @@
         "time": "2026-02-22 20:03",
         "link": "https://www.zaobao.com.sg/news/china/story20260221-8607659",
         "title": "河南15岁少女当街被殴 一对男女被采取刑事强制措施",
-        "seq": 127
+        "seq": 128
     },
     {
         "media": "聯合早報",
@@ -1149,7 +1158,25 @@
         "time": "2026-02-22 20:15",
         "link": "https://www.zaobao.com.sg/news/sea/story20260221-8608405",
         "title": "马国反贪会主席起诉彭博社诽谤索偿1亿令吉",
-        "seq": 128
+        "seq": 129
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "20:15",
+        "time": "2026-02-22 20:15",
+        "link": "https://www.zaobao.com.sg/news/china/story20260222-8618900",
+        "title": "中国北方现沙尘污染 专家：降水量偏少叠加强冷空气所致",
+        "seq": 130
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "20:16",
+        "time": "2026-02-22 20:16",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260222-8604786",
+        "title": "新加坡人新山餐馆消费增40% 年底韩医美消费增近九成",
+        "seq": 131
     },
     {
         "media": "聯合早報",
@@ -1158,7 +1185,7 @@
         "time": "2026-02-22 20:32",
         "link": "https://www.zaobao.com.sg/news/sea/story20260221-8608476",
         "title": "沙巴北部连日暴雨致灾 逾4000人撤离",
-        "seq": 129
+        "seq": 132
     },
     {
         "media": "聯合早報",
@@ -1167,7 +1194,7 @@
         "time": "2026-02-22 20:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608157",
         "title": "【早知】特朗普关税被判违宪意味着什么？",
-        "seq": 130
+        "seq": 133
     },
     {
         "media": "聯合早報",
@@ -1176,7 +1203,7 @@
         "time": "2026-02-22 21:03",
         "link": "https://www.zaobao.com.sg/news/sea/story20260220-8605262",
         "title": "杜特尔特预审在即 菲民众对“铁腕治乱”褒贬不一",
-        "seq": 131
+        "seq": 134
     },
     {
         "media": "聯合早報",
@@ -1185,7 +1212,7 @@
         "time": "2026-02-22 21:08",
         "link": "https://www.zaobao.com.sg/finance/china/story20260221-8607541",
         "title": "中国今年春节档总场次刷新中国影史纪录",
-        "seq": 132
+        "seq": 135
     },
     {
         "media": "聯合早報",
@@ -1194,7 +1221,7 @@
         "time": "2026-02-22 21:16",
         "link": "https://www.zaobao.com.sg/news/sea/story20260221-8608596",
         "title": "国盟22日下午开会推选新任主席",
-        "seq": 133
+        "seq": 136
     },
     {
         "media": "聯合早報",
@@ -1203,7 +1230,7 @@
         "time": "2026-02-22 21:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608544",
         "title": "美国贸易伙伴谨慎看待高院关税违宪裁决",
-        "seq": 134
+        "seq": 137
     },
     {
         "media": "聯合早報",
@@ -1212,7 +1239,7 @@
         "time": "2026-02-22 21:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608544",
         "title": "美国贸易伙伴谨慎看待最高法院关税违宪裁决",
-        "seq": 135
+        "seq": 138
     },
     {
         "media": "聯合早報",
@@ -1221,7 +1248,7 @@
         "time": "2026-02-22 21:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608730",
         "title": "印度与巴西签署矿业协议 力争五年内贸易额达200亿美元",
-        "seq": 136
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1230,7 +1257,7 @@
         "time": "2026-02-22 21:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608719",
         "title": "美去年末季GDP增长1.4% 财长看好今年增长3.5%",
-        "seq": 137
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1266,7 @@
         "time": "2026-02-22 21:47",
         "link": "https://www.zaobao.com.sg/news/sports/story20260221-8608659",
         "title": "闯不过资格赛最后一关 我国黎嬣萱无缘WTT新加坡大满贯正赛",
-        "seq": 138
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1275,7 @@
         "time": "2026-02-22 22:00",
         "link": "https://www.zaobao.com.sg/news/china/story20260221-8608533",
         "title": "分析：美国高院关税违宪裁决让中国处于“更有利位置”",
-        "seq": 139
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1284,7 @@
         "time": "2026-02-22 22:02",
         "link": "https://www.zaobao.com.sg/news/sea/story20260220-8605506",
         "title": "虐待行为令人心碎 联合国促取缔电诈园区",
-        "seq": 140
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1293,7 @@
         "time": "2026-02-22 22:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608809",
         "title": "移民船在希腊克里特岛附近海域倾覆 至少五人死亡",
-        "seq": 141
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1302,7 @@
         "time": "2026-02-22 22:11",
         "link": "https://www.zaobao.com.sg/news/china/story20260221-8607452",
         "title": "粤车南下赴港市区措施：香港接到及处理3000份申请",
-        "seq": 142
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1284,7 +1311,7 @@
         "time": "2026-02-22 22:12",
         "link": "https://www.zaobao.com.sg/news/sports/story20260221-8608733",
         "title": "单届狂揽六金 挪威越野滑雪好手克莱博创冬奥历史",
-        "seq": 143
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1293,7 +1320,7 @@
         "time": "2026-02-22 22:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260220-8605407",
         "title": "WTT新加坡大满贯：曾尖首轮碰王曼昱 陈昭澐签运佳",
-        "seq": 144
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1302,7 +1329,7 @@
         "time": "2026-02-22 22:42",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260220-8605509",
         "title": "百汇生命REIT首获星展7200万元社会贷款 并将发行7000万元绿色债券",
-        "seq": 145
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1311,7 +1338,7 @@
         "time": "2026-02-22 22:43",
         "link": "https://www.zaobao.com.sg/finance/china/story20260220-8605466",
         "title": "马年首个交易日“黑盘”收市 港府承诺继续推动股市改革",
-        "seq": 146
+        "seq": 149
     },
     {
         "media": "聯合早報",
@@ -1320,7 +1347,7 @@
         "time": "2026-02-22 22:48",
         "link": "https://www.zaobao.com.sg/news/sports/story20260220-8605645",
         "title": "与妻子徐梦桃先后登顶 王心迪摘中国冬奥第四金 ",
-        "seq": 147
+        "seq": 150
     },
     {
         "media": "聯合早報",
@@ -1329,7 +1356,7 @@
         "time": "2026-02-22 22:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260220-8605575",
         "title": "大华保险2025财年净利增8% 派发终期股息19.5分",
-        "seq": 148
+        "seq": 151
     },
     {
         "media": "聯合早報",
@@ -1338,7 +1365,7 @@
         "time": "2026-02-22 22:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608916",
         "title": "法国贸易部长：欧盟有能力反击特朗普关税政策",
-        "seq": 149
+        "seq": 152
     },
     {
         "media": "聯合早報",
@@ -1347,7 +1374,7 @@
         "time": "2026-02-22 23:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608899",
         "title": "特朗普考虑“有限度打击”伊朗 伊外长称数日内完成核协议草案",
-        "seq": 150
+        "seq": 153
     },
     {
         "media": "聯合早報",
@@ -1356,7 +1383,7 @@
         "time": "2026-02-22 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608939",
         "title": "欧洲央行管理委员：关税对美国损害大于其他国家",
-        "seq": 151
+        "seq": 154
     },
     {
         "media": "聯合早報",
@@ -1365,7 +1392,7 @@
         "time": "2026-02-22 23:17",
         "link": "https://www.zaobao.com.sg/news/sea/story20260220-8605292",
         "title": "美印联盟迈向“新黄金时代” 美国对印尼关税降至19%",
-        "seq": 152
+        "seq": 155
     },
     {
         "media": "聯合早報",
@@ -1374,7 +1401,7 @@
         "time": "2026-02-22 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608988",
         "title": "默茨：美最高法院驳回关税政策 德国关税负担将减轻",
-        "seq": 153
+        "seq": 156
     },
     {
         "media": "聯合早報",
@@ -1383,6 +1410,6 @@
         "time": "2026-02-22 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260221-8608612",
         "title": "欧洲五强联手 打破“昂贵导弹打廉价无人机”困境",
-        "seq": 154
+        "seq": 157
     }
 ]
