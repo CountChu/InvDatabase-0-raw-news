@@ -1981,12 +1981,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:15",
+        "time": "2026-02-23 23:15",
+        "link": "https://www.zaobao.com.sg/news/world/story20260223-8627405",
+        "title": "新一届荷兰政府正式上台 中间派耶滕任首相",
+        "seq": 221
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:17",
         "time": "2026-02-23 23:17",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260222-8620352",
         "title": "春到河畔新谣夜 公众跟唱回味青葱岁月",
-        "seq": 221
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2004,7 @@
         "time": "2026-02-23 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260222-8620538",
         "title": "拥君主对阵反君主 伊朗大学生示威两派对立",
-        "seq": 222
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2013,7 @@
         "time": "2026-02-23 23:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260222-8620358",
         "title": "WTT新加坡大满贯正赛首日 新加坡女单男双混双逆转晋级",
-        "seq": 223
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2022,7 @@
         "time": "2026-02-23 23:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260222-8620494",
         "title": "静山民众俱乐部新春晚宴 书画慈善拍卖筹逾10万元",
-        "seq": 224
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2022,6 +2031,6 @@
         "time": "2026-02-23 23:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260222-8620559",
         "title": "印度总理莫迪2月25日访问以色列 ",
-        "seq": 225
+        "seq": 226
     }
 ]
