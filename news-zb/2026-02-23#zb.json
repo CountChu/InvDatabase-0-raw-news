@@ -1900,12 +1900,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:40",
+        "time": "2026-02-23 22:40",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260223-8627187",
+        "title": "马国总审计署报告 揭露政府机构273项财务治理问题",
+        "seq": 212
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:41",
+        "time": "2026-02-23 22:41",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260223-8627239",
+        "title": "开启WTT新加坡大满贯卫冕之旅 孙颖莎顺利取开门红",
+        "seq": 213
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:42",
         "time": "2026-02-23 22:42",
         "link": "https://www.zaobao.com.sg/news/sports/story20260222-8619845",
         "title": "WTT新加坡大满贯 林诗栋王楚钦陈幸同等过关",
-        "seq": 212
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1932,34 @@
         "time": "2026-02-23 22:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260222-8620448",
         "title": "美国促伊朗48小时内交核协议提案 下周五有望日内瓦会谈    ",
-        "seq": 213
+        "seq": 215
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:52",
+        "time": "2026-02-23 22:52",
+        "link": "https://www.zaobao.com.sg/news/world/story20260223-8627495",
+        "title": "美驻黎使馆撤离人员 鲁比奥访以仍有变数",
+        "seq": 216
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:54",
+        "time": "2026-02-23 22:54",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260223-8627505",
+        "title": "奕丰集团委任陈程宏为新首席运营官",
+        "seq": 217
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:59",
+        "time": "2026-02-23 22:59",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260223-8627492",
+        "title": "国际刑院控方：杜特尔特亲自授权杀人并挑选受害者",
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1968,7 @@
         "time": "2026-02-23 23:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260222-8620239",
         "title": "一日内两度调整全球关税至15%  特朗普再搅局让美国内外不知所措",
-        "seq": 214
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1977,7 @@
         "time": "2026-02-23 23:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260222-8620239",
         "title": "24小时内两度调整至15% 特朗普强推新关税让美国内外不知所措",
-        "seq": 215
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1986,7 @@
         "time": "2026-02-23 23:17",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260222-8620352",
         "title": "春到河畔新谣夜 公众跟唱回味青葱岁月",
-        "seq": 216
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1995,7 @@
         "time": "2026-02-23 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260222-8620538",
         "title": "拥君主对阵反君主 伊朗大学生示威两派对立",
-        "seq": 217
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1959,7 +2004,7 @@
         "time": "2026-02-23 23:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260222-8620358",
         "title": "WTT新加坡大满贯正赛首日 新加坡女单男双混双逆转晋级",
-        "seq": 218
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2013,7 @@
         "time": "2026-02-23 23:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260222-8620494",
         "title": "静山民众俱乐部新春晚宴 书画慈善拍卖筹逾10万元",
-        "seq": 219
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1977,6 +2022,6 @@
         "time": "2026-02-23 23:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260222-8620559",
         "title": "印度总理莫迪2月25日访问以色列 ",
-        "seq": 220
+        "seq": 225
     }
 ]
