@@ -2260,12 +2260,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:22",
+        "time": "2026-02-24 23:22",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260224-8633302",
+        "title": "Info-Tech系统下半年净利大增73%至998万元",
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:26",
         "time": "2026-02-24 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260223-8627419",
         "title": "饮料瓶罐退费制4月推行 白沙榜鹅率先安装回收机",
-        "seq": 252
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2283,7 @@
         "time": "2026-02-24 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20260223-8627519",
         "title": "下午察：迪拜成中国富豪新天堂",
-        "seq": 253
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2292,16 @@
         "time": "2026-02-24 23:32",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260223-8627500",
         "title": "春到河畔S-Pop之夜 本地艺人自创歌曲鼓励国人“不马烦”",
-        "seq": 254
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:33",
+        "time": "2026-02-24 23:33",
+        "link": "https://www.zaobao.com.sg/news/world/story20260224-8633396",
+        "title": "毒枭击毙引骚乱 墨总统承诺确保世界杯安全",
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2310,7 @@
         "time": "2026-02-24 23:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260222-8620358",
         "title": "WTT新加坡大满贯正赛首日 新加坡女单男双混双逆转晋级",
-        "seq": 255
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2319,7 @@
         "time": "2026-02-24 23:51",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260223-8627433",
         "title": "油价攀升今年油气股涨幅有限 分析师：市场供应充足",
-        "seq": 256
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2310,6 +2328,6 @@
         "time": "2026-02-24 23:56",
         "link": "https://www.zaobao.com.sg/news/sea/story20260223-8627501",
         "title": "美国改征新关税 专家吁东南亚各国观望莫急于重新谈判",
-        "seq": 257
+        "seq": 259
     }
 ]
