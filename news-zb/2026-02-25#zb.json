@@ -2225,11 +2225,29 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:29",
+        "time": "2026-02-25 23:29",
+        "link": "https://www.zaobao.com.sg/news/world/story20260225-8639691",
+        "title": "墨西哥突击毒枭获美情报 辛鲍姆向特朗普说明经过",
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:33",
         "time": "2026-02-25 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260224-8633396",
         "title": "毒枭击毙引骚乱 墨总统承诺确保世界杯安全",
-        "seq": 248
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:35",
+        "time": "2026-02-25 23:35",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260225-8639380",
+        "title": "关注年长员工女性与低收入群体 多名议员吁加强就业支援 ",
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2256,7 @@
         "time": "2026-02-25 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260224-8633421",
         "title": "G7重申对乌克兰坚定支持 乌英重磅制裁俄罗斯 ",
-        "seq": 249
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2265,7 @@
         "time": "2026-02-25 23:55",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260224-8632557",
         "title": "豁免品占逾60% 新加坡出口美国有效关税亚细安最低",
-        "seq": 250
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2274,7 @@
         "time": "2026-02-25 23:59",
         "link": "https://www.zaobao.com.sg/news/china/story20260224-8632899",
         "title": "中国将20日本企业列军民两用管控名单",
-        "seq": 251
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2265,6 +2283,6 @@
         "time": "2026-02-25 23:59",
         "link": "https://www.zaobao.com.sg/news/china/story20260224-8632899",
         "title": "中国反制升级 20家日本实体被列军民两用管控名单",
-        "seq": 252
+        "seq": 254
     }
 ]
