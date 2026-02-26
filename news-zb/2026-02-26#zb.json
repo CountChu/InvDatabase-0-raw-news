@@ -2270,11 +2270,29 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:23",
+        "time": "2026-02-26 23:23",
+        "link": "https://www.zaobao.com.sg/news/world/story20260226-8646138",
+        "title": "美国第一夫人首次主持安理会 梅拉尼娅将提倡教育",
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:28",
+        "time": "2026-02-26 23:28",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260226-8645798",
+        "title": "零售业和餐饮业租金成本占比下降 政府密切观察走势",
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:29",
         "time": "2026-02-26 23:29",
         "link": "https://www.zaobao.com.sg/news/world/story20260225-8639691",
         "title": "墨西哥突击毒枭获美情报 辛鲍姆向特朗普说明经过",
-        "seq": 253
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2301,16 @@
         "time": "2026-02-26 23:29",
         "link": "https://www.zaobao.com.sg/news/world/story20260225-8639691",
         "title": "美情报助墨西哥突击毒枭 辛鲍姆向特朗普说明经过",
-        "seq": 254
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:34",
+        "time": "2026-02-26 23:34",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260226-8645782",
+        "title": "优创康智2025财年净利增长35%达9550万元",
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2319,16 @@
         "time": "2026-02-26 23:35",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260225-8639380",
         "title": "关注年长员工女性与低收入群体 多名议员吁加强就业支援 ",
-        "seq": 255
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:36",
+        "time": "2026-02-26 23:36",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260226-8645623",
+        "title": "黄循财：创造优质工作推动包容增长 我国不会“无就业增长”",
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2337,7 @@
         "time": "2026-02-26 23:46",
         "link": "https://www.zaobao.com.sg/news/sea/story20260225-8638058",
         "title": "泰国大选结果揭晓 新内阁组成明朗化",
-        "seq": 256
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2346,7 @@
         "time": "2026-02-26 23:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260225-8638986",
         "title": "国会观察：有钱的烦恼",
-        "seq": 257
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2355,7 @@
         "time": "2026-02-26 23:54",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260225-8639757",
         "title": "杨协成下半年净利大增至1960万元",
-        "seq": 258
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2364,7 @@
         "time": "2026-02-26 23:59",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260225-8639711",
         "title": "议员呼吁大学在人工智能时代着重教育本质 勿盲目追逐排名　",
-        "seq": 259
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2337,6 +2373,6 @@
         "time": "2026-02-26 23:59",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260225-8639711",
         "title": "议员吁在人工智能时代 大学应着重教育本质而非排名　",
-        "seq": 260
+        "seq": 264
     }
 ]
