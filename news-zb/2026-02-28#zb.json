@@ -1828,12 +1828,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:34",
+        "time": "2026-02-28 23:34",
+        "link": "https://www.zaobao.com.sg/news/world/story20260228-8655578",
+        "title": "联合国谴责中东军事冲突升级 敦促各方重返谈判桌",
+        "seq": 204
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:37",
         "time": "2026-02-28 23:37",
         "link": "https://www.zaobao.com.sg/news/sports/story20260227-8652040",
         "title": "女子花剑队亚青赛摘铜 三队员年龄组“升级”仍夺牌",
-        "seq": 204
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1851,7 @@
         "time": "2026-02-28 23:42",
         "link": "https://www.zaobao.com.sg/news/china/story20260227-8652030",
         "title": "中国学者：美国对华关税或先趋缓后走高   贸易摩擦中期内料缓和",
-        "seq": 205
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1860,7 @@
         "time": "2026-02-28 23:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260227-8652178",
         "title": "悦榕控股2025财年下半年净利同比滑落7%",
-        "seq": 206
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1869,7 @@
         "time": "2026-02-28 23:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260227-8651489",
         "title": "服役期间掌握行业技能 下半年起获认证有助求职",
-        "seq": 207
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1878,7 @@
         "time": "2026-02-28 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260227-8651708",
         "title": "千年冰洞现古老细菌 对多种现代抗生素具耐药性",
-        "seq": 208
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1887,7 @@
         "time": "2026-02-28 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260227-8651917",
         "title": "欧冠16强对阵揭晓 曼市皇马再次冤家路窄",
-        "seq": 209
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1896,7 @@
         "time": "2026-02-28 23:46",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260227-8649555",
         "title": "汇丰银行在本地开设第四个财富中心",
-        "seq": 210
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1896,6 +1905,6 @@
         "time": "2026-02-28 23:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260227-8651765",
         "title": "明年出任亚细安轮值主席 新加坡将深化区域一体化",
-        "seq": 211
+        "seq": 212
     }
 ]
