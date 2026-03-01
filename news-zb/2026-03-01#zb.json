@@ -1441,12 +1441,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "19:55",
+        "time": "2026-03-01 19:55",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260301-8657865",
+        "title": "中东战局令多趟航班取消 一众乘客滞留新加坡",
+        "seq": 161
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "20:01",
         "time": "2026-03-01 20:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260228-8653858",
         "title": "春节后中国减重降糖药搜索量增202%",
-        "seq": 161
+        "seq": 162
     },
     {
         "media": "聯合早報",
@@ -1455,7 +1464,7 @@
         "time": "2026-03-01 20:10",
         "link": "https://www.zaobao.com.sg/news/china/story20260228-8654802",
         "title": "被指制造婚育焦虑 新疆脱口秀演员小帕被封",
-        "seq": 162
+        "seq": 163
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1473,7 @@
         "time": "2026-03-01 20:13",
         "link": "https://www.zaobao.com.sg/news/sea/story20260228-8654448",
         "title": "穿青蛙装乞讨 柔佛当局扣留四男子调查",
-        "seq": 163
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1482,7 @@
         "time": "2026-03-01 20:16",
         "link": "https://www.zaobao.com.sg/finance/world/story20260228-8654944",
         "title": "美伊开战 油价再次迎来飙升？",
-        "seq": 164
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1491,7 @@
         "time": "2026-03-01 20:20",
         "link": "https://www.zaobao.com.sg/news/sea/story20260228-8654805",
         "title": "安华：美以将中东推向灾难边缘 须立即停止对伊朗敌对行动",
-        "seq": 165
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1500,7 @@
         "time": "2026-03-01 20:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260228-8654419",
         "title": "炮兵英超狂胜热刺后再迎劲旅 蓝军新帅联赛不败战绩受考验",
-        "seq": 166
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1509,7 @@
         "time": "2026-03-01 20:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8654524",
         "title": "从小教会求救与急救 心脏基金会推“护心小英雄计划”",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2026-03-01 21:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260228-8653939",
         "title": "香港教育支出比例20年新低 官方称人口结构已改变",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,15 +1527,6 @@
         "time": "2026-03-01 21:05",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8654556",
         "title": "专家：我国要提振生育率 政府援助须超越补贴重塑观念",
-        "seq": 169
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "21:06",
-        "time": "2026-03-01 21:06",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8654977",
-        "title": "李资政：国际局势不可控 人民和企业同政府合作应对挑战",
         "seq": 170
     },
     {
@@ -1535,8 +1535,17 @@
         "timeText": "21:06",
         "time": "2026-03-01 21:06",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8654977",
-        "title": "李资政：虽不能左右国际局势 各界可与政府合作应对",
+        "title": "李资政：国际局势不可控 人民和企业同政府合作应对挑战",
         "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:06",
+        "time": "2026-03-01 21:06",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8654977",
+        "title": "李资政：虽不能左右国际局势 各界可与政府合作应对",
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1554,7 @@
         "time": "2026-03-01 21:11",
         "link": "https://www.zaobao.com.sg/news/sea/story20260227-8651587",
         "title": "泰国军人巡逻误踩旧地雷 失去右腿",
-        "seq": 172
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1563,7 @@
         "time": "2026-03-01 21:15",
         "link": "https://www.zaobao.com.sg/news/china/story20260228-8654656",
         "title": "赖清德：二二八事件是外来政权迫害人民的悲惨历史",
-        "seq": 173
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1572,7 @@
         "time": "2026-03-01 21:28",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8655116",
         "title": "福建会馆新春团拜 到天福宫许愿写祝福",
-        "seq": 174
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1581,7 @@
         "time": "2026-03-01 21:28",
         "link": "https://www.zaobao.com.sg/news/sea/story20260227-8650967",
         "title": "被指勾结外媒企图推翻政府 达因遗孀否认指控",
-        "seq": 175
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1581,15 +1590,6 @@
         "time": "2026-03-01 21:29",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8654416",
         "title": "新加坡徐悲鸿艺术馆开幕 百年情缘再续新篇",
-        "seq": 176
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "21:38",
-        "time": "2026-03-01 21:38",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8655247",
-        "title": "费绍尔：斋戒月冲突升级令人痛心 冀冷静智慧战胜一切",
         "seq": 177
     },
     {
@@ -1598,8 +1598,17 @@
         "timeText": "21:38",
         "time": "2026-03-01 21:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8655247",
-        "title": "新加坡对谈判破裂表示遗憾 敦促各方重返谈判桌",
+        "title": "费绍尔：斋戒月冲突升级令人痛心 冀冷静智慧战胜一切",
         "seq": 178
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:38",
+        "time": "2026-03-01 21:38",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8655247",
+        "title": "新加坡对谈判破裂表示遗憾 敦促各方重返谈判桌",
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,7 @@
         "time": "2026-03-01 21:57",
         "link": "https://www.zaobao.com.sg/news/china/story20260228-8655335",
         "title": "中国外交部：伊朗国家主权应得到尊重",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1626,7 @@
         "time": "2026-03-01 22:00",
         "link": "https://www.zaobao.com.sg/news/world/story20260228-8655321",
         "title": "导弹袭击美军驻地 科威特称成功拦截",
-        "seq": 180
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1635,7 @@
         "time": "2026-03-01 22:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260228-8653999",
         "title": "美媒称特朗普会推迟对台军售 台专家忧“台湾之盾”延宕",
-        "seq": 181
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1644,7 @@
         "time": "2026-03-01 22:02",
         "link": "https://www.zaobao.com.sg/news/world/story20260228-8655337",
         "title": "德黑兰称导弹报复致200美军死伤 华盛顿指未收到伤亡报告 ",
-        "seq": 182
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1653,7 @@
         "time": "2026-03-01 22:03",
         "link": "https://www.zaobao.com.sg/news/china/story20260228-8654411",
         "title": "美官员：避免激怒习近平 特朗普4月访华前搁置对台军售",
-        "seq": 183
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1662,7 @@
         "time": "2026-03-01 22:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8655340",
         "title": "中东局势升温 移民局即日起加强海陆空关卡安检",
-        "seq": 184
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1671,7 @@
         "time": "2026-03-01 22:11",
         "link": "https://www.zaobao.com.sg/news/sports/story20260228-8655344",
         "title": "半决赛不敌丹麦组合 许永凯格洛丽亚结束德国羽球赛梦幻之旅",
-        "seq": 185
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1680,7 @@
         "time": "2026-03-01 22:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260228-8655360",
         "title": "消息：伊朗防长和革命卫队地面部队司令在袭击中丧生",
-        "seq": 186
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1689,7 @@
         "time": "2026-03-01 22:18",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260228-8655369",
         "title": "扬子江金融由盈转亏 2025财年下半年净亏1.4亿元",
-        "seq": 187
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1698,7 @@
         "time": "2026-03-01 22:21",
         "link": "https://www.zaobao.com.sg/news/sea/story20260227-8651273",
         "title": "菲美日首度巴士海峡联演 触及台海边缘引北京抗议",
-        "seq": 188
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1707,7 @@
         "time": "2026-03-01 22:27",
         "link": "https://www.zaobao.com.sg/news/world/story20260228-8655368",
         "title": "伊朗媒体：至少35枚导弹“成功袭击”以色列",
-        "seq": 189
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1716,7 @@
         "time": "2026-03-01 22:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8655334",
         "title": "妆艺大游行璀璨落幕 总统用华语为国人献祝福",
-        "seq": 190
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1725,7 @@
         "time": "2026-03-01 22:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260228-8655441",
         "title": "多国航空公司班机调整 迪拜两大机场暂停航班运营",
-        "seq": 191
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1734,7 @@
         "time": "2026-03-01 22:47",
         "link": "https://www.zaobao.com.sg/news/sports/story20260228-8655385",
         "title": "收获对手退赛礼 梅德韦杰夫首次在同一赛事两度称王",
-        "seq": 192
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1743,7 @@
         "time": "2026-03-01 22:55",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260228-8655461",
         "title": "富裕集团2025财年下半年由亏转盈 取得净利142万元",
-        "seq": 193
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1752,7 @@
         "time": "2026-03-01 23:02",
         "link": "https://www.zaobao.com.sg/news/china/story20260228-8655363",
         "title": "中国推“健康第一”教育理念 清华重申学生不会游泳不能毕业",
-        "seq": 194
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1761,7 @@
         "time": "2026-03-01 23:15",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8655501",
         "title": "狮城夫妇下榻多哈酒店 听到爆炸声与紧急警报",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1770,7 @@
         "time": "2026-03-01 23:16",
         "link": "https://www.zaobao.com.sg/news/world/story20260228-8655543",
         "title": "沙特阿拉伯证实 伊朗袭击利雅得",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1779,7 @@
         "time": "2026-03-01 23:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260228-8655326",
         "title": "榜鹅双尸案夫妻遗体火化 逾30名亲友到场送别",
-        "seq": 197
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1788,7 @@
         "time": "2026-03-01 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260228-8655578",
         "title": "联合国谴责中东军事冲突升级 敦促各方重返谈判桌",
-        "seq": 198
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1797,7 @@
         "time": "2026-03-01 23:37",
         "link": "https://www.zaobao.com.sg/news/sports/story20260227-8652040",
         "title": "女子花剑队亚青赛摘铜 三队员年龄组“升级”仍夺牌",
-        "seq": 199
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1806,7 @@
         "time": "2026-03-01 23:42",
         "link": "https://www.zaobao.com.sg/news/sea/story20260228-8655597",
         "title": "印尼喊停向印度订购10万辆罗厘计划 平息国内不满声音",
-        "seq": 200
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1815,7 @@
         "time": "2026-03-01 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260227-8651917",
         "title": "欧冠16强对阵揭晓 曼市皇马再次冤家路窄",
-        "seq": 201
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1824,7 @@
         "time": "2026-03-01 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260228-8655185",
         "title": "美伊冲突各国表态疾呼克制 全球和平再增变数",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,7 @@
         "time": "2026-03-01 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260228-8655619",
         "title": "斯塔默称英国战机参与中东“防御行动”",
-        "seq": 203
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1833,6 +1842,6 @@
         "time": "2026-03-01 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260228-8655615",
         "title": "伊朗外长：最高领袖哈梅内伊安好 即将发表讲话",
-        "seq": 204
+        "seq": 205
     }
 ]
