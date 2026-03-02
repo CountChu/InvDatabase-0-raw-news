@@ -2359,12 +2359,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:23",
+        "time": "2026-03-02 22:23",
+        "link": "https://www.zaobao.com.sg/news/world/story20260302-8666582",
+        "title": "中东陷入战争泥沼 将影响日本经济安保",
+        "seq": 263
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:23",
+        "time": "2026-03-02 22:23",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260302-8666798",
+        "title": "我国与乌拉圭落实南共市—新加坡自贸协定",
+        "seq": 264
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:27",
         "time": "2026-03-02 22:27",
         "link": "https://www.zaobao.com.sg/news/china/story20260301-8658248",
         "title": "美以袭击伊朗　赖清德：已启动应变机制确保当地台湾人安全",
-        "seq": 263
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2391,7 @@
         "time": "2026-03-02 22:28",
         "link": "https://www.zaobao.com.sg/news/world/story20260301-8659055",
         "title": "伊朗民间两极分化 哈梅内伊逝世引发庆祝和悲痛",
-        "seq": 264
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2400,25 @@
         "time": "2026-03-02 22:29",
         "link": "https://www.zaobao.com.sg/news/sea/story20260301-8658858",
         "title": "拉菲兹未遭纪律对付 公正党：他仍是党员",
-        "seq": 265
+        "seq": 267
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:29",
+        "time": "2026-03-02 22:29",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260302-8666907",
+        "title": "众议院开启莎拉弹劾听证会 菲两大政治家族内斗白热化",
+        "seq": 268
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:31",
+        "time": "2026-03-02 22:31",
+        "link": "https://www.zaobao.com.sg/news/china/story20260302-8666319",
+        "title": "下午察：明制汉服频“出圈” 引发身份认同焦虑？",
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2427,7 @@
         "time": "2026-03-02 22:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260301-8657581",
         "title": "霍尔木兹海峡石油运输停滞 船舶试图通过被击中 ",
-        "seq": 266
+        "seq": 270
     },
     {
         "media": "聯合早報",
@@ -2400,7 +2436,25 @@
         "time": "2026-03-02 22:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260301-8658876",
         "title": "默茨访华后公开赞中国生产力 直言德国还须更努力",
-        "seq": 267
+        "seq": 271
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:37",
+        "time": "2026-03-02 22:37",
+        "link": "https://www.zaobao.com.sg/news/world/story20260302-8666255",
+        "title": "NASA调整登月计划：取消波音项目 确保2028载人登月",
+        "seq": 272
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:38",
+        "time": "2026-03-02 22:38",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260302-8666888",
+        "title": "隆槟机场启用QR码通关 新加坡等64国旅客可使用",
+        "seq": 273
     },
     {
         "media": "聯合早報",
@@ -2409,7 +2463,7 @@
         "time": "2026-03-02 22:42",
         "link": "https://www.zaobao.com.sg/news/china/story20260301-8658668",
         "title": "中国宣布从3月起下调加拿大进口油菜籽税率",
-        "seq": 268
+        "seq": 274
     },
     {
         "media": "聯合早報",
@@ -2418,7 +2472,7 @@
         "time": "2026-03-02 22:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260301-8658534",
         "title": "比利时扣押俄“影子船队”油轮 欧洲加强阻止规避制裁",
-        "seq": 269
+        "seq": 275
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2481,7 @@
         "time": "2026-03-02 23:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260301-8659041",
         "title": "黄总理为基层与社区领袖办新春园游会 吁珍惜国家和谐",
-        "seq": 270
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2436,7 +2490,7 @@
         "time": "2026-03-02 23:27",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260301-8658791",
         "title": "Sparrow Tech陷费用纠纷 法庭判令支付逾80万美元酬金给LinkChina",
-        "seq": 271
+        "seq": 277
     },
     {
         "media": "聯合早報",
@@ -2445,7 +2499,7 @@
         "time": "2026-03-02 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260301-8659226",
         "title": "黎巴嫩真主党誓言“对抗”美以侵略",
-        "seq": 272
+        "seq": 278
     },
     {
         "media": "聯合早報",
@@ -2454,7 +2508,7 @@
         "time": "2026-03-02 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260301-8658885",
         "title": "空袭警报频密 新加坡人在以色列精神紧绷但镇定",
-        "seq": 273
+        "seq": 279
     },
     {
         "media": "聯合早報",
@@ -2463,7 +2517,7 @@
         "time": "2026-03-02 23:42",
         "link": "https://www.zaobao.com.sg/news/sea/story20260228-8655597",
         "title": "印尼喊停向印度订购10万辆罗厘计划 平息国内不满声音",
-        "seq": 274
+        "seq": 280
     },
     {
         "media": "聯合早報",
@@ -2472,7 +2526,7 @@
         "time": "2026-03-02 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260301-8659246",
         "title": "美伊冲突导致数千架航班中断 航空业受冲击",
-        "seq": 275
+        "seq": 281
     },
     {
         "media": "聯合早報",
@@ -2481,7 +2535,7 @@
         "time": "2026-03-02 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260301-8659258",
         "title": "五角大楼：三名美军人员在美伊冲突中丧生",
-        "seq": 276
+        "seq": 282
     },
     {
         "media": "聯合早報",
@@ -2490,7 +2544,7 @@
         "time": "2026-03-02 23:50",
         "link": "https://www.zaobao.com.sg/news/china/story20260301-8658436",
         "title": "中国调整小额信贷政策 从扶贫转为帮扶农村家庭",
-        "seq": 277
+        "seq": 283
     },
     {
         "media": "聯合早報",
@@ -2499,7 +2553,7 @@
         "time": "2026-03-02 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260301-8659266",
         "title": "美国得州奥斯汀发生枪击案 致三死14伤",
-        "seq": 278
+        "seq": 284
     },
     {
         "media": "聯合早報",
@@ -2508,6 +2562,6 @@
         "time": "2026-03-02 23:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260301-8658715",
         "title": "中国降糖减重药物搜索量春节过后大幅上升",
-        "seq": 279
+        "seq": 285
     }
 ]
