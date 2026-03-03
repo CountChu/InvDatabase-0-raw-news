@@ -506,11 +506,20 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "23:43",
+        "time": "2026-03-04 23:43",
+        "link": "https://www.zaobao.com.sg/news/china/story20260303-8672467",
+        "title": "中国不表态支持德黑兰防卫　在美伊中东各国间求平衡",
+        "seq": 57
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "23:47",
         "time": "2026-03-04 23:47",
         "link": "https://www.zaobao.com.sg/news/china/story20260303-8672011",
         "title": "中国两会登场 官方承认经济面临老问题新挑战 ",
-        "seq": 57
+        "seq": 58
     },
     {
         "media": "聯合早報",
@@ -519,7 +528,7 @@
         "time": "2026-03-04 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260303-8673181",
         "title": "美伊冲突第四天 以军袭击伊朗军工设施和首都中心",
-        "seq": 58
+        "seq": 59
     },
     {
         "media": "聯合早報",
@@ -528,7 +537,7 @@
         "time": "2026-03-04 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260303-8672884",
         "title": "特朗普警告：更多火力待发 对伊军事行动或延长",
-        "seq": 59
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -537,6 +546,6 @@
         "time": "2026-03-04 23:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260303-8666980",
         "title": "本地房地产市场强劲发展商业绩亮眼 中东局势恐缓和涨势",
-        "seq": 60
+        "seq": 61
     }
 ]
