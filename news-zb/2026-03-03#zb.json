@@ -2153,11 +2153,20 @@
     {
         "media": "聯合早報",
         "category": "东南亚",
+        "timeText": "22:28",
+        "time": "2026-03-03 22:28",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260303-8672859",
+        "title": "雅加达赶在5月评估前整顿股市透明度",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
         "timeText": "22:29",
         "time": "2026-03-03 22:29",
         "link": "https://www.zaobao.com.sg/news/sea/story20260302-8666907",
         "title": "众议院开启莎拉弹劾听证会 菲两大政治家族内斗白热化",
-        "seq": 240
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2175,7 @@
         "time": "2026-03-03 22:29",
         "link": "https://www.zaobao.com.sg/news/sea/story20260301-8658858",
         "title": "拉菲兹未遭纪律对付 公正党：他仍是党员",
-        "seq": 241
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2184,25 @@
         "time": "2026-03-03 22:31",
         "link": "https://www.zaobao.com.sg/news/china/story20260302-8666319",
         "title": "下午察：明制汉服频“出圈” 引发身份认同焦虑？",
-        "seq": 242
+        "seq": 243
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:34",
+        "time": "2026-03-03 22:34",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260303-8672472",
+        "title": "国会间隙庆元宵 总理议员齐捞起",
+        "seq": 244
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:35",
+        "time": "2026-03-03 22:35",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260303-8672364",
+        "title": "本地科研发现分子“开关” 有望逆转胰脏癌抗药性",
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2211,16 @@
         "time": "2026-03-03 22:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260302-8666255",
         "title": "NASA调整登月计划：取消波音项目 确保2028载人登月",
-        "seq": 243
+        "seq": 246
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:37",
+        "time": "2026-03-03 22:37",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260303-8672627",
+        "title": "民防历史博物廊与紧急应变中心周三起关闭 消防局开放日暂停",
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2229,7 @@
         "time": "2026-03-03 22:38",
         "link": "https://www.zaobao.com.sg/news/sea/story20260302-8666888",
         "title": "隆槟机场启用QR码通关 新加坡等64国旅客可使用",
-        "seq": 244
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2238,7 @@
         "time": "2026-03-03 22:42",
         "link": "https://www.zaobao.com.sg/finance/china/story20260302-8666562",
         "title": "大陆股市优于预期 分析师：投资者相信伊朗冲突或短期内结束",
-        "seq": 245
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2211,7 +2247,7 @@
         "time": "2026-03-03 23:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260302-8665324",
         "title": "日女检察官控上司性侵 称维权过程致精神恶化",
-        "seq": 246
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2220,7 +2256,7 @@
         "time": "2026-03-03 23:12",
         "link": "https://www.zaobao.com.sg/news/sports/story20260302-8666967",
         "title": "中东局势紧张 我国选手比赛计划受影响 ",
-        "seq": 247
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2265,7 @@
         "time": "2026-03-03 23:27",
         "link": "https://www.zaobao.com.sg/news/world/story20260302-8664935",
         "title": "芬兰研究：长期夜间噪声 恐致胆固醇升高 ",
-        "seq": 248
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2274,7 @@
         "time": "2026-03-03 23:31",
         "link": "https://www.zaobao.com.sg/news/china/story20260302-8666999",
         "title": "学者：美国打伊朗反让中美关系趋稳 元首会晤计划料不变",
-        "seq": 249
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2247,6 +2283,6 @@
         "time": "2026-03-03 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260302-8666933",
         "title": "五角大楼：对伊军事行动非“无休止战争” 德黑兰：绝不与美谈判",
-        "seq": 250
+        "seq": 254
     }
 ]
