@@ -2611,12 +2611,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:22",
+        "time": "2026-03-04 23:22",
+        "link": "https://www.zaobao.com.sg/news/china/story20260304-8679746",
+        "title": "中国人大首场发布会 娄勤俭：任何国家无权主宰他国命运",
+        "seq": 291
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:22",
+        "time": "2026-03-04 23:22",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260304-8680458",
+        "title": "全英羽毛球赛首圈 杨佳敏收退赛礼郑加恒惜败",
+        "seq": 292
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:32",
+        "time": "2026-03-04 23:32",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260304-8680442",
+        "title": "特斯拉巨鲸级投资者廖凯原买入百万股英伟达 望为紧张市场注入信心",
+        "seq": 293
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:33",
         "time": "2026-03-04 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260303-8673120",
         "title": "伊朗选举最高领袖的机构被炸",
-        "seq": 291
+        "seq": 294
     },
     {
         "media": "聯合早報",
@@ -2625,7 +2652,16 @@
         "time": "2026-03-04 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260303-8673135",
         "title": "特朗普：美国战争物资充足 可以“永远”打下去",
-        "seq": 292
+        "seq": 295
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:39",
+        "time": "2026-03-04 23:39",
+        "link": "https://www.zaobao.com.sg/news/world/story20260304-8680520",
+        "title": "中东战争会影响俄乌谈判？",
+        "seq": 296
     },
     {
         "media": "聯合早報",
@@ -2634,7 +2670,7 @@
         "time": "2026-03-04 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260303-8673123",
         "title": "黎巴嫩深陷战争泥潭 真主党以色列互相攻击",
-        "seq": 293
+        "seq": 297
     },
     {
         "media": "聯合早報",
@@ -2643,7 +2679,7 @@
         "time": "2026-03-04 23:41",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260303-8673067",
         "title": "巴士预计到站时间系统故障 第三方供应商处以罚款",
-        "seq": 294
+        "seq": 298
     },
     {
         "media": "聯合早報",
@@ -2652,7 +2688,7 @@
         "time": "2026-03-04 23:42",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260303-8673122",
         "title": "DFI零售集团去年转亏为盈 净利报2.35亿美元",
-        "seq": 295
+        "seq": 299
     },
     {
         "media": "聯合早報",
@@ -2661,7 +2697,7 @@
         "time": "2026-03-04 23:43",
         "link": "https://www.zaobao.com.sg/news/china/story20260303-8672467",
         "title": "学者：中国虽为伊朗最重要经济伙伴　中伊关系缺乏战略深度",
-        "seq": 296
+        "seq": 300
     },
     {
         "media": "聯合早報",
@@ -2670,7 +2706,7 @@
         "time": "2026-03-04 23:43",
         "link": "https://www.zaobao.com.sg/news/china/story20260303-8672467",
         "title": "中国不表态支持德黑兰防卫　在美伊中东各国间求平衡",
-        "seq": 297
+        "seq": 301
     },
     {
         "media": "聯合早報",
@@ -2679,7 +2715,7 @@
         "time": "2026-03-04 23:47",
         "link": "https://www.zaobao.com.sg/news/china/story20260303-8672011",
         "title": "中国两会登场 官方承认经济面临老问题新挑战 ",
-        "seq": 298
+        "seq": 302
     },
     {
         "media": "聯合早報",
@@ -2688,7 +2724,7 @@
         "time": "2026-03-04 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260303-8673181",
         "title": "美伊冲突第四天 以军袭击伊朗军工设施和首都中心",
-        "seq": 299
+        "seq": 303
     },
     {
         "media": "聯合早報",
@@ -2697,7 +2733,7 @@
         "time": "2026-03-04 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260303-8672884",
         "title": "特朗普警告：更多火力待发 对伊军事行动或延长",
-        "seq": 300
+        "seq": 304
     },
     {
         "media": "聯合早報",
@@ -2706,6 +2742,6 @@
         "time": "2026-03-04 23:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260303-8666980",
         "title": "本地房地产市场强劲发展商业绩亮眼 中东局势恐缓和涨势",
-        "seq": 301
+        "seq": 305
     }
 ]
