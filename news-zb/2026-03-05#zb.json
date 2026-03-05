@@ -2458,12 +2458,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:02",
+        "time": "2026-03-05 23:02",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260305-8685939",
+        "title": "中东冲突影响船运安排或再使港口拥堵 新加坡港务集团密切关注",
+        "seq": 274
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:06",
+        "time": "2026-03-05 23:06",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260305-8687049",
+        "title": "东方汇理、KKR与淡马锡等 竞购大华资产管理公司",
+        "seq": 275
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:07",
         "time": "2026-03-05 23:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260304-8680432",
         "title": "康福德高吸收部分上涨油价 减轻德士司机负担",
-        "seq": 274
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2472,7 +2490,7 @@
         "time": "2026-03-05 23:08",
         "link": "https://www.zaobao.com.sg/news/china/story20260304-8680492",
         "title": "王毅：中国将派中东问题特使赴地区国家斡旋",
-        "seq": 275
+        "seq": 277
     },
     {
         "media": "聯合早報",
@@ -2481,7 +2499,7 @@
         "time": "2026-03-05 23:11",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260304-8679987",
         "title": "国会观察：30分钟12问的新纪录",
-        "seq": 276
+        "seq": 278
     },
     {
         "media": "聯合早報",
@@ -2490,7 +2508,16 @@
         "time": "2026-03-05 23:13",
         "link": "https://www.zaobao.com.sg/news/china/story20260304-8680336",
         "title": "中国全国人大会议主席团名单出炉 马兴瑞未按惯例名列其中",
-        "seq": 277
+        "seq": 279
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:16",
+        "time": "2026-03-05 23:16",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260305-8686653",
+        "title": "马国归化球员伪造文件 体育仲裁庭判决维持禁赛罚款",
+        "seq": 280
     },
     {
         "media": "聯合早報",
@@ -2499,7 +2526,7 @@
         "time": "2026-03-05 23:22",
         "link": "https://www.zaobao.com.sg/news/china/story20260304-8679746",
         "title": "中国人大首场发布会 娄勤俭：任何国家无权主宰他国命运",
-        "seq": 278
+        "seq": 281
     },
     {
         "media": "聯合早報",
@@ -2508,7 +2535,7 @@
         "time": "2026-03-05 23:22",
         "link": "https://www.zaobao.com.sg/news/sports/story20260304-8680458",
         "title": "全英羽毛球赛首圈 杨佳敏收退赛礼郑加恒惜败",
-        "seq": 279
+        "seq": 282
     },
     {
         "media": "聯合早報",
@@ -2517,7 +2544,7 @@
         "time": "2026-03-05 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260304-8680442",
         "title": "特斯拉巨鲸级投资者廖凯原 买百万股英伟达为市场“压惊”",
-        "seq": 280
+        "seq": 283
     },
     {
         "media": "聯合早報",
@@ -2526,7 +2553,7 @@
         "time": "2026-03-05 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260304-8680520",
         "title": "中东战争会影响俄乌谈判？",
-        "seq": 281
+        "seq": 284
     },
     {
         "media": "聯合早報",
@@ -2535,7 +2562,7 @@
         "time": "2026-03-05 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260304-8680606",
         "title": "美国参谋长联席会议主席：伊朗发射导弹次数下降86%",
-        "seq": 282
+        "seq": 285
     },
     {
         "media": "聯合早報",
@@ -2544,6 +2571,6 @@
         "time": "2026-03-05 23:53",
         "link": "https://www.zaobao.com.sg/news/sea/story20260304-8680609",
         "title": "官员违法导致马国政府五年赔款逾3亿元",
-        "seq": 283
+        "seq": 286
     }
 ]
