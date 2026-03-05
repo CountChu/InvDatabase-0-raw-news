@@ -2395,12 +2395,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:40",
+        "time": "2026-03-05 22:40",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260305-8685930",
+        "title": "国会观察：为卫生部正名",
+        "seq": 267
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:44",
         "time": "2026-03-05 22:44",
         "link": "https://www.zaobao.com.sg/news/sea/story20260304-8680409",
         "title": "菲众院认定弹劾诉状内容充实 莎拉须在10天内答辩",
-        "seq": 267
+        "seq": 268
     },
     {
         "media": "聯合早報",
@@ -2409,7 +2418,34 @@
         "time": "2026-03-05 22:50",
         "link": "https://www.zaobao.com.sg/news/china/story20260304-8679869",
         "title": "下午察：中国推“里程碑式”民族团结法",
-        "seq": 268
+        "seq": 269
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:51",
+        "time": "2026-03-05 22:51",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260305-8685003",
+        "title": "涉吸“丧尸烟弹”后开车撞死八旬妇 29岁男子被控不得保释",
+        "seq": 270
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:56",
+        "time": "2026-03-05 22:56",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260305-8682020",
+        "title": "迈入超老龄化社会聚焦预防 基层医疗引入AI鉴定患慢性病风险",
+        "seq": 271
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:56",
+        "time": "2026-03-05 22:56",
+        "link": "https://www.zaobao.com.sg/news/world/story20260305-8687068",
+        "title": "法国允许美军支援飞机使用基地 但不得参与对伊朗行动",
+        "seq": 272
     },
     {
         "media": "聯合早報",
@@ -2418,7 +2454,7 @@
         "time": "2026-03-05 23:01",
         "link": "https://www.zaobao.com.sg/news/world/story20260304-8680422",
         "title": "土耳其：北约防空系统拦截并摧毁伊朗导弹",
-        "seq": 269
+        "seq": 273
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2463,7 @@
         "time": "2026-03-05 23:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260304-8680432",
         "title": "康福德高吸收部分上涨油价 减轻德士司机负担",
-        "seq": 270
+        "seq": 274
     },
     {
         "media": "聯合早報",
@@ -2436,7 +2472,7 @@
         "time": "2026-03-05 23:08",
         "link": "https://www.zaobao.com.sg/news/china/story20260304-8680492",
         "title": "王毅：中国将派中东问题特使赴地区国家斡旋",
-        "seq": 271
+        "seq": 275
     },
     {
         "media": "聯合早報",
@@ -2445,7 +2481,7 @@
         "time": "2026-03-05 23:11",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260304-8679987",
         "title": "国会观察：30分钟12问的新纪录",
-        "seq": 272
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2454,7 +2490,7 @@
         "time": "2026-03-05 23:13",
         "link": "https://www.zaobao.com.sg/news/china/story20260304-8680336",
         "title": "中国全国人大会议主席团名单出炉 马兴瑞未按惯例名列其中",
-        "seq": 273
+        "seq": 277
     },
     {
         "media": "聯合早報",
@@ -2463,7 +2499,7 @@
         "time": "2026-03-05 23:22",
         "link": "https://www.zaobao.com.sg/news/china/story20260304-8679746",
         "title": "中国人大首场发布会 娄勤俭：任何国家无权主宰他国命运",
-        "seq": 274
+        "seq": 278
     },
     {
         "media": "聯合早報",
@@ -2472,7 +2508,7 @@
         "time": "2026-03-05 23:22",
         "link": "https://www.zaobao.com.sg/news/sports/story20260304-8680458",
         "title": "全英羽毛球赛首圈 杨佳敏收退赛礼郑加恒惜败",
-        "seq": 275
+        "seq": 279
     },
     {
         "media": "聯合早報",
@@ -2481,7 +2517,7 @@
         "time": "2026-03-05 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260304-8680442",
         "title": "特斯拉巨鲸级投资者廖凯原 买百万股英伟达为市场“压惊”",
-        "seq": 276
+        "seq": 280
     },
     {
         "media": "聯合早報",
@@ -2490,7 +2526,7 @@
         "time": "2026-03-05 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260304-8680520",
         "title": "中东战争会影响俄乌谈判？",
-        "seq": 277
+        "seq": 281
     },
     {
         "media": "聯合早報",
@@ -2499,7 +2535,7 @@
         "time": "2026-03-05 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260304-8680606",
         "title": "美国参谋长联席会议主席：伊朗发射导弹次数下降86%",
-        "seq": 278
+        "seq": 282
     },
     {
         "media": "聯合早報",
@@ -2508,6 +2544,6 @@
         "time": "2026-03-05 23:53",
         "link": "https://www.zaobao.com.sg/news/sea/story20260304-8680609",
         "title": "官员违法导致马国政府五年赔款逾3亿元",
-        "seq": 279
+        "seq": 283
     }
 ]
