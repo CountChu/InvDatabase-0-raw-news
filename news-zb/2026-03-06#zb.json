@@ -2341,12 +2341,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:14",
+        "time": "2026-03-06 23:14",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260306-8692815",
+        "title": "蒙福小学后年转为混合学校 蒙福中学计划录取女生",
+        "seq": 261
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:16",
         "time": "2026-03-06 23:16",
         "link": "https://www.zaobao.com.sg/news/sports/story20260305-8686653",
         "title": "马国归化球员伪造文件 体育仲裁庭判决维持禁赛罚款",
-        "seq": 261
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2364,16 @@
         "time": "2026-03-06 23:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260305-8685923",
         "title": "与在中东40名本地学生连线 费绍尔：欣慰学生都安好",
-        "seq": 262
+        "seq": 263
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:22",
+        "time": "2026-03-06 23:22",
+        "link": "https://www.zaobao.com.sg/news/world/story20260306-8693003",
+        "title": "特朗普：除非伊朗无条件投降 否则不会有协议 ",
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2382,7 @@
         "time": "2026-03-06 23:23",
         "link": "https://www.zaobao.com.sg/news/world/story20260305-8687156",
         "title": "西班牙拟派护卫舰 向塞浦路斯提供防御支持",
-        "seq": 263
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2391,7 @@
         "time": "2026-03-06 23:24",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260305-8684692",
         "title": "本地推出心理学“快车道”课程 助学生五年成为临床心理咨询师",
-        "seq": 264
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2400,25 @@
         "time": "2026-03-06 23:25",
         "link": "https://www.zaobao.com.sg/news/sports/story20260305-8686939",
         "title": "亚冠二级联赛 淡滨尼客场不敌10人曼谷联",
-        "seq": 265
+        "seq": 267
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:27",
+        "time": "2026-03-06 23:27",
+        "link": "https://www.zaobao.com.sg/news/world/story20260306-8693286",
+        "title": "军舰遭袭 伊朗外长与印度和斯里兰卡外长通话",
+        "seq": 268
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:29",
+        "time": "2026-03-06 23:29",
+        "link": "https://www.zaobao.com.sg/news/china/story20260306-8692836",
+        "title": "两会侧记：许昆林开炮 陈刚亮家丑",
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2427,16 @@
         "time": "2026-03-06 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260305-8686870",
         "title": "美媒曝美军开始为战事持续至9月做准备",
-        "seq": 266
+        "seq": 270
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:35",
+        "time": "2026-03-06 23:35",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260306-8693331",
+        "title": "扬子江海事股票回购计划获股东批准",
+        "seq": 271
     },
     {
         "media": "聯合早報",
@@ -2400,7 +2445,7 @@
         "time": "2026-03-06 23:38",
         "link": "https://www.zaobao.com.sg/news/china/story20260305-8686851",
         "title": "中国经济迎“4”增速时代  以稳制乱质量为先 ",
-        "seq": 267
+        "seq": 272
     },
     {
         "media": "聯合早報",
@@ -2409,7 +2454,7 @@
         "time": "2026-03-06 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260305-8686459",
         "title": "伊朗加大报复袭击 战火蔓延至中东以外",
-        "seq": 268
+        "seq": 273
     },
     {
         "media": "聯合早報",
@@ -2418,7 +2463,7 @@
         "time": "2026-03-06 23:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260305-8687217",
         "title": "英国增派四架“台风”战斗机 加强卡塔尔及周边地区防御",
-        "seq": 269
+        "seq": 274
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2472,7 @@
         "time": "2026-03-06 23:44",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260305-8686743",
         "title": "尚达曼总统梵蒂冈会晤教宗 讨论跨宗教理解与AI",
-        "seq": 270
+        "seq": 275
     },
     {
         "media": "聯合早報",
@@ -2436,7 +2481,7 @@
         "time": "2026-03-06 23:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260305-8686685",
         "title": "中国军费预算增幅降至7% 分析：受经济目标下调和军队反腐影响",
-        "seq": 271
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2445,6 +2490,6 @@
         "time": "2026-03-06 23:53",
         "link": "https://www.zaobao.com.sg/news/sea/story20260304-8680609",
         "title": "官员违法导致马国政府五年赔款逾3亿元",
-        "seq": 272
+        "seq": 277
     }
 ]
