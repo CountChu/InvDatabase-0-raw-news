@@ -1504,12 +1504,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:47",
+        "time": "2026-03-07 22:47",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260307-8695984",
+        "title": "公交月票降价吸引更多人购买 为交通开销设限　",
+        "seq": 168
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:50",
         "time": "2026-03-07 22:50",
         "link": "https://www.zaobao.com.sg/news/sea/story20260306-8693197",
         "title": "印尼官员：普拉博沃调解伊朗战争提议获阿联酋等国支持",
-        "seq": 168
+        "seq": 169
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:51",
+        "time": "2026-03-07 22:51",
+        "link": "https://www.zaobao.com.sg/news/world/story20260307-8696335",
+        "title": "特朗普宣布美国扩大武器生产",
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1536,7 @@
         "time": "2026-03-07 22:52",
         "link": "https://www.zaobao.com.sg/news/china/story20260306-8693009",
         "title": "中国官方承认财政“紧平衡” 要求大力压减无效支出",
-        "seq": 169
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1545,7 @@
         "time": "2026-03-07 22:52",
         "link": "https://www.zaobao.com.sg/news/china/story20260306-8690554",
         "title": "下午察：专家学者为何频频翻车？",
-        "seq": 170
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1554,7 @@
         "time": "2026-03-07 23:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260306-8693233",
         "title": "法国航母“戴高乐”号抵达地中海 西班牙护卫舰已入编队",
-        "seq": 171
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,7 @@
         "time": "2026-03-07 23:14",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260306-8692815",
         "title": "蒙福小学后年转为混合学校 蒙福中学拟2034年录取女生",
-        "seq": 172
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1572,7 @@
         "time": "2026-03-07 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260306-8693003",
         "title": "特朗普：除非伊朗无条件投降 否则不会有协议 ",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1581,7 @@
         "time": "2026-03-07 23:27",
         "link": "https://www.zaobao.com.sg/news/world/story20260306-8693286",
         "title": "军舰遭袭 伊朗外长与印度和斯里兰卡外长通话",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,7 @@
         "time": "2026-03-07 23:29",
         "link": "https://www.zaobao.com.sg/news/china/story20260306-8692836",
         "title": "两会侧记：许昆林开炮 陈刚亮家丑",
-        "seq": 175
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1599,7 @@
         "time": "2026-03-07 23:35",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260306-8693331",
         "title": "扬子江海事股票回购计划获股东批准",
-        "seq": 176
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1608,7 @@
         "time": "2026-03-07 23:41",
         "link": "https://www.zaobao.com.sg/news/china/story20260306-8692959",
         "title": "经济连续三年承压 广东“一把手”表态要努力挑大梁 ",
-        "seq": 177
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1617,7 @@
         "time": "2026-03-07 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260306-8693360",
         "title": "阿联酋两家航空公司未来几天恢复航线运营",
-        "seq": 178
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1626,7 @@
         "time": "2026-03-07 23:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260306-8693123",
         "title": "新日建交60周年 黄总理本月正式访问日本",
-        "seq": 179
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1617,6 +1635,6 @@
         "time": "2026-03-07 23:59",
         "link": "https://www.zaobao.com.sg/news/world/story20260306-8693390",
         "title": "美国汽油零售价升至2024年来最高水平",
-        "seq": 180
+        "seq": 182
     }
 ]
