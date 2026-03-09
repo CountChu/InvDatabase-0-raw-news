@@ -2332,12 +2332,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:23",
+        "time": "2026-03-09 23:23",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260309-8705336",
+        "title": "公园局拯救两钳嘴鹳 一只伤愈放生 另一重伤不治",
+        "seq": 260
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:24",
+        "time": "2026-03-09 23:24",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260309-8705316",
+        "title": "油价若持续上涨 一些生活必需品可能起价 ",
+        "seq": 261
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:27",
         "time": "2026-03-09 23:27",
         "link": "https://www.zaobao.com.sg/news/world/story20260308-8699826",
         "title": "以色列袭击伊朗航天部队总部",
-        "seq": 260
+        "seq": 262
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:30",
+        "time": "2026-03-09 23:30",
+        "link": "https://www.zaobao.com.sg/news/china/story20260309-8703555",
+        "title": "中国高压反腐持续 将制定反跨境腐败法",
+        "seq": 263
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:32",
+        "time": "2026-03-09 23:32",
+        "link": "https://www.zaobao.com.sg/news/world/story20260309-8705390",
+        "title": "水资源成中东新战标 专家：攻击水设施将触发“大规模战争”",
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2382,7 @@
         "time": "2026-03-09 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260308-8699887",
         "title": "知情人士：伊拉克石油产量暴跌六成",
-        "seq": 261
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2391,7 @@
         "time": "2026-03-09 23:54",
         "link": "https://www.zaobao.com.sg/news/sea/story20260307-8696258",
         "title": "柬制定新法追究电诈窝点业主责任",
-        "seq": 262
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2400,7 @@
         "time": "2026-03-09 23:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20260308-8699880",
         "title": "英甲垫底队维尔港爆冷胜桑德兰 阔别逾70年闯足总杯八强",
-        "seq": 263
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2409,7 @@
         "time": "2026-03-09 23:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20260308-8699880",
         "title": "垫底维尔港爆冷胜桑德兰 70年后晋级足总杯八强",
-        "seq": 264
+        "seq": 268
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2418,7 @@
         "time": "2026-03-09 23:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20260308-8699880",
         "title": "英甲垫底维尔港爆冷胜桑德兰 72年后晋级足总杯八强",
-        "seq": 265
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2391,6 +2427,6 @@
         "time": "2026-03-09 23:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20260308-8699880",
         "title": "英甲垫底维尔港爆冷胜桑德兰 阔别72年闯足总杯八强",
-        "seq": 266
+        "seq": 270
     }
 ]
