@@ -2305,12 +2305,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:05",
+        "time": "2026-03-09 23:05",
+        "link": "https://www.zaobao.com.sg/news/china/story20260309-8704945",
+        "title": "伊朗选出新最高领袖 中国未明显支持静观政治变局",
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:08",
         "time": "2026-03-09 23:08",
         "link": "https://www.zaobao.com.sg/news/sports/story20260308-8699713",
         "title": "全英羽球赛历史首次 中华台北男单混双夺冠",
-        "seq": 257
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:09",
+        "time": "2026-03-09 23:09",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260309-8704791",
+        "title": "全国商联总会推小贩文化纪录系列视频 展现本地独特烟火气与人情味",
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2337,7 @@
         "time": "2026-03-09 23:27",
         "link": "https://www.zaobao.com.sg/news/world/story20260308-8699826",
         "title": "以色列袭击伊朗航天部队总部",
-        "seq": 258
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2346,7 @@
         "time": "2026-03-09 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260308-8699887",
         "title": "知情人士：伊拉克石油产量暴跌六成",
-        "seq": 259
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2337,24 +2355,6 @@
         "time": "2026-03-09 23:54",
         "link": "https://www.zaobao.com.sg/news/sea/story20260307-8696258",
         "title": "柬制定新法追究电诈窝点业主责任",
-        "seq": 260
-    },
-    {
-        "media": "聯合早報",
-        "category": "体育",
-        "timeText": "23:55",
-        "time": "2026-03-09 23:55",
-        "link": "https://www.zaobao.com.sg/news/sports/story20260308-8699880",
-        "title": "英甲垫底队维尔港爆冷胜桑德兰 阔别逾70年闯足总杯八强",
-        "seq": 261
-    },
-    {
-        "media": "聯合早報",
-        "category": "体育",
-        "timeText": "23:55",
-        "time": "2026-03-09 23:55",
-        "link": "https://www.zaobao.com.sg/news/sports/story20260308-8699880",
-        "title": "垫底维尔港爆冷胜桑德兰 70年后晋级足总杯八强",
         "seq": 262
     },
     {
@@ -2363,7 +2363,7 @@
         "timeText": "23:55",
         "time": "2026-03-09 23:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20260308-8699880",
-        "title": "英甲垫底维尔港爆冷胜桑德兰 72年后晋级足总杯八强",
+        "title": "英甲垫底队维尔港爆冷胜桑德兰 阔别逾70年闯足总杯八强",
         "seq": 263
     },
     {
@@ -2372,7 +2372,25 @@
         "timeText": "23:55",
         "time": "2026-03-09 23:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20260308-8699880",
-        "title": "英甲垫底维尔港爆冷胜桑德兰 阔别72年闯足总杯八强",
+        "title": "垫底维尔港爆冷胜桑德兰 70年后晋级足总杯八强",
         "seq": 264
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:55",
+        "time": "2026-03-09 23:55",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260308-8699880",
+        "title": "英甲垫底维尔港爆冷胜桑德兰 72年后晋级足总杯八强",
+        "seq": 265
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:55",
+        "time": "2026-03-09 23:55",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260308-8699880",
+        "title": "英甲垫底维尔港爆冷胜桑德兰 阔别72年闯足总杯八强",
+        "seq": 266
     }
 ]
