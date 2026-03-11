@@ -2116,12 +2116,66 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:41",
+        "time": "2026-03-11 22:41",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260311-8716876",
+        "title": "新加坡理工新设施与空间 助学生深入了解媒体与沉浸式游戏业",
+        "seq": 236
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:48",
+        "time": "2026-03-11 22:48",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260311-8717007",
+        "title": "优于市场预期 GoTo去年调整后EBITDA达2万亿印尼盾",
+        "seq": 237
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:49",
+        "time": "2026-03-11 22:49",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260311-8716888",
+        "title": "UI宝德房地产投资信托获投资者超额认购3.3倍 ",
+        "seq": 238
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:52",
+        "time": "2026-03-11 22:52",
+        "link": "https://www.zaobao.com.sg/news/world/story20260311-8717050",
+        "title": "特朗普：对伊战争很快结束 目标所剩无几",
+        "seq": 239
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:53",
+        "time": "2026-03-11 22:53",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260311-8716938",
+        "title": "伊朗体育部长：伊朗不可能参加世界杯 ",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:54",
+        "time": "2026-03-11 22:54",
+        "link": "https://www.zaobao.com.sg/news/china/story20260311-8716902",
+        "title": "福布斯2026全球富豪榜出炉 张一鸣蝉联中国首富",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:00",
         "time": "2026-03-11 23:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260310-8710838",
         "title": "美伊冲突第二周 油价波动未推高电商配送费",
-        "seq": 236
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2184,7 @@
         "time": "2026-03-11 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260310-8711237",
         "title": "联合国调查：俄罗斯强行转移乌克兰儿童构成危害人类罪",
-        "seq": 237
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2193,7 @@
         "time": "2026-03-11 23:14",
         "link": "https://www.zaobao.com.sg/news/china/story20260310-8711058",
         "title": "日媒解析卓荣泰赴日 为台湾欲拉拢日本的政治信号",
-        "seq": 238
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2202,7 @@
         "time": "2026-03-11 23:24",
         "link": "https://www.zaobao.com.sg/news/china/story20260310-8711150",
         "title": "中国今年首两个月原油采购增16% 分析：战略储备够撑半年",
-        "seq": 239
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2211,7 @@
         "time": "2026-03-11 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260310-8710931",
         "title": "航空燃油价格飙涨 亚太航空公司上调票价 利润承压",
-        "seq": 240
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2220,7 @@
         "time": "2026-03-11 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260310-8711276",
         "title": "伊朗媒体：当局逮捕30名为美以工作的间谍",
-        "seq": 241
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2229,7 @@
         "time": "2026-03-11 23:42",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260310-8711299",
         "title": "扬子江船业以8.26亿美元 收购Poseidon公司10％股权",
-        "seq": 242
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2238,7 @@
         "time": "2026-03-11 23:43",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260310-8711307",
         "title": "扭亏为盈 蔚来去年第四季取得净利1.2亿人民币 ",
-        "seq": 243
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2247,7 @@
         "time": "2026-03-11 23:44",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260310-8711154",
         "title": "首趟军用专机预计周三早抵新 载滞留中东新加坡人回国",
-        "seq": 244
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2256,7 @@
         "time": "2026-03-11 23:47",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260310-8711294",
         "title": "榜鹅110C座组屋部分单位停电 市镇会正抢修",
-        "seq": 245
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2211,6 +2265,6 @@
         "time": "2026-03-11 23:57",
         "link": "https://www.zaobao.com.sg/news/sea/story20260309-8705502",
         "title": "市值5500万新元 马国侦破今年规模第二大毒品案",
-        "seq": 246
+        "seq": 252
     }
 ]
