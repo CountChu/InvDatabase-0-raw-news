@@ -2125,12 +2125,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:53",
+        "time": "2026-03-12 22:53",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260312-8723534",
+        "title": "贸工部：我国对美国贸易是逆差而非顺差 总额约270亿美元",
+        "seq": 237
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:54",
         "time": "2026-03-12 22:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260311-8716902",
         "title": "福布斯2026全球富豪榜出炉 张一鸣蝉联中国首富",
-        "seq": 237
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2148,25 @@
         "time": "2026-03-12 22:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260312-8723575",
         "title": "国际能源署：伊朗战争带来动荡 影响全球7.5%石油供应",
-        "seq": 238
+        "seq": 239
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:00",
+        "time": "2026-03-12 23:00",
+        "link": "https://www.zaobao.com.sg/news/china/story20260312-8723155",
+        "title": "赖清德4月或许出访非洲友邦斯威士兰",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:01",
+        "time": "2026-03-12 23:01",
+        "link": "https://www.zaobao.com.sg/news/world/story20260312-8723272",
+        "title": "担心油价持续高涨经济受挫 日本自民党建议动用储备资金",
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2175,16 @@
         "time": "2026-03-12 23:12",
         "link": "https://www.zaobao.com.sg/news/world/story20260311-8716586",
         "title": "伊朗不寻求停火 以色列称战争不设时限",
-        "seq": 239
+        "seq": 242
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:12",
+        "time": "2026-03-12 23:12",
+        "link": "https://www.zaobao.com.sg/news/world/story20260312-8723448",
+        "title": "伊朗新领袖伤势不明 传战争武器自动运转",
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2193,7 @@
         "time": "2026-03-12 23:16",
         "link": "https://www.zaobao.com.sg/news/world/story20260311-8716918",
         "title": "瑞士暂时关闭驻伊朗大使馆",
-        "seq": 240
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2202,7 @@
         "time": "2026-03-12 23:22",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260311-8717055",
         "title": "长春产业与新加坡郭氏 完成收购珊顿道78号大厦",
-        "seq": 241
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2211,7 @@
         "time": "2026-03-12 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260311-8716632",
         "title": "伊朗恫言让油价破200美元 国际能源署成员联手释放4亿桶储备应对",
-        "seq": 242
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2220,7 @@
         "time": "2026-03-12 23:44",
         "link": "https://www.zaobao.com.sg/news/china/story20260311-8716845",
         "title": "针对陆配李贞秀的立委资格争议　韩国瑜召集立法院朝野协商未获共识",
-        "seq": 243
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2229,7 @@
         "time": "2026-03-12 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260311-8717005",
         "title": "瑞士羽球公开赛 新加坡头号女单杨佳敏遗憾出局",
-        "seq": 244
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2202,6 +2238,6 @@
         "time": "2026-03-12 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260311-8717005",
         "title": "瑞士羽毛球公开赛 我国骆建佑杨佳敏均止步首轮",
-        "seq": 245
+        "seq": 249
     }
 ]
