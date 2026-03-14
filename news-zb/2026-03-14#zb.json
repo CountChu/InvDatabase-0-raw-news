@@ -1738,12 +1738,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:40",
+        "time": "2026-03-14 22:40",
+        "link": "https://www.zaobao.com.sg/news/world/story20260314-8733589",
+        "title": "伊朗：有权打击位于阿联酋的美军导弹发射地 ",
+        "seq": 194
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:45",
         "time": "2026-03-14 22:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260313-8729999",
         "title": "中美高官巴黎会谈为习特会铺路",
-        "seq": 194
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1761,7 @@
         "time": "2026-03-14 22:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260313-8730189",
         "title": "亚细安外长：有必要及时作出统一回应 减轻中东冲突影响",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1770,7 @@
         "time": "2026-03-14 23:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260313-8730362",
         "title": "古特雷斯访贝鲁特 吁真主党和以色列“停战”",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1779,7 @@
         "time": "2026-03-14 23:19",
         "link": "https://www.zaobao.com.sg/news/world/story20260313-8729900",
         "title": "美以伊冲突满两周 三方各撂狠话誓战斗到底",
-        "seq": 197
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1788,7 @@
         "time": "2026-03-14 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260313-8730299",
         "title": "陈振声：中东战事冲击供应链 新加坡须巩固家庭与国家防线",
-        "seq": 198
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1797,7 @@
         "time": "2026-03-14 23:28",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260313-8730392",
         "title": "针对美国强迫劳动调查 贸工部：会与美方接触",
-        "seq": 199
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1806,7 @@
         "time": "2026-03-14 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260313-8730491",
         "title": "美国去年四季度经济增速下修至0.7% 全年增长2.1%",
-        "seq": 200
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1815,7 @@
         "time": "2026-03-14 23:49",
         "link": "https://www.zaobao.com.sg/finance/world/story20260313-8730506",
         "title": "Delivery Hero股东威胁 不脱售部分业务将换管理层",
-        "seq": 201
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1815,6 +1824,6 @@
         "time": "2026-03-14 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260313-8730527",
         "title": "美国消费者信心降至三个月低点 战争推高油价担忧",
-        "seq": 202
+        "seq": 203
     }
 ]
