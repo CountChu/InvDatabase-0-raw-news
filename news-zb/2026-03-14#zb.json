@@ -1810,12 +1810,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:21",
+        "time": "2026-03-14 23:21",
+        "link": "https://www.zaobao.com.sg/news/china/story20260314-8733152",
+        "title": "中国拟定全国统一地方财政补贴负面清单 分析：遏制低效投资重复建设",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:22",
         "time": "2026-03-14 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260313-8730299",
         "title": "陈振声：中东战事冲击供应链 新加坡须巩固家庭与国家防线",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,16 @@
         "time": "2026-03-14 23:28",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260313-8730392",
         "title": "针对美国强迫劳动调查 贸工部：会与美方接触",
-        "seq": 203
+        "seq": 204
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:35",
+        "time": "2026-03-14 23:35",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260314-8733712",
+        "title": "刚批评军方干政 印尼维权领袖遭泼酸袭击",
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1851,7 @@
         "time": "2026-03-14 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260313-8730491",
         "title": "美国去年四季度经济增速下修至0.7% 全年增长2.1%",
-        "seq": 204
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1860,7 @@
         "time": "2026-03-14 23:49",
         "link": "https://www.zaobao.com.sg/finance/world/story20260313-8730506",
         "title": "Delivery Hero股东威胁 不脱售部分业务将换管理层",
-        "seq": 205
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1851,6 +1869,6 @@
         "time": "2026-03-14 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260313-8730527",
         "title": "美国消费者信心降至三个月低点 战争推高油价担忧",
-        "seq": 206
+        "seq": 208
     }
 ]
