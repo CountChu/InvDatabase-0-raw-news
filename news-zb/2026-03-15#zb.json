@@ -1792,12 +1792,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:11",
+        "time": "2026-03-15 23:11",
+        "link": "https://www.zaobao.com.sg/news/world/story20260315-8736472",
+        "title": "伊朗空袭中东多国美军基地 以军计划再战至少三周　",
+        "seq": 200
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:16",
         "time": "2026-03-15 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260314-8732910",
         "title": "南中直接收生计划取消体操数理专长 家长不满促校方解释",
-        "seq": 200
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1815,7 @@
         "time": "2026-03-15 23:21",
         "link": "https://www.zaobao.com.sg/news/china/story20260314-8733152",
         "title": "中国拟定全国统一地方财政补贴负面清单 分析：遏制低效投资重复建设",
-        "seq": 201
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1824,7 @@
         "time": "2026-03-15 23:28",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260313-8730392",
         "title": "针对美国强迫劳动调查 贸工部：会与美方接触",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,7 @@
         "time": "2026-03-15 23:35",
         "link": "https://www.zaobao.com.sg/news/sea/story20260314-8733712",
         "title": "刚批评军方干政 印尼维权领袖遭泼酸袭击",
-        "seq": 203
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1842,7 @@
         "time": "2026-03-15 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260314-8733722",
         "title": "伊朗发起第49波攻势 打击美军基地",
-        "seq": 204
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1851,7 @@
         "time": "2026-03-15 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260314-8732669",
         "title": "陈振声：未来数月“不太容易” 须做好准备全民一心应对挑战",
-        "seq": 205
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1860,7 @@
         "time": "2026-03-15 23:49",
         "link": "https://www.zaobao.com.sg/finance/world/story20260313-8730506",
         "title": "Delivery Hero股东威胁 不脱售部分业务将换管理层",
-        "seq": 206
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1860,6 +1869,6 @@
         "time": "2026-03-15 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260314-8733520",
         "title": "美轰炸伊朗哈尔克岛 伊朗警告要以牙还牙",
-        "seq": 207
+        "seq": 208
     }
 ]
