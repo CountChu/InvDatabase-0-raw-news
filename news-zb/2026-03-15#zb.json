@@ -1765,12 +1765,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:41",
+        "time": "2026-03-15 22:41",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260315-8736662",
+        "title": "苏宁创办人张近东为偿债资产清零 中国民企首例",
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:44",
+        "time": "2026-03-15 22:44",
+        "link": "https://www.zaobao.com.sg/news/world/story20260315-8736766",
+        "title": "黎卫生部：以黎冲突致850人死亡 包括170多妇女和儿童",
+        "seq": 198
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:05",
         "time": "2026-03-15 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20260314-8733643",
         "title": "俄罗斯空袭基辅 四人死亡 ",
-        "seq": 197
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1797,7 @@
         "time": "2026-03-15 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260314-8732910",
         "title": "南中直接收生计划取消体操数理专长 家长不满促校方解释",
-        "seq": 198
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1806,7 @@
         "time": "2026-03-15 23:21",
         "link": "https://www.zaobao.com.sg/news/china/story20260314-8733152",
         "title": "中国拟定全国统一地方财政补贴负面清单 分析：遏制低效投资重复建设",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1815,7 @@
         "time": "2026-03-15 23:28",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260313-8730392",
         "title": "针对美国强迫劳动调查 贸工部：会与美方接触",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-03-15 23:35",
         "link": "https://www.zaobao.com.sg/news/sea/story20260314-8733712",
         "title": "刚批评军方干政 印尼维权领袖遭泼酸袭击",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1833,7 @@
         "time": "2026-03-15 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260314-8733722",
         "title": "伊朗发起第49波攻势 打击美军基地",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1842,7 @@
         "time": "2026-03-15 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260314-8732669",
         "title": "陈振声：未来数月“不太容易” 须做好准备全民一心应对挑战",
-        "seq": 203
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1851,7 @@
         "time": "2026-03-15 23:49",
         "link": "https://www.zaobao.com.sg/finance/world/story20260313-8730506",
         "title": "Delivery Hero股东威胁 不脱售部分业务将换管理层",
-        "seq": 204
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1842,6 +1860,6 @@
         "time": "2026-03-15 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260314-8733520",
         "title": "美轰炸伊朗哈尔克岛 伊朗警告要以牙还牙",
-        "seq": 205
+        "seq": 207
     }
 ]
