@@ -1810,12 +1810,66 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:20",
+        "time": "2026-03-16 21:20",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260316-8744294",
+        "title": "总部在新加坡数据中心运营商DayOne 传赴美IPO筹资50亿美元",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:23",
+        "time": "2026-03-16 21:23",
+        "link": "https://www.zaobao.com.sg/news/world/story20260316-8744410",
+        "title": "消息：哈马斯与和平委员会会晤 拯救停火协议",
+        "seq": 203
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:26",
+        "time": "2026-03-16 21:26",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260316-8743120",
+        "title": "菲律宾与印尼俄罗斯谈判 确保燃料供应",
+        "seq": 204
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:29",
+        "time": "2026-03-16 21:29",
+        "link": "https://www.zaobao.com.sg/news/world/story20260316-8744248",
+        "title": "以军对黎真主党据点展开“有限地面行动”",
+        "seq": 205
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:33",
+        "time": "2026-03-16 21:33",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260316-8743890",
+        "title": "幼儿面对屏幕时间过长 更可能出现自闭症相关症状",
+        "seq": 206
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:37",
+        "time": "2026-03-16 21:37",
+        "link": "https://www.zaobao.com.sg/news/world/story20260316-8744480",
+        "title": "不受伊朗袭击影响  阿联酋称与美国关系更牢固",
+        "seq": 207
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "21:43",
         "time": "2026-03-16 21:43",
         "link": "https://www.zaobao.com.sg/news/sports/story20260315-8736433",
         "title": "LIV新加坡高球赛 德尚博加洞赛收大礼惊险夺冠",
-        "seq": 202
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1878,7 @@
         "time": "2026-03-16 21:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260315-8736640",
         "title": "教宗良十四世痛心伊朗战争“骇人暴力” 呼吁立即停火 ",
-        "seq": 203
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1887,7 @@
         "time": "2026-03-16 21:51",
         "link": "https://www.zaobao.com.sg/finance/world/story20260315-8736527",
         "title": "中东战事进入第三周 油价周一或高开于117美元",
-        "seq": 204
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1896,7 @@
         "time": "2026-03-16 21:54",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260315-8736558",
         "title": "“妆艺在邻里”开到三巴旺 居民赏花车看舞狮乐在其中",
-        "seq": 205
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1905,7 @@
         "time": "2026-03-16 22:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260315-8735039",
         "title": "山西发现保存完整明代宗室家族墓 墓主是沈王后裔",
-        "seq": 206
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1914,7 @@
         "time": "2026-03-16 22:06",
         "link": "https://www.zaobao.com.sg/news/world/story20260315-8736567",
         "title": "日美首脑下周会谈聚焦中东局势  高市是否派军舰成焦点",
-        "seq": 207
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1923,7 @@
         "time": "2026-03-16 22:07",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260315-8733792",
         "title": "中东冲突重创油供 本地炼油厂产能利用率降约五成",
-        "seq": 208
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1932,7 @@
         "time": "2026-03-16 22:07",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260315-8733792",
         "title": "中东冲突重创油供 本地炼油厂产能利用率降至约五成",
-        "seq": 209
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1941,7 @@
         "time": "2026-03-16 22:12",
         "link": "https://www.zaobao.com.sg/news/sports/story20260315-8736681",
         "title": "WTT重庆冠军赛 勒布伦称王 张本美和封后",
-        "seq": 210
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1950,7 @@
         "time": "2026-03-16 22:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260315-8736226",
         "title": "金色消协保证标志扩大至装修业 为消费者提供更大保障",
-        "seq": 211
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1959,7 @@
         "time": "2026-03-16 22:21",
         "link": "https://www.zaobao.com.sg/news/world/story20260315-8736717",
         "title": "美能源部长：预计美伊战争在未来几周内结束",
-        "seq": 212
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1968,7 @@
         "time": "2026-03-16 22:27",
         "link": "https://www.zaobao.com.sg/news/china/story20260315-8736537",
         "title": "特朗普吁请中国派军舰到霍尔木兹海峡 专家指中国响应可能性低",
-        "seq": 213
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1977,7 @@
         "time": "2026-03-16 22:37",
         "link": "https://www.zaobao.com.sg/news/sports/story20260315-8736632",
         "title": "中东纷乱波及欧美杯 西班牙阿根廷双强决战取消",
-        "seq": 214
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1986,7 @@
         "time": "2026-03-16 22:41",
         "link": "https://www.zaobao.com.sg/finance/china/story20260315-8736662",
         "title": "苏宁创办人张近东为偿债资产清零 中国民企首例",
-        "seq": 215
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1995,7 @@
         "time": "2026-03-16 22:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260315-8736766",
         "title": "黎卫生部：以黎冲突致850人死亡 包括170多妇女和儿童",
-        "seq": 216
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1950,7 +2004,7 @@
         "time": "2026-03-16 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260315-8736472",
         "title": "伊朗空袭中东多国美军基地 以军计划再战至少三周",
-        "seq": 217
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1959,7 +2013,7 @@
         "time": "2026-03-16 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260315-8736511",
         "title": "蔬菜每100克多少钱？更多超市将采用单位定价",
-        "seq": 218
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2022,7 @@
         "time": "2026-03-16 23:25",
         "link": "https://www.zaobao.com.sg/news/sports/story20260315-8736824",
         "title": "中国女篮击败捷克 晋级今年9月德国世界杯",
-        "seq": 219
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2031,7 @@
         "time": "2026-03-16 23:27",
         "link": "https://www.zaobao.com.sg/news/world/story20260315-8736860",
         "title": "伊朗外长反驳特朗普：无意与美谈判",
-        "seq": 220
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2040,7 @@
         "time": "2026-03-16 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260315-8736888",
         "title": "以军被指空袭加沙警车 致八名警察身亡",
-        "seq": 221
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -1995,6 +2049,6 @@
         "time": "2026-03-16 23:45",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260315-8736863",
         "title": "淡滨尼西Pinery Residences首周末引来逾8500人预览",
-        "seq": 222
+        "seq": 228
     }
 ]
