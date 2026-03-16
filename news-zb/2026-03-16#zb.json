@@ -2152,12 +2152,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:00",
+        "time": "2026-03-16 23:00",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260316-8744636",
+        "title": "餐饮员工期待薪资增幅 雇主关注成本上涨",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:02",
+        "time": "2026-03-16 23:02",
+        "link": "https://www.zaobao.com.sg/news/world/story20260316-8744800",
+        "title": "大英百科全书起诉OpenAI 滥用参考资料训练模型",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:11",
         "time": "2026-03-16 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260315-8736472",
         "title": "伊朗空袭中东多国美军基地 以军计划再战至少三周",
-        "seq": 240
+        "seq": 242
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:16",
+        "time": "2026-03-16 23:16",
+        "link": "https://www.zaobao.com.sg/news/world/story20260316-8744821",
+        "title": "涉网袭六成员国逾6万台设备 欧盟制裁中国与伊朗公司",
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2193,7 @@
         "time": "2026-03-16 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260315-8736511",
         "title": "蔬菜每100克多少钱？更多超市将采用单位定价",
-        "seq": 241
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2202,7 @@
         "time": "2026-03-16 23:25",
         "link": "https://www.zaobao.com.sg/news/sports/story20260315-8736824",
         "title": "中国女篮击败捷克 晋级今年9月德国世界杯",
-        "seq": 242
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2211,7 @@
         "time": "2026-03-16 23:27",
         "link": "https://www.zaobao.com.sg/news/world/story20260315-8736860",
         "title": "伊朗外长反驳特朗普：无意与美谈判",
-        "seq": 243
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2220,7 @@
         "time": "2026-03-16 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260315-8736888",
         "title": "以军被指空袭加沙警车 致八名警察身亡",
-        "seq": 244
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2202,6 +2229,6 @@
         "time": "2026-03-16 23:45",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260315-8736863",
         "title": "淡滨尼西Pinery Residences首周末引来逾8500人预览",
-        "seq": 245
+        "seq": 248
     }
 ]
