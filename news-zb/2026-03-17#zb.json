@@ -2080,12 +2080,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:24",
+        "time": "2026-03-17 22:24",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260317-8750237",
+        "title": "中国女足亚洲杯不敌东道主澳洲 止步四强无缘卫冕",
+        "seq": 232
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:29",
+        "time": "2026-03-17 22:29",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260317-8750096",
+        "title": "泰国东运会作弊电竞选手 被判三个月拘留",
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:31",
         "time": "2026-03-17 22:31",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260316-8744382",
         "title": "贸惠合作社11处资产组合据悉被收购 出售总价2.81亿元",
-        "seq": 232
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2112,16 @@
         "time": "2026-03-17 22:31",
         "link": "https://www.zaobao.com.sg/news/sea/story20260316-8744726",
         "title": "泰国下议院19日召开会议 选举新首相",
-        "seq": 233
+        "seq": 235
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:34",
+        "time": "2026-03-17 22:34",
+        "link": "https://www.zaobao.com.sg/news/china/story20260317-8750420",
+        "title": "港府提出专法拆墙松绑 加快北都发展",
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2130,16 @@
         "time": "2026-03-17 22:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260316-8743217",
         "title": "中国开年首两个月经济指标超预期增长 ",
-        "seq": 234
+        "seq": 237
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:37",
+        "time": "2026-03-17 22:37",
+        "link": "https://www.zaobao.com.sg/news/world/story20260317-8750467",
+        "title": "美反恐中心主任辞职：无法昧着良心支持对伊战争 ",
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2148,7 @@
         "time": "2026-03-17 22:40",
         "link": "https://www.zaobao.com.sg/news/sports/story20260316-8743971",
         "title": "伊朗独立媒体：政府施压女足球员家人 安插内应说服回国",
-        "seq": 235
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2157,7 @@
         "time": "2026-03-17 22:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260316-8744724",
         "title": "切尔西违反多项规定 被英超重罚1075万英镑破纪录",
-        "seq": 236
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2166,7 @@
         "time": "2026-03-17 23:00",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260316-8744636",
         "title": "餐饮员工期待薪资增幅 雇主关注成本上涨",
-        "seq": 237
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2175,7 @@
         "time": "2026-03-17 23:02",
         "link": "https://www.zaobao.com.sg/news/world/story20260316-8744800",
         "title": "大英百科全书起诉OpenAI 滥用参考资料训练模型",
-        "seq": 238
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2184,7 @@
         "time": "2026-03-17 23:16",
         "link": "https://www.zaobao.com.sg/news/world/story20260316-8744821",
         "title": "涉网袭六成员国逾6万台设备 欧盟制裁中国与伊朗公司",
-        "seq": 239
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2157,6 +2193,6 @@
         "time": "2026-03-17 23:52",
         "link": "https://www.zaobao.com.sg/news/world/story20260316-8744923",
         "title": "中东战争致燃料紧缺 斯里兰卡推四天工作制",
-        "seq": 240
+        "seq": 244
     }
 ]
