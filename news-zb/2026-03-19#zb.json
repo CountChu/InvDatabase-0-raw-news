@@ -2036,11 +2036,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:10",
+        "time": "2026-03-19 23:10",
+        "link": "https://www.zaobao.com.sg/news/world/story20260319-8763225",
+        "title": "中东战争冲击粮食安全与全球贸易 世贸吁维护供应链畅通",
+        "seq": 227
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:13",
         "time": "2026-03-19 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260318-8754209",
         "title": "握力好或患病风险低 简单肌力测试可预警多种慢性病",
-        "seq": 227
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2058,7 @@
         "time": "2026-03-19 23:16",
         "link": "https://www.zaobao.com.sg/finance/china/story20260318-8755501",
         "title": "英伟达重启生产H200晶片 北京传批准中企采购",
-        "seq": 228
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2067,7 @@
         "time": "2026-03-19 23:20",
         "link": "https://www.zaobao.com.sg/finance/china/story20260318-8755888",
         "title": "楼市松绑价格到位 中国一线城市二手房成交量回升",
-        "seq": 229
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2067,15 +2076,6 @@
         "time": "2026-03-19 23:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260318-8756677",
         "title": "国大生设计新装置提高肾结石手术效率 有望进入临床验证阶段　",
-        "seq": 230
-    },
-    {
-        "media": "聯合早報",
-        "category": "财经",
-        "timeText": "23:58",
-        "time": "2026-03-19 23:58",
-        "link": "https://www.zaobao.com.sg/finance/singapore/story20260318-8756766",
-        "title": "裕廊岛物流中心二期工程继续进展 已在兴建第三和第四层楼",
         "seq": 231
     },
     {
@@ -2084,7 +2084,16 @@
         "timeText": "23:58",
         "time": "2026-03-19 23:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260318-8756766",
-        "title": "裕廊岛物流中心二期工程继续 已在兴建第三和第四层楼",
+        "title": "裕廊岛物流中心二期工程继续进展 已在兴建第三和第四层楼",
         "seq": 232
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:58",
+        "time": "2026-03-19 23:58",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260318-8756766",
+        "title": "裕廊岛物流中心二期工程继续 已在兴建第三和第四层楼",
+        "seq": 233
     }
 ]
