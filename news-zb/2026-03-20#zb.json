@@ -1963,12 +1963,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:17",
+        "time": "2026-03-20 22:17",
+        "link": "https://www.zaobao.com.sg/news/world/story20260320-8768147",
+        "title": "伊朗继续反击中东炼油设施被炸 美国据报将向中东增派数千士兵",
+        "seq": 219
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:18",
         "time": "2026-03-20 22:18",
         "link": "https://www.zaobao.com.sg/news/china/story20260319-8762056",
         "title": "台外长：期待韩国3月31日前更正入境卡“中国（台湾）”标注",
-        "seq": 219
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1977,15 +1986,6 @@
         "time": "2026-03-20 22:20",
         "link": "https://www.zaobao.com.sg/news/world/story20260319-8762731",
         "title": "新加坡阿联酋等国提议辟安全海上走廊 解救2万受困海员",
-        "seq": 220
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "22:23",
-        "time": "2026-03-20 22:23",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260320-8768223",
-        "title": "新电信连日出故障后陆续修复 少数用户网络仍可能不稳定",
         "seq": 221
     },
     {
@@ -1994,8 +1994,17 @@
         "timeText": "22:23",
         "time": "2026-03-20 22:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260320-8768223",
-        "title": "新电信连日故障陆续修复 少数用户网络仍或不稳",
+        "title": "新电信连日出故障后陆续修复 少数用户网络仍可能不稳定",
         "seq": 222
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:23",
+        "time": "2026-03-20 22:23",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260320-8768223",
+        "title": "新电信连日故障陆续修复 少数用户网络仍或不稳",
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2013,7 @@
         "time": "2026-03-20 22:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260320-8768360",
         "title": "疑悬挂假旗 法国海军在地中海扣押俄罗斯油轮",
-        "seq": 223
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2022,7 @@
         "time": "2026-03-20 22:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260319-8763111",
         "title": "英德法日等六国承诺护航霍尔木兹海峡",
-        "seq": 224
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2031,7 @@
         "time": "2026-03-20 22:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260319-8762945",
         "title": "网传文件称卓荣泰高调赴日引日本不满 台外交部：人为变造",
-        "seq": 225
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2040,7 @@
         "time": "2026-03-20 22:42",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260320-8768107",
         "title": "含未经申报过敏原 进口黄梨干被召回",
-        "seq": 226
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2049,7 @@
         "time": "2026-03-20 22:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260320-8768463",
         "title": "伊朗军方威胁要毁灭性打击美以“邪恶官员”",
-        "seq": 227
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2058,7 @@
         "time": "2026-03-20 22:51",
         "link": "https://www.zaobao.com.sg/news/sports/story20260320-8768087",
         "title": "中国游泳公开赛 麦克沃伊打破尘封16年世界纪录",
-        "seq": 228
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2067,7 @@
         "time": "2026-03-20 22:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260320-8768239",
         "title": "裕廊西新活跃乐龄中心 将预防中风融入社区生活",
-        "seq": 229
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2076,7 @@
         "time": "2026-03-20 22:52",
         "link": "https://www.zaobao.com.sg/news/china/story20260320-8768180",
         "title": "英伟达迄今最大AI晶片走私案  超微三人被控",
-        "seq": 230
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2085,25 @@
         "time": "2026-03-20 23:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260319-8763225",
         "title": "中东战争冲击粮食安全与全球贸易 世贸吁维护供应链畅通",
-        "seq": 231
+        "seq": 232
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:13",
+        "time": "2026-03-20 23:13",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260320-8768569",
+        "title": "普洛斯债券本周大跌 永久票据跌至不良债券价位",
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:16",
+        "time": "2026-03-20 23:16",
+        "link": "https://www.zaobao.com.sg/news/china/story20260320-8768319",
+        "title": "陈庆珠吁联合国改革 安理会是棘手问题",
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2112,7 @@
         "time": "2026-03-20 23:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260319-8762738",
         "title": "为智障群体开慈善诊所 陈诗菱医生当选《海峡时报》年度人物",
-        "seq": 232
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2121,7 @@
         "time": "2026-03-20 23:29",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260319-8763228",
         "title": "新电信服务中断影响逾60万用户 资媒局展开调查",
-        "seq": 233
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2130,7 @@
         "time": "2026-03-20 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260319-8763326",
         "title": "日本首相访美 特朗普或施压高市协助伊朗战事",
-        "seq": 234
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2112,6 +2139,6 @@
         "time": "2026-03-20 23:50",
         "link": "https://www.zaobao.com.sg/news/sports/story20260319-8763297",
         "title": "力压巴黎奥运会亚军 13岁于子迪中国游泳公开赛200米蝶夺冠",
-        "seq": 235
+        "seq": 238
     }
 ]
