@@ -1901,11 +1901,20 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "22:03",
+        "time": "2026-03-20 22:03",
+        "link": "https://www.zaobao.com.sg/news/china/story20260320-8766568",
+        "title": "中使馆：以色列称将加大对中国工人保护力度",
+        "seq": 212
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "22:05",
         "time": "2026-03-20 22:05",
         "link": "https://www.zaobao.com.sg/news/china/story20260319-8760639",
         "title": "微信封禁发布色情低俗内容账号",
-        "seq": 212
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1923,7 @@
         "time": "2026-03-20 22:05",
         "link": "https://www.zaobao.com.sg/news/world/story20260319-8762982",
         "title": "美财长：美国或对在途伊朗石油解除制裁",
-        "seq": 213
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1932,7 @@
         "time": "2026-03-20 22:14",
         "link": "https://www.zaobao.com.sg/news/world/story20260319-8762432",
         "title": "伊朗袭击波斯湾能源设施报复 冲击升级加剧油市动荡",
-        "seq": 214
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1941,16 @@
         "time": "2026-03-20 22:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20260319-8762858",
         "title": "我国16岁小将杨舒宁破女子200米仰泳全国纪录",
-        "seq": 215
+        "seq": 216
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:17",
+        "time": "2026-03-20 22:17",
+        "link": "https://www.zaobao.com.sg/news/world/story20260320-8768147",
+        "title": "伊朗继续反击 中东炼油设施被炸",
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1959,7 @@
         "time": "2026-03-20 22:18",
         "link": "https://www.zaobao.com.sg/news/china/story20260319-8762056",
         "title": "台外长：期待韩国3月31日前更正入境卡“中国（台湾）”标注",
-        "seq": 216
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1968,7 @@
         "time": "2026-03-20 22:20",
         "link": "https://www.zaobao.com.sg/news/world/story20260319-8762731",
         "title": "新加坡阿联酋等国提议辟安全海上走廊 解救2万受困海员",
-        "seq": 217
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1977,7 @@
         "time": "2026-03-20 22:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260319-8763111",
         "title": "英德法日等六国承诺护航霍尔木兹海峡",
-        "seq": 218
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1986,7 @@
         "time": "2026-03-20 22:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260319-8762945",
         "title": "网传文件称卓荣泰高调赴日引日本不满 台外交部：人为变造",
-        "seq": 219
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1977,7 +1995,7 @@
         "time": "2026-03-20 23:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260319-8763225",
         "title": "中东战争冲击粮食安全与全球贸易 世贸吁维护供应链畅通",
-        "seq": 220
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2004,7 @@
         "time": "2026-03-20 23:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260319-8762738",
         "title": "为智障群体开慈善诊所 陈诗菱医生当选《海峡时报》年度人物",
-        "seq": 221
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2013,7 @@
         "time": "2026-03-20 23:29",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260319-8763228",
         "title": "新电信服务中断影响逾60万用户 资媒局展开调查",
-        "seq": 222
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2022,7 @@
         "time": "2026-03-20 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260319-8763326",
         "title": "日本首相访美 特朗普或施压高市协助伊朗战事",
-        "seq": 223
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2013,6 +2031,6 @@
         "time": "2026-03-20 23:50",
         "link": "https://www.zaobao.com.sg/news/sports/story20260319-8763297",
         "title": "力压巴黎奥运会亚军 13岁于子迪中国游泳公开赛200米蝶夺冠",
-        "seq": 224
+        "seq": 226
     }
 ]
