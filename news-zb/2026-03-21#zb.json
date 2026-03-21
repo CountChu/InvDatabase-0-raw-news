@@ -1585,12 +1585,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:30",
+        "time": "2026-03-21 23:30",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260321-8771307",
+        "title": "中东战事推高本地食品成本 商家：影响或比疫情严重",
+        "seq": 177
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2026-03-21 23:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20260321-8771323",
+        "title": "美国：考虑逐步降级军事行动 以色列：接下来要升级打击 ",
+        "seq": 178
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:36",
+        "time": "2026-03-21 23:36",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260321-8771530",
+        "title": "韦尔贝克梅开二度 利物浦英超败走布赖顿主场",
+        "seq": 179
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:42",
         "time": "2026-03-21 23:42",
         "link": "https://www.zaobao.com.sg/news/china/story20260320-8767775",
         "title": "重庆政坛再地震 市长胡衡华任上落马",
-        "seq": 177
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1626,7 @@
         "time": "2026-03-21 23:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260320-8767841",
         "title": "中东战局使日美峰会变调 特朗普向高市施压吁日派兵为霍尔木兹护航",
-        "seq": 178
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1635,7 @@
         "time": "2026-03-21 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260320-8768675",
         "title": "特朗普称北约为“懦夫” 北约驻伊拉克特派团撤离",
-        "seq": 179
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1644,7 @@
         "time": "2026-03-21 23:49",
         "link": "https://www.zaobao.com.sg/news/china/story20260320-8768617",
         "title": "学者：特朗普若实现年内访华就是“好兆头”",
-        "seq": 180
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1653,7 @@
         "time": "2026-03-21 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260320-8768706",
         "title": "伊朗最高领袖发表新年致辞 承认国家面临经济问题",
-        "seq": 181
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1635,6 +1662,6 @@
         "time": "2026-03-21 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260320-8768706",
         "title": "伊朗最高领袖发表新年致辞 称敌人已被击败",
-        "seq": 182
+        "seq": 185
     }
 ]
