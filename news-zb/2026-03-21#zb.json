@@ -1531,12 +1531,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:04",
+        "time": "2026-03-21 23:04",
+        "link": "https://www.zaobao.com.sg/news/world/story20260321-8771491",
+        "title": "美军称伊朗威胁霍尔木兹海峡能力已削弱",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:13",
         "time": "2026-03-21 23:13",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260320-8768569",
         "title": "普洛斯债券本周大跌 永久票据跌至不良债券价位",
-        "seq": 171
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1554,25 @@
         "time": "2026-03-21 23:16",
         "link": "https://www.zaobao.com.sg/news/china/story20260320-8768319",
         "title": "陈庆珠吁联合国改革 安理会是棘手问题",
-        "seq": 172
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:17",
+        "time": "2026-03-21 23:17",
+        "link": "https://www.zaobao.com.sg/news/world/story20260321-8771534",
+        "title": "以军称打击伊朗多处导弹生产设施",
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:19",
+        "time": "2026-03-21 23:19",
+        "link": "https://www.zaobao.com.sg/news/china/story20260321-8771120",
+        "title": "广东去年常住人口净增79万增量各省居首 分析：高出生率和经济驱动 ",
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1581,7 @@
         "time": "2026-03-21 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260320-8768619",
         "title": "美国或向中东增派数千名士兵",
-        "seq": 173
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1590,7 @@
         "time": "2026-03-21 23:42",
         "link": "https://www.zaobao.com.sg/news/china/story20260320-8767775",
         "title": "重庆政坛再地震 市长胡衡华任上落马",
-        "seq": 174
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1599,7 @@
         "time": "2026-03-21 23:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260320-8767841",
         "title": "中东战局使日美峰会变调 特朗普向高市施压吁日派兵为霍尔木兹护航",
-        "seq": 175
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1608,7 @@
         "time": "2026-03-21 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260320-8768675",
         "title": "特朗普称北约为“懦夫” 北约驻伊拉克特派团撤离",
-        "seq": 176
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1617,7 @@
         "time": "2026-03-21 23:49",
         "link": "https://www.zaobao.com.sg/news/china/story20260320-8768617",
         "title": "学者：特朗普若实现年内访华就是“好兆头”",
-        "seq": 177
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1626,7 @@
         "time": "2026-03-21 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260320-8768706",
         "title": "伊朗最高领袖发表新年致辞 承认国家面临经济问题",
-        "seq": 178
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,6 +1635,6 @@
         "time": "2026-03-21 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260320-8768706",
         "title": "伊朗最高领袖发表新年致辞 称敌人已被击败",
-        "seq": 179
+        "seq": 182
     }
 ]
