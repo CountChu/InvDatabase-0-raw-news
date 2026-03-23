@@ -2125,12 +2125,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:42",
+        "time": "2026-03-23 22:42",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260323-8779484",
+        "title": "国大研究：咖啡因或可缓解睡眠不足对记忆影响",
+        "seq": 237
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:42",
+        "time": "2026-03-23 22:42",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260323-8779848",
+        "title": "中东冲突有所缓和 金价急速收复跌幅",
+        "seq": 238
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:53",
+        "time": "2026-03-23 22:53",
+        "link": "https://www.zaobao.com.sg/news/china/story20260323-8779818",
+        "title": "美元难撑 学者指人民币国际化对中国和世界有利",
+        "seq": 239
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:59",
+        "time": "2026-03-23 22:59",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260323-8779714",
+        "title": "前大学同事：郭振羽不畏艰难 为大学教育作贡献 助亚洲学者建立沟通桥梁",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:27",
         "time": "2026-03-23 23:27",
         "link": "https://www.zaobao.com.sg/news/sports/story20260322-8774623",
         "title": "再赢东北德比 桑德兰英超双杀纽卡斯尔",
-        "seq": 237
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2175,7 @@
         "time": "2026-03-23 23:30",
         "link": "https://www.zaobao.com.sg/news/sports/story20260322-8774628",
         "title": "中国游泳公开赛收官 “小孩姐”于子迪进账个人项目第三金",
-        "seq": 238
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2184,7 @@
         "time": "2026-03-23 23:36",
         "link": "https://www.zaobao.com.sg/news/sports/story20260321-8771530",
         "title": "韦尔贝克梅开二度 利物浦英超败走布赖顿主场",
-        "seq": 239
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2193,7 @@
         "time": "2026-03-23 23:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260322-8773520",
         "title": "去年贸易顺差突破1万亿美元 李强：中国从来不追求贸易顺差 ",
-        "seq": 240
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2202,7 @@
         "time": "2026-03-23 23:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260322-8773520",
         "title": "中国对外逆差不断上升 李强承诺将进口更多优质商品 ",
-        "seq": 241
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2211,7 @@
         "time": "2026-03-23 23:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260322-8773520",
         "title": "李强：中国从不追求贸易顺差 将进口更多优质商品",
-        "seq": 242
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2220,7 @@
         "time": "2026-03-23 23:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260322-8774745",
         "title": "特朗普下令移民执法人员进驻机场维持秩序",
-        "seq": 243
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2229,7 @@
         "time": "2026-03-23 23:41",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260322-8774603",
         "title": "永科控股拟向日月光投资控股增发335万股 筹资约1200万元",
-        "seq": 244
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2238,7 @@
         "time": "2026-03-23 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260322-8774776",
         "title": "法石油公司总裁：中东战争持续超半年 全球经济将受重创",
-        "seq": 245
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2211,7 +2247,7 @@
         "time": "2026-03-23 23:52",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260322-8774201",
         "title": "项目悦湖轩首周末卖出92.5% 平均售出尺价1893元创EC项目新高",
-        "seq": 246
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2220,7 +2256,7 @@
         "time": "2026-03-23 23:52",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260322-8774201",
         "title": "悦湖轩首周末售出92.5% 平均尺价1893元创EC新高",
-        "seq": 247
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2265,7 @@
         "time": "2026-03-23 23:52",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260322-8774201",
         "title": "淡滨尼悦湖轩首日卖出92.5% 平均尺价1893元创EC新高",
-        "seq": 248
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2238,6 +2274,6 @@
         "time": "2026-03-23 23:57",
         "link": "https://www.zaobao.com.sg/news/china/story20260322-8774676",
         "title": "中国专家评中东战火冲击能源 “既是启示也是噩梦”",
-        "seq": 249
+        "seq": 253
     }
 ]
