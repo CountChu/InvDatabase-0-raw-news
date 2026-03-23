@@ -1676,11 +1676,56 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "20:22",
+        "time": "2026-03-23 20:22",
+        "link": "https://www.zaobao.com.sg/news/world/story20260323-8778920",
+        "title": "摆脱中东依赖 日本考虑进口哈萨克斯坦原油",
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "20:24",
+        "time": "2026-03-23 20:24",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260323-8776955",
+        "title": "周一美市盘前大幅反弹 聚焦Super Micro Computer走私英伟达晶片被起诉",
+        "seq": 188
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "20:25",
+        "time": "2026-03-23 20:25",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260323-8779036",
+        "title": "本地迎来高温季节 企业应强化工作场所防暑措施",
+        "seq": 189
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:27",
+        "time": "2026-03-23 20:27",
+        "link": "https://www.zaobao.com.sg/news/world/story20260323-8778386",
+        "title": "加拿大飞机在美机场撞上消防车 两飞行员遇难",
+        "seq": 190
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:31",
+        "time": "2026-03-23 20:31",
+        "link": "https://www.zaobao.com.sg/news/world/story20260323-8779343",
+        "title": "特朗普暂缓军事行动 以色列对德黑兰发动打击",
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "20:33",
         "time": "2026-03-23 20:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260322-8774262",
         "title": "核设施附近遇袭 世卫组织：中东战争进入危险阶段",
-        "seq": 187
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1734,7 @@
         "time": "2026-03-23 20:35",
         "link": "https://www.zaobao.com.sg/news/china/story20260322-8773012",
         "title": "蓝营台中市长初选民调将登场 江启臣杨琼璎同天办造势活动",
-        "seq": 188
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1743,16 @@
         "time": "2026-03-23 20:36",
         "link": "https://www.zaobao.com.sg/news/sea/story20260321-8770867",
         "title": "油价飙升：浮罗交怡渡轮减班次 曼谷机场德士减少 ",
-        "seq": 189
+        "seq": 194
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:36",
+        "time": "2026-03-23 20:36",
+        "link": "https://www.zaobao.com.sg/news/world/story20260323-8778665",
+        "title": "国际能源署：中东危机冲击全球经济 堪比过去三场危机总和",
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1761,7 @@
         "time": "2026-03-23 20:37",
         "link": "https://www.zaobao.com.sg/news/sea/story20260322-8773784",
         "title": "柔佛王宫开斋节开放门户 逾2万民众到场共庆佳节",
-        "seq": 190
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1770,7 @@
         "time": "2026-03-23 20:44",
         "link": "https://www.zaobao.com.sg/news/sports/story20260322-8774165",
         "title": "实际成绩不如官方结果好 三本地帆船小将主动纠错获赞",
-        "seq": 191
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1779,7 @@
         "time": "2026-03-23 20:44",
         "link": "https://www.zaobao.com.sg/news/sports/story20260322-8774165",
         "title": "说出真相影响排名 本地三名帆船小将主动纠错获赞",
-        "seq": 192
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1788,7 @@
         "time": "2026-03-23 20:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260322-8774023",
         "title": "以色列两城市遭伊朗袭击近200人轻重伤 以核敏感设施首次成打击目标 ",
-        "seq": 193
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1797,7 @@
         "time": "2026-03-23 20:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260322-8774320",
         "title": "伊朗媒体：伊官员提出停战六项条件",
-        "seq": 194
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1806,7 @@
         "time": "2026-03-23 20:51",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260322-8686519",
         "title": "国有房地产华丽变身为共居空间 消防局也是我家",
-        "seq": 195
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1815,7 @@
         "time": "2026-03-23 21:06",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260322-8774370",
         "title": "淡滨尼EC悦湖轩开卖售出92.5%单位 平均售价每平方英尺1893元",
-        "seq": 196
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1824,7 @@
         "time": "2026-03-23 21:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260322-8774021",
         "title": "议员关注中东局势影响 助低收入家庭缓解生活费压力",
-        "seq": 197
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1833,7 @@
         "time": "2026-03-23 21:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260322-8774464",
         "title": "消息：土耳其与伊朗美国欧盟埃及讨论结束战争",
-        "seq": 198
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1842,7 @@
         "time": "2026-03-23 21:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260322-8773079",
         "title": "香港立法会拟续设足球队 同时设多元运动队",
-        "seq": 199
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1851,7 @@
         "time": "2026-03-23 21:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260322-8774412",
         "title": "真主党炮击以色列致一死 黎巴嫩儿童成战争受害者",
-        "seq": 200
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1860,7 @@
         "time": "2026-03-23 22:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260322-8772892",
         "title": "四川发现世界第二大轻稀土矿",
-        "seq": 201
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1869,7 @@
         "time": "2026-03-23 22:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260322-8774511",
         "title": "日德寻求深化防务合作 应对国际安全局势动荡",
-        "seq": 202
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1878,7 @@
         "time": "2026-03-23 22:11",
         "link": "https://www.zaobao.com.sg/news/sea/story20260321-8770782",
         "title": "泰外交部拟议 旅游免签停留期减半至30天",
-        "seq": 203
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1887,7 @@
         "time": "2026-03-23 22:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260322-8774546",
         "title": "俄恢复联盟号火箭发射 拜科努尔发射台重启",
-        "seq": 204
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1896,7 @@
         "time": "2026-03-23 22:24",
         "link": "https://www.zaobao.com.sg/news/china/story20260322-8774049",
         "title": "靳磊出任深圳市委书记  中国副省级城市一把手“70后”近半",
-        "seq": 205
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1905,7 @@
         "time": "2026-03-23 22:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260322-8774278",
         "title": "滨海湾花园推机器导盲犬 助视障者自主游园　　",
-        "seq": 206
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1914,7 @@
         "time": "2026-03-23 22:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260322-8773903",
         "title": "调查：本地更多雇主提供非强制职场福利",
-        "seq": 207
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1923,7 @@
         "time": "2026-03-23 22:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260322-8774631",
         "title": "伊朗威胁完全关闭霍尔木兹海峡",
-        "seq": 208
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1932,7 @@
         "time": "2026-03-23 23:27",
         "link": "https://www.zaobao.com.sg/news/sports/story20260322-8774623",
         "title": "再赢东北德比 桑德兰英超双杀纽卡斯尔",
-        "seq": 209
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1941,7 @@
         "time": "2026-03-23 23:30",
         "link": "https://www.zaobao.com.sg/news/sports/story20260322-8774628",
         "title": "中国游泳公开赛收官 “小孩姐”于子迪进账个人项目第三金",
-        "seq": 210
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1950,7 @@
         "time": "2026-03-23 23:36",
         "link": "https://www.zaobao.com.sg/news/sports/story20260321-8771530",
         "title": "韦尔贝克梅开二度 利物浦英超败走布赖顿主场",
-        "seq": 211
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1959,7 @@
         "time": "2026-03-23 23:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260322-8773520",
         "title": "去年贸易顺差突破1万亿美元 李强：中国从来不追求贸易顺差 ",
-        "seq": 212
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1968,7 @@
         "time": "2026-03-23 23:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260322-8773520",
         "title": "中国对外逆差不断上升 李强承诺将进口更多优质商品 ",
-        "seq": 213
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1977,7 @@
         "time": "2026-03-23 23:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260322-8773520",
         "title": "李强：中国从不追求贸易顺差 将进口更多优质商品",
-        "seq": 214
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1986,7 @@
         "time": "2026-03-23 23:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260322-8774745",
         "title": "特朗普下令移民执法人员进驻机场维持秩序",
-        "seq": 215
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1995,7 @@
         "time": "2026-03-23 23:41",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260322-8774603",
         "title": "永科控股拟向日月光投资控股增发335万股 筹资约1200万元",
-        "seq": 216
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1950,7 +2004,7 @@
         "time": "2026-03-23 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260322-8774776",
         "title": "法石油公司总裁：中东战争持续超半年 全球经济将受重创",
-        "seq": 217
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1959,7 +2013,7 @@
         "time": "2026-03-23 23:52",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260322-8774201",
         "title": "项目悦湖轩首周末卖出92.5% 平均售出尺价1893元创EC项目新高",
-        "seq": 218
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2022,7 @@
         "time": "2026-03-23 23:52",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260322-8774201",
         "title": "悦湖轩首周末售出92.5% 平均尺价1893元创EC新高",
-        "seq": 219
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2031,7 @@
         "time": "2026-03-23 23:52",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260322-8774201",
         "title": "淡滨尼悦湖轩首日卖出92.5% 平均尺价1893元创EC新高",
-        "seq": 220
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -1986,6 +2040,6 @@
         "time": "2026-03-23 23:57",
         "link": "https://www.zaobao.com.sg/news/china/story20260322-8774676",
         "title": "中国专家评中东战火冲击能源 “既是启示也是噩梦”",
-        "seq": 221
+        "seq": 227
     }
 ]
