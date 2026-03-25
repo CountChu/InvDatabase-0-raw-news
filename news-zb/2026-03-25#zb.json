@@ -2278,12 +2278,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:32",
+        "time": "2026-03-25 23:32",
+        "link": "https://www.zaobao.com.sg/news/world/story20260325-8791820",
+        "title": "特朗普将任命扎克伯格、黄仁勋等加入科技顾问委员会",
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:34",
         "time": "2026-03-25 23:34",
         "link": "https://www.zaobao.com.sg/news/china/story20260324-8785750",
         "title": "关税战难解中美失衡 专家：G2格局不太可能出现",
-        "seq": 254
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:39",
+        "time": "2026-03-25 23:39",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260325-8791935",
+        "title": "脸书母公司Meta将裁减数百个职位",
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2310,7 @@
         "time": "2026-03-25 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260324-8785259",
         "title": "特朗普忧心油价股市“临阵变卦” 巴基斯坦愿主持美伊和谈",
-        "seq": 255
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2301,6 +2319,6 @@
         "time": "2026-03-25 23:50",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260324-8785599",
         "title": "动物热爱者协会近160只猫狗 转由其他团体接手照料",
-        "seq": 256
+        "seq": 258
     }
 ]
