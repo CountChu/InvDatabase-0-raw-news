@@ -2215,12 +2215,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:45",
+        "time": "2026-03-26 22:45",
+        "link": "https://www.zaobao.com.sg/news/world/story20260326-8798127",
+        "title": "日本岩手县东部海域发生6.5级地震",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:52",
         "time": "2026-03-26 22:52",
         "link": "https://www.zaobao.com.sg/news/china/story20260326-8797653",
         "title": "马震任重庆市委组织部长 市长和常务副市长仍悬空",
-        "seq": 247
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:01",
+        "time": "2026-03-26 23:01",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260326-8797546",
+        "title": "BTO走出国门 牛津英语词典新增11个新马英语词",
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:12",
+        "time": "2026-03-26 23:12",
+        "link": "https://www.zaobao.com.sg/news/china/story20260326-8797159",
+        "title": "特朗普称5月14日至15日访华 分析：中东战事仍是习特会变数",
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:13",
+        "time": "2026-03-26 23:13",
+        "link": "https://www.zaobao.com.sg/news/world/story20260326-8798212",
+        "title": "美国放宽对白罗斯国有银行制裁",
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2265,7 @@
         "time": "2026-03-26 23:16",
         "link": "https://www.zaobao.com.sg/news/world/story20260325-8791518",
         "title": "掌握全球石油咽喉 霍尔木兹海峡成伊朗重要谈判筹码",
-        "seq": 248
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2274,7 @@
         "time": "2026-03-26 23:16",
         "link": "https://www.zaobao.com.sg/news/sports/story20260324-8785473",
         "title": "全国残奥理事会颁奖礼 吴蕊思转项夺金杜维崧“戴帽”获表彰",
-        "seq": 249
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2283,7 @@
         "time": "2026-03-26 23:16",
         "link": "https://www.zaobao.com.sg/news/world/story20260325-8791518",
         "title": "霍尔木兹海峡成谈判筹码 伊朗如掐住世界咽喉",
-        "seq": 250
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2292,7 @@
         "time": "2026-03-26 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260325-8791820",
         "title": "特朗普将任命扎克伯格、黄仁勋等加入科技顾问委员会",
-        "seq": 251
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2301,7 @@
         "time": "2026-03-26 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260325-8791820",
         "title": "特朗普任命扎克伯格、黄仁勋等13人 加入科技顾问委员会",
-        "seq": 252
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2310,7 @@
         "time": "2026-03-26 23:39",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260325-8791935",
         "title": "脸书母公司Meta将裁减数百个职位",
-        "seq": 253
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2319,7 @@
         "time": "2026-03-26 23:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260325-8791883",
         "title": "埃及愿意主办伊朗会议 促缓和局势",
-        "seq": 254
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2328,7 @@
         "time": "2026-03-26 23:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260325-8791921",
         "title": "2026年亚洲50最佳餐馆成绩出炉 狮城六家入榜",
-        "seq": 255
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2337,7 @@
         "time": "2026-03-26 23:48",
         "link": "https://www.zaobao.com.sg/news/china/story20260325-8791860",
         "title": "柯成兴：全球贸易核心挑战转变 RCEP须正视形势",
-        "seq": 256
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2346,7 @@
         "time": "2026-03-26 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260325-8791932",
         "title": "俄罗斯警告日本勿向乌克兰提供武器",
-        "seq": 257
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2355,7 @@
         "time": "2026-03-26 23:54",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260325-8790674",
         "title": "海事局：经新加坡货物流通近几周保持稳定 船用燃料供应充足",
-        "seq": 258
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2328,6 +2364,6 @@
         "time": "2026-03-26 23:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260325-8791889",
         "title": "参与前往内政部递信反对法案 11青年接获有条件警告",
-        "seq": 259
+        "seq": 263
     }
 ]
