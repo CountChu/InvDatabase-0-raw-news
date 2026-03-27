@@ -2215,12 +2215,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:25",
+        "time": "2026-03-27 23:25",
+        "link": "https://www.zaobao.com.sg/news/world/story20260327-8803896",
+        "title": "特朗普二度延后打击伊朗能源设施 宽限期延长10天至4月6日  ",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:26",
         "time": "2026-03-27 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20260326-8797920",
         "title": "中国多地副部级人事调动  “70后”王钊成浙江最年轻副省长",
-        "seq": 247
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:26",
+        "time": "2026-03-27 23:26",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260327-8801471",
+        "title": "支援家暴女性 社服团队研发“冰山模型”获杰出社会工作奖",
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:33",
+        "time": "2026-03-27 23:33",
+        "link": "https://www.zaobao.com.sg/news/world/story20260327-8804426",
+        "title": "美以空袭伊朗西南与中部两家钢铁厂",
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2256,7 @@
         "time": "2026-03-27 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260326-8798281",
         "title": "特朗普：伊朗有机会永久放弃核野心 否则将面对可怕噩梦",
-        "seq": 248
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2265,7 @@
         "time": "2026-03-27 23:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260326-8798026",
         "title": "地缘冲突与局部战争频发 赵乐际呼吁政治解决矛盾分歧",
-        "seq": 249
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2274,7 @@
         "time": "2026-03-27 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260326-8798321",
         "title": "消息：美国拟定对伊朗“致命一击”方案 以备谈判破裂",
-        "seq": 250
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2256,6 +2283,6 @@
         "time": "2026-03-27 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260326-8797697",
         "title": "伊朗据报已回应美方停战提案  特朗普威胁不同意就继续猛攻",
-        "seq": 251
+        "seq": 254
     }
 ]
