@@ -1468,12 +1468,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:14",
+        "time": "2026-03-28 23:14",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260328-8806961",
+        "title": "柏拉雅地段规划细化 专家：同步推私宅加快南部濒水区发展",
+        "seq": 164
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:16",
         "time": "2026-03-28 23:16",
         "link": "https://www.zaobao.com.sg/news/world/story20260327-8804351",
         "title": "乌克兰与沙特签署防务合作协议",
-        "seq": 164
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1491,7 @@
         "time": "2026-03-28 23:16",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260327-8804260",
         "title": "武吉知马多用途房产1.18亿元求售 印尼富商陈江与关联公司为业主",
-        "seq": 165
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1500,7 @@
         "time": "2026-03-28 23:17",
         "link": "https://www.zaobao.com.sg/news/china/story20260327-8804303",
         "title": "业者：“新加坡洗白”留下脏水 应“浸泡”融入本地",
-        "seq": 166
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1509,7 @@
         "time": "2026-03-28 23:25",
         "link": "https://www.zaobao.com.sg/news/world/story20260327-8803896",
         "title": "特朗普二度延后打击伊朗能源设施 宽限期延长10天至4月6日  ",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2026-03-28 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260327-8801471",
         "title": "支援家暴女性 社服团队研发“冰山模型”获杰出社会工作奖",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,15 +1527,6 @@
         "time": "2026-03-28 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260327-8804426",
         "title": "美以空袭伊朗西南与中部两家钢铁厂",
-        "seq": 169
-    },
-    {
-        "media": "聯合早報",
-        "category": "财经",
-        "timeText": "23:40",
-        "time": "2026-03-28 23:40",
-        "link": "https://www.zaobao.com.sg/finance/singapore/story20260327-8802591",
-        "title": "数码黄金市场碎片化 世界黄金协会倡议“黄金即服务”力推标准化",
         "seq": 170
     },
     {
@@ -1535,8 +1535,17 @@
         "timeText": "23:40",
         "time": "2026-03-28 23:40",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260327-8802591",
-        "title": "数码黄金市场碎片化 世界黄金协会力推标准化",
+        "title": "数码黄金市场碎片化 世界黄金协会倡议“黄金即服务”力推标准化",
         "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:40",
+        "time": "2026-03-28 23:40",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260327-8802591",
+        "title": "数码黄金市场碎片化 世界黄金协会力推标准化",
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1554,7 @@
         "time": "2026-03-28 23:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260327-8800869",
         "title": "【早知】美国对伊朗哈尔克岛发动袭击的风险有多大？",
-        "seq": 172
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1563,7 @@
         "time": "2026-03-28 23:46",
         "link": "https://www.zaobao.com.sg/news/china/story20260327-8804381",
         "title": "毛振华：中国经济“冰火两重天” 扩内需是难题",
-        "seq": 173
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1572,7 @@
         "time": "2026-03-28 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260327-8804490",
         "title": "联合国：约五分之一黎巴嫩人流离失所",
-        "seq": 174
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1572,6 +1581,6 @@
         "time": "2026-03-28 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260327-8804540",
         "title": "美媒：万斯认为内坦亚胡对冲突预判“太乐观”",
-        "seq": 175
+        "seq": 176
     }
 ]
