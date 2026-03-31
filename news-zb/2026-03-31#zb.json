@@ -1585,12 +1585,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:29",
+        "time": "2026-03-31 20:29",
+        "link": "https://www.zaobao.com.sg/news/world/story20260331-8822265",
+        "title": "特朗普：盟友应“自己去抢”霍尔木兹海峡燃油 美国不再帮忙",
+        "seq": 177
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "20:30",
         "time": "2026-03-31 20:30",
         "link": "https://www.zaobao.com.sg/news/sea/story20260330-8814861",
         "title": "马国严苛投资条款 或令比亚迪设厂计划生变",
-        "seq": 177
+        "seq": 178
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "20:33",
+        "time": "2026-03-31 20:33",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260331-8822222",
+        "title": "泰王批准新内阁名单 核心经济团队留任力推“泰国10+”计划",
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1617,25 @@
         "time": "2026-03-31 20:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260330-8815337",
         "title": "看准防空急需 乌克兰向波斯湾“推销”无人机拦截技术",
-        "seq": 178
+        "seq": 180
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "20:34",
+        "time": "2026-03-31 20:34",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8821799",
+        "title": "油价飙升 教育部接触校车业者 贸工部跟进交通业诉求",
+        "seq": 181
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "20:38",
+        "time": "2026-03-31 20:38",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8822252",
+        "title": "两油商再度调高柴油售价 壳牌每公升涨至4.23元",
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1644,7 @@
         "time": "2026-03-31 20:41",
         "link": "https://www.zaobao.com.sg/news/sea/story20260330-8815043",
         "title": "摩根大通列马中两国为亚洲较具韧性能源“避风港”",
-        "seq": 179
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1653,7 @@
         "time": "2026-03-31 20:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8813921",
         "title": "协助经营炼油厂偷油大案 壳牌前职员判监21年",
-        "seq": 180
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1662,7 @@
         "time": "2026-03-31 20:50",
         "link": "https://www.zaobao.com.sg/news/china/story20260330-8816077",
         "title": "伊朗战争叠加北京加强审查 香港IPO复苏遇阻",
-        "seq": 181
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1671,7 @@
         "time": "2026-03-31 20:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260330-8814686",
         "title": "特朗普希望夺取伊朗石油 不排除占领哈尔克岛",
-        "seq": 182
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1680,7 @@
         "time": "2026-03-31 20:57",
         "link": "https://www.zaobao.com.sg/news/sea/story20260330-8814501",
         "title": "传安华忧损政府形象 阻公开阿占巴基调查报告",
-        "seq": 183
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1689,7 @@
         "time": "2026-03-31 21:04",
         "link": "https://www.zaobao.com.sg/news/china/story20260330-8813707",
         "title": "报告：中国独角兽企业去年达416家 居全球第二",
-        "seq": 184
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1698,7 @@
         "time": "2026-03-31 21:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260330-8816372",
         "title": "特朗普再警告伊朗：不恢复海峡通航将摧毁油井发电厂",
-        "seq": 185
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1707,7 @@
         "time": "2026-03-31 21:15",
         "link": "https://www.zaobao.com.sg/news/china/story20260330-8816156",
         "title": "比亚迪2026年汽车出口目标据报上调15%至150 万辆",
-        "seq": 186
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1716,7 @@
         "time": "2026-03-31 21:19",
         "link": "https://www.zaobao.com.sg/news/world/story20260330-8816263",
         "title": "白宫新宴会厅地下将建大型建筑群 配有防弹防无人机设施",
-        "seq": 187
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1725,7 @@
         "time": "2026-03-31 21:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260330-8815932",
         "title": "美伊战事爆发沙特进退两难 与美若即若离",
-        "seq": 188
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1734,7 @@
         "time": "2026-03-31 21:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260330-8816161",
         "title": "日本与印尼签大规模能源合作框架 高市或吁普拉博沃加入霍尔木兹海峡护航联盟",
-        "seq": 189
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1743,7 @@
         "time": "2026-03-31 21:32",
         "link": "https://www.zaobao.com.sg/news/sea/story20260330-8816458",
         "title": "霍尔木兹海峡受阻引油荒 菲购俄油越调产救急",
-        "seq": 190
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1752,7 @@
         "time": "2026-03-31 21:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260330-8816222",
         "title": "台湾出现首例冠病变异株BA.3.2 10岁新加坡籍女童入境确诊 ",
-        "seq": 191
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1761,7 @@
         "time": "2026-03-31 21:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260330-8814856",
         "title": "美军价值近4亿元E-3预警机遭导弹摧毁",
-        "seq": 192
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1770,7 @@
         "time": "2026-03-31 21:39",
         "link": "https://www.zaobao.com.sg/news/sports/story20260330-8816462",
         "title": "乒乓球世界杯 曾尖小组对手申裕斌轻松取得开门红",
-        "seq": 193
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1779,7 @@
         "time": "2026-03-31 21:46",
         "link": "https://www.zaobao.com.sg/news/china/story20260330-8816376",
         "title": "下午察：一座火葬场引爆的冲突",
-        "seq": 194
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1788,7 @@
         "time": "2026-03-31 21:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8816325",
         "title": "Fitbit新加坡实体自愿清盘 产品销售与服务不受影响",
-        "seq": 195
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1797,7 @@
         "time": "2026-03-31 21:58",
         "link": "https://www.zaobao.com.sg/news/sea/story20260330-8816572",
         "title": "涉非法倾倒数百万吨废料 越南化工巨头主席父子等七人被捕",
-        "seq": 196
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1806,7 @@
         "time": "2026-03-31 22:05",
         "link": "https://www.zaobao.com.sg/news/china/story20260330-8813851",
         "title": "陈茂波：香港经济正展现良好韧性与动力",
-        "seq": 197
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1815,7 @@
         "time": "2026-03-31 22:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260330-8815747",
         "title": "指人工智能以少胜多 科企被指拿AI当裁员“挡箭牌”",
-        "seq": 198
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1824,7 @@
         "time": "2026-03-31 22:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260330-8816319",
         "title": "涉强迫妻子向逾百人卖淫 瑞典男子被控多项重罪",
-        "seq": 199
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1833,7 @@
         "time": "2026-03-31 22:47",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8816545",
         "title": "航班大乱见温情 樟宜机场团队为滞留旅客庆生助返家",
-        "seq": 200
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1842,7 @@
         "time": "2026-03-31 22:54",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8816576",
         "title": "长岛填海前期准备作业引忧 公众与自然团体促公布计划详情",
-        "seq": 201
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1851,7 @@
         "time": "2026-03-31 23:06",
         "link": "https://www.zaobao.com.sg/news/sports/story20260330-8815667",
         "title": "谦逊迎战孟加拉 雄狮紧锣密鼓备战亚洲杯正赛",
-        "seq": 202
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1860,7 @@
         "time": "2026-03-31 23:18",
         "link": "https://www.zaobao.com.sg/news/world/story20260330-8816190",
         "title": "日本国会通过临时预算案 维持政府运转至新财年预算生效",
-        "seq": 203
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1869,7 @@
         "time": "2026-03-31 23:19",
         "link": "https://www.zaobao.com.sg/news/sports/story20260330-8816380",
         "title": "将成我国首位职业围棋手 两恩师赞陈奕航“努力造就成功”",
-        "seq": 204
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1878,7 @@
         "time": "2026-03-31 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8816390",
         "title": "本地医疗费今年涨幅料达16.9％ 寿险业吁共担责任确保体系可持续",
-        "seq": 205
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1887,7 @@
         "time": "2026-03-31 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260330-8816823",
         "title": "从法律系学生到政变强人 敏昂莱披“文官外衣”延续铁腕统治",
-        "seq": 206
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1896,7 @@
         "time": "2026-03-31 23:28",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8816804",
         "title": "涉海湾道偷电单车 23岁男子周二面控",
-        "seq": 207
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1905,7 @@
         "time": "2026-03-31 23:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8813955",
         "title": "黄总理：新谣是本地文化资产 希望更多人继续以华文创作",
-        "seq": 208
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1878,6 +1914,6 @@
         "time": "2026-03-31 23:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8813955",
         "title": "黄循财总理：新谣是本地文化资产 盼更多人继续以华文创作",
-        "seq": 209
+        "seq": 213
     }
 ]
