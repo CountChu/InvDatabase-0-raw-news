@@ -406,12 +406,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:12",
+        "time": "2026-04-01 22:12",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260331-8822718",
+        "title": "雄狮一球险胜孟加拉 亚洲杯外围赛完美收官",
+        "seq": 46
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:18",
         "time": "2026-04-01 22:18",
         "link": "https://www.zaobao.com.sg/news/world/story20260331-8822368",
         "title": "日本新财年预算案搁置 暴露高市内政短板",
-        "seq": 46
+        "seq": 47
     },
     {
         "media": "聯合早報",
@@ -420,7 +429,7 @@
         "time": "2026-04-01 22:20",
         "link": "https://www.zaobao.com.sg/news/china/story20260331-8820072",
         "title": "下午察：净利润首次下滑 比亚迪在走下坡路？",
-        "seq": 47
+        "seq": 48
     },
     {
         "media": "聯合早報",
@@ -429,7 +438,7 @@
         "time": "2026-04-01 22:25",
         "link": "https://www.zaobao.com.sg/news/world/story20260331-8821181",
         "title": "波斯湾国家态度改变 支持美国加大对伊军事施压",
-        "seq": 48
+        "seq": 49
     },
     {
         "media": "聯合早報",
@@ -438,7 +447,7 @@
         "time": "2026-04-01 22:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260331-8821245",
         "title": "民调：韩国近五成中小学生认为韩朝须统一",
-        "seq": 49
+        "seq": 50
     },
     {
         "media": "聯合早報",
@@ -447,7 +456,7 @@
         "time": "2026-04-01 22:34",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260331-8822724",
         "title": "集团净利大增 城市发展总裁2025财年薪酬激增71%至510万元",
-        "seq": 50
+        "seq": 51
     },
     {
         "media": "聯合早報",
@@ -456,7 +465,7 @@
         "time": "2026-04-01 22:36",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8822566",
         "title": "乌敏岛频现“鳄霸”出没 目击者：离我只有五米",
-        "seq": 51
+        "seq": 52
     },
     {
         "media": "聯合早報",
@@ -465,7 +474,7 @@
         "time": "2026-04-01 22:36",
         "link": "https://www.zaobao.com.sg/news/sea/story20260331-8822807",
         "title": "印尼三维和人员黎巴嫩殉职 雅加达促安理会开紧急会议",
-        "seq": 52
+        "seq": 53
     },
     {
         "media": "聯合早報",
@@ -474,7 +483,7 @@
         "time": "2026-04-01 22:43",
         "link": "https://www.zaobao.com.sg/news/sea/story20260331-8822702",
         "title": "违受托责任致SRC损失严重 官判纳吉须赔近17亿新元",
-        "seq": 53
+        "seq": 54
     },
     {
         "media": "聯合早報",
@@ -483,7 +492,7 @@
         "time": "2026-04-01 22:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8820198",
         "title": "儿童会将用450万元善款发展项目 支持家庭和看护者",
-        "seq": 54
+        "seq": 55
     },
     {
         "media": "聯合早報",
@@ -492,7 +501,7 @@
         "time": "2026-04-01 22:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260331-8822321",
         "title": "止住12年连跌势头 移民涌入助意大利人口重回稳定",
-        "seq": 55
+        "seq": 56
     },
     {
         "media": "聯合早報",
@@ -501,7 +510,7 @@
         "time": "2026-04-01 22:58",
         "link": "https://www.zaobao.com.sg/finance/china/story20260331-8822525",
         "title": "中国加大离岸信托征税力度 瞄准超级富豪",
-        "seq": 56
+        "seq": 57
     },
     {
         "media": "聯合早報",
@@ -510,15 +519,6 @@
         "time": "2026-04-01 23:06",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260331-8822761",
         "title": "陈淑珊：中东战争加剧利率波动 星展有望获益",
-        "seq": 57
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "23:17",
-        "time": "2026-04-01 23:17",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260401-8823298",
-        "title": "李显龙谈新加坡政策制定理念　不违背人性是关键",
         "seq": 58
     },
     {
@@ -527,8 +527,17 @@
         "timeText": "23:17",
         "time": "2026-04-01 23:17",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260401-8823298",
-        "title": "红蚂蚁：李显龙谈新加坡政策制定理念　不违背人性是关键",
+        "title": "李显龙谈新加坡政策制定理念　不违背人性是关键",
         "seq": 59
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:17",
+        "time": "2026-04-01 23:17",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260401-8823298",
+        "title": "红蚂蚁：李显龙谈新加坡政策制定理念　不违背人性是关键",
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -537,7 +546,7 @@
         "time": "2026-04-01 23:18",
         "link": "https://www.zaobao.com.sg/news/world/story20260331-8822576",
         "title": "意大利防长拒绝美军使用锡戈内拉基地",
-        "seq": 60
+        "seq": 61
     },
     {
         "media": "聯合早報",
@@ -546,7 +555,7 @@
         "time": "2026-04-01 23:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8822414",
         "title": "OneMap无障碍路线 明年料延长至6800公里",
-        "seq": 61
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -555,7 +564,7 @@
         "time": "2026-04-01 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260330-8816823",
         "title": "从法律系学生到政变强人 敏昂莱披“文官外衣”延续铁腕统治",
-        "seq": 62
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -564,7 +573,7 @@
         "time": "2026-04-01 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8822712",
         "title": "国大医院创新中心开幕 利用人工智能加速医疗转型",
-        "seq": 63
+        "seq": 64
     },
     {
         "media": "聯合早報",
@@ -573,7 +582,7 @@
         "time": "2026-04-01 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260331-8823026",
         "title": "英王查尔斯拟4月下旬访问美国 ",
-        "seq": 64
+        "seq": 65
     },
     {
         "media": "聯合早報",
@@ -582,7 +591,7 @@
         "time": "2026-04-01 23:35",
         "link": "https://www.zaobao.com.sg/news/sports/story20260331-8822940",
         "title": "因归化丑闻成绩遭反转 马国亚洲杯外围赛1比3负越南",
-        "seq": 65
+        "seq": 66
     },
     {
         "media": "聯合早報",
@@ -591,6 +600,6 @@
         "time": "2026-04-01 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8822825",
         "title": "2028年10月起 新电动车充电桩须符合新SS722新加坡标准",
-        "seq": 66
+        "seq": 67
     }
 ]
