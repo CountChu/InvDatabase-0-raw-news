@@ -523,12 +523,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:17",
+        "time": "2026-04-01 23:17",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260401-8823298",
+        "title": "红蚂蚁：李显龙谈新加坡政策制定理念　不违背人性是关键",
+        "seq": 59
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:18",
         "time": "2026-04-01 23:18",
         "link": "https://www.zaobao.com.sg/news/world/story20260331-8822576",
         "title": "意大利防长拒绝美军使用锡戈内拉基地",
-        "seq": 59
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -537,7 +546,7 @@
         "time": "2026-04-01 23:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8822414",
         "title": "OneMap无障碍路线 明年料延长至6800公里",
-        "seq": 60
+        "seq": 61
     },
     {
         "media": "聯合早報",
@@ -546,7 +555,7 @@
         "time": "2026-04-01 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260330-8816823",
         "title": "从法律系学生到政变强人 敏昂莱披“文官外衣”延续铁腕统治",
-        "seq": 61
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -555,7 +564,7 @@
         "time": "2026-04-01 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8822712",
         "title": "国大医院创新中心开幕 利用人工智能加速医疗转型",
-        "seq": 62
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -564,7 +573,7 @@
         "time": "2026-04-01 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260331-8823026",
         "title": "英王查尔斯拟4月下旬访问美国 ",
-        "seq": 63
+        "seq": 64
     },
     {
         "media": "聯合早報",
@@ -573,7 +582,7 @@
         "time": "2026-04-01 23:35",
         "link": "https://www.zaobao.com.sg/news/sports/story20260331-8822940",
         "title": "因归化丑闻成绩遭反转 马国亚洲杯外围赛1比3负越南",
-        "seq": 64
+        "seq": 65
     },
     {
         "media": "聯合早報",
@@ -582,6 +591,6 @@
         "time": "2026-04-01 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8822825",
         "title": "2028年10月起 新电动车充电桩须符合新SS722新加坡标准",
-        "seq": 65
+        "seq": 66
     }
 ]
