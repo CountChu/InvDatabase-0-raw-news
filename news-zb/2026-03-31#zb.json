@@ -1981,12 +1981,66 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:20",
+        "time": "2026-03-31 22:20",
+        "link": "https://www.zaobao.com.sg/news/china/story20260331-8820072",
+        "title": "下午察：净利润首次下滑 比亚迪在走下坡路？",
+        "seq": 221
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:25",
+        "time": "2026-03-31 22:25",
+        "link": "https://www.zaobao.com.sg/news/world/story20260331-8821181",
+        "title": "波斯湾国家态度改变 支持美国加大对伊军事施压",
+        "seq": 222
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:30",
+        "time": "2026-03-31 22:30",
+        "link": "https://www.zaobao.com.sg/news/world/story20260331-8821245",
+        "title": "民调：韩国近五成中小学生认为韩朝须统一",
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:34",
         "time": "2026-03-31 22:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260330-8816319",
         "title": "涉强迫妻子向逾百人卖淫 瑞典男子被控多项重罪",
-        "seq": 221
+        "seq": 224
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:34",
+        "time": "2026-03-31 22:34",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260331-8822724",
+        "title": "城市发展总裁2025财年薪酬激增71%至510万元",
+        "seq": 225
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:36",
+        "time": "2026-03-31 22:36",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8822566",
+        "title": "乌敏岛频现“鳄霸”出没 目击者：离我只有五米",
+        "seq": 226
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:36",
+        "time": "2026-03-31 22:36",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260331-8822807",
+        "title": "印尼三维和人员黎巴嫩殉职 雅加达促安理会开紧急会议",
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2049,7 @@
         "time": "2026-03-31 22:47",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8816545",
         "title": "航班大乱见温情 樟宜机场团队为滞留旅客庆生助返家",
-        "seq": 222
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2058,7 @@
         "time": "2026-03-31 22:54",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8816576",
         "title": "长岛填海前期准备作业引忧 公众与自然团体促公布计划详情",
-        "seq": 223
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2067,7 @@
         "time": "2026-03-31 23:06",
         "link": "https://www.zaobao.com.sg/news/sports/story20260330-8815667",
         "title": "谦逊迎战孟加拉 雄狮紧锣密鼓备战亚洲杯正赛",
-        "seq": 224
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2076,7 @@
         "time": "2026-03-31 23:18",
         "link": "https://www.zaobao.com.sg/news/world/story20260330-8816190",
         "title": "日本国会通过临时预算案 维持政府运转至新财年预算生效",
-        "seq": 225
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2085,7 @@
         "time": "2026-03-31 23:19",
         "link": "https://www.zaobao.com.sg/news/sports/story20260330-8816380",
         "title": "将成我国首位职业围棋手 两恩师赞陈奕航“努力造就成功”",
-        "seq": 226
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2094,7 @@
         "time": "2026-03-31 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8816390",
         "title": "本地医疗费今年涨幅料达16.9％ 寿险业吁共担责任确保体系可持续",
-        "seq": 227
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2103,7 @@
         "time": "2026-03-31 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260330-8816823",
         "title": "从法律系学生到政变强人 敏昂莱披“文官外衣”延续铁腕统治",
-        "seq": 228
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2112,7 @@
         "time": "2026-03-31 23:28",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8816804",
         "title": "涉海湾道偷电单车 23岁男子周二面控",
-        "seq": 229
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2121,7 @@
         "time": "2026-03-31 23:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8813955",
         "title": "黄总理：新谣是本地文化资产 希望更多人继续以华文创作",
-        "seq": 230
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2076,6 +2130,6 @@
         "time": "2026-03-31 23:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260330-8813955",
         "title": "黄循财总理：新谣是本地文化资产 盼更多人继续以华文创作",
-        "seq": 231
+        "seq": 237
     }
 ]
