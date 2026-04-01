@@ -2296,12 +2296,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:25",
+        "time": "2026-04-01 23:25",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260401-8827633",
+        "title": "【体坛周爆】大卫挑战歌利亚 世界杯赛场上的“小国大梦”",
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:27",
         "time": "2026-04-01 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260330-8816823",
         "title": "从法律系学生到政变强人 敏昂莱披“文官外衣”延续铁腕统治",
-        "seq": 256
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2319,16 @@
         "time": "2026-04-01 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8822712",
         "title": "国大医院创新中心开幕 利用人工智能加速医疗转型",
-        "seq": 257
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:32",
+        "time": "2026-04-01 23:32",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260401-8829363",
+        "title": "丰树产业以约2.66亿元 脱售美国物流资产 ",
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2337,7 @@
         "time": "2026-04-01 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260331-8823026",
         "title": "英王查尔斯拟4月下旬访问美国 ",
-        "seq": 258
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2346,7 @@
         "time": "2026-04-01 23:35",
         "link": "https://www.zaobao.com.sg/news/sports/story20260331-8822940",
         "title": "因归化丑闻成绩遭反转 马国亚洲杯外围赛1比3负越南",
-        "seq": 259
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2337,6 +2355,6 @@
         "time": "2026-04-01 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260331-8822825",
         "title": "2028年10月起 新电动车充电桩须符合新SS722新加坡标准",
-        "seq": 260
+        "seq": 262
     }
 ]
