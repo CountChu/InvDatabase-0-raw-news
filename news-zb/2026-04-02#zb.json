@@ -2342,11 +2342,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:08",
+        "time": "2026-04-02 23:08",
+        "link": "https://www.zaobao.com.sg/news/world/story20260402-8836110",
+        "title": "美媒：特朗普曾讨论解雇司法部长邦迪",
+        "seq": 261
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:09",
         "time": "2026-04-02 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260401-8829285",
         "title": "送原油解古巴燃眉之急 俄罗斯：会继续提供援助",
-        "seq": 261
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2364,16 @@
         "time": "2026-04-02 23:09",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260401-8829382",
         "title": "mm2全亚：私下发售新股计划虽失效 集团继续重组策略和寻求新资本",
-        "seq": 262
+        "seq": 263
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:15",
+        "time": "2026-04-02 23:15",
+        "link": "https://www.zaobao.com.sg/news/world/story20260402-8835800",
+        "title": "特朗普宣称已近胜利 誓把伊朗“打回石器时代”",
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2382,7 @@
         "time": "2026-04-02 23:25",
         "link": "https://www.zaobao.com.sg/news/sports/story20260401-8827633",
         "title": "【体坛周爆】大卫挑战歌利亚 世界杯赛场上的“小国大梦”",
-        "seq": 263
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2373,6 +2391,6 @@
         "time": "2026-04-02 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260401-8829363",
         "title": "丰树产业以约2.66亿元 脱售美国物流资产 ",
-        "seq": 264
+        "seq": 266
     }
 ]
