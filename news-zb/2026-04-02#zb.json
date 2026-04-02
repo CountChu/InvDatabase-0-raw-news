@@ -2260,12 +2260,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:40",
+        "time": "2026-04-02 22:40",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260402-8836071",
+        "title": "知情人士：数据中心业者AirTrunk已为房地产投资信托来新上市做准备",
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:43",
         "time": "2026-04-02 22:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260401-8828969",
         "title": "日法东京峰会 携手摆脱对中国稀土依赖",
-        "seq": 252
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2283,34 @@
         "time": "2026-04-02 22:43",
         "link": "https://www.zaobao.com.sg/news/sea/story20260331-8822702",
         "title": "违受托责任致SRC损失严重 官判纳吉须赔近17亿新元",
-        "seq": 253
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:46",
+        "time": "2026-04-02 22:46",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260402-8835554",
+        "title": "【早知】柴油为何比汽油还贵？这意味着什么？",
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:49",
+        "time": "2026-04-02 22:49",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260402-8836064",
+        "title": "礼仕时脱售茅台不老文化中心和白酒存货",
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:50",
+        "time": "2026-04-02 22:50",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260402-8835274",
+        "title": "泰国猪血获准进口 多数食肆欢迎久违老味道",
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2319,7 @@
         "time": "2026-04-02 22:54",
         "link": "https://www.zaobao.com.sg/news/world/story20260401-8829323",
         "title": "特朗普：很快会撤出伊朗 如有必要再回去打击",
-        "seq": 254
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2328,7 @@
         "time": "2026-04-02 22:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20260401-8828452",
         "title": "推动青少年乒乓球发展 冯天薇本地开办同名学院 ",
-        "seq": 255
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2337,7 @@
         "time": "2026-04-02 22:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20260401-8828452",
         "title": "推动青少年乒乓球发展 冯天薇本地开办以她名字命名学院",
-        "seq": 256
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2346,7 @@
         "time": "2026-04-02 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260401-8829285",
         "title": "送原油解古巴燃眉之急 俄罗斯：会继续提供援助",
-        "seq": 257
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2355,7 @@
         "time": "2026-04-02 23:09",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260401-8829382",
         "title": "mm2全亚：私下发售新股计划虽失效 集团继续重组策略和寻求新资本",
-        "seq": 258
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2364,7 @@
         "time": "2026-04-02 23:25",
         "link": "https://www.zaobao.com.sg/news/sports/story20260401-8827633",
         "title": "【体坛周爆】大卫挑战歌利亚 世界杯赛场上的“小国大梦”",
-        "seq": 259
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2337,6 +2373,6 @@
         "time": "2026-04-02 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260401-8829363",
         "title": "丰树产业以约2.66亿元 脱售美国物流资产 ",
-        "seq": 260
+        "seq": 264
     }
 ]
