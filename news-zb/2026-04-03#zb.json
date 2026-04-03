@@ -1801,11 +1801,11 @@
     },
     {
         "media": "聯合早報",
-        "category": "国际",
-        "timeText": "23:08",
-        "time": "2026-04-03 23:08",
-        "link": "https://www.zaobao.com.sg/news/world/story20260402-8836110",
-        "title": "美媒：特朗普曾讨论解雇司法部长邦迪",
+        "category": "体育",
+        "timeText": "23:05",
+        "time": "2026-04-03 23:05",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260403-8839795",
+        "title": "上任仅10个月 意大利男足主帅加图索引咎辞职",
         "seq": 201
     },
     {
@@ -1814,8 +1814,26 @@
         "timeText": "23:08",
         "time": "2026-04-03 23:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260402-8836110",
-        "title": "美媒：特朗普曾讨论解除司法部长邦迪职务",
+        "title": "美媒：特朗普曾讨论解雇司法部长邦迪",
         "seq": 202
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:08",
+        "time": "2026-04-03 23:08",
+        "link": "https://www.zaobao.com.sg/news/world/story20260402-8836110",
+        "title": "美媒：特朗普曾讨论解除司法部长邦迪职务",
+        "seq": 203
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:11",
+        "time": "2026-04-03 23:11",
+        "link": "https://www.zaobao.com.sg/news/world/story20260403-8839873",
+        "title": "为伊朗战争所需 白宫要求1.5万亿美元巨额国防预算",
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1842,16 @@
         "time": "2026-04-03 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260402-8835800",
         "title": "特朗普宣称已近胜利 誓把伊朗“打回石器时代”",
-        "seq": 203
+        "seq": 205
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:18",
+        "time": "2026-04-03 23:18",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260403-8839248",
+        "title": "三人篮球亚洲杯首日 新加坡女队创历史首闯八强",
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1860,7 @@
         "time": "2026-04-03 23:47",
         "link": "https://www.zaobao.com.sg/news/sports/story20260402-8835730",
         "title": "意大利足球衰落 “傲慢”背后藏着大问题",
-        "seq": 204
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1869,7 @@
         "time": "2026-04-03 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260402-8836216",
         "title": "涉非法放贷活动 82人被警方调查",
-        "seq": 205
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1878,7 @@
         "time": "2026-04-03 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260402-8836216",
         "title": "警方全岛取缔非法放贷活动 82人被调查",
-        "seq": 206
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1860,6 +1887,6 @@
         "time": "2026-04-03 23:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20260402-8836324",
         "title": "刚率女足夺亚洲杯冠军 主帅尼尔森遭日足协开除",
-        "seq": 207
+        "seq": 210
     }
 ]
