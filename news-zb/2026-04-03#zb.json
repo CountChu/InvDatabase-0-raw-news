@@ -1855,20 +1855,20 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:38",
+        "time": "2026-04-03 23:38",
+        "link": "https://www.zaobao.com.sg/news/world/story20260403-8839341",
+        "title": "中东最高桥梁遭美以炸段后 伊朗首次境内击落美战机誓捉飞行员  ",
+        "seq": 207
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:47",
         "time": "2026-04-03 23:47",
         "link": "https://www.zaobao.com.sg/news/sports/story20260402-8835730",
         "title": "意大利足球衰落 “傲慢”背后藏着大问题",
-        "seq": 207
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "23:55",
-        "time": "2026-04-03 23:55",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260402-8836216",
-        "title": "涉非法放贷活动 82人被警方调查",
         "seq": 208
     },
     {
@@ -1877,8 +1877,17 @@
         "timeText": "23:55",
         "time": "2026-04-03 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260402-8836216",
-        "title": "警方全岛取缔非法放贷活动 82人被调查",
+        "title": "涉非法放贷活动 82人被警方调查",
         "seq": 209
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:55",
+        "time": "2026-04-03 23:55",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260402-8836216",
+        "title": "警方全岛取缔非法放贷活动 82人被调查",
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1887,6 +1896,6 @@
         "time": "2026-04-03 23:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20260402-8836324",
         "title": "刚率女足夺亚洲杯冠军 主帅尼尔森遭日足协开除",
-        "seq": 210
+        "seq": 211
     }
 ]
