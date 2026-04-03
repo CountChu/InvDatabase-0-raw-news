@@ -1747,12 +1747,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:38",
+        "time": "2026-04-03 22:38",
+        "link": "https://www.zaobao.com.sg/news/world/story20260403-8839803",
+        "title": "伊朗：军方正搜寻被击落美国战斗机飞行员",
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:40",
         "time": "2026-04-03 22:40",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260402-8836071",
         "title": "知情人士：数据中心业者AirTrunk已为房地产投资信托来新上市做准备",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1770,7 @@
         "time": "2026-04-03 22:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260402-8835554",
         "title": "【早知】柴油为何比汽油还贵？这意味着什么？",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1779,7 @@
         "time": "2026-04-03 22:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260402-8836064",
         "title": "礼仕时脱售茅台不老文化中心和白酒存货",
-        "seq": 197
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1779,15 +1788,6 @@
         "time": "2026-04-03 22:50",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260402-8835274",
         "title": "泰国猪血获准进口 多数食肆欢迎久违老味道",
-        "seq": 198
-    },
-    {
-        "media": "聯合早報",
-        "category": "国际",
-        "timeText": "23:08",
-        "time": "2026-04-03 23:08",
-        "link": "https://www.zaobao.com.sg/news/world/story20260402-8836110",
-        "title": "美媒：特朗普曾讨论解雇司法部长邦迪",
         "seq": 199
     },
     {
@@ -1796,8 +1796,17 @@
         "timeText": "23:08",
         "time": "2026-04-03 23:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260402-8836110",
-        "title": "美媒：特朗普曾讨论解除司法部长邦迪职务",
+        "title": "美媒：特朗普曾讨论解雇司法部长邦迪",
         "seq": 200
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:08",
+        "time": "2026-04-03 23:08",
+        "link": "https://www.zaobao.com.sg/news/world/story20260402-8836110",
+        "title": "美媒：特朗普曾讨论解除司法部长邦迪职务",
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1815,7 @@
         "time": "2026-04-03 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260402-8835800",
         "title": "特朗普宣称已近胜利 誓把伊朗“打回石器时代”",
-        "seq": 201
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1815,15 +1824,6 @@
         "time": "2026-04-03 23:47",
         "link": "https://www.zaobao.com.sg/news/sports/story20260402-8835730",
         "title": "意大利足球衰落 “傲慢”背后藏着大问题",
-        "seq": 202
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "23:55",
-        "time": "2026-04-03 23:55",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260402-8836216",
-        "title": "涉非法放贷活动 82人被警方调查",
         "seq": 203
     },
     {
@@ -1832,8 +1832,17 @@
         "timeText": "23:55",
         "time": "2026-04-03 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260402-8836216",
-        "title": "警方全岛取缔非法放贷活动 82人被调查",
+        "title": "涉非法放贷活动 82人被警方调查",
         "seq": 204
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:55",
+        "time": "2026-04-03 23:55",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260402-8836216",
+        "title": "警方全岛取缔非法放贷活动 82人被调查",
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1842,6 +1851,6 @@
         "time": "2026-04-03 23:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20260402-8836324",
         "title": "刚率女足夺亚洲杯冠军 主帅尼尔森遭日足协开除",
-        "seq": 205
+        "seq": 206
     }
 ]
