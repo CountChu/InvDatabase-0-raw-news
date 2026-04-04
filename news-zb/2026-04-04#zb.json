@@ -1630,12 +1630,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:34",
+        "time": "2026-04-04 23:34",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260404-8842170",
+        "title": "三人篮球亚洲杯两场惜败 新加坡男队无缘八强",
+        "seq": 182
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2026-04-04 23:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20260404-8842820",
+        "title": "美国逮捕伊朗已故指挥官亲人 特朗普再发警告",
+        "seq": 183
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:38",
         "time": "2026-04-04 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839341",
         "title": "中东最高桥梁遭炸毁后 伊朗首次境内击落美战机誓捉飞行员  ",
-        "seq": 182
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1662,7 @@
         "time": "2026-04-04 23:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260403-8839858",
         "title": "马兴瑞落马——中国反腐刮骨疗伤牵动换届人事",
-        "seq": 183
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1653,6 +1671,6 @@
         "time": "2026-04-04 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839949",
         "title": "伊朗击落美军战斗机 美国官员证实营救行动已展开　",
-        "seq": 184
+        "seq": 186
     }
 ]
