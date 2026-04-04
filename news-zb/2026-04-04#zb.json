@@ -1522,12 +1522,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:45",
+        "time": "2026-04-04 22:45",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260404-8842718",
+        "title": "曼市4比0羞辱利物浦 连续八赛季晋级英足总杯四强",
+        "seq": 170
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:47",
         "time": "2026-04-04 22:47",
         "link": "https://www.zaobao.com.sg/news/china/story20260403-8839564",
         "title": "中国3月服务业PMI增幅放缓 连续三年多保持扩张",
-        "seq": 170
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:53",
+        "time": "2026-04-04 22:53",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260404-8842672",
+        "title": "汇集健身房等多元灵活空间 蒙巴登民众俱乐部满足各年龄层需求",
+        "seq": 172
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:59",
+        "time": "2026-04-04 22:59",
+        "link": "https://www.zaobao.com.sg/news/world/story20260404-8842516",
+        "title": "美两战机被击落一人失踪 美救伊捉“生死竞速”",
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1563,7 @@
         "time": "2026-04-04 23:05",
         "link": "https://www.zaobao.com.sg/news/sports/story20260403-8839795",
         "title": "上任仅10个月 意大利男足主帅加图索引咎辞职",
-        "seq": 171
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1572,7 @@
         "time": "2026-04-04 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839873",
         "title": "为伊朗战争所需 白宫要求1.5万亿美元巨额国防预算",
-        "seq": 172
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1581,7 @@
         "time": "2026-04-04 23:18",
         "link": "https://www.zaobao.com.sg/news/sports/story20260403-8839248",
         "title": "三人篮球亚洲杯首日 新加坡女队创历史首闯八强",
-        "seq": 173
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1590,7 @@
         "time": "2026-04-04 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839341",
         "title": "中东最高桥梁遭炸毁后 伊朗首次境内击落美战机誓捉飞行员  ",
-        "seq": 174
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1599,7 @@
         "time": "2026-04-04 23:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260403-8839858",
         "title": "马兴瑞落马——中国反腐刮骨疗伤牵动换届人事",
-        "seq": 175
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1581,6 +1608,6 @@
         "time": "2026-04-04 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839949",
         "title": "伊朗击落美军战斗机 美国官员证实营救行动已展开　",
-        "seq": 176
+        "seq": 179
     }
 ]
