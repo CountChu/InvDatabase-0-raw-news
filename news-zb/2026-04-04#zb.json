@@ -1432,12 +1432,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:02",
+        "time": "2026-04-04 22:02",
+        "link": "https://www.zaobao.com.sg/news/china/story20260404-8841420",
+        "title": "香港文旅局：预估五一假期100万旅客访港",
+        "seq": 160
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:04",
         "time": "2026-04-04 22:04",
         "link": "https://www.zaobao.com.sg/news/sports/story20260403-8839723",
         "title": "王楚钦孙颖莎上演逆转好戏 晋级澳门世界杯八强",
-        "seq": 160
+        "seq": 161
     },
     {
         "media": "聯合早報",
@@ -1446,7 +1455,7 @@
         "time": "2026-04-04 22:05",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260403-8839669",
         "title": "西海岸一带水道浮现数条死鱼 网民纷纷猜测死因",
-        "seq": 161
+        "seq": 162
     },
     {
         "media": "聯合早報",
@@ -1455,7 +1464,7 @@
         "time": "2026-04-04 22:05",
         "link": "https://www.zaobao.com.sg/news/china/story20260403-8838016",
         "title": "北京多次现沙尘天气 分析指受蒙古国影响加重",
-        "seq": 162
+        "seq": 163
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1473,7 @@
         "time": "2026-04-04 22:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839738",
         "title": "俄罗斯使用542架无人机和37枚导弹 致乌克兰六人死亡",
-        "seq": 163
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1482,7 @@
         "time": "2026-04-04 22:10",
         "link": "https://www.zaobao.com.sg/news/china/story20260403-8839558",
         "title": "国际油价推高旅行成本　港人出游“舍远求近”",
-        "seq": 164
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1491,7 @@
         "time": "2026-04-04 22:14",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260403-8839748",
         "title": "一款Alain Milliat橘子酱或含玻璃碎片 食品局下令召回",
-        "seq": 165
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1500,16 @@
         "time": "2026-04-04 22:19",
         "link": "https://www.zaobao.com.sg/news/sea/story20260402-8835833",
         "title": "涉电子废料弊案 马国环境局正副总监将被控",
-        "seq": 166
+        "seq": 167
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:19",
+        "time": "2026-04-04 22:19",
+        "link": "https://www.zaobao.com.sg/news/world/story20260404-8842714",
+        "title": "伊朗：发动第95波攻势 以新型防空系统击落美机",
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1518,7 @@
         "time": "2026-04-04 22:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839803",
         "title": "伊朗：军方正搜寻被击落美国战斗机飞行员",
-        "seq": 167
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1527,7 @@
         "time": "2026-04-04 22:47",
         "link": "https://www.zaobao.com.sg/news/china/story20260403-8839564",
         "title": "中国3月服务业PMI增幅放缓 连续三年多保持扩张",
-        "seq": 168
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1536,7 @@
         "time": "2026-04-04 23:05",
         "link": "https://www.zaobao.com.sg/news/sports/story20260403-8839795",
         "title": "上任仅10个月 意大利男足主帅加图索引咎辞职",
-        "seq": 169
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1545,7 @@
         "time": "2026-04-04 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839873",
         "title": "为伊朗战争所需 白宫要求1.5万亿美元巨额国防预算",
-        "seq": 170
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1554,7 @@
         "time": "2026-04-04 23:18",
         "link": "https://www.zaobao.com.sg/news/sports/story20260403-8839248",
         "title": "三人篮球亚洲杯首日 新加坡女队创历史首闯八强",
-        "seq": 171
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,7 @@
         "time": "2026-04-04 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839341",
         "title": "中东最高桥梁遭炸毁后 伊朗首次境内击落美战机誓捉飞行员  ",
-        "seq": 172
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1572,7 @@
         "time": "2026-04-04 23:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260403-8839858",
         "title": "马兴瑞落马——中国反腐刮骨疗伤牵动换届人事",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,6 +1581,6 @@
         "time": "2026-04-04 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839949",
         "title": "伊朗击落美军战斗机 美国官员证实营救行动已展开　",
-        "seq": 174
+        "seq": 176
     }
 ]
