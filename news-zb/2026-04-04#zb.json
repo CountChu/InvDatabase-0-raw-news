@@ -1559,11 +1559,38 @@
     {
         "media": "聯合早報",
         "category": "体育",
+        "timeText": "23:01",
+        "time": "2026-04-04 23:01",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260404-8842735",
+        "title": "王楚钦孙颖莎艰难晋级澳门乒乓球世界杯四强",
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:03",
+        "time": "2026-04-04 23:03",
+        "link": "https://www.zaobao.com.sg/news/world/story20260404-8842766",
+        "title": "乌克兰：俄无人机袭击一市场 五人死亡",
+        "seq": 175
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
         "timeText": "23:05",
         "time": "2026-04-04 23:05",
         "link": "https://www.zaobao.com.sg/news/sports/story20260403-8839795",
         "title": "上任仅10个月 意大利男足主帅加图索引咎辞职",
-        "seq": 174
+        "seq": 176
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:07",
+        "time": "2026-04-04 23:07",
+        "link": "https://www.zaobao.com.sg/news/world/story20260404-8842705",
+        "title": "专家：伊朗“锁喉”霍尔木兹海峡 “比核武更具威力”",
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1599,16 @@
         "time": "2026-04-04 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839873",
         "title": "为伊朗战争所需 白宫要求1.5万亿美元巨额国防预算",
-        "seq": 175
+        "seq": 178
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:14",
+        "time": "2026-04-04 23:14",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260404-8842527",
+        "title": "邻里伙伴计划年底扩大至全岛 年长者完成任务可赚2元",
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1617,16 @@
         "time": "2026-04-04 23:18",
         "link": "https://www.zaobao.com.sg/news/sports/story20260403-8839248",
         "title": "三人篮球亚洲杯首日 新加坡女队创历史首闯八强",
-        "seq": 176
+        "seq": 180
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:18",
+        "time": "2026-04-04 23:18",
+        "link": "https://www.zaobao.com.sg/news/china/story20260404-8842726",
+        "title": "林涛空降福建接任厦门市委书记  为进入“70后”接班梯队补强资历",
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1635,7 @@
         "time": "2026-04-04 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839341",
         "title": "中东最高桥梁遭炸毁后 伊朗首次境内击落美战机誓捉飞行员  ",
-        "seq": 177
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1644,7 @@
         "time": "2026-04-04 23:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260403-8839858",
         "title": "马兴瑞落马——中国反腐刮骨疗伤牵动换届人事",
-        "seq": 178
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1608,6 +1653,6 @@
         "time": "2026-04-04 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260403-8839949",
         "title": "伊朗击落美军战斗机 美国官员证实营救行动已展开　",
-        "seq": 179
+        "seq": 184
     }
 ]
