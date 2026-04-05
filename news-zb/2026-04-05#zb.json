@@ -1594,12 +1594,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:24",
+        "time": "2026-04-05 22:24",
+        "link": "https://www.zaobao.com.sg/news/world/story20260405-8845609",
+        "title": "特朗普：星期一与伊朗达成协议“可能性大”",
+        "seq": 178
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:36",
+        "time": "2026-04-05 22:36",
+        "link": "https://www.zaobao.com.sg/news/china/story20260405-8845651",
+        "title": "王毅：中俄应在大是大非问题上体现公道",
+        "seq": 179
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:45",
         "time": "2026-04-05 22:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260404-8842718",
         "title": "曼市4比0羞辱利物浦 连续八赛季晋级英足总杯四强",
-        "seq": 178
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1626,7 @@
         "time": "2026-04-05 22:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260404-8842672",
         "title": "汇集健身房等多元灵活空间 蒙巴登民众俱乐部满足各年龄层需求",
-        "seq": 179
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1635,7 @@
         "time": "2026-04-05 22:59",
         "link": "https://www.zaobao.com.sg/news/world/story20260404-8842516",
         "title": "美两战机被击落一人失踪 美救伊捉“生死竞速”",
-        "seq": 180
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1644,7 @@
         "time": "2026-04-05 23:01",
         "link": "https://www.zaobao.com.sg/news/sports/story20260404-8842735",
         "title": "王楚钦孙颖莎艰难晋级澳门乒乓球世界杯四强",
-        "seq": 181
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1653,7 @@
         "time": "2026-04-05 23:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260404-8842766",
         "title": "乌克兰：俄无人机袭击一市场 五人死亡",
-        "seq": 182
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1662,7 @@
         "time": "2026-04-05 23:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260404-8842705",
         "title": "专家：伊朗“锁喉”霍尔木兹海峡 “比核武更具威力”",
-        "seq": 183
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1671,7 @@
         "time": "2026-04-05 23:14",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260404-8842527",
         "title": "邻里伙伴计划年底扩大至全岛 年长者完成任务可赚2元",
-        "seq": 184
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1680,7 @@
         "time": "2026-04-05 23:18",
         "link": "https://www.zaobao.com.sg/news/china/story20260404-8842726",
         "title": "林涛空降福建接任厦门市委书记  为进入“70后”接班梯队补强资历",
-        "seq": 185
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1689,7 @@
         "time": "2026-04-05 23:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260404-8842170",
         "title": "三人篮球亚洲杯两场惜败 新加坡男队无缘八强",
-        "seq": 186
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1680,6 +1698,6 @@
         "time": "2026-04-05 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260404-8842820",
         "title": "美国逮捕伊朗已故指挥官亲人 特朗普再发警告",
-        "seq": 187
+        "seq": 189
     }
 ]
