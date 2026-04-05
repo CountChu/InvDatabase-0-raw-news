@@ -1711,12 +1711,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:32",
+        "time": "2026-04-05 23:32",
+        "link": "https://www.zaobao.com.sg/news/world/story20260405-8845763",
+        "title": "OPEC+警告：能源设施修复耗时 全球石油供应或受长期影响",
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:34",
         "time": "2026-04-05 23:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260404-8842170",
         "title": "三人篮球亚洲杯两场惜败 新加坡男队无缘八强",
-        "seq": 191
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1725,6 +1734,6 @@
         "time": "2026-04-05 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260404-8842820",
         "title": "美国逮捕伊朗已故指挥官亲人 特朗普再发警告",
-        "seq": 192
+        "seq": 193
     }
 ]
