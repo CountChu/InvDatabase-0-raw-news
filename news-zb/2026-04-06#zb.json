@@ -1981,12 +1981,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:22",
+        "time": "2026-04-06 22:22",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260406-8850669",
+        "title": "杨佳敏亚锦赛硬碰安洗莹 骆建佑放眼再胜斯里坎特",
+        "seq": 221
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:24",
         "time": "2026-04-06 22:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260405-8845609",
         "title": "特朗普：星期一与伊朗达成协议“可能性大”",
-        "seq": 221
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2004,16 @@
         "time": "2026-04-06 22:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260405-8845651",
         "title": "王毅：中俄应在大是大非问题上体现公道",
-        "seq": 222
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:39",
+        "time": "2026-04-06 22:39",
+        "link": "https://www.zaobao.com.sg/news/world/story20260406-8848859",
+        "title": "青年失业率创10年新高 英国军方趁势招人解决“兵荒”",
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2022,7 @@
         "time": "2026-04-06 23:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260405-8845216",
         "title": "商业区孵化雏隼疑撞上玻璃外墙毙命",
-        "seq": 223
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2031,7 @@
         "time": "2026-04-06 23:12",
         "link": "https://www.zaobao.com.sg/news/world/story20260405-8845698",
         "title": "安哥拉暴雨引发山洪导致15人死 数千户家庭受灾",
-        "seq": 224
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2040,7 @@
         "time": "2026-04-06 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260405-8845763",
         "title": "OPEC+警告：能源设施修复耗时 全球石油供应或受长期影响",
-        "seq": 225
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2049,7 @@
         "time": "2026-04-06 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260405-8845658",
         "title": "澳洲女篮三人篮球亚洲杯四连冠 新西兰男篮首称王",
-        "seq": 226
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2040,6 +2058,6 @@
         "time": "2026-04-06 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260405-8845800",
         "title": "伊朗第一副总统：特朗普仍停留在“石器时代”",
-        "seq": 227
+        "seq": 229
     }
 ]
