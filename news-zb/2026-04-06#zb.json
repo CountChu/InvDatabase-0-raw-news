@@ -1909,12 +1909,57 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:02",
+        "time": "2026-04-06 22:02",
+        "link": "https://www.zaobao.com.sg/news/china/story20260406-8848818",
+        "title": "油价上升致港洗衣业成本飙升 议员促政府介入市场",
+        "seq": 213
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:02",
+        "time": "2026-04-06 22:02",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260406-8849228",
+        "title": "中东冲突推高成本 六成企业选择承压保住客户",
+        "seq": 214
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:03",
+        "time": "2026-04-06 22:03",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260406-8850511",
+        "title": "机场威胁恐吓球队 西甲谴责塞维利亚极端球迷 ",
+        "seq": 215
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:04",
+        "time": "2026-04-06 22:04",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260406-8850613",
+        "title": "泰国新内阁宣誓就职 拟推“超级执照”并重组油价救经济",
+        "seq": 216
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:05",
+        "time": "2026-04-06 22:05",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260406-8850563",
+        "title": "科学园路一建筑楼顶冷却塔失火 无人受伤",
+        "seq": 217
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:16",
         "time": "2026-04-06 22:16",
         "link": "https://www.zaobao.com.sg/news/world/story20260405-8845570",
         "title": "阿富汗强降雨引发灾害 已致99死154伤",
-        "seq": 213
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1968,16 @@
         "time": "2026-04-06 22:17",
         "link": "https://www.zaobao.com.sg/finance/china/story20260405-8844440",
         "title": "中国六大行房贷余额连续三年下滑 分析指整体市场交易放缓",
-        "seq": 214
+        "seq": 219
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:18",
+        "time": "2026-04-06 22:18",
+        "link": "https://www.zaobao.com.sg/news/world/story20260406-8850388",
+        "title": "为制止中东局势恶化 高市早苗希望与美伊领导人会谈",
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1986,7 @@
         "time": "2026-04-06 22:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260405-8845609",
         "title": "特朗普：星期一与伊朗达成协议“可能性大”",
-        "seq": 215
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1995,7 @@
         "time": "2026-04-06 22:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260405-8845651",
         "title": "王毅：中俄应在大是大非问题上体现公道",
-        "seq": 216
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1950,7 +2004,7 @@
         "time": "2026-04-06 23:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260405-8845216",
         "title": "商业区孵化雏隼疑撞上玻璃外墙毙命",
-        "seq": 217
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1959,7 +2013,7 @@
         "time": "2026-04-06 23:12",
         "link": "https://www.zaobao.com.sg/news/world/story20260405-8845698",
         "title": "安哥拉暴雨引发山洪导致15人死 数千户家庭受灾",
-        "seq": 218
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2022,7 @@
         "time": "2026-04-06 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260405-8845763",
         "title": "OPEC+警告：能源设施修复耗时 全球石油供应或受长期影响",
-        "seq": 219
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2031,7 @@
         "time": "2026-04-06 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260405-8845658",
         "title": "澳洲女篮三人篮球亚洲杯四连冠 新西兰男篮首称王",
-        "seq": 220
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -1986,6 +2040,6 @@
         "time": "2026-04-06 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260405-8845800",
         "title": "伊朗第一副总统：特朗普仍停留在“石器时代”",
-        "seq": 221
+        "seq": 227
     }
 ]
