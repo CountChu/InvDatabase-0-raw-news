@@ -2458,12 +2458,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:57",
+        "time": "2026-04-08 22:57",
+        "link": "https://www.zaobao.com.sg/news/china/story20260408-8863090",
+        "title": "郑丽文陵谒谈日殖民台湾史 北京或接受大框架但对细节存有保留",
+        "seq": 274
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:01",
         "time": "2026-04-08 23:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260408-8862178",
         "title": "今年首两个月交通违例逾5万5000起 同比增6％",
-        "seq": 274
+        "seq": 275
     },
     {
         "media": "聯合早報",
@@ -2472,7 +2481,7 @@
         "time": "2026-04-08 23:04",
         "link": "https://www.zaobao.com.sg/news/sports/story20260407-8856530",
         "title": "我国两羽毛球双打组合首闯亚锦赛正赛",
-        "seq": 275
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2481,7 +2490,7 @@
         "time": "2026-04-08 23:08",
         "link": "https://www.zaobao.com.sg/news/sports/story20260408-8863458",
         "title": "蒙特卡洛首吞职涯双蛋 梅德韦杰夫暴怒摔烂球拍",
-        "seq": 276
+        "seq": 277
     },
     {
         "media": "聯合早報",
@@ -2490,7 +2499,7 @@
         "time": "2026-04-08 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260407-8856244",
         "title": "每年约3800人因健康原因失业 人力部检讨助重病失业员工重返职场",
-        "seq": 277
+        "seq": 278
     },
     {
         "media": "聯合早報",
@@ -2499,7 +2508,7 @@
         "time": "2026-04-08 23:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260408-8863486",
         "title": "巴基斯坦称收到美伊停火协议遭违反报告 促各方克制",
-        "seq": 278
+        "seq": 279
     },
     {
         "media": "聯合早報",
@@ -2508,7 +2517,7 @@
         "time": "2026-04-08 23:29",
         "link": "https://www.zaobao.com.sg/news/sports/story20260407-8857055",
         "title": "我国两乒乓男单资格赛全胜 蔡劭恒先闯WTT太原站正赛",
-        "seq": 279
+        "seq": 280
     },
     {
         "media": "聯合早報",
@@ -2517,7 +2526,7 @@
         "time": "2026-04-08 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260407-8857090",
         "title": "白宫否认考虑对伊朗发动核袭击 ",
-        "seq": 280
+        "seq": 281
     },
     {
         "media": "聯合早報",
@@ -2526,7 +2535,16 @@
         "time": "2026-04-08 23:33",
         "link": "https://www.zaobao.com.sg/news/sea/story20260407-8855345",
         "title": "最新东南亚态势报告：气候变化是区域最紧迫挑战",
-        "seq": 281
+        "seq": 282
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:35",
+        "time": "2026-04-08 23:35",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260408-8863319",
+        "title": "政府带头落实节能措施 号召所有家庭和企业加入全国节能行动",
+        "seq": 283
     },
     {
         "media": "聯合早報",
@@ -2535,7 +2553,7 @@
         "time": "2026-04-08 23:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260407-8856522",
         "title": "维文：新加坡秉持国际法 不会就霍尔木兹海峡安全通行与伊朗谈判",
-        "seq": 282
+        "seq": 284
     },
     {
         "media": "聯合早報",
@@ -2544,7 +2562,7 @@
         "time": "2026-04-08 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260407-8856491",
         "title": "最后通牒倒数计时  美军再炸哈尔克岛  特朗普誓让伊朗文明一夜覆灭",
-        "seq": 283
+        "seq": 285
     },
     {
         "media": "聯合早報",
@@ -2553,7 +2571,7 @@
         "time": "2026-04-08 23:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260407-8856084",
         "title": "政府推出近10亿元配套 缓解中东局势对国人影响 ",
-        "seq": 284
+        "seq": 286
     },
     {
         "media": "聯合早報",
@@ -2562,6 +2580,6 @@
         "time": "2026-04-08 23:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260407-8856084",
         "title": "政府推出近10亿新币配套 缓解中东局势对国人影响 ",
-        "seq": 285
+        "seq": 287
     }
 ]
