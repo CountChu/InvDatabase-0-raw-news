@@ -2143,12 +2143,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:05",
+        "time": "2026-04-09 23:05",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260409-8863645",
+        "title": "冲突暂歇冲击未退 霍尔木兹海峡受阻波及东南亚",
+        "seq": 239
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:08",
         "time": "2026-04-09 23:08",
         "link": "https://www.zaobao.com.sg/news/sports/story20260408-8863458",
         "title": "蒙特卡洛首吞职涯双蛋 梅德韦杰夫暴怒摔烂球拍",
-        "seq": 239
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:09",
+        "time": "2026-04-09 23:09",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260409-8869437",
+        "title": "马国武装部队总司令访新 与陈振声重申新马防务关系稳固",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:11",
+        "time": "2026-04-09 23:11",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260409-8869833",
+        "title": "众筹244万元费用 患罕见病女婴完成注射治疗",
+        "seq": 242
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:14",
+        "time": "2026-04-09 23:14",
+        "link": "https://www.zaobao.com.sg/news/world/story20260409-8869023",
+        "title": "美军维持地区部署 伊朗称黎巴嫩继续遭袭谈判无意义",
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2193,16 @@
         "time": "2026-04-09 23:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260408-8863486",
         "title": "巴基斯坦称收到美伊停火协议遭违反报告 促各方克制",
-        "seq": 240
+        "seq": 244
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:17",
+        "time": "2026-04-09 23:17",
+        "link": "https://www.zaobao.com.sg/news/world/story20260409-8869851",
+        "title": "默茨：德国重启与伊朗的谈判",
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2211,7 @@
         "time": "2026-04-09 23:33",
         "link": "https://www.zaobao.com.sg/news/sea/story20260407-8855345",
         "title": "最新东南亚态势报告：气候变化是区域最紧迫挑战",
-        "seq": 241
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2220,7 @@
         "time": "2026-04-09 23:35",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260408-8863319",
         "title": "政府带头落实节能措施 号召所有家庭和企业加入全国节能行动",
-        "seq": 242
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2229,7 @@
         "time": "2026-04-09 23:35",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260408-8863319",
         "title": "政府带头节能 号召所有家庭和企业加入全国节能行动",
-        "seq": 243
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2238,7 @@
         "time": "2026-04-09 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260408-8863196",
         "title": "美伊同意停火14天展开谈判 若谈不拢战事或再起",
-        "seq": 244
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2247,7 @@
         "time": "2026-04-09 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260408-8863537",
         "title": "美国载人绕月飞船开始返回地球之旅",
-        "seq": 245
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2211,6 +2256,6 @@
         "time": "2026-04-09 23:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260408-8863454",
         "title": "新航总裁：数码转型有四关键 人工智能加剧网安挑战",
-        "seq": 246
+        "seq": 251
     }
 ]
