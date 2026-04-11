@@ -1675,12 +1675,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:01",
+        "time": "2026-04-11 23:01",
+        "link": "https://www.zaobao.com.sg/news/china/story20260411-8879209",
+        "title": "郑丽文大陆行 中南海“第一女保镖”严月霞随行",
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:06",
         "time": "2026-04-11 23:06",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260410-8875570",
         "title": "我国领导人致函祝贺越南国家主席总理当选",
-        "seq": 187
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1698,34 @@
         "time": "2026-04-11 23:06",
         "link": "https://www.zaobao.com.sg/news/china/story20260410-8875644",
         "title": "王毅平壤会金正恩 学者：北京或为“特金会”事先摸底",
-        "seq": 188
+        "seq": 189
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:06",
+        "time": "2026-04-11 23:06",
+        "link": "https://www.zaobao.com.sg/news/china/story20260411-8878769",
+        "title": "郑丽文：国民党若重返执政 将恢复两岸故宫交流",
+        "seq": 190
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:07",
+        "time": "2026-04-11 23:07",
+        "link": "https://www.zaobao.com.sg/news/world/story20260411-8879191",
+        "title": "伊朗和美国在伊斯兰堡会谈两个小时 专门委员会加入谈判 ",
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:16",
+        "time": "2026-04-11 23:16",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260411-8879009",
+        "title": "东海岸路居民集体记忆获保留 “垂直甘榜”将变身老少咸宜社区空间",
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1734,7 @@
         "time": "2026-04-11 23:17",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260410-8875568",
         "title": "姐妹岛海洋公园今年恢复潜水 陈圣辉：让民众探索并珍视海洋",
-        "seq": 189
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1743,7 @@
         "time": "2026-04-11 23:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260410-8875677",
         "title": "澳洲总理走访裕廊岛能源设施",
-        "seq": 190
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1752,7 @@
         "time": "2026-04-11 23:25",
         "link": "https://www.zaobao.com.sg/news/world/story20260410-8875897",
         "title": "真主党领导人：黎巴嫩政府应停止向以色列“无偿让步”",
-        "seq": 191
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1761,7 @@
         "time": "2026-04-11 23:43",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260410-8875936",
         "title": "巴西班让码头一艘集装箱船起火 灭火工作仍在进行中",
-        "seq": 192
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1770,7 @@
         "time": "2026-04-11 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260410-8875973",
         "title": "伊朗：黎巴嫩停火与解冻资产 是伊美谈判先决条件",
-        "seq": 193
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1743,6 +1779,6 @@
         "time": "2026-04-11 23:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260410-8875932",
         "title": "侧记：郑丽文翻笔记转述国共闭门会议内容",
-        "seq": 194
+        "seq": 198
     }
 ]
