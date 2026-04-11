@@ -1558,12 +1558,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:01",
+        "time": "2026-04-11 22:01",
+        "link": "https://www.zaobao.com.sg/news/china/story20260411-8877558",
+        "title": "中国启动“太空算力专业委员会”成员征集",
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:07",
         "time": "2026-04-11 22:07",
         "link": "https://www.zaobao.com.sg/news/sea/story20260410-8872470",
         "title": "敏昂莱就任缅甸总统 观察家：政治底色未变",
-        "seq": 174
+        "seq": 175
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:07",
+        "time": "2026-04-11 22:07",
+        "link": "https://www.zaobao.com.sg/news/world/story20260411-8879072",
+        "title": "特朗普：美军清理霍尔木兹海峡 伊朗军方否定此说",
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,7 @@
         "time": "2026-04-11 22:08",
         "link": "https://www.zaobao.com.sg/news/china/story20260410-8873547",
         "title": "中国第三大图书馆南京图书馆原副馆长吴政被查",
-        "seq": 175
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1599,7 @@
         "time": "2026-04-11 22:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260410-8875584",
         "title": "美国3月通胀创近四年最大涨幅",
-        "seq": 176
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1608,7 @@
         "time": "2026-04-11 22:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20260410-8875517",
         "title": "WTT太原站：冯耀恩曾尖不敌香港组合止步四强",
-        "seq": 177
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1617,16 @@
         "time": "2026-04-11 22:19",
         "link": "https://www.zaobao.com.sg/news/world/story20260410-8875303",
         "title": "巴基斯坦促成美伊达协议能力遭质疑 分析：中国反而不可或缺",
-        "seq": 178
+        "seq": 180
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:19",
+        "time": "2026-04-11 22:19",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260411-8879082",
+        "title": "伯恩茅斯客场力克阿申纳 英超冠军悬念再起",
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1635,7 @@
         "time": "2026-04-11 22:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260410-8875700",
         "title": "世粮署：黎巴嫩恐面临严重粮食危机",
-        "seq": 179
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1644,7 @@
         "time": "2026-04-11 22:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260410-8875358",
         "title": "我国设经济韧性委员会 助马来回教社群应对挑战把握机会",
-        "seq": 180
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1653,7 @@
         "time": "2026-04-11 22:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260410-8874978",
         "title": "日本外交蓝皮书吁美以与伊停火 对华关系措辞降级",
-        "seq": 181
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1662,7 @@
         "time": "2026-04-11 22:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260410-8875729",
         "title": "餐饮业者Katrina集团 遭审计师质疑持续经营能力",
-        "seq": 182
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1671,7 @@
         "time": "2026-04-11 23:06",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260410-8875570",
         "title": "我国领导人致函祝贺越南国家主席总理当选",
-        "seq": 183
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1680,7 @@
         "time": "2026-04-11 23:06",
         "link": "https://www.zaobao.com.sg/news/china/story20260410-8875644",
         "title": "王毅平壤会金正恩 学者：北京或为“特金会”事先摸底",
-        "seq": 184
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1689,7 @@
         "time": "2026-04-11 23:17",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260410-8875568",
         "title": "姐妹岛海洋公园今年恢复潜水 陈圣辉：让民众探索并珍视海洋",
-        "seq": 185
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1698,7 @@
         "time": "2026-04-11 23:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260410-8875677",
         "title": "澳洲总理走访裕廊岛能源设施",
-        "seq": 186
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1707,7 @@
         "time": "2026-04-11 23:25",
         "link": "https://www.zaobao.com.sg/news/world/story20260410-8875897",
         "title": "真主党领导人：黎巴嫩政府应停止向以色列“无偿让步”",
-        "seq": 187
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1716,7 @@
         "time": "2026-04-11 23:43",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260410-8875936",
         "title": "巴西班让码头一艘集装箱船起火 灭火工作仍在进行中",
-        "seq": 188
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1725,7 @@
         "time": "2026-04-11 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260410-8875973",
         "title": "伊朗：黎巴嫩停火与解冻资产 是伊美谈判先决条件",
-        "seq": 189
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1707,6 +1734,6 @@
         "time": "2026-04-11 23:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260410-8875932",
         "title": "侧记：郑丽文翻笔记转述国共闭门会议内容",
-        "seq": 190
+        "seq": 193
     }
 ]
