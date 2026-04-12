@@ -1838,11 +1838,29 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:24",
+        "time": "2026-04-12 23:24",
+        "link": "https://www.zaobao.com.sg/news/world/story20260412-8882135",
+        "title": "法国男童遭父亲禁锢货车  获救已无法行走",
+        "seq": 205
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:29",
         "time": "2026-04-12 23:29",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8879278",
         "title": "因美国反对 英国无法按计划向毛里求斯移交岛屿主权",
-        "seq": 205
+        "seq": 206
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:35",
+        "time": "2026-04-12 23:35",
+        "link": "https://www.zaobao.com.sg/news/china/story20260412-8882449",
+        "title": "中国大陆发布对台10项措施 赖政府批不应沦为特定政党交易筹码",
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1869,7 @@
         "time": "2026-04-12 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8879342",
         "title": "伊斯兰堡谈判为三方对面会谈 可能延长一天",
-        "seq": 206
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1878,7 @@
         "time": "2026-04-12 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8879342",
         "title": "伊斯兰堡谈判为三方面对面会谈 可能延长一天",
-        "seq": 207
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1869,6 +1887,6 @@
         "time": "2026-04-12 23:54",
         "link": "https://www.zaobao.com.sg/news/sports/story20260411-8879268",
         "title": "三人篮球世界杯资格赛 我国女队力挽狂澜逆转胜巴西",
-        "seq": 208
+        "seq": 210
     }
 ]
