@@ -1738,12 +1738,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:40",
+        "time": "2026-04-12 22:40",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260412-8881281",
+        "title": "【红蚂蚁】“新闻动物”丝毫不少 准备好与动物为邻了吗？",
+        "seq": 194
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:49",
+        "time": "2026-04-12 22:49",
+        "link": "https://www.zaobao.com.sg/news/world/story20260412-8882558",
+        "title": "特朗普称已下令美军即日起对霍尔木兹海峡实施封锁",
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:58",
         "time": "2026-04-12 22:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260410-8875729",
         "title": "餐饮业者Katrina集团 遭审计师质疑持续经营能力",
-        "seq": 194
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1770,7 @@
         "time": "2026-04-12 23:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260411-8879209",
         "title": "郑丽文大陆行 中南海“第一女保镖”严月霞随行",
-        "seq": 195
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1779,7 @@
         "time": "2026-04-12 23:06",
         "link": "https://www.zaobao.com.sg/news/china/story20260411-8878769",
         "title": "郑丽文：国民党若重返执政 将恢复两岸故宫交流",
-        "seq": 196
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1788,7 @@
         "time": "2026-04-12 23:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8879191",
         "title": "伊朗和美国在伊斯兰堡会谈两个小时 专门委员会加入谈判 ",
-        "seq": 197
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1797,7 @@
         "time": "2026-04-12 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260411-8879009",
         "title": "东海岸路居民集体记忆获保留 “垂直甘榜”将变身老少咸宜社区空间",
-        "seq": 198
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1806,7 @@
         "time": "2026-04-12 23:22",
         "link": "https://www.zaobao.com.sg/news/sports/story20260411-8879239",
         "title": "辛纳横扫兹维列夫 职业生涯首闯蒙特卡洛大师赛决赛",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1815,7 @@
         "time": "2026-04-12 23:29",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8879278",
         "title": "因美国反对 英国无法按计划向毛里求斯移交岛屿主权",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-04-12 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8879342",
         "title": "伊斯兰堡谈判为三方对面会谈 可能延长一天",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1833,7 @@
         "time": "2026-04-12 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8879342",
         "title": "伊斯兰堡谈判为三方面对面会谈 可能延长一天",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,6 +1842,6 @@
         "time": "2026-04-12 23:54",
         "link": "https://www.zaobao.com.sg/news/sports/story20260411-8879268",
         "title": "三人篮球世界杯资格赛 我国女队力挽狂澜逆转胜巴西",
-        "seq": 203
+        "seq": 205
     }
 ]
