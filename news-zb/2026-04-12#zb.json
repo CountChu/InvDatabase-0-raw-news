@@ -1495,12 +1495,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "21:00",
+        "time": "2026-04-12 21:00",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260412-8882100",
+        "title": "结束中国男单亚锦赛九年冠军荒 石宇奇重返世界第一",
+        "seq": 167
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "21:01",
         "time": "2026-04-12 21:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260411-8877663",
         "title": "华为高管：华为以一己之力推动辅助驾驶快速发展",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2026-04-12 21:01",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8878694",
         "title": "以黎下周会谈 讨论停火和启动谈判",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1527,7 @@
         "time": "2026-04-12 21:01",
         "link": "https://www.zaobao.com.sg/news/sea/story20260410-8839041",
         "title": "限价限购限补贴 亚细安主要经济体如何应对能源危机？",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1536,43 @@
         "time": "2026-04-12 21:04",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8878908",
         "title": "美媒：数艘美国海军舰船通过霍尔木兹海峡",
-        "seq": 170
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:05",
+        "time": "2026-04-12 21:05",
+        "link": "https://www.zaobao.com.sg/news/china/story20260412-8881153",
+        "title": "陈茂波：香港须牢固树立国家安全观 提升风险防范应变能力",
+        "seq": 172
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:06",
+        "time": "2026-04-12 21:06",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260412-8882251",
+        "title": "谢美丽控股接获法定要求书 涉索偿逾90万元",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:09",
+        "time": "2026-04-12 21:09",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260412-8882025",
+        "title": "逾2000国人仍留中东 外交部：保持密切联系 暂无撤侨计划",
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:17",
+        "time": "2026-04-12 21:17",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260412-8881891",
+        "title": "去年艺术设计和媒体课程大学毕业生 全职就业率降至50%　",
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1581,7 @@
         "time": "2026-04-12 21:21",
         "link": "https://www.zaobao.com.sg/news/sea/story20260410-8874990",
         "title": "高油价冲击亚细安经济 越南泰国首当其冲",
-        "seq": 171
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1590,7 @@
         "time": "2026-04-12 21:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8878764",
         "title": "阿耳忒弥斯2号绕月圆满回返地球 特朗普：下一站火星！",
-        "seq": 172
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1599,7 @@
         "time": "2026-04-12 21:23",
         "link": "https://www.zaobao.com.sg/news/sports/story20260411-8878911",
         "title": "WTT太原站：新加坡队虽有亮点 世乒赛前仍需磨砺",
-        "seq": 173
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1608,7 @@
         "time": "2026-04-12 21:30",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260410-8872559",
         "title": "分析：伊朗战争扩大概率为30% AI投资不会中止",
-        "seq": 174
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1617,7 @@
         "time": "2026-04-12 21:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260411-8878264",
         "title": "特稿：习郑会民族叙事前置 北京柔性论述重塑对台框架",
-        "seq": 175
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1626,7 @@
         "time": "2026-04-12 21:40",
         "link": "https://www.zaobao.com.sg/news/china/story20260411-8879011",
         "title": "豆包被指成深伪色情影像生成器 引发女性数字性暴力犯滥",
-        "seq": 176
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1635,7 @@
         "time": "2026-04-12 22:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260411-8877558",
         "title": "中国启动“太空算力专业委员会”成员征集",
-        "seq": 177
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1644,7 @@
         "time": "2026-04-12 22:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8879072",
         "title": "特朗普：美军清理霍尔木兹海峡 伊朗军方否定此说",
-        "seq": 178
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1653,7 @@
         "time": "2026-04-12 22:07",
         "link": "https://www.zaobao.com.sg/news/sea/story20260410-8872470",
         "title": "敏昂莱就任缅甸总统 观察家：政治底色未变",
-        "seq": 179
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1662,7 @@
         "time": "2026-04-12 22:19",
         "link": "https://www.zaobao.com.sg/news/sports/story20260411-8879082",
         "title": "伯恩茅斯客场力克阿申纳 英超冠军悬念再起",
-        "seq": 180
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1671,7 @@
         "time": "2026-04-12 22:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260410-8875729",
         "title": "餐饮业者Katrina集团 遭审计师质疑持续经营能力",
-        "seq": 181
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1680,7 @@
         "time": "2026-04-12 23:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260411-8879209",
         "title": "郑丽文大陆行 中南海“第一女保镖”严月霞随行",
-        "seq": 182
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1689,7 @@
         "time": "2026-04-12 23:06",
         "link": "https://www.zaobao.com.sg/news/china/story20260411-8878769",
         "title": "郑丽文：国民党若重返执政 将恢复两岸故宫交流",
-        "seq": 183
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1698,7 @@
         "time": "2026-04-12 23:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8879191",
         "title": "伊朗和美国在伊斯兰堡会谈两个小时 专门委员会加入谈判 ",
-        "seq": 184
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1707,7 @@
         "time": "2026-04-12 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260411-8879009",
         "title": "东海岸路居民集体记忆获保留 “垂直甘榜”将变身老少咸宜社区空间",
-        "seq": 185
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1716,7 @@
         "time": "2026-04-12 23:22",
         "link": "https://www.zaobao.com.sg/news/sports/story20260411-8879239",
         "title": "辛纳横扫兹维列夫 职业生涯首闯蒙特卡洛大师赛决赛",
-        "seq": 186
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1725,7 @@
         "time": "2026-04-12 23:29",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8879278",
         "title": "因美国反对 英国无法按计划向毛里求斯移交岛屿主权",
-        "seq": 187
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1734,7 @@
         "time": "2026-04-12 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8879342",
         "title": "伊斯兰堡谈判为三方对面会谈 可能延长一天",
-        "seq": 188
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1743,7 @@
         "time": "2026-04-12 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260411-8879342",
         "title": "伊斯兰堡谈判为三方面对面会谈 可能延长一天",
-        "seq": 189
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1707,6 +1752,6 @@
         "time": "2026-04-12 23:54",
         "link": "https://www.zaobao.com.sg/news/sports/story20260411-8879268",
         "title": "三人篮球世界杯资格赛 我国女队力挽狂澜逆转胜巴西",
-        "seq": 190
+        "seq": 195
     }
 ]
