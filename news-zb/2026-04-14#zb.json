@@ -2143,12 +2143,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:06",
+        "time": "2026-04-14 23:06",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260414-8893850",
+        "title": "能源危机中展开大国外交 普拉博沃访俄寻求战略突破",
+        "seq": 239
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:12",
+        "time": "2026-04-14 23:12",
+        "link": "https://www.zaobao.com.sg/news/world/story20260414-8894084",
+        "title": "美财长：中东战争期间中国囤油限出口 “并非可靠伙伴”  ",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:13",
+        "time": "2026-04-14 23:13",
+        "link": "https://www.zaobao.com.sg/news/china/story20260414-8894096",
+        "title": "特朗普儿子将陪同父亲访问中国",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:17",
         "time": "2026-04-14 23:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260413-8888134",
         "title": "美媒：美伊谈判大门尚未关闭 双方仍在讨价还价",
-        "seq": 239
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2184,7 @@
         "time": "2026-04-14 23:23",
         "link": "https://www.zaobao.com.sg/finance/world/story20260413-8887728",
         "title": "标普：中东战事延烧将拖累亚太科技硬件供需",
-        "seq": 240
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2193,7 @@
         "time": "2026-04-14 23:42",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260413-8887987",
         "title": "入伍青年对健康分级更新喜忧参半 家长关注评估与安全",
-        "seq": 241
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2202,7 @@
         "time": "2026-04-14 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260413-8887670",
         "title": "美军开始海上封锁 伊朗斥海盗行径",
-        "seq": 242
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2184,6 +2211,6 @@
         "time": "2026-04-14 23:53",
         "link": "https://www.zaobao.com.sg/news/china/story20260413-8888184",
         "title": "美封锁霍尔木兹海峡 料冲击伊朗对中国供油",
-        "seq": 243
+        "seq": 246
     }
 ]
