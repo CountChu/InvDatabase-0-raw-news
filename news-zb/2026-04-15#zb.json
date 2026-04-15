@@ -1693,12 +1693,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:21",
+        "time": "2026-04-15 21:21",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260415-8899653",
+        "title": "马国超过20万公务员开始居家办公节省燃油",
+        "seq": 189
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "21:23",
         "time": "2026-04-15 21:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260414-8891590",
         "title": "【红蚂蚁】不收现金还是只收现金 这是个问题吗？",
-        "seq": 189
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1716,16 @@
         "time": "2026-04-15 21:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260414-8893703",
         "title": "亲国际首次公开售股 每股售价0.23元",
-        "seq": 190
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:28",
+        "time": "2026-04-15 21:28",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260415-8899651",
+        "title": "为年长病患按摩修指甲等 陈笃生医院温柔护理暖人心",
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1734,43 @@
         "time": "2026-04-15 21:29",
         "link": "https://www.zaobao.com.sg/news/sea/story20260414-8893740",
         "title": "杜特尔特家族跑腿作证：1.25亿机密资金24小时内耗尽",
-        "seq": 191
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:30",
+        "time": "2026-04-15 21:30",
+        "link": "https://www.zaobao.com.sg/news/world/story20260415-8899801",
+        "title": "欧洲正制定战后计划 绕过美国重开霍尔木兹海峡",
+        "seq": 194
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:33",
+        "time": "2026-04-15 21:33",
+        "link": "https://www.zaobao.com.sg/news/world/story20260415-8900466",
+        "title": "美伊官方尚未证实双方同意延长停火 ",
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:35",
+        "time": "2026-04-15 21:35",
+        "link": "https://www.zaobao.com.sg/news/china/story20260415-8899370",
+        "title": "中国副外长孙卫东被免职 分析称料转任中央国安办常务副主任",
+        "seq": 196
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:39",
+        "time": "2026-04-15 21:39",
+        "link": "https://www.zaobao.com.sg/news/world/story20260415-8900204",
+        "title": "为施加最大经济压力 美国不延长伊朗石油制裁暂免令",
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1779,7 @@
         "time": "2026-04-15 21:40",
         "link": "https://www.zaobao.com.sg/news/sports/story20260414-8893762",
         "title": "巴塞罗那投诉欧冠八强首回合判罚 被欧足联驳回",
-        "seq": 192
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1788,7 @@
         "time": "2026-04-15 21:42",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260414-8860908",
         "title": "SpaceX等中美巨无霸IPO登场 新加坡能分杯羹？",
-        "seq": 193
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1797,7 @@
         "time": "2026-04-15 21:46",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260414-8893803",
         "title": "新加坡3月份船用燃料销量增长 但油价飙升限制涨幅",
-        "seq": 194
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1806,7 @@
         "time": "2026-04-15 21:47",
         "link": "https://www.zaobao.com.sg/news/sea/story20260413-8887915",
         "title": "阿尔巴尼斯密集出访强化邻里纽带 确保燃油供应安全",
-        "seq": 195
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1815,7 @@
         "time": "2026-04-15 21:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260414-8893727",
         "title": "陈振声陈诗龙走访裕廊岩洞 地下储油库助力长期能源规划",
-        "seq": 196
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1824,7 @@
         "time": "2026-04-15 21:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260414-8893834",
         "title": "IMF下调2026年世界经济增长预测",
-        "seq": 197
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1833,7 @@
         "time": "2026-04-15 21:59",
         "link": "https://www.zaobao.com.sg/news/china/story20260414-8892805",
         "title": "下午察：台湾知名电视台TVBS要卖了？",
-        "seq": 198
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1842,7 @@
         "time": "2026-04-15 22:00",
         "link": "https://www.zaobao.com.sg/news/world/story20260414-8893711",
         "title": "日本首相高市倡议一年内修宪引争议 ",
-        "seq": 199
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1851,7 @@
         "time": "2026-04-15 22:04",
         "link": "https://www.zaobao.com.sg/news/sports/story20260414-8893851",
         "title": "赖斯缺席公开训练 炮兵欧冠再战葡萄牙体育增忧",
-        "seq": 200
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1860,7 @@
         "time": "2026-04-15 22:11",
         "link": "https://www.zaobao.com.sg/news/china/story20260414-8890552",
         "title": "中国艺术家首次赢得国际安徒生奖插画家奖",
-        "seq": 201
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1869,7 @@
         "time": "2026-04-15 22:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260414-8893869",
         "title": "扬子江海事签订船舶租赁协议 合同总值8980万美元",
-        "seq": 202
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1878,7 @@
         "time": "2026-04-15 22:16",
         "link": "https://www.zaobao.com.sg/finance/china/story20260414-8892986",
         "title": "中国进口在中东冲突首月超预期增长 出口大幅放缓",
-        "seq": 203
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1887,7 @@
         "time": "2026-04-15 22:23",
         "link": "https://www.zaobao.com.sg/news/world/story20260414-8893872",
         "title": "泽连斯基：遭俄军袭击受损输油管 本月底前可恢复运作",
-        "seq": 204
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1896,7 @@
         "time": "2026-04-15 22:27",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260414-8893616",
         "title": "海外及私立大学毕业生“高学历低就”比率高于公立大学",
-        "seq": 205
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1905,7 @@
         "time": "2026-04-15 22:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260414-8893829",
         "title": "三成公共工程因油价飙升延误 马政府加快拨款协助承包商",
-        "seq": 206
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1914,7 @@
         "time": "2026-04-15 22:40",
         "link": "https://www.zaobao.com.sg/news/sea/story20260413-8888052",
         "title": "能源短缺压力沉重 菲印等促美延长俄油制裁豁免",
-        "seq": 207
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1923,7 @@
         "time": "2026-04-15 22:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260414-8894031",
         "title": "意大利总理：暂停续签与以色列的防务协议",
-        "seq": 208
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1932,7 @@
         "time": "2026-04-15 22:47",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260414-8892720",
         "title": "中东能源危机冲击新加坡经济 石油与化工行业首当其冲",
-        "seq": 209
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1941,7 @@
         "time": "2026-04-15 22:50",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260414-8890900",
         "title": "高学历“低就”者占整体居民劳动力19.4% 九成出于自愿",
-        "seq": 210
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1950,7 @@
         "time": "2026-04-15 22:52",
         "link": "https://www.zaobao.com.sg/news/sports/story20260414-8893978",
         "title": "击败阿申纳后宣布离队 主帅伊拉奥拉赛季末告别伯恩茅斯",
-        "seq": 211
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1959,7 @@
         "time": "2026-04-15 22:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260414-8893472",
         "title": "职总调查：学历或技能高于工作要求 皆属就业不足",
-        "seq": 212
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1968,7 @@
         "time": "2026-04-15 23:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20260414-8893850",
         "title": "能源危机中展开大国外交 普拉博沃访俄寻求战略突破",
-        "seq": 213
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1977,7 @@
         "time": "2026-04-15 23:12",
         "link": "https://www.zaobao.com.sg/news/world/story20260414-8894084",
         "title": "美财长：中东战争期间中国囤油限出口 “并非可靠伙伴”  ",
-        "seq": 214
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1986,7 @@
         "time": "2026-04-15 23:13",
         "link": "https://www.zaobao.com.sg/news/china/story20260414-8894096",
         "title": "特朗普儿子将陪同父亲访问中国",
-        "seq": 215
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1995,7 @@
         "time": "2026-04-15 23:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260414-8894146",
         "title": "王毅：中俄关系不畏浮云遮望眼",
-        "seq": 216
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1950,7 +2004,7 @@
         "time": "2026-04-15 23:36",
         "link": "https://www.zaobao.com.sg/news/world/story20260414-8894108",
         "title": "以黎代表在华盛顿举行会谈 17国外长吁以黎“把握机会” ",
-        "seq": 217
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1959,7 +2013,7 @@
         "time": "2026-04-15 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260414-8893822",
         "title": "称伊朗来电望达成协议  特朗普：核问题是阻碍谈判症结",
-        "seq": 218
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2022,7 @@
         "time": "2026-04-15 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260414-8893822",
         "title": "称伊朗来电望达成协议 特朗普：核问题是阻碍谈判症结",
-        "seq": 219
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2031,7 @@
         "time": "2026-04-15 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260414-8894150",
         "title": "特朗普：美伊谈判或未来两天于巴基斯坦重启",
-        "seq": 220
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -1986,6 +2040,6 @@
         "time": "2026-04-15 23:57",
         "link": "https://www.zaobao.com.sg/news/china/story20260414-8893847",
         "title": "阿联酋、俄罗斯、西班牙、越南高层同步访华为哪般？",
-        "seq": 221
+        "seq": 227
     }
 ]
