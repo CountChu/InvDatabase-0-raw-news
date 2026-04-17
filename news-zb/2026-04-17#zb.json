@@ -2116,12 +2116,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:01",
+        "time": "2026-04-17 23:01",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260417-8912405",
+        "title": "燃油成本上涨 教育部促学校合理考虑校外包车服务加价请求",
+        "seq": 236
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:02",
         "time": "2026-04-17 23:02",
         "link": "https://www.zaobao.com.sg/news/world/story20260416-8906292",
         "title": "白宫对达成协议表乐观 据报美伊已就核问题缩小分歧",
-        "seq": 236
+        "seq": 237
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:04",
+        "time": "2026-04-17 23:04",
+        "link": "https://www.zaobao.com.sg/news/world/story20260417-8913083",
+        "title": "应对霍尔木兹海峡封锁 欧洲国家主导部署多国防御部队",
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2148,25 @@
         "time": "2026-04-17 23:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260416-8907130",
         "title": "美军扩大对伊朗封锁范围 将对违令船只动武",
-        "seq": 237
+        "seq": 239
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:07",
+        "time": "2026-04-17 23:07",
+        "link": "https://www.zaobao.com.sg/news/china/story20260417-8913101",
+        "title": "基隆籍渔船失火沉没 台海巡持续搜救失联台籍船长",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:09",
+        "time": "2026-04-17 23:09",
+        "link": "https://www.zaobao.com.sg/news/world/story20260417-8912021",
+        "title": "以黎10天停火生效 内坦亚胡：解除真主党武装仍是先决条件",
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2175,7 @@
         "time": "2026-04-17 23:10",
         "link": "https://www.zaobao.com.sg/news/china/story20260416-8906962",
         "title": "苏林四天内两搭中国高铁历时12小时创纪录 释政治信号",
-        "seq": 238
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2184,7 @@
         "time": "2026-04-17 23:21",
         "link": "https://www.zaobao.com.sg/news/world/story20260416-8906064",
         "title": "特朗普称以黎将对话 黎巴嫩总统拒绝谈判要求先停火",
-        "seq": 239
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2193,7 @@
         "time": "2026-04-17 23:24",
         "link": "https://www.zaobao.com.sg/news/sea/story20260416-8901200",
         "title": "印尼民调：公众对普拉博沃内阁部长满意度达七成",
-        "seq": 240
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2202,7 @@
         "time": "2026-04-17 23:28",
         "link": "https://www.zaobao.com.sg/news/world/story20260416-8907271",
         "title": "特朗普政府对伊朗战争花费三缄其口 共和党人开始不安",
-        "seq": 241
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2211,7 @@
         "time": "2026-04-17 23:36",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260416-8906750",
         "title": "继阿尔巴尼斯访新后 澳洲两部长接力来访深化合作",
-        "seq": 242
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2220,7 @@
         "time": "2026-04-17 23:40",
         "link": "https://www.zaobao.com.sg/news/sports/story20260416-8907251",
         "title": "东南亚青少年乒乓球锦标赛 新加坡包揽U19男女团冠军",
-        "seq": 243
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2229,7 @@
         "time": "2026-04-17 23:43",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260416-8907072",
         "title": "彭博社涉诽谤案 5月22日进行结案陈词",
-        "seq": 244
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2238,7 @@
         "time": "2026-04-17 23:54",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260416-8903131",
         "title": "本地大学毕业生就业最看重薪资 逾三成因薪水低拒绝入职",
-        "seq": 245
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2211,6 +2247,6 @@
         "time": "2026-04-17 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260416-8907314",
         "title": "黎巴嫩总统与特朗普通电话 黎以停火或即将宣布",
-        "seq": 246
+        "seq": 250
     }
 ]
