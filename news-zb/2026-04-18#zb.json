@@ -1810,12 +1810,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:54",
+        "time": "2026-04-18 22:54",
+        "link": "https://www.zaobao.com.sg/news/world/story20260418-8916302",
+        "title": "重开不到24小时 伊朗再锁霍尔木兹海峡并向商船开火",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:57",
         "time": "2026-04-18 22:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260417-8912827",
         "title": "租约到期女皇镇校址拟发展住宅 私立学府MDIS明年迁到樟宜路",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,7 @@
         "time": "2026-04-18 23:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260417-8912405",
         "title": "燃油成本上涨 教育部促学校合理考虑校外包车服务加价请求",
-        "seq": 203
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1842,7 @@
         "time": "2026-04-18 23:04",
         "link": "https://www.zaobao.com.sg/news/world/story20260417-8913083",
         "title": "应对霍尔木兹海峡封锁 欧洲国家主导部署多国防御部队",
-        "seq": 204
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1851,7 @@
         "time": "2026-04-18 23:07",
         "link": "https://www.zaobao.com.sg/news/china/story20260417-8913101",
         "title": "基隆籍渔船失火沉没 台海巡持续搜救失联台籍船长",
-        "seq": 205
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1860,7 @@
         "time": "2026-04-18 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260417-8912021",
         "title": "以黎停火生效 内坦亚胡：解除真主党武装仍是达成和平协议前提",
-        "seq": 206
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1869,7 @@
         "time": "2026-04-18 23:20",
         "link": "https://www.zaobao.com.sg/finance/world/story20260417-8910767",
         "title": "周五美市盘前小幅走高 Netflix盘前跌逾10%成焦点",
-        "seq": 207
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1878,7 @@
         "time": "2026-04-18 23:22",
         "link": "https://www.zaobao.com.sg/news/sports/story20260417-8912680",
         "title": "路易斯接力赛再收一银 望共运亚运破个人纪录夺牌",
-        "seq": 208
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1887,7 @@
         "time": "2026-04-18 23:24",
         "link": "https://www.zaobao.com.sg/news/china/story20260417-8912526",
         "title": "中越视铁路为战略合作新亮点 北京承诺提供贷款技术",
-        "seq": 209
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1896,7 @@
         "time": "2026-04-18 23:30",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260417-8912975",
         "title": "新海逸集团以8.8亿元买下乐洋村项目",
-        "seq": 210
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1905,7 @@
         "time": "2026-04-18 23:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260417-8913129",
         "title": "特朗普：美国助伊朗在霍尔木兹海峡扫雷 但封锁仍持续",
-        "seq": 211
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1914,7 @@
         "time": "2026-04-18 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260417-8913199",
         "title": "特朗普：禁以色列轰炸黎巴嫩 内坦亚胡：军事任务尚未结束",
-        "seq": 212
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1914,6 +1923,6 @@
         "time": "2026-04-18 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260417-8912649",
         "title": "中东局势动荡牵动 日本考虑加强太平洋防御  ",
-        "seq": 213
+        "seq": 214
     }
 ]
