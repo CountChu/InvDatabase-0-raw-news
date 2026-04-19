@@ -1702,12 +1702,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:30",
+        "time": "2026-04-19 22:30",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260419-8917338",
+        "title": "“请勿喂鸽”太生硬？碧山创意横幅用诗句劝居民勿喂鸽",
+        "seq": 190
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:35",
         "time": "2026-04-19 22:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260418-8916369",
         "title": "特朗普：伊朗不能以霍尔木兹海峡“要挟”美国",
-        "seq": 190
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:39",
+        "time": "2026-04-19 22:39",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260419-8919612",
+        "title": "中国业务表现欠佳 莱佛士医疗：需更多时间创造强劲回报",
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1734,7 @@
         "time": "2026-04-19 22:54",
         "link": "https://www.zaobao.com.sg/news/world/story20260418-8916302",
         "title": "重开不到24小时 伊朗再锁霍尔木兹海峡并向商船开火",
-        "seq": 191
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1743,7 @@
         "time": "2026-04-19 23:00",
         "link": "https://www.zaobao.com.sg/news/china/story20260418-8916425",
         "title": "四川商户公厕内冲洗冷冻肉被令停业整顿",
-        "seq": 192
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1752,7 @@
         "time": "2026-04-19 23:13",
         "link": "https://www.zaobao.com.sg/news/sports/story20260418-8916367",
         "title": "东南亚青少年乒乓球锦标赛 我国兄妹档收获混双亚军",
-        "seq": 193
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1761,7 @@
         "time": "2026-04-19 23:20",
         "link": "https://www.zaobao.com.sg/finance/world/story20260417-8910767",
         "title": "周五美市盘前小幅走高 Netflix盘前跌逾10%成焦点",
-        "seq": 194
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1770,7 @@
         "time": "2026-04-19 23:30",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260417-8912975",
         "title": "新海逸集团以8.8亿元买下乐洋村项目",
-        "seq": 195
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1779,7 @@
         "time": "2026-04-19 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260418-8916503",
         "title": "基辅发生枪击案 数人死亡",
-        "seq": 196
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1788,7 @@
         "time": "2026-04-19 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260418-8916290",
         "title": "特朗普称美伊即将达成协议 伊朗否认斥“废话多”",
-        "seq": 197
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1779,6 +1797,6 @@
         "time": "2026-04-19 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260418-8916523",
         "title": "美媒：美军准备数日内登船 检查并扣押与伊朗相关船只",
-        "seq": 198
+        "seq": 200
     }
 ]
