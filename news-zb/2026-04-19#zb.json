@@ -1811,11 +1811,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:31",
+        "time": "2026-04-19 23:31",
+        "link": "https://www.zaobao.com.sg/news/world/story20260419-8918002",
+        "title": "研究：腰围身高比优于BMI 更能预测高血压风险",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:34",
         "time": "2026-04-19 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260418-8916503",
         "title": "基辅发生枪击案 数人死亡",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,7 @@
         "time": "2026-04-19 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260418-8916290",
         "title": "特朗普称美伊即将达成协议 伊朗否认斥“废话多”",
-        "seq": 203
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1833,6 +1842,6 @@
         "time": "2026-04-19 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260418-8916523",
         "title": "美媒：美军准备数日内登船 检查并扣押与伊朗相关船只",
-        "seq": 204
+        "seq": 205
     }
 ]
