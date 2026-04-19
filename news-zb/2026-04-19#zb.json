@@ -1765,12 +1765,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:06",
+        "time": "2026-04-19 23:06",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260419-8919729",
+        "title": "逃亡九日 马移民局逮巴基斯坦籍性侵儿童逃犯",
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:13",
         "time": "2026-04-19 23:13",
         "link": "https://www.zaobao.com.sg/news/sports/story20260418-8916367",
         "title": "东南亚青少年乒乓球锦标赛 我国兄妹档收获混双亚军",
-        "seq": 197
+        "seq": 198
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:17",
+        "time": "2026-04-19 23:17",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260419-8919706",
+        "title": "渐进式加薪补贴减少 亮星控股：盈利放缓但影响不显著",
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1797,7 @@
         "time": "2026-04-19 23:20",
         "link": "https://www.zaobao.com.sg/finance/world/story20260417-8910767",
         "title": "周五美市盘前小幅走高 Netflix盘前跌逾10%成焦点",
-        "seq": 198
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1806,7 @@
         "time": "2026-04-19 23:30",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260417-8912975",
         "title": "新海逸集团以8.8亿元买下乐洋村项目",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1815,7 @@
         "time": "2026-04-19 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260418-8916503",
         "title": "基辅发生枪击案 数人死亡",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-04-19 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260418-8916290",
         "title": "特朗普称美伊即将达成协议 伊朗否认斥“废话多”",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,6 +1833,6 @@
         "time": "2026-04-19 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260418-8916523",
         "title": "美媒：美军准备数日内登船 检查并扣押与伊朗相关船只",
-        "seq": 202
+        "seq": 204
     }
 ]
