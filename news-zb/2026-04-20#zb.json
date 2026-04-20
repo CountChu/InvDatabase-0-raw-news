@@ -2260,12 +2260,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:50",
+        "time": "2026-04-20 22:50",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260420-8925410",
+        "title": "新加坡40岁及以上女性居民 生育率过去20年上升",
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:52",
+        "time": "2026-04-20 22:52",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260420-8924122",
+        "title": "森州爆发罕见王室宪政风波 四酋长“罢免”统治者不获州政府承认",
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:56",
         "time": "2026-04-20 22:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260419-8918077",
         "title": "1200年的春日接力：日本千年樱花数据库迎来新掌门",
-        "seq": 252
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:59",
+        "time": "2026-04-20 22:59",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260420-8925497",
+        "title": "泰国保龄球公开赛 新加坡球员高手赛两银牌收官",
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2301,7 @@
         "time": "2026-04-20 23:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20260419-8919729",
         "title": "逃亡九日 马移民局逮巴基斯坦籍性侵儿童逃犯",
-        "seq": 253
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2310,7 @@
         "time": "2026-04-20 23:17",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260419-8919706",
         "title": "渐进式加薪补贴减少 亮星控股：盈利放缓但影响不显著",
-        "seq": 254
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2319,7 @@
         "time": "2026-04-20 23:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260419-8918002",
         "title": "研究：腰围身高比优于BMI 更能预测高血压风险",
-        "seq": 255
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2328,7 @@
         "time": "2026-04-20 23:51",
         "link": "https://www.zaobao.com.sg/news/sports/story20260419-8919652",
         "title": "一度领跑纽北耐力赛资格赛 费斯塔彭赛车受损无缘夺冠",
-        "seq": 256
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2310,6 +2337,6 @@
         "time": "2026-04-20 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260419-8919702",
         "title": "特朗普称美伊周二再谈判 德黑兰未决定是否参加 ",
-        "seq": 257
+        "seq": 260
     }
 ]
