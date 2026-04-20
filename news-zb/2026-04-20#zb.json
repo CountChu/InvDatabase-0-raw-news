@@ -2296,12 +2296,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:00",
+        "time": "2026-04-20 23:00",
+        "link": "https://www.zaobao.com.sg/news/world/story20260420-8925708",
+        "title": "特朗普：以色列并未说服他攻击伊朗",
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:06",
         "time": "2026-04-20 23:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20260419-8919729",
         "title": "逃亡九日 马移民局逮巴基斯坦籍性侵儿童逃犯",
-        "seq": 256
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:15",
+        "time": "2026-04-20 23:15",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260420-8925562",
+        "title": "泰政府拟增加举债近200亿元应对经济压力",
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2328,7 @@
         "time": "2026-04-20 23:17",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260419-8919706",
         "title": "渐进式加薪补贴减少 亮星控股：盈利放缓但影响不显著",
-        "seq": 257
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2337,7 @@
         "time": "2026-04-20 23:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260419-8918002",
         "title": "研究：腰围身高比优于BMI 更能预测高血压风险",
-        "seq": 258
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2346,7 @@
         "time": "2026-04-20 23:51",
         "link": "https://www.zaobao.com.sg/news/sports/story20260419-8919652",
         "title": "一度领跑纽北耐力赛资格赛 费斯塔彭赛车受损无缘夺冠",
-        "seq": 259
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2337,6 +2355,6 @@
         "time": "2026-04-20 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260419-8919702",
         "title": "特朗普称美伊周二再谈判 德黑兰未决定是否参加 ",
-        "seq": 260
+        "seq": 262
     }
 ]
