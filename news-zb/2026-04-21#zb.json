@@ -2395,12 +2395,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:28",
+        "time": "2026-04-21 23:28",
+        "link": "https://www.zaobao.com.sg/news/world/story20260421-8931075",
+        "title": "瑞典研究：严重不育男性患结直肠癌风险更高",
+        "seq": 267
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:32",
+        "time": "2026-04-21 23:32",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260421-8930832",
+        "title": "真空机内藏逾千条漏税香烟 41岁马国男子被捕",
+        "seq": 268
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:36",
         "time": "2026-04-21 23:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260420-8925661",
         "title": "中国补强“反长臂管辖”法规  学者分析中美法治化博弈新常态",
-        "seq": 267
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2409,7 +2427,16 @@
         "time": "2026-04-21 23:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260420-8925784",
         "title": "驻美大使卷入爱泼斯坦案 英国首相斯塔默承认不应任命他",
-        "seq": 268
+        "seq": 270
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:37",
+        "time": "2026-04-21 23:37",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260421-8931604",
+        "title": "涉充当钱骡 15岁马国少年将被控",
+        "seq": 271
     },
     {
         "media": "聯合早報",
@@ -2418,7 +2445,7 @@
         "time": "2026-04-21 23:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260420-8925781",
         "title": "黄循财总理与安华通话 讨论中东局势最新进展",
-        "seq": 269
+        "seq": 272
     },
     {
         "media": "聯合早報",
@@ -2427,6 +2454,6 @@
         "time": "2026-04-21 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260420-8925834",
         "title": "伊朗总统：对美国存在“根深蒂固的不信任”",
-        "seq": 270
+        "seq": 273
     }
 ]
