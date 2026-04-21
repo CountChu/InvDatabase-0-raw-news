@@ -2351,11 +2351,29 @@
     {
         "media": "聯合早報",
         "category": "东南亚",
+        "timeText": "23:00",
+        "time": "2026-04-21 23:00",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260421-8931532",
+        "title": "森州宫廷风波传将延烧至州议会 警方警告民众勿妄议",
+        "seq": 262
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
         "timeText": "23:06",
         "time": "2026-04-21 23:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20260419-8919729",
         "title": "逃亡九日 马移民局逮巴基斯坦籍性侵儿童逃犯",
-        "seq": 262
+        "seq": 263
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:12",
+        "time": "2026-04-21 23:12",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260421-8931307",
+        "title": "意警方捣毁米兰卖淫组织 客户包括意甲球员和F1车手",
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2382,16 @@
         "time": "2026-04-21 23:15",
         "link": "https://www.zaobao.com.sg/news/sea/story20260420-8925562",
         "title": "泰政府拟增加举债近200亿元应对经济压力",
-        "seq": 263
+        "seq": 265
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:16",
+        "time": "2026-04-21 23:16",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260421-8931700",
+        "title": "部长否认1998年排华暴乱强暴事件 印尼法院驳回民间起诉",
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2400,7 @@
         "time": "2026-04-21 23:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260420-8925661",
         "title": "中国补强“反长臂管辖”法规  学者分析中美法治化博弈新常态",
-        "seq": 264
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2409,7 @@
         "time": "2026-04-21 23:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260420-8925784",
         "title": "驻美大使卷入爱泼斯坦案 英国首相斯塔默承认不应任命他",
-        "seq": 265
+        "seq": 268
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2418,7 @@
         "time": "2026-04-21 23:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260420-8925781",
         "title": "黄循财总理与安华通话 讨论中东局势最新进展",
-        "seq": 266
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2400,6 +2427,6 @@
         "time": "2026-04-21 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260420-8925834",
         "title": "伊朗总统：对美国存在“根深蒂固的不信任”",
-        "seq": 267
+        "seq": 270
     }
 ]
