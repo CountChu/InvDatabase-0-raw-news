@@ -541,12 +541,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:40",
+        "time": "2026-04-24 23:40",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260423-8942444",
+        "title": "假新闻网站伪装权威潜伏 专家：境外势力在关键时刻或分裂我国",
+        "seq": 61
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:47",
         "time": "2026-04-24 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260423-8943219",
         "title": "霍尔木兹海峡封锁战加剧  伊朗首次扣押商船 美称完全控制海峡",
-        "seq": 61
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -555,7 +564,7 @@
         "time": "2026-04-24 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260423-8943959",
         "title": "昇菘集团股东提问800万元董事薪酬和中东冲突风险",
-        "seq": 62
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -564,6 +573,6 @@
         "time": "2026-04-24 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260423-8943981",
         "title": "欧元区私营部门商业活动意外萎缩 服务业大幅下滑",
-        "seq": 63
+        "seq": 64
     }
 ]
