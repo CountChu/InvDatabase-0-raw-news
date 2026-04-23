@@ -2152,12 +2152,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:04",
+        "time": "2026-04-23 23:04",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260423-8943716",
+        "title": "奕丰集团首季净利同比大增47.3%至2805万元 宣布1000亿元行政管理资产规模目标",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:08",
+        "time": "2026-04-23 23:08",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260423-8943862",
+        "title": "泰国将废除与柬埔寨的海域备忘录",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:14",
         "time": "2026-04-23 23:14",
         "link": "https://www.zaobao.com.sg/news/world/story20260422-8937653",
         "title": "韩飞行员开战机空中拍照致撞机 被罚逾7万元",
-        "seq": 240
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2166,6 +2184,6 @@
         "time": "2026-04-23 23:36",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260422-8937683",
         "title": "凯德综合商业信托推动增长 持续寻求买卖房地产机会",
-        "seq": 241
+        "seq": 243
     }
 ]
