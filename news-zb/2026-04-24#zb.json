@@ -2008,12 +2008,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:21",
+        "time": "2026-04-24 22:21",
+        "link": "https://www.zaobao.com.sg/news/china/story20260424-8949688",
+        "title": "中国今起取消制裁欧盟两家银行",
+        "seq": 224
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:22",
         "time": "2026-04-24 22:22",
         "link": "https://www.zaobao.com.sg/news/sports/story20260423-8943546",
         "title": "亚马尔赛季报销 预计可参加世界杯",
-        "seq": 224
+        "seq": 225
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:22",
+        "time": "2026-04-24 22:22",
+        "link": "https://www.zaobao.com.sg/news/world/story20260424-8949677",
+        "title": "瑞士将逐步重新开放驻伊朗使馆",
+        "seq": 226
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:25",
+        "time": "2026-04-24 22:25",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260424-8948210",
+        "title": "尚穆根：美伊双方或避免战事升级 但和平基础仍脆弱",
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2049,43 @@
         "time": "2026-04-24 22:27",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260423-8942655",
         "title": "好超市疑关闭多家店铺 财报显示连续三年亏损",
-        "seq": 225
+        "seq": 228
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:27",
+        "time": "2026-04-24 22:27",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260424-8949382",
+        "title": "义顺组屋底层聚会点疑遭投诉被清空 老街坊失落",
+        "seq": 229
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:28",
+        "time": "2026-04-24 22:28",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260424-8949295",
+        "title": "东南亚网诈团伙工具升级 网侵技术门槛大降",
+        "seq": 230
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:29",
+        "time": "2026-04-24 22:29",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260424-8949570",
+        "title": "DeepSeek新AI模型适配华为晶片 与美顶尖模型仍有差距",
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:36",
+        "time": "2026-04-24 22:36",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260424-8949564",
+        "title": "梦幻郁金香 花香与艺术气息满花穹",
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2094,7 @@
         "time": "2026-04-24 22:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260423-8943771",
         "title": "伊朗消息：谈判准备工作“今晚或明天”或取得突破",
-        "seq": 226
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2103,7 @@
         "time": "2026-04-24 22:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260423-8943428",
         "title": "莱坊：亚太地区财富激增 我国亿万富翁五年人数翻倍",
-        "seq": 227
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2112,7 @@
         "time": "2026-04-24 23:04",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260423-8943716",
         "title": "奕丰集团首季净利同比大增47.3%至2805万元 宣布1000亿元行政管理资产规模目标",
-        "seq": 228
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2121,7 @@
         "time": "2026-04-24 23:08",
         "link": "https://www.zaobao.com.sg/news/sea/story20260423-8943862",
         "title": "泰国将废除与柬埔寨的海域备忘录",
-        "seq": 229
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2130,7 @@
         "time": "2026-04-24 23:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260423-8943731",
         "title": "涉无照跨境汇款逾3860万元 两印度籍男子星期五面控",
-        "seq": 230
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2139,7 @@
         "time": "2026-04-24 23:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260423-8943930",
         "title": "以军空袭加沙北部广场 五人死亡多人重伤",
-        "seq": 231
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2148,7 @@
         "time": "2026-04-24 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260423-8942444",
         "title": "假新闻网伪装权威潜伏 专家：境外势力在关键时刻或分裂我国",
-        "seq": 232
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2157,7 @@
         "time": "2026-04-24 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260423-8942444",
         "title": "假新闻网站伪装权威潜伏 专家：境外势力在关键时刻或分裂我国",
-        "seq": 233
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2166,7 @@
         "time": "2026-04-24 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260423-8943219",
         "title": "霍尔木兹海峡封锁战加剧  伊朗首次扣押商船 美称完全控制海峡",
-        "seq": 234
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2175,7 @@
         "time": "2026-04-24 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260423-8943219",
         "title": "霍尔木兹封锁战加剧 伊朗首次扣押商船 美国称完全控制海峡",
-        "seq": 235
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2184,7 @@
         "time": "2026-04-24 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260423-8943959",
         "title": "昇菘集团股东提问800万元董事薪酬和中东冲突风险",
-        "seq": 236
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2130,6 +2193,6 @@
         "time": "2026-04-24 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260423-8943981",
         "title": "欧元区私营部门商业活动意外萎缩 服务业大幅下滑",
-        "seq": 237
+        "seq": 244
     }
 ]
