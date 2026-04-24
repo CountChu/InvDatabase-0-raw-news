@@ -2089,12 +2089,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:27",
+        "time": "2026-04-24 22:27",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260424-8949382",
+        "title": "义顺组屋底层疑遭投诉被清空 老街坊失去聚会点",
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:28",
         "time": "2026-04-24 22:28",
         "link": "https://www.zaobao.com.sg/news/sea/story20260424-8949295",
         "title": "东南亚网诈团伙工具升级 网侵技术门槛大降",
-        "seq": 233
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2112,7 @@
         "time": "2026-04-24 22:29",
         "link": "https://www.zaobao.com.sg/finance/china/story20260424-8949570",
         "title": "DeepSeek新AI模型适配华为晶片 与美顶尖模型仍有差距",
-        "seq": 234
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2121,7 @@
         "time": "2026-04-24 22:36",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260424-8949564",
         "title": "梦幻郁金香 花香与艺术气息满花穹",
-        "seq": 235
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2130,7 @@
         "time": "2026-04-24 22:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260423-8943771",
         "title": "伊朗消息：谈判准备工作“今晚或明天”或取得突破",
-        "seq": 236
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2139,7 @@
         "time": "2026-04-24 22:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260424-8948739",
         "title": "特朗普排除用核武打伊 称伊朗求和机会进入“倒数计时”",
-        "seq": 237
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2148,7 @@
         "time": "2026-04-24 22:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260424-8949720",
         "title": "战争重创 德国商业前景跌至2023年以来最差水平",
-        "seq": 238
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2157,7 @@
         "time": "2026-04-24 22:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260424-8949777",
         "title": "美媒：司法部将停止对美联储主席鲍威尔的调查",
-        "seq": 239
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2166,7 @@
         "time": "2026-04-24 22:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260423-8943428",
         "title": "莱坊：亚太地区财富激增 我国亿万富翁五年人数翻倍",
-        "seq": 240
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2175,7 @@
         "time": "2026-04-24 23:04",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260423-8943716",
         "title": "奕丰集团首季净利同比大增47.3%至2805万元 宣布1000亿元行政管理资产规模目标",
-        "seq": 241
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2184,7 @@
         "time": "2026-04-24 23:08",
         "link": "https://www.zaobao.com.sg/news/sea/story20260423-8943862",
         "title": "泰国将废除与柬埔寨的海域备忘录",
-        "seq": 242
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2193,16 @@
         "time": "2026-04-24 23:19",
         "link": "https://www.zaobao.com.sg/news/sports/story20260424-8949759",
         "title": "墨士廉夺赛季第二冠 以良好状态迎接下月世锦赛",
-        "seq": 243
+        "seq": 244
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:20",
+        "time": "2026-04-24 23:20",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260424-8949765",
+        "title": "Cuscaden Peak：收到凯德综合商业信托主动要约时 百利宫翻新计划已在深入进行",
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2211,16 @@
         "time": "2026-04-24 23:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260423-8943731",
         "title": "涉无照跨境汇款逾3860万元 两印度籍男子星期五面控",
-        "seq": 244
+        "seq": 246
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:32",
+        "time": "2026-04-24 23:32",
+        "link": "https://www.zaobao.com.sg/news/china/story20260424-8949919",
+        "title": "中国大陆海警金门常态执法巡查 台海巡署：强力驱离",
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2229,7 @@
         "time": "2026-04-24 23:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260423-8943930",
         "title": "以军空袭加沙北部广场 五人死亡多人重伤",
-        "seq": 245
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2211,7 +2238,7 @@
         "time": "2026-04-24 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260423-8942444",
         "title": "假新闻网伪装权威潜伏 专家：境外势力在关键时刻或分裂我国",
-        "seq": 246
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2220,7 +2247,7 @@
         "time": "2026-04-24 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260423-8942444",
         "title": "假新闻网站伪装权威潜伏 专家：境外势力在关键时刻或分裂我国",
-        "seq": 247
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2256,7 @@
         "time": "2026-04-24 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260423-8943219",
         "title": "霍尔木兹海峡封锁战加剧  伊朗首次扣押商船 美称完全控制海峡",
-        "seq": 248
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2265,7 @@
         "time": "2026-04-24 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260423-8943219",
         "title": "霍尔木兹封锁战加剧 伊朗首次扣押商船 美国称完全控制海峡",
-        "seq": 249
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2274,7 @@
         "time": "2026-04-24 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260423-8943959",
         "title": "昇菘集团股东提问800万元董事薪酬和中东冲突风险",
-        "seq": 250
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2256,6 +2283,6 @@
         "time": "2026-04-24 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260423-8943981",
         "title": "欧元区私营部门商业活动意外萎缩 服务业大幅下滑",
-        "seq": 251
+        "seq": 254
     }
 ]
