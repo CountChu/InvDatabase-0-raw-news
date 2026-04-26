@@ -1468,12 +1468,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:54",
+        "time": "2026-04-26 21:54",
+        "link": "https://www.zaobao.com.sg/news/world/story20260426-8956330",
+        "title": "斯塔默与特朗普通话讨论霍尔木兹海峡事宜",
+        "seq": 164
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:01",
         "time": "2026-04-26 22:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260425-8952795",
         "title": "中国预警五一假期前强降雨及洪灾风险",
-        "seq": 164
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1491,7 @@
         "time": "2026-04-26 22:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260425-8951607",
         "title": "马来文化馆重开 黄循财总理：马来社群遗产是国家历史重要组成部分",
-        "seq": 165
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1500,7 @@
         "time": "2026-04-26 22:25",
         "link": "https://www.zaobao.com.sg/news/world/story20260425-8953077",
         "title": "日本北部山火肆虐 3000余人撤离",
-        "seq": 166
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1509,7 @@
         "time": "2026-04-26 22:28",
         "link": "https://www.zaobao.com.sg/news/sea/story20260424-8949295",
         "title": "东南亚网诈团伙工具升级 网侵技术门槛大降",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2026-04-26 22:29",
         "link": "https://www.zaobao.com.sg/finance/china/story20260424-8949570",
         "title": "DeepSeek新AI模型适配华为晶片 与美顶尖模型仍有差距",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1527,7 @@
         "time": "2026-04-26 23:00",
         "link": "https://www.zaobao.com.sg/news/world/story20260425-8953176",
         "title": "伊朗外长与巴基斯坦总理会谈 重申伊朗停火原则",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1536,7 @@
         "time": "2026-04-26 23:02",
         "link": "https://www.zaobao.com.sg/news/china/story20260425-8952916",
         "title": "女子制止吸烟遭警察裸检惹议 控烟之城深圳被讽“表演型人格”",
-        "seq": 170
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1545,7 @@
         "time": "2026-04-26 23:06",
         "link": "https://www.zaobao.com.sg/news/sports/story20260425-8953158",
         "title": "维拉客场负富勒姆 痛失登英超前三良机",
-        "seq": 171
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1554,7 @@
         "time": "2026-04-26 23:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260425-8953213",
         "title": "伊朗议员：已拟定管理霍尔木兹海峡综合方案",
-        "seq": 172
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1554,15 +1563,6 @@
         "time": "2026-04-26 23:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260424-8949765",
         "title": "Cuscaden Peak：收到凯德综合商业信托主动要约时 百利宫翻新计划已在深入进行",
-        "seq": 173
-    },
-    {
-        "media": "聯合早報",
-        "category": "国际",
-        "timeText": "23:33",
-        "time": "2026-04-26 23:33",
-        "link": "https://www.zaobao.com.sg/news/world/story20260425-8953246",
-        "title": "伊朗外长与巴基斯坦官员会谈后离开伊斯兰堡",
         "seq": 174
     },
     {
@@ -1571,8 +1571,17 @@
         "timeText": "23:33",
         "time": "2026-04-26 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260425-8953246",
-        "title": "伊朗外长离开伊斯兰堡 特朗普取消美国代表团行程",
+        "title": "伊朗外长与巴基斯坦官员会谈后离开伊斯兰堡",
         "seq": 175
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:33",
+        "time": "2026-04-26 23:33",
+        "link": "https://www.zaobao.com.sg/news/world/story20260425-8953246",
+        "title": "伊朗外长离开伊斯兰堡 特朗普取消美国代表团行程",
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1581,6 +1590,6 @@
         "time": "2026-04-26 23:42",
         "link": "https://www.zaobao.com.sg/news/sports/story20260425-8953178",
         "title": "红牛街舞大赛逾200人中脱颖而出 新加坡陈健永争当全球舞王",
-        "seq": 176
+        "seq": 177
     }
 ]
