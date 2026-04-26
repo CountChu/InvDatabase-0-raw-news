@@ -1558,12 +1558,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:27",
+        "time": "2026-04-26 22:27",
+        "link": "https://www.zaobao.com.sg/news/world/story20260426-8956256",
+        "title": "日媒：日本松绑军售条例扩大国防商机 二手军舰受青睐",
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:28",
         "time": "2026-04-26 22:28",
         "link": "https://www.zaobao.com.sg/news/sea/story20260424-8949295",
         "title": "东南亚网诈团伙工具升级 网侵技术门槛大降",
-        "seq": 174
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1581,25 @@
         "time": "2026-04-26 22:29",
         "link": "https://www.zaobao.com.sg/finance/china/story20260424-8949570",
         "title": "DeepSeek新AI模型适配华为晶片 与美顶尖模型仍有差距",
-        "seq": 175
+        "seq": 176
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:29",
+        "time": "2026-04-26 22:29",
+        "link": "https://www.zaobao.com.sg/news/world/story20260426-8956455",
+        "title": "北爱尔兰一警局附近发生汽车爆炸",
+        "seq": 177
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:34",
+        "time": "2026-04-26 22:34",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260426-8955233",
+        "title": "拉菲兹去留 公正党悬而未决",
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1608,7 @@
         "time": "2026-04-26 23:00",
         "link": "https://www.zaobao.com.sg/news/world/story20260425-8953176",
         "title": "伊朗外长与巴基斯坦总理会谈 重申伊朗停火原则",
-        "seq": 176
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1617,7 @@
         "time": "2026-04-26 23:02",
         "link": "https://www.zaobao.com.sg/news/china/story20260425-8952916",
         "title": "女子制止吸烟遭警察裸检惹议 控烟之城深圳被讽“表演型人格”",
-        "seq": 177
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1626,7 @@
         "time": "2026-04-26 23:06",
         "link": "https://www.zaobao.com.sg/news/sports/story20260425-8953158",
         "title": "维拉客场负富勒姆 痛失登英超前三良机",
-        "seq": 178
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1635,7 @@
         "time": "2026-04-26 23:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260425-8953213",
         "title": "伊朗议员：已拟定管理霍尔木兹海峡综合方案",
-        "seq": 179
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1644,7 @@
         "time": "2026-04-26 23:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260424-8949765",
         "title": "Cuscaden Peak：收到凯德综合商业信托主动要约时 百利宫翻新计划已在深入进行",
-        "seq": 180
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1653,7 @@
         "time": "2026-04-26 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260425-8953246",
         "title": "伊朗外长与巴基斯坦官员会谈后离开伊斯兰堡",
-        "seq": 181
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1662,7 @@
         "time": "2026-04-26 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260425-8953246",
         "title": "伊朗外长离开伊斯兰堡 特朗普取消美国代表团行程",
-        "seq": 182
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1644,6 +1671,6 @@
         "time": "2026-04-26 23:42",
         "link": "https://www.zaobao.com.sg/news/sports/story20260425-8953178",
         "title": "红牛街舞大赛逾200人中脱颖而出 新加坡陈健永争当全球舞王",
-        "seq": 183
+        "seq": 186
     }
 ]
