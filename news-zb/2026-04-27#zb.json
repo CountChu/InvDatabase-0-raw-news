@@ -2134,12 +2134,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:29",
+        "time": "2026-04-27 22:29",
+        "link": "https://www.zaobao.com.sg/news/china/story20260427-8962086",
+        "title": "下午察：30多家司法机关集体翻车",
+        "seq": 238
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:34",
         "time": "2026-04-27 22:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20260426-8955233",
         "title": "拉菲兹去留 公正党悬而未决",
-        "seq": 238
+        "seq": 239
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:34",
+        "time": "2026-04-27 22:34",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260427-8961749",
+        "title": "陈振声与阿努廷会晤 重申新泰卓越且多层面关系",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:39",
+        "time": "2026-04-27 22:39",
+        "link": "https://www.zaobao.com.sg/news/world/story20260427-8962105",
+        "title": "普京：俄方会竭尽所能维护中东地区和平",
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2175,7 @@
         "time": "2026-04-27 22:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260426-8956200",
         "title": "淡米尔语节庆20周年 穆仁理：年轻人从“被动学”到“主动学”",
-        "seq": 239
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2184,7 @@
         "time": "2026-04-27 22:48",
         "link": "https://www.zaobao.com.sg/news/china/story20260426-8956088",
         "title": "深圳女子“裸检”被指过度执法 律师：高强度检查应有更高监督标准",
-        "seq": 240
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2193,7 @@
         "time": "2026-04-27 23:24",
         "link": "https://www.zaobao.com.sg/news/sports/story20260426-8956389",
         "title": "意甲裁判负责人涉体育欺诈 “自行停职”被立案调查",
-        "seq": 241
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2202,7 @@
         "time": "2026-04-27 23:28",
         "link": "https://www.zaobao.com.sg/news/sports/story20260426-8956477",
         "title": "106分也无法升级 罗奇代尔被绝平目送约克城升英乙",
-        "seq": 242
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2211,7 @@
         "time": "2026-04-27 23:30",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260426-8956603",
         "title": "宝德旗下公司获得价值超过4亿元的办公楼建设合同",
-        "seq": 243
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2220,7 @@
         "time": "2026-04-27 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260426-8956611",
         "title": "华府晚宴枪击后 特朗普借机再推白宫巨型宴会厅计划",
-        "seq": 244
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2229,7 @@
         "time": "2026-04-27 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260426-8956461",
         "title": "挺过热天气 韩球员咸政宇首赢新加坡高球公开赛",
-        "seq": 245
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2211,6 +2238,6 @@
         "time": "2026-04-27 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260426-8956364",
         "title": "枪手闯白宫记者晚宴 特朗普紧急离场 自称或是袭击目标之一",
-        "seq": 246
+        "seq": 249
     }
 ]
