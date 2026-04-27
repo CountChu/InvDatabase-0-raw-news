@@ -1387,12 +1387,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "18:00",
+        "time": "2026-04-27 18:00",
+        "link": "https://www.zaobao.com.sg/news/world/story20260427-8960279",
+        "title": "俄称乌无人机空袭扎波罗热核电站 致一职工身亡",
+        "seq": 155
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "18:00",
+        "time": "2026-04-27 18:00",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260427-8960610",
+        "title": "新科工程首季获得约48亿元新合同",
+        "seq": 156
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "18:00",
+        "time": "2026-04-27 18:00",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260427-8960705",
+        "title": "陆兆福：11森州民行党议员力挺州大臣阿米努丁",
+        "seq": 157
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "18:03",
+        "time": "2026-04-27 18:03",
+        "link": "https://www.zaobao.com.sg/news/world/story20260427-8960735",
+        "title": "泽连斯基提议继续延长乌克兰战时状态90天",
+        "seq": 158
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "18:07",
         "time": "2026-04-27 18:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260426-8955334",
         "title": "十年抗糖尿病仍严峻 新加坡推“智慧控糖家庭计划”求突破",
-        "seq": 155
+        "seq": 159
     },
     {
         "media": "聯合早報",
@@ -1401,7 +1437,7 @@
         "time": "2026-04-27 18:07",
         "link": "https://www.zaobao.com.sg/news/sea/story20260426-8955689",
         "title": "莲藕采收季 柬农采藕忙",
-        "seq": 156
+        "seq": 160
     },
     {
         "media": "聯合早報",
@@ -1410,7 +1446,25 @@
         "time": "2026-04-27 18:12",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260426-8951474",
         "title": "中东战火催生能源焦虑 料50多国赴全球首届脱离化石燃料会议",
-        "seq": 157
+        "seq": 161
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "18:13",
+        "time": "2026-04-27 18:13",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260427-8960822",
+        "title": "印尼内阁改组 更替总统府幕僚长等六岗位",
+        "seq": 162
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "18:15",
+        "time": "2026-04-27 18:15",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260427-8960465",
+        "title": "亲吻非礼好友妹妹 男子被判监19个月",
+        "seq": 163
     },
     {
         "media": "聯合早報",
@@ -1419,7 +1473,7 @@
         "time": "2026-04-27 18:33",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260426-8936757",
         "title": "从烧钱到驶入盈利轨道 Grab正处于关键拐点",
-        "seq": 158
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1428,7 +1482,7 @@
         "time": "2026-04-27 19:12",
         "link": "https://www.zaobao.com.sg/news/world/story20260426-8955924",
         "title": "以军对黎巴嫩南部七村庄下达疏散令",
-        "seq": 159
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1437,7 +1491,7 @@
         "time": "2026-04-27 19:18",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260426-8953269",
         "title": "霸级私宅涌现 分析：转售价比同区高23% 转售市场竞争更激烈",
-        "seq": 160
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1446,7 +1500,7 @@
         "time": "2026-04-27 19:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260426-8955803",
         "title": "游戏开发师、天生的教师：白宫记者晚宴枪手是谁？",
-        "seq": 161
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1455,7 +1509,7 @@
         "time": "2026-04-27 19:24",
         "link": "https://www.zaobao.com.sg/news/sports/story20260426-8955710",
         "title": "10人阿赫利加时挫日本黑马 卫冕亚冠精英联赛冠军",
-        "seq": 162
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1518,7 @@
         "time": "2026-04-27 19:33",
         "link": "https://www.zaobao.com.sg/news/sports/story20260426-8955637",
         "title": "马德里网球公开赛 波兰名将伊加因病退赛",
-        "seq": 163
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1527,7 @@
         "time": "2026-04-27 19:34",
         "link": "https://www.zaobao.com.sg/news/china/story20260426-8955984",
         "title": "谢锋：越来越多美国朋友成为追茶人",
-        "seq": 164
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1536,7 @@
         "time": "2026-04-27 19:41",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260426-8955654",
         "title": "年轻创作者用华语拍视频 吸引年轻人学习华文华语",
-        "seq": 165
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1545,7 @@
         "time": "2026-04-27 19:47",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260426-8955179",
         "title": "新书记录勿洛最古老回教堂143年历史与社区记忆",
-        "seq": 166
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1554,7 @@
         "time": "2026-04-27 20:02",
         "link": "https://www.zaobao.com.sg/news/sea/story20260426-8956035",
         "title": "慕尤丁：土团党内斗平息",
-        "seq": 167
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1563,7 @@
         "time": "2026-04-27 20:12",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260426-8952357",
         "title": "中文系学霸遇迷途男 合伙创业卖榴梿突围",
-        "seq": 168
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1572,7 @@
         "time": "2026-04-27 20:23",
         "link": "https://www.zaobao.com.sg/news/china/story20260426-8956113",
         "title": "金门副县长赴厦门考察被台湾中央政府驳回",
-        "seq": 169
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1581,7 @@
         "time": "2026-04-27 20:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260426-8955555",
         "title": "新加坡首个参与式预算试验计划 邀居民出谋划策改善环境",
-        "seq": 170
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1590,7 @@
         "time": "2026-04-27 20:40",
         "link": "https://www.zaobao.com.sg/finance/world/story20260425-8952475",
         "title": "黄金本周下跌2.5% 分析师对金价走势看法分歧",
-        "seq": 171
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1599,7 @@
         "time": "2026-04-27 20:56",
         "link": "https://www.zaobao.com.sg/news/sea/story20260426-8955554",
         "title": "印尼拟建东南亚最大太阳能厂 发电自用并出口新加坡",
-        "seq": 172
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1608,7 @@
         "time": "2026-04-27 20:58",
         "link": "https://www.zaobao.com.sg/news/sea/story20260425-8952777",
         "title": "吉隆坡“逮捕阿占巴基”集会突传爆竹巨响 场面一度混乱",
-        "seq": 173
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1617,7 @@
         "time": "2026-04-27 21:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260426-8956177",
         "title": "马里多地发生交火 防长遇袭身亡",
-        "seq": 174
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1626,7 @@
         "time": "2026-04-27 21:23",
         "link": "https://www.zaobao.com.sg/news/world/story20260426-8955574",
         "title": "美伊对峙赌谁先眨眼：特朗普拒“空谈” 德黑兰坚持先解封",
-        "seq": 175
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1635,7 @@
         "time": "2026-04-27 21:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260426-8956235",
         "title": "美国代理司法部长：枪手目标相信是特朗普政府官员",
-        "seq": 176
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1644,7 @@
         "time": "2026-04-27 21:32",
         "link": "https://www.zaobao.com.sg/news/sports/story20260426-8956166",
         "title": "首位马拉松正赛“破二”选手 肯尼亚名将萨维改写人类历史 ",
-        "seq": 177
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1653,7 @@
         "time": "2026-04-27 21:54",
         "link": "https://www.zaobao.com.sg/news/world/story20260426-8956330",
         "title": "斯塔默与特朗普通话讨论霍尔木兹海峡事宜",
-        "seq": 178
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1662,7 @@
         "time": "2026-04-27 22:01",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260426-8956241",
         "title": "扬子江船业：订单增长虽放缓 当前订单量足以支撑船厂持续运作",
-        "seq": 179
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1671,7 @@
         "time": "2026-04-27 22:05",
         "link": "https://www.zaobao.com.sg/news/sea/story20260426-8956258",
         "title": "泰国将推进陆桥计划 增强国家收益和物流安全",
-        "seq": 180
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1680,7 @@
         "time": "2026-04-27 22:05",
         "link": "https://www.zaobao.com.sg/news/sports/story20260426-8955985",
         "title": "去年严重违规被禁赛 洪孙达走出低谷新加坡高球赛写佳绩",
-        "seq": 181
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1689,7 @@
         "time": "2026-04-27 22:11",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260426-8956375",
         "title": "UI宝德房地产投资信托与Fraxtor 集团共同发展日本两处物流设施",
-        "seq": 182
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1698,7 @@
         "time": "2026-04-27 22:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260426-8956303",
         "title": "首届“气候行动日”活动中峇鲁举行 推动新加坡可持续发展",
-        "seq": 183
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1707,7 @@
         "time": "2026-04-27 22:27",
         "link": "https://www.zaobao.com.sg/news/world/story20260426-8956256",
         "title": "日媒：日本松绑军售条例扩大国防商机 二手军舰受青睐",
-        "seq": 184
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1716,7 @@
         "time": "2026-04-27 22:29",
         "link": "https://www.zaobao.com.sg/news/world/story20260426-8956455",
         "title": "北爱尔兰一警局附近发生汽车爆炸",
-        "seq": 185
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1725,7 @@
         "time": "2026-04-27 22:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20260426-8955233",
         "title": "拉菲兹去留 公正党悬而未决",
-        "seq": 186
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1734,7 @@
         "time": "2026-04-27 22:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260426-8956200",
         "title": "淡米尔语节庆20周年 穆仁理：年轻人从“被动学”到“主动学”",
-        "seq": 187
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1743,7 @@
         "time": "2026-04-27 22:48",
         "link": "https://www.zaobao.com.sg/news/china/story20260426-8956088",
         "title": "深圳女子“裸检”被指过度执法 律师：高强度检查应有更高监督标准",
-        "seq": 188
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1752,7 @@
         "time": "2026-04-27 23:24",
         "link": "https://www.zaobao.com.sg/news/sports/story20260426-8956389",
         "title": "意甲裁判负责人涉体育欺诈 “自行停职”被立案调查",
-        "seq": 189
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1761,7 @@
         "time": "2026-04-27 23:28",
         "link": "https://www.zaobao.com.sg/news/sports/story20260426-8956477",
         "title": "106分也无法升级 罗奇代尔被绝平目送约克城升英乙",
-        "seq": 190
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1770,7 @@
         "time": "2026-04-27 23:30",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260426-8956603",
         "title": "宝德旗下公司获得价值超过4亿元的办公楼建设合同",
-        "seq": 191
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1779,7 @@
         "time": "2026-04-27 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260426-8956611",
         "title": "华府晚宴枪击后 特朗普借机再推白宫巨型宴会厅计划",
-        "seq": 192
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1788,7 @@
         "time": "2026-04-27 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260426-8956461",
         "title": "挺过热天气 韩球员咸政宇首赢新加坡高球公开赛",
-        "seq": 193
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1743,6 +1797,6 @@
         "time": "2026-04-27 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260426-8956364",
         "title": "枪手闯白宫记者晚宴 特朗普紧急离场 自称或是袭击目标之一",
-        "seq": 194
+        "seq": 200
     }
 ]
