@@ -2089,12 +2089,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:01",
+        "time": "2026-04-29 23:01",
+        "link": "https://www.zaobao.com.sg/news/china/story20260429-8972231",
+        "title": "中国拟恢复燃料出口但量低于去年均值 学者：优先保障国内需求与能源安全",
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:04",
         "time": "2026-04-29 23:04",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260428-8967596",
         "title": "本地再办沉船文物展 透过27件展品寻找新加坡商贸枢纽之根",
-        "seq": 233
+        "seq": 234
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:05",
+        "time": "2026-04-29 23:05",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260429-8974805",
+        "title": "绿色建筑科技签购股协议 交易完成后公司将易主",
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2121,7 @@
         "time": "2026-04-29 23:08",
         "link": "https://www.zaobao.com.sg/news/sports/story20260428-8968000",
         "title": "太极拳世锦赛 郑宇轩再进账一铜",
-        "seq": 234
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2130,25 @@
         "time": "2026-04-29 23:10",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260428-8968027",
         "title": "尚达曼总统与联合国副秘书长阿明娜会面",
-        "seq": 235
+        "seq": 237
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:10",
+        "time": "2026-04-29 23:10",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260429-8974802",
+        "title": "合乐屋2026上半财年净利高于2025财年同期",
+        "seq": 238
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:13",
+        "time": "2026-04-29 23:13",
+        "link": "https://www.zaobao.com.sg/news/world/story20260429-8974855",
+        "title": "加拿大枪击案受害者家属起诉OpenAI",
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2157,7 @@
         "time": "2026-04-29 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260428-8968323",
         "title": "丰树工业信托第四季每单位派息下跌8%至3.09分",
-        "seq": 236
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2166,7 @@
         "time": "2026-04-29 23:26",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260428-8968198",
         "title": "海峡贸易宣布重组董事会及薪酬委员会",
-        "seq": 237
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2175,7 @@
         "time": "2026-04-29 23:29",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260428-8968083",
         "title": "维文: 维护国际法治是亚细安欧盟深化合作基础",
-        "seq": 238
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2184,7 @@
         "time": "2026-04-29 23:29",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260428-8968083",
         "title": "维文：维护国际法治是亚细安欧盟深化合作基础",
-        "seq": 239
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2193,7 @@
         "time": "2026-04-29 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260428-8968398",
         "title": "称俄罗斯“窃取”乌粮食 泽连斯基抨击以色列接收这些粮食",
-        "seq": 240
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2202,7 @@
         "time": "2026-04-29 23:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260428-8968436",
         "title": "Incredible Holdings违反挂牌条例 接到合规通知",
-        "seq": 241
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2175,6 +2211,6 @@
         "time": "2026-04-29 23:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260428-8968320",
         "title": "百年世乒团体赛 中国“20年来最弱”男队冲12连冠考验大",
-        "seq": 242
+        "seq": 246
     }
 ]
