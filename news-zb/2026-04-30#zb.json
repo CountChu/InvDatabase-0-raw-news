@@ -2233,12 +2233,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:44",
+        "time": "2026-04-30 22:44",
+        "link": "https://www.zaobao.com.sg/news/world/story20260430-8981559",
+        "title": "以色列海军扣押国际船队 巴勒斯坦组织与意大利谴责",
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:54",
+        "time": "2026-04-30 22:54",
+        "link": "https://www.zaobao.com.sg/news/china/story20260430-8981642",
+        "title": "王毅同鲁比奥通话 强调台湾问题是中美关系最大风险点",
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:01",
         "time": "2026-04-30 23:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260429-8972231",
         "title": "中国拟恢复燃料出口但量低于去年均值 学者：优先保障国内需求与能源安全",
-        "seq": 249
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2265,7 @@
         "time": "2026-04-30 23:05",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260429-8974805",
         "title": "绿色建筑科技签购股协议 交易完成后公司将易主",
-        "seq": 250
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2274,7 @@
         "time": "2026-04-30 23:10",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260429-8974802",
         "title": "合乐屋2026上半财年净利高于2025财年同期",
-        "seq": 251
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2283,7 @@
         "time": "2026-04-30 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260429-8974855",
         "title": "加拿大枪击案受害者家属起诉OpenAI",
-        "seq": 252
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2274,6 +2292,6 @@
         "time": "2026-04-30 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260429-8974912",
         "title": "美国在伊朗战争迄今耗资250亿美元",
-        "seq": 253
+        "seq": 255
     }
 ]
