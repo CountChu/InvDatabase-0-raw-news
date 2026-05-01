@@ -1783,12 +1783,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:33",
+        "time": "2026-05-01 23:33",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260501-8985489",
+        "title": "黄循财总理念撤离中东感言哽咽落泪 强调守护彼此是新加坡精神内核",
+        "seq": 199
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:34",
         "time": "2026-05-01 23:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20260430-8981229",
         "title": "森州政治危机峰回路转 分析：巫统误判形势进退两难",
-        "seq": 199
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1806,7 @@
         "time": "2026-05-01 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260430-8981771",
         "title": "美国一季度经济增长低于预期",
-        "seq": 200
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1806,6 +1815,6 @@
         "time": "2026-05-01 23:55",
         "link": "https://www.zaobao.com.sg/news/sea/story20260430-8981808",
         "title": "刑期缩短的缅甸前领导人翁山淑枝转为受软禁",
-        "seq": 201
+        "seq": 202
     }
 ]
