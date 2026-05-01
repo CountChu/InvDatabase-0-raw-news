@@ -1567,12 +1567,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:03",
+        "time": "2026-05-01 22:03",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260501-8985542",
+        "title": "武侠小说的百年想象展览 吸引多年龄层观展",
+        "seq": 175
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:06",
         "time": "2026-05-01 22:06",
         "link": "https://www.zaobao.com.sg/news/sports/story20260430-8981304",
         "title": "中国女队尤伯杯速胜马国 强势晋级四强对日本",
-        "seq": 175
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1590,34 @@
         "time": "2026-05-01 22:07",
         "link": "https://www.zaobao.com.sg/news/china/story20260430-8981457",
         "title": "何立峰今晚与美财长及贸易代表举行视频通话",
-        "seq": 176
+        "seq": 177
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:11",
+        "time": "2026-05-01 22:11",
+        "link": "https://www.zaobao.com.sg/news/china/story20260501-8983889",
+        "title": "中美高层通话为“习特会”铺路 双方在经贸议题互表不满",
+        "seq": 178
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:11",
+        "time": "2026-05-01 22:11",
+        "link": "https://www.zaobao.com.sg/news/world/story20260501-8985739",
+        "title": "特斯拉给马斯克开出“天价”方案 2025年薪酬1580亿美元",
+        "seq": 179
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:13",
+        "time": "2026-05-01 22:13",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260501-8983574",
+        "title": "成本上升和休眠企业被剔除 首季新加坡企业停业数量增33%",
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1626,7 @@
         "time": "2026-05-01 22:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260430-8981072",
         "title": "狮子乐龄之友协会推AI语音系统 代致电关怀1.3万长者",
-        "seq": 177
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1635,7 @@
         "time": "2026-05-01 22:20",
         "link": "https://www.zaobao.com.sg/news/sea/story20260430-8981176",
         "title": "柬反对派领袖根索卡叛国罪上诉遭驳回",
-        "seq": 178
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1644,7 @@
         "time": "2026-05-01 22:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260430-8981382",
         "title": "特朗普号召各国加入新国际联盟 重开霍尔木兹海峡",
-        "seq": 179
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1653,7 @@
         "time": "2026-05-01 22:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260430-8981583",
         "title": "巴拉圭总统下周访台四天 赖清德将以军礼欢迎",
-        "seq": 180
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1662,7 @@
         "time": "2026-05-01 22:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260430-8981559",
         "title": "以色列海军扣押国际船队 巴勒斯坦组织与意大利谴责",
-        "seq": 181
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1671,7 @@
         "time": "2026-05-01 22:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260430-8981642",
         "title": "王毅同鲁比奥通话 强调台湾问题是中美关系最大风险点",
-        "seq": 182
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1680,7 @@
         "time": "2026-05-01 23:00",
         "link": "https://www.zaobao.com.sg/news/sea/story20260430-8981615",
         "title": "涉嫌网络诈骗 柬埔寨遣返600多名泰国人",
-        "seq": 183
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1689,7 @@
         "time": "2026-05-01 23:26",
         "link": "https://www.zaobao.com.sg/news/sports/story20260430-8981568",
         "title": "伦敦世乒赛两连胜 新加坡男女队携手晋级32强",
-        "seq": 184
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1698,7 @@
         "time": "2026-05-01 23:29",
         "link": "https://www.zaobao.com.sg/news/world/story20260430-8981734",
         "title": "德国经济第一季度环比增长0.3%",
-        "seq": 185
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1707,7 @@
         "time": "2026-05-01 23:32",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260430-8981698",
         "title": "吉宝湾一带出现鳄鱼 映水苑吁居民“极度警惕”",
-        "seq": 186
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1716,7 @@
         "time": "2026-05-01 23:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20260430-8981229",
         "title": "森州政治危机峰回路转 分析：巫统误判形势进退两难",
-        "seq": 187
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1725,7 @@
         "time": "2026-05-01 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260430-8981771",
         "title": "美国一季度经济增长低于预期",
-        "seq": 188
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1698,6 +1734,6 @@
         "time": "2026-05-01 23:55",
         "link": "https://www.zaobao.com.sg/news/sea/story20260430-8981808",
         "title": "刑期缩短的缅甸前领导人翁山淑枝转为受软禁",
-        "seq": 189
+        "seq": 193
     }
 ]
