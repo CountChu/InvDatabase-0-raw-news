@@ -1720,12 +1720,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:59",
+        "time": "2026-05-01 22:59",
+        "link": "https://www.zaobao.com.sg/news/world/story20260501-8985613",
+        "title": "特朗普政府战争权限 引朝野争议",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:00",
         "time": "2026-05-01 23:00",
         "link": "https://www.zaobao.com.sg/news/sea/story20260430-8981615",
         "title": "涉嫌网络诈骗 柬埔寨遣返600多名泰国人",
-        "seq": 192
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:05",
+        "time": "2026-05-01 23:05",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260501-8985577",
+        "title": "马来西亚业者Kummute有意进军电召跨境德士市场",
+        "seq": 194
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:05",
+        "time": "2026-05-01 23:05",
+        "link": "https://www.zaobao.com.sg/news/world/story20260501-8985801",
+        "title": "提升军队人工智能能力 五角大楼与七家公司达成协议",
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1761,7 @@
         "time": "2026-05-01 23:26",
         "link": "https://www.zaobao.com.sg/news/sports/story20260430-8981568",
         "title": "伦敦世乒赛两连胜 新加坡男女队携手晋级32强",
-        "seq": 193
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1770,7 @@
         "time": "2026-05-01 23:29",
         "link": "https://www.zaobao.com.sg/news/world/story20260430-8981734",
         "title": "德国经济第一季度环比增长0.3%",
-        "seq": 194
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1779,7 @@
         "time": "2026-05-01 23:32",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260430-8981698",
         "title": "吉宝湾一带出现鳄鱼 映水苑吁居民“极度警惕”",
-        "seq": 195
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1788,7 @@
         "time": "2026-05-01 23:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20260430-8981229",
         "title": "森州政治危机峰回路转 分析：巫统误判形势进退两难",
-        "seq": 196
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1797,7 @@
         "time": "2026-05-01 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260430-8981771",
         "title": "美国一季度经济增长低于预期",
-        "seq": 197
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1779,6 +1806,6 @@
         "time": "2026-05-01 23:55",
         "link": "https://www.zaobao.com.sg/news/sea/story20260430-8981808",
         "title": "刑期缩短的缅甸前领导人翁山淑枝转为受软禁",
-        "seq": 198
+        "seq": 201
     }
 ]
