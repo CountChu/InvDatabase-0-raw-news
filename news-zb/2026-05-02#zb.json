@@ -1522,12 +1522,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:37",
+        "time": "2026-05-02 22:37",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260502-8988693",
+        "title": "巫统80周年党庆 阿末扎希促党员放下恩怨团结齐心 ",
+        "seq": 170
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:41",
+        "time": "2026-05-02 22:41",
+        "link": "https://www.zaobao.com.sg/news/world/story20260502-8988698",
+        "title": "特朗普称伊朗行动已结束 但不满意伊朗新方案",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:49",
         "time": "2026-05-02 22:49",
         "link": "https://www.zaobao.com.sg/news/china/story20260501-8985767",
         "title": "五一黄金周料有98万人次陆客访港",
-        "seq": 170
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1554,7 @@
         "time": "2026-05-02 22:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260501-8984188",
         "title": "中东局势促使海运业另辟蹊径 非洲渐成枢纽",
-        "seq": 171
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,16 @@
         "time": "2026-05-02 22:53",
         "link": "https://www.zaobao.com.sg/news/sports/story20260501-8984406",
         "title": "F1时隔五周迈阿密站回归 费斯塔彭：微调规则是隔靴搔痒",
-        "seq": 172
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:53",
+        "time": "2026-05-02 22:53",
+        "link": "https://www.zaobao.com.sg/news/world/story20260502-8988884",
+        "title": "一艘油轮在也门南部海域遭劫持",
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1581,7 @@
         "time": "2026-05-02 22:59",
         "link": "https://www.zaobao.com.sg/news/world/story20260501-8985613",
         "title": "特朗普政府战争权限 引朝野争议",
-        "seq": 173
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1590,7 @@
         "time": "2026-05-02 23:05",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260501-8985577",
         "title": "马来西亚业者Kummute有意进军电召跨境德士市场",
-        "seq": 174
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1599,7 @@
         "time": "2026-05-02 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20260501-8985801",
         "title": "提升军队人工智能能力 五角大楼与七家公司达成协议",
-        "seq": 175
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1608,7 @@
         "time": "2026-05-02 23:26",
         "link": "https://www.zaobao.com.sg/news/sports/story20260430-8981568",
         "title": "伦敦世乒赛两连胜 新加坡男女队携手晋级32强",
-        "seq": 176
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1617,7 @@
         "time": "2026-05-02 23:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260501-8985489",
         "title": "黄循财总理念撤离中东感言哽咽落泪：守护彼此是新加坡精神",
-        "seq": 177
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1626,7 @@
         "time": "2026-05-02 23:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260501-8985917",
         "title": "美联储官员：战争改变利率前景 维持宽松倾向不再适宜",
-        "seq": 178
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1635,7 @@
         "time": "2026-05-02 23:51",
         "link": "https://www.zaobao.com.sg/news/china/story20260501-8985951",
         "title": "成都发生肇事逃逸连环撞人事故 致一死11伤",
-        "seq": 179
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1617,6 +1644,6 @@
         "time": "2026-05-02 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260501-8985937",
         "title": "英海军：战事致霍尔木兹海峡航运量骤降九成以上",
-        "seq": 180
+        "seq": 183
     }
 ]
