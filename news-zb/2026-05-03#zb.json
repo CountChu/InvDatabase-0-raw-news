@@ -1720,12 +1720,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:06",
+        "time": "2026-05-03 23:06",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260503-8991337",
+        "title": "共和理工学院改良田径信号系统 助听障学生不输在起跑点",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:06",
+        "time": "2026-05-03 23:06",
+        "link": "https://www.zaobao.com.sg/news/china/story20260503-8990536",
+        "title": "中国借东京审判批日本军国主义 分析：对日舆论反制进行现实动员",
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:08",
         "time": "2026-05-03 23:08",
         "link": "https://www.zaobao.com.sg/news/china/story20260502-8988166",
         "title": "中东战事促“弃油转电” 中国头部车企4月出口大增 ",
-        "seq": 192
+        "seq": 194
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:10",
+        "time": "2026-05-03 23:10",
+        "link": "https://www.zaobao.com.sg/news/world/story20260503-8991706",
+        "title": "英国伦敦发生枪击案造成四人受伤",
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1761,7 @@
         "time": "2026-05-03 23:12",
         "link": "https://www.zaobao.com.sg/news/sports/story20260502-8988858",
         "title": "世乒赛种子排位赛打响 中国男女队获开门红",
-        "seq": 193
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1770,7 @@
         "time": "2026-05-03 23:17",
         "link": "https://www.zaobao.com.sg/news/china/story20260502-8391001",
         "title": "中国知识分子转战 YouTube针砭时局",
-        "seq": 194
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1779,7 @@
         "time": "2026-05-03 23:47",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260502-8988790",
         "title": "裕廊顺利街垃圾乱象改善 公众忧陋习未改卫生问题重来",
-        "seq": 195
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1761,6 +1788,6 @@
         "time": "2026-05-03 23:52",
         "link": "https://www.zaobao.com.sg/news/world/story20260502-8988968",
         "title": "搁浅一个多月 座头鲸“蒂米”回归北海",
-        "seq": 196
+        "seq": 199
     }
 ]
