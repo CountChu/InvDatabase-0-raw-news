@@ -1999,12 +1999,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:30",
+        "time": "2026-05-04 22:30",
+        "link": "https://www.zaobao.com.sg/news/china/story20260504-8996776",
+        "title": "下午察：中国首艘核动力航母的命名悬念",
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:32",
         "time": "2026-05-04 22:32",
         "link": "https://www.zaobao.com.sg/news/sports/story20260503-8991473",
         "title": "中华台北女将疑遭性骚扰 国际乒联展开调查",
-        "seq": 223
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2022,7 @@
         "time": "2026-05-04 22:37",
         "link": "https://www.zaobao.com.sg/news/sea/story20260502-8988693",
         "title": "巫统80周年党庆 阿末扎希促党员放下恩怨团结齐心 ",
-        "seq": 224
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2031,7 @@
         "time": "2026-05-04 22:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260503-8991675",
         "title": "奥地利北部营地“战争遗物”爆炸 致五名儿童受伤",
-        "seq": 225
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2040,7 @@
         "time": "2026-05-04 23:06",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260503-8991337",
         "title": "共和理工学院改良田径信号系统 助听障学生不输在起跑点",
-        "seq": 226
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2049,7 @@
         "time": "2026-05-04 23:06",
         "link": "https://www.zaobao.com.sg/news/china/story20260503-8990536",
         "title": "中国借东京审判批日本军国主义 分析：对日舆论反制进行现实动员",
-        "seq": 227
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2058,7 @@
         "time": "2026-05-04 23:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260503-8991706",
         "title": "英国伦敦发生枪击案造成四人受伤",
-        "seq": 228
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2067,7 @@
         "time": "2026-05-04 23:21",
         "link": "https://www.zaobao.com.sg/news/sports/story20260503-8991620",
         "title": "客场闷平淡滨尼流浪 狮城水手提前两轮卫冕新超冠军",
-        "seq": 229
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2067,6 +2076,6 @@
         "time": "2026-05-04 23:52",
         "link": "https://www.zaobao.com.sg/news/world/story20260503-8991782",
         "title": "联邦检察官证实白宫晚宴枪手射中特勤局人员",
-        "seq": 230
+        "seq": 231
     }
 ]
