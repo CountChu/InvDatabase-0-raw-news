@@ -2314,12 +2314,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:23",
+        "time": "2026-05-06 23:23",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260506-9008504",
+        "title": "近期多起旅客公共场所性行为事件 泰国誓言加强监管",
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:24",
         "time": "2026-05-06 23:24",
         "link": "https://www.zaobao.com.sg/finance/world/story20260505-9002439",
         "title": "Coinbase将裁约700人 占全球员工14%",
-        "seq": 258
+        "seq": 259
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:25",
+        "time": "2026-05-06 23:25",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260506-9007758",
+        "title": "工人党建议立法保障灵活工作安排 提升蓝领地位",
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2346,7 @@
         "time": "2026-05-06 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260505-9002247",
         "title": "朱倍庆：职业保障是新社会契约 不让员工独自面对变革",
-        "seq": 259
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2355,25 @@
         "time": "2026-05-06 23:32",
         "link": "https://www.zaobao.com.sg/news/sea/story20260505-9001652",
         "title": "森州土团党两议员宣布中立 巫统进退维谷",
-        "seq": 260
+        "seq": 262
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:32",
+        "time": "2026-05-06 23:32",
+        "link": "https://www.zaobao.com.sg/news/world/story20260506-9008581",
+        "title": "伊朗议会高官：美媒称接近达成协议“像是美国愿望清单”",
+        "seq": 263
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:33",
+        "time": "2026-05-06 23:33",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260506-9008221",
+        "title": "鼎盛控股与前雇员达成和解 追回异常交易款项",
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2382,7 @@
         "time": "2026-05-06 23:37",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260505-9002307",
         "title": "去年大选解说系列添新意 《海峡时报》两年轻记者受肯定",
-        "seq": 261
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2391,7 @@
         "time": "2026-05-06 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260505-9002665",
         "title": "支持者：伊朗诺奖得主穆罕默迪“徘徊于生死之间”",
-        "seq": 262
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2400,7 @@
         "time": "2026-05-06 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260505-9002397",
         "title": "新柔地铁一地两检机制如何运作？",
-        "seq": 263
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2409,7 @@
         "time": "2026-05-06 23:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260505-9001786",
         "title": "伊朗外长赶在“习特会”前访华  学者：北京料斡旋促中东局势降温",
-        "seq": 264
+        "seq": 268
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2418,7 @@
         "time": "2026-05-06 23:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260505-9001786",
         "title": "伊朗外长赶在“习特会”前访华 学者：北京料斡旋促中东局势降温",
-        "seq": 265
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2391,6 +2427,6 @@
         "time": "2026-05-06 23:57",
         "link": "https://www.zaobao.com.sg/news/sports/story20260505-9002611",
         "title": "世乒赛男团32强 中国成功反弹擒澳大利亚晋级",
-        "seq": 266
+        "seq": 270
     }
 ]
