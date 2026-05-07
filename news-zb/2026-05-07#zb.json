@@ -2260,12 +2260,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:46",
+        "time": "2026-05-07 22:46",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260507-9014118",
+        "title": "新电信优惠股开放套现 整体运作顺畅未发现诈骗投诉",
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:49",
         "time": "2026-05-07 22:49",
         "link": "https://www.zaobao.com.sg/news/sea/story20260506-9007937",
         "title": "森州巫统恢复支持 大臣不否认将解散州议会",
-        "seq": 252
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2283,16 @@
         "time": "2026-05-07 22:56",
         "link": "https://www.zaobao.com.sg/news/china/story20260506-9008234",
         "title": "第四次朝野协商破局 1.25万亿新台币军购预算表决恐大打折扣",
-        "seq": 253
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:56",
+        "time": "2026-05-07 22:56",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260507-9014488",
+        "title": "国际奥委会解除限制 白罗斯运动员可参加洛杉矶奥运会",
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2301,7 @@
         "time": "2026-05-07 23:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260506-9008137",
         "title": "政府拟加强监管媒体业股权变动 收购三成股权须先获批",
-        "seq": 254
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2310,7 @@
         "time": "2026-05-07 23:09",
         "link": "https://www.zaobao.com.sg/news/sports/story20260506-9008339",
         "title": "新加坡女队1比3不敌韩国 无缘世乒团体赛八强",
-        "seq": 255
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2319,7 @@
         "time": "2026-05-07 23:23",
         "link": "https://www.zaobao.com.sg/news/sea/story20260506-9008504",
         "title": "近期多起旅客公共场所性行为事件 泰国誓言加强监管",
-        "seq": 256
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2328,7 @@
         "time": "2026-05-07 23:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260506-9007758",
         "title": "工人党建议立法保障灵活工作安排 提升蓝领地位",
-        "seq": 257
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2337,7 @@
         "time": "2026-05-07 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260506-9008581",
         "title": "伊朗议会高官：美媒称接近达成协议“像是美国愿望清单”",
-        "seq": 258
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2346,7 @@
         "time": "2026-05-07 23:33",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260506-9008221",
         "title": "鼎盛控股与前雇员达成和解 追回异常交易款项",
-        "seq": 259
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2337,6 +2355,6 @@
         "time": "2026-05-07 23:42",
         "link": "https://www.zaobao.com.sg/news/china/story20260506-9006563",
         "title": "中伊外长会谈王毅促全面止战 学者指北京为“减震器”防止美伊误判",
-        "seq": 260
+        "seq": 262
     }
 ]
