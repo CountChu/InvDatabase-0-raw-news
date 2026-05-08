@@ -2269,12 +2269,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:43",
+        "time": "2026-05-08 22:43",
+        "link": "https://www.zaobao.com.sg/news/world/story20260508-9020234",
+        "title": "德国银行劫持人质事件结束 无人受伤",
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:45",
+        "time": "2026-05-08 22:45",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260508-9019278",
+        "title": "淡马锡理工院首推技能履历 助毕业生提升就业竞争力",
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:46",
         "time": "2026-05-08 22:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260507-9014118",
         "title": "新电信优惠股开放套现 整体运作顺畅未发现诈骗投诉",
-        "seq": 253
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:53",
+        "time": "2026-05-08 22:53",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260508-9020020",
+        "title": "菲经济低增长高通胀 财长否认陷滞胀危机",
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2310,25 @@
         "time": "2026-05-08 22:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20260507-9014488",
         "title": "国际奥委会解除限制 白罗斯运动员可参加洛杉矶奥运会",
-        "seq": 254
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:56",
+        "time": "2026-05-08 22:56",
+        "link": "https://www.zaobao.com.sg/news/world/story20260508-9020070",
+        "title": "美伊再交火 危及脆弱停火协议",
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:56",
+        "time": "2026-05-08 22:56",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260508-9020340",
+        "title": "午言媒体第三季净亏减42% 毛亏损逆转为毛盈利",
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2337,7 @@
         "time": "2026-05-08 22:59",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260507-9014127",
         "title": "凯德投资携手零售商协会 助本地零售商进驻新山",
-        "seq": 255
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2346,7 @@
         "time": "2026-05-08 23:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260507-9014515",
         "title": "宝泽亚太REIT下半年每单位派息增加4.1%至5.13分",
-        "seq": 256
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2355,7 @@
         "time": "2026-05-08 23:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260507-9014476",
         "title": "林厝港岸外浮动渔场工人遭雷击身亡",
-        "seq": 257
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2364,7 @@
         "time": "2026-05-08 23:12",
         "link": "https://www.zaobao.com.sg/news/china/story20260507-9014612",
         "title": "菲律宾出动飞机警告中国科考船 北京批菲颠倒黑白",
-        "seq": 258
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2373,7 @@
         "time": "2026-05-08 23:38",
         "link": "https://www.zaobao.com.sg/news/china/story20260507-9014423",
         "title": "“习特会”登场前特朗普盟友访华沟通 北京重申台湾红线",
-        "seq": 259
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2382,7 @@
         "time": "2026-05-08 23:57",
         "link": "https://www.zaobao.com.sg/news/sea/story20260507-9014695",
         "title": "世卫组织：游轮有五个汉坦病毒病例 公共卫生风险仍低",
-        "seq": 260
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2346,6 +2391,6 @@
         "time": "2026-05-08 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260507-9014695",
         "title": "世卫：游轮有五个汉坦病毒病例 公共卫生风险仍低",
-        "seq": 261
+        "seq": 266
     }
 ]
