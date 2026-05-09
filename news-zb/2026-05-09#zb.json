@@ -1766,11 +1766,29 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:30",
+        "time": "2026-05-09 23:30",
+        "link": "https://www.zaobao.com.sg/news/world/story20260509-9023912",
+        "title": "以色列加强对加沙控制 与哈马斯仍陷僵局",
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:35",
         "time": "2026-05-09 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260508-9020490",
         "title": "美国预计伊朗8日回应美方提案 伊朗称仍在权衡",
-        "seq": 197
+        "seq": 198
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:39",
+        "time": "2026-05-09 23:39",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260509-9023862",
+        "title": "印尼火山喷发 七幸存新加坡人星期天回国",
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1797,7 @@
         "time": "2026-05-09 23:49",
         "link": "https://www.zaobao.com.sg/news/china/story20260508-9020539",
         "title": "48岁中国顶尖遥感专家柯涛去世 曾获军队科技进步一等奖",
-        "seq": 198
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1806,7 @@
         "time": "2026-05-09 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260508-9020515",
         "title": "美国4月新增非农就业岗位显著回落",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,6 +1815,6 @@
         "time": "2026-05-09 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260508-9020533",
         "title": "乌克兰与俄罗斯互相发动无人机攻击 停火建议似难落实",
-        "seq": 200
+        "seq": 202
     }
 ]
