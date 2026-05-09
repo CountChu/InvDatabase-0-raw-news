@@ -1675,12 +1675,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:00",
+        "time": "2026-05-09 23:00",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260509-9023788",
+        "title": "分别战胜罗马尼亚德国 中国日本会师世乒女团决赛",
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:05",
         "time": "2026-05-09 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20260508-9019835",
         "title": "出口受阻原材料供应链中断 中东局势冲击日本车企利润",
-        "seq": 187
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1698,7 @@
         "time": "2026-05-09 23:06",
         "link": "https://www.zaobao.com.sg/news/china/story20260508-9020308",
         "title": "特稿：国民党内因军购裂痕尚待细细缝合",
-        "seq": 188
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1707,7 @@
         "time": "2026-05-09 23:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260508-9020032",
         "title": "参与首届“华文大学先修班研讨会”学生 关注AI对升学途径与就业影响",
-        "seq": 189
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1716,7 @@
         "time": "2026-05-09 23:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20260508-9019346",
         "title": "新柔地铁新山关卡安装220自动闸门 下月试运行确保年底运行",
-        "seq": 190
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1725,7 @@
         "time": "2026-05-09 23:14",
         "link": "https://www.zaobao.com.sg/news/world/story20260508-9020436",
         "title": "伊朗媒体：武装部队与美船只再发生“零星冲突”",
-        "seq": 191
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1734,16 @@
         "time": "2026-05-09 23:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20260508-9020381",
         "title": "中国3比0复仇韩国 晋级世乒赛男团半决赛",
-        "seq": 192
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:17",
+        "time": "2026-05-09 23:17",
+        "link": "https://www.zaobao.com.sg/news/world/story20260509-9023879",
+        "title": "提振支持率 英国首相斯塔默任命前首相布朗为特使",
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1752,7 @@
         "time": "2026-05-09 23:21",
         "link": "https://www.zaobao.com.sg/news/sports/story20260508-9020447",
         "title": "社媒上与未成年少女不当互动 伯恩茅斯希门尼斯被调查",
-        "seq": 193
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1761,7 @@
         "time": "2026-05-09 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260508-9020143",
         "title": "抗癌八年逝世 女子临终撰文提醒亲友活在当下",
-        "seq": 194
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1770,7 @@
         "time": "2026-05-09 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260508-9020490",
         "title": "美国预计伊朗8日回应美方提案 伊朗称仍在权衡",
-        "seq": 195
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1779,7 @@
         "time": "2026-05-09 23:49",
         "link": "https://www.zaobao.com.sg/news/china/story20260508-9020539",
         "title": "48岁中国顶尖遥感专家柯涛去世 曾获军队科技进步一等奖",
-        "seq": 196
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1788,7 @@
         "time": "2026-05-09 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260508-9020515",
         "title": "美国4月新增非农就业岗位显著回落",
-        "seq": 197
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1779,6 +1797,6 @@
         "time": "2026-05-09 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260508-9020533",
         "title": "乌克兰与俄罗斯互相发动无人机攻击 停火建议似难落实",
-        "seq": 198
+        "seq": 200
     }
 ]
