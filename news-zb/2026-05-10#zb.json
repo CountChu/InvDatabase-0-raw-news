@@ -1010,11 +1010,38 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "17:06",
+        "time": "2026-05-10 17:06",
+        "link": "https://www.zaobao.com.sg/news/china/story20260510-9017025",
+        "title": "前美国官员博明吁台湾别只等大型军购 应学乌克兰发展本土军工",
+        "seq": 113
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "17:10",
+        "time": "2026-05-10 17:10",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260510-9025872",
+        "title": "辛纳罗马网球赛旗开得胜 争大师赛六连冠开好头",
+        "seq": 114
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "17:11",
         "time": "2026-05-10 17:11",
         "link": "https://www.zaobao.com.sg/news/china/story20260509-9022749",
         "title": "解放军舰艇编队进澎湖西南海域 大陆国防部：正当合理",
-        "seq": 113
+        "seq": 115
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "17:12",
+        "time": "2026-05-10 17:12",
+        "link": "https://www.zaobao.com.sg/news/china/story20260510-9026144",
+        "title": "重庆市黔江区发生交通事故致二死六伤 警方称司机操作不当",
+        "seq": 116
     },
     {
         "media": "聯合早報",
@@ -1023,7 +1050,16 @@
         "time": "2026-05-10 17:18",
         "link": "https://www.zaobao.com.sg/news/sports/story20260509-9022428",
         "title": "文班亚马高效创季后赛新高 马刺再伤灰狼NBA次轮占优",
-        "seq": 114
+        "seq": 117
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "17:18",
+        "time": "2026-05-10 17:18",
+        "link": "https://www.zaobao.com.sg/news/world/story20260510-9025935",
+        "title": "卡尼：对构建北美堡垒持开放态度",
+        "seq": 118
     },
     {
         "media": "聯合早報",
@@ -1032,7 +1068,7 @@
         "time": "2026-05-10 17:23",
         "link": "https://www.zaobao.com.sg/news/sea/story20260509-9022772",
         "title": "泰国警方截查中国男子 在其家中发现大量武器",
-        "seq": 115
+        "seq": 119
     },
     {
         "media": "聯合早報",
@@ -1041,7 +1077,7 @@
         "time": "2026-05-10 17:29",
         "link": "https://www.zaobao.com.sg/news/china/story20260509-9022794",
         "title": "中国希望法国推动欧盟保持市场开放 以对话解决经贸分歧",
-        "seq": 116
+        "seq": 120
     },
     {
         "media": "聯合早報",
@@ -1050,7 +1086,7 @@
         "time": "2026-05-10 17:36",
         "link": "https://www.zaobao.com.sg/finance/china/story20260509-9022843",
         "title": "台湾4月进出口额创单月次高",
-        "seq": 117
+        "seq": 121
     },
     {
         "media": "聯合早報",
@@ -1059,7 +1095,7 @@
         "time": "2026-05-10 17:48",
         "link": "https://www.zaobao.com.sg/news/sports/story20260509-9022245",
         "title": "折叠脚踏车世锦赛时隔四年回归狮城 开启华侨银行“骑车乐”",
-        "seq": 118
+        "seq": 122
     },
     {
         "media": "聯合早報",
@@ -1068,7 +1104,7 @@
         "time": "2026-05-10 18:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260509-9023360",
         "title": "盲人女孩在盲道被逆行电动车撞倒 北京交警：依法处置",
-        "seq": 119
+        "seq": 123
     },
     {
         "media": "聯合早報",
@@ -1077,7 +1113,7 @@
         "time": "2026-05-10 18:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260509-9022348",
         "title": "华中与战略资讯科技中心签合作备忘录 升级校内服务器融入AI科技",
-        "seq": 120
+        "seq": 124
     },
     {
         "media": "聯合早報",
@@ -1086,7 +1122,7 @@
         "time": "2026-05-10 18:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9022671",
         "title": "美国公布首批UFO档案 160余份绝密文件揭示半世纪“空中异象”",
-        "seq": 121
+        "seq": 125
     },
     {
         "media": "聯合早報",
@@ -1095,7 +1131,7 @@
         "time": "2026-05-10 19:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260509-9022603",
         "title": "Sparkle Care乐龄护理中心提供微型工作 让年长者打发时间也关怀伙伴",
-        "seq": 122
+        "seq": 126
     },
     {
         "media": "聯合早報",
@@ -1104,7 +1140,7 @@
         "time": "2026-05-10 19:27",
         "link": "https://www.zaobao.com.sg/finance/world/story20260509-9023259",
         "title": "黄金重拾动能 本周上扬1.95% 分析师坚定看涨下周金价表现",
-        "seq": 123
+        "seq": 127
     },
     {
         "media": "聯合早報",
@@ -1113,7 +1149,7 @@
         "time": "2026-05-10 19:27",
         "link": "https://www.zaobao.com.sg/finance/world/story20260509-9023259",
         "title": "黄金重拾动能本周上扬1.95% 分析师坚定看涨下周金价表现",
-        "seq": 124
+        "seq": 128
     },
     {
         "media": "聯合早報",
@@ -1122,7 +1158,7 @@
         "time": "2026-05-10 19:43",
         "link": "https://www.zaobao.com.sg/news/sea/story20260509-9023278",
         "title": "雅加达警方突袭网络赌博窝点 逮捕321名外国人",
-        "seq": 125
+        "seq": 129
     },
     {
         "media": "聯合早報",
@@ -1131,7 +1167,7 @@
         "time": "2026-05-10 19:43",
         "link": "https://www.zaobao.com.sg/news/sea/story20260509-9023278",
         "title": "雅加达警方突击网络赌博窝点 逮捕321名外国人",
-        "seq": 126
+        "seq": 130
     },
     {
         "media": "聯合早報",
@@ -1140,7 +1176,7 @@
         "time": "2026-05-10 19:44",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260509-9023174",
         "title": "Canvas遭网络攻击 国大：登录凭证敏感信息未波及",
-        "seq": 127
+        "seq": 131
     },
     {
         "media": "聯合早報",
@@ -1149,7 +1185,7 @@
         "time": "2026-05-10 19:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260509-9022977",
         "title": "政民合作提案开花结果 免费健身俱乐部助残障者提升体能",
-        "seq": 128
+        "seq": 132
     },
     {
         "media": "聯合早報",
@@ -1158,7 +1194,7 @@
         "time": "2026-05-10 20:11",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260509-9016488",
         "title": "香港作家马家辉：写小说源于对秘密过敏",
-        "seq": 129
+        "seq": 133
     },
     {
         "media": "聯合早報",
@@ -1167,7 +1203,7 @@
         "time": "2026-05-10 20:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023376",
         "title": "经济不平等加剧气候致死风险 欧洲每年多10万余人死于酷暑严寒",
-        "seq": 130
+        "seq": 134
     },
     {
         "media": "聯合早報",
@@ -1176,7 +1212,7 @@
         "time": "2026-05-10 20:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023456",
         "title": "美国民航机在丹佛机场起飞时撞到行人",
-        "seq": 131
+        "seq": 135
     },
     {
         "media": "聯合早報",
@@ -1185,7 +1221,7 @@
         "time": "2026-05-10 20:36",
         "link": "https://www.zaobao.com.sg/news/sea/story20260509-9023130",
         "title": "人情债永难偿 彭亨王储借班顿促安华还王室“恩情”",
-        "seq": 132
+        "seq": 136
     },
     {
         "media": "聯合早報",
@@ -1194,7 +1230,7 @@
         "time": "2026-05-10 20:42",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260509-9023432",
         "title": "柔佛开法拉利失控撞毁 新加坡男女葬身火海",
-        "seq": 133
+        "seq": 137
     },
     {
         "media": "聯合早報",
@@ -1203,7 +1239,7 @@
         "time": "2026-05-10 21:03",
         "link": "https://www.zaobao.com.sg/news/china/story20260509-9022411",
         "title": "日商团下周拟赴华考察 学者指经贸交流难化解中日深层矛盾",
-        "seq": 134
+        "seq": 138
     },
     {
         "media": "聯合早報",
@@ -1212,7 +1248,7 @@
         "time": "2026-05-10 21:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260509-9023330",
         "title": "车展首天销售额比去年9月车展首日高22.2％ 中国品牌吸睛",
-        "seq": 135
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1221,7 +1257,7 @@
         "time": "2026-05-10 21:18",
         "link": "https://www.zaobao.com.sg/news/china/story20260509-9023067",
         "title": "中国4月进出口强劲增长 对美出口由负转正",
-        "seq": 136
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1230,7 +1266,7 @@
         "time": "2026-05-10 21:20",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023595",
         "title": "一艘印度船在霍尔木兹海峡附近起火沉没 一死四伤",
-        "seq": 137
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1275,7 @@
         "time": "2026-05-10 21:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260509-9023520",
         "title": "义顺电影城或重新发展为商住两用项目",
-        "seq": 138
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1284,7 @@
         "time": "2026-05-10 21:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023634",
         "title": "克里姆林宫：乌克兰和平之路仍然漫长",
-        "seq": 139
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1293,7 @@
         "time": "2026-05-10 21:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260509-9023557",
         "title": "唱出本地咖啡店特色 华语儿歌创作表演比赛作品具本土风味",
-        "seq": 140
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1302,7 @@
         "time": "2026-05-10 21:47",
         "link": "https://www.zaobao.com.sg/news/sea/story20260509-9023677",
         "title": "新加坡外交官抵杜科诺火山 协助搜救两名失踪国人",
-        "seq": 141
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1311,7 @@
         "time": "2026-05-10 22:04",
         "link": "https://www.zaobao.com.sg/news/sports/story20260509-9023708",
         "title": "客场1比1逼和利物浦 切尔西终结六连败",
-        "seq": 142
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1284,7 +1320,7 @@
         "time": "2026-05-10 22:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023446",
         "title": "特朗普盼俄乌停火三日可“大大延长” 遭莫斯科泼冷水",
-        "seq": 143
+        "seq": 147
     },
     {
         "media": "聯合早報",
@@ -1293,7 +1329,7 @@
         "time": "2026-05-10 22:17",
         "link": "https://www.zaobao.com.sg/news/sports/story20260509-9023272",
         "title": "新加坡泳联多管齐下 加强本地水上运动生态体系",
-        "seq": 144
+        "seq": 148
     },
     {
         "media": "聯合早報",
@@ -1302,7 +1338,7 @@
         "time": "2026-05-10 22:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023618",
         "title": "美伊停火期间冲突频发 短期恐难结束战争",
-        "seq": 145
+        "seq": 149
     },
     {
         "media": "聯合早報",
@@ -1311,7 +1347,7 @@
         "time": "2026-05-10 22:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023765",
         "title": "英国派军舰往中东 准备参加霍尔木兹海峡护航行动",
-        "seq": 146
+        "seq": 150
     },
     {
         "media": "聯合早報",
@@ -1320,7 +1356,7 @@
         "time": "2026-05-10 22:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260509-9023563",
         "title": "旧马西岭民众俱乐部下月走入历史 四代基层顾问重聚首告别",
-        "seq": 147
+        "seq": 151
     },
     {
         "media": "聯合早報",
@@ -1329,7 +1365,7 @@
         "time": "2026-05-10 23:00",
         "link": "https://www.zaobao.com.sg/news/sports/story20260509-9023788",
         "title": "分别战胜罗马尼亚德国 中国日本会师世乒女团决赛",
-        "seq": 148
+        "seq": 152
     },
     {
         "media": "聯合早報",
@@ -1338,7 +1374,7 @@
         "time": "2026-05-10 23:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023879",
         "title": "提振支持率 英国首相斯塔默任命前首相布朗为特使",
-        "seq": 149
+        "seq": 153
     },
     {
         "media": "聯合早報",
@@ -1347,7 +1383,7 @@
         "time": "2026-05-10 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023912",
         "title": "以色列加强对加沙控制 与哈马斯仍陷僵局",
-        "seq": 150
+        "seq": 154
     },
     {
         "media": "聯合早報",
@@ -1356,6 +1392,6 @@
         "time": "2026-05-10 23:39",
         "link": "https://www.zaobao.com.sg/news/sea/story20260509-9023862",
         "title": "印尼火山喷发 七幸存新加坡人星期天回国",
-        "seq": 151
+        "seq": 155
     }
 ]
