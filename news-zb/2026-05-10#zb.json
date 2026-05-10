@@ -1783,12 +1783,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:51",
+        "time": "2026-05-10 22:51",
+        "link": "https://www.zaobao.com.sg/news/china/story20260510-9027181",
+        "title": "何立峰周二赴韩两天与美国磋商经贸",
+        "seq": 199
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:00",
         "time": "2026-05-10 23:00",
         "link": "https://www.zaobao.com.sg/news/sports/story20260509-9023788",
         "title": "分别战胜罗马尼亚德国 中国日本会师世乒女团决赛",
-        "seq": 199
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1806,7 @@
         "time": "2026-05-10 23:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260510-9027032",
         "title": "金宇澄：七彩店屋与五脚基 最能代表新加坡",
-        "seq": 200
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1815,7 @@
         "time": "2026-05-10 23:09",
         "link": "https://www.zaobao.com.sg/news/china/story20260510-9027040",
         "title": "中国公民卷入多起海外被拘捕案件 学者：尚难判断出现趋势性增加",
-        "seq": 201
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1824,16 @@
         "time": "2026-05-10 23:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023879",
         "title": "提振支持率 英国首相斯塔默任命前首相布朗为特使",
-        "seq": 202
+        "seq": 203
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:20",
+        "time": "2026-05-10 23:20",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260510-9027180",
+        "title": "东爪哇省火山区连环车祸 六名新加坡游客受伤",
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1842,16 @@
         "time": "2026-05-10 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023912",
         "title": "以色列加强对加沙控制 与哈马斯仍陷僵局",
-        "seq": 203
+        "seq": 205
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:33",
+        "time": "2026-05-10 23:33",
+        "link": "https://www.zaobao.com.sg/news/world/story20260510-9027052",
+        "title": "伊朗据报已回应美国方案 着重结束战争保障海运安全",
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1833,6 +1860,6 @@
         "time": "2026-05-10 23:39",
         "link": "https://www.zaobao.com.sg/news/sea/story20260509-9023862",
         "title": "印尼火山喷发 七幸存新加坡人星期天回国",
-        "seq": 204
+        "seq": 207
     }
 ]
