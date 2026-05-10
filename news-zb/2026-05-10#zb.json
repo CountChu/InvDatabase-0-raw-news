@@ -1792,12 +1792,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:01",
+        "time": "2026-05-10 23:01",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260510-9027032",
+        "title": "金宇澄：七彩店屋与五脚基 最能代表新加坡",
+        "seq": 200
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:09",
+        "time": "2026-05-10 23:09",
+        "link": "https://www.zaobao.com.sg/news/china/story20260510-9027040",
+        "title": "中国公民卷入多起海外被拘捕案件 学者：尚难判断出现趋势性增加",
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:17",
         "time": "2026-05-10 23:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023879",
         "title": "提振支持率 英国首相斯塔默任命前首相布朗为特使",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-05-10 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260509-9023912",
         "title": "以色列加强对加沙控制 与哈马斯仍陷僵局",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,6 +1833,6 @@
         "time": "2026-05-10 23:39",
         "link": "https://www.zaobao.com.sg/news/sea/story20260509-9023862",
         "title": "印尼火山喷发 七幸存新加坡人星期天回国",
-        "seq": 202
+        "seq": 204
     }
 ]
