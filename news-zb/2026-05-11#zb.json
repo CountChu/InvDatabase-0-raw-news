@@ -1837,12 +1837,57 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:39",
+        "time": "2026-05-11 22:39",
+        "link": "https://www.zaobao.com.sg/news/world/story20260511-9032251",
+        "title": "特朗普拒绝伊朗提案 美伊停战增变数",
+        "seq": 205
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:40",
+        "time": "2026-05-11 22:40",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260511-9032255",
+        "title": "沪指创11年新高  瑞银分析师：4200点不是今年终点",
+        "seq": 206
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:45",
+        "time": "2026-05-11 22:45",
+        "link": "https://www.zaobao.com.sg/news/china/story20260511-9031985",
+        "title": "特朗普在北京期间去哪儿住哪儿？",
+        "seq": 207
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:47",
+        "time": "2026-05-11 22:47",
+        "link": "https://www.zaobao.com.sg/news/world/story20260511-9032533",
+        "title": "白宫记者晚宴枪手对所有指控拒不认罪",
+        "seq": 208
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:51",
         "time": "2026-05-11 22:51",
         "link": "https://www.zaobao.com.sg/news/china/story20260510-9027181",
         "title": "何立峰周二赴韩两天与美国磋商经贸",
-        "seq": 205
+        "seq": 209
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:54",
+        "time": "2026-05-11 22:54",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260511-9032420",
+        "title": "新航工程下半年净利增加20.9%至8560万元",
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1896,7 @@
         "time": "2026-05-11 23:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260510-9027032",
         "title": "金宇澄：七彩店屋与五脚基 最能代表新加坡",
-        "seq": 206
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1905,7 @@
         "time": "2026-05-11 23:07",
         "link": "https://www.zaobao.com.sg/news/sea/story20260510-9027113",
         "title": "两新加坡死者遗体寻获 印尼火山搜救工作结束",
-        "seq": 207
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1914,7 @@
         "time": "2026-05-11 23:09",
         "link": "https://www.zaobao.com.sg/news/china/story20260510-9027040",
         "title": "中国公民卷入多起海外被拘捕案件 学者：尚难判断出现趋势性增加",
-        "seq": 208
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1923,7 @@
         "time": "2026-05-11 23:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260510-9027180",
         "title": "东爪哇省火山区连环车祸 六名新加坡游客受伤",
-        "seq": 209
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1932,7 @@
         "time": "2026-05-11 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260510-9027052",
         "title": "伊朗据报已回应美国方案 着重结束战争保障海运安全",
-        "seq": 210
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1941,7 @@
         "time": "2026-05-11 23:48",
         "link": "https://www.zaobao.com.sg/news/sea/story20260510-9027307",
         "title": "巫统成立全国协商大会处理马来社群焦虑",
-        "seq": 211
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1950,7 @@
         "time": "2026-05-11 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260510-9026990",
         "title": "慈济庆祝成立60周年 2000多人共同组成巨型图像",
-        "seq": 212
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1959,7 @@
         "time": "2026-05-11 23:52",
         "link": "https://www.zaobao.com.sg/news/world/story20260510-9027297",
         "title": "特朗普：两周内可打击伊朗“每一个目标”",
-        "seq": 213
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1923,6 +1968,6 @@
         "time": "2026-05-11 23:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20260510-9027166",
         "title": "英超三场皆和局 众球队“喜闻乐见”维拉踢平",
-        "seq": 214
+        "seq": 219
     }
 ]
