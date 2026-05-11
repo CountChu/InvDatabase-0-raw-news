@@ -1711,12 +1711,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:00",
+        "time": "2026-05-11 22:00",
+        "link": "https://www.zaobao.com.sg/news/world/story20260511-9032415",
+        "title": "自杀式袭击致15警员死 巴基斯坦向阿富汗使馆临时代办抗议",
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:02",
         "time": "2026-05-11 22:02",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260510-9027059",
         "title": "捷豹汽车疑超车失控撞树 56岁男驾驶伤重送院不治",
-        "seq": 191
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:04",
+        "time": "2026-05-11 22:04",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260511-9032136",
+        "title": "新加坡企业加速AI部署 但人才战略仍显落后",
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1743,7 @@
         "time": "2026-05-11 22:08",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260510-9026031",
         "title": "EC政策收紧需求或外溢 分析：买家或转向私宅或百万组屋市场",
-        "seq": 192
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1752,25 @@
         "time": "2026-05-11 22:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260510-9026779",
         "title": "洪迪厄斯号首批疏散乘客 已飞往马德里接受隔离",
-        "seq": 193
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:12",
+        "time": "2026-05-11 22:12",
+        "link": "https://www.zaobao.com.sg/news/world/story20260511-9032041",
+        "title": "日本安保三文件是否列中国为“威胁” 执政党内部分歧",
+        "seq": 196
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:19",
+        "time": "2026-05-11 22:19",
+        "link": "https://www.zaobao.com.sg/news/china/story20260511-9032307",
+        "title": "香港计划将网约车服务合法化 起步将发至少一万张牌照",
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1779,7 @@
         "time": "2026-05-11 22:25",
         "link": "https://www.zaobao.com.sg/news/china/story20260510-9027130",
         "title": "世乒赛女团七连冠 中国女乒逆转战胜日本",
-        "seq": 194
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1788,7 @@
         "time": "2026-05-11 22:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260510-9027103",
         "title": "波兰前司法部长遭通缉 疑从匈牙利逃往美国",
-        "seq": 195
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1797,7 @@
         "time": "2026-05-11 22:36",
         "link": "https://www.zaobao.com.sg/news/sports/story20260510-9027061",
         "title": "新潟阿比雷斯2比0胜出 打破狮城水手联赛不败金身",
-        "seq": 196
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1806,7 @@
         "time": "2026-05-11 22:51",
         "link": "https://www.zaobao.com.sg/news/china/story20260510-9027181",
         "title": "何立峰周二赴韩两天与美国磋商经贸",
-        "seq": 197
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1815,7 @@
         "time": "2026-05-11 23:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260510-9027032",
         "title": "金宇澄：七彩店屋与五脚基 最能代表新加坡",
-        "seq": 198
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1824,7 @@
         "time": "2026-05-11 23:07",
         "link": "https://www.zaobao.com.sg/news/sea/story20260510-9027113",
         "title": "两新加坡死者遗体寻获 印尼火山搜救工作结束",
-        "seq": 199
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1833,7 @@
         "time": "2026-05-11 23:09",
         "link": "https://www.zaobao.com.sg/news/china/story20260510-9027040",
         "title": "中国公民卷入多起海外被拘捕案件 学者：尚难判断出现趋势性增加",
-        "seq": 200
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1842,7 @@
         "time": "2026-05-11 23:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260510-9027180",
         "title": "东爪哇省火山区连环车祸 六名新加坡游客受伤",
-        "seq": 201
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1851,7 @@
         "time": "2026-05-11 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260510-9027052",
         "title": "伊朗据报已回应美国方案 着重结束战争保障海运安全",
-        "seq": 202
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1860,7 @@
         "time": "2026-05-11 23:48",
         "link": "https://www.zaobao.com.sg/news/sea/story20260510-9027307",
         "title": "巫统成立全国协商大会处理马来社群焦虑",
-        "seq": 203
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1869,7 @@
         "time": "2026-05-11 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260510-9026990",
         "title": "慈济庆祝成立60周年 2000多人共同组成巨型图像",
-        "seq": 204
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1878,7 @@
         "time": "2026-05-11 23:52",
         "link": "https://www.zaobao.com.sg/news/world/story20260510-9027297",
         "title": "特朗普：两周内可打击伊朗“每一个目标”",
-        "seq": 205
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1851,6 +1887,6 @@
         "time": "2026-05-11 23:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20260510-9027166",
         "title": "英超三场皆和局 众球队“喜闻乐见”维拉踢平",
-        "seq": 206
+        "seq": 210
     }
 ]
