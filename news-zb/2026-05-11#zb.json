@@ -1900,12 +1900,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:01",
+        "time": "2026-05-11 23:01",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9032464",
+        "title": "前演员黄奕良遭鸡饭摊主袭击 档口不搬也不关但要划清界限",
+        "seq": 212
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:04",
+        "time": "2026-05-11 23:04",
+        "link": "https://www.zaobao.com.sg/news/china/story20260511-9032612",
+        "title": "消息：黄仁勋未受邀随特朗普访华",
+        "seq": 213
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:07",
         "time": "2026-05-11 23:07",
         "link": "https://www.zaobao.com.sg/news/sea/story20260510-9027113",
         "title": "两新加坡死者遗体寻获 印尼火山搜救工作结束",
-        "seq": 212
+        "seq": 214
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:08",
+        "time": "2026-05-11 23:08",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9032285",
+        "title": "违反防暑规定似有改善 人力部：积极降热保护工人不容懈怠",
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1941,7 @@
         "time": "2026-05-11 23:09",
         "link": "https://www.zaobao.com.sg/news/china/story20260510-9027040",
         "title": "中国公民卷入多起海外被拘捕案件 学者：尚难判断出现趋势性增加",
-        "seq": 213
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1950,7 @@
         "time": "2026-05-11 23:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260510-9027180",
         "title": "东爪哇省火山区连环车祸 六名新加坡游客受伤",
-        "seq": 214
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1959,7 @@
         "time": "2026-05-11 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260510-9027052",
         "title": "伊朗据报已回应美国方案 着重结束战争保障海运安全",
-        "seq": 215
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1968,7 @@
         "time": "2026-05-11 23:48",
         "link": "https://www.zaobao.com.sg/news/sea/story20260510-9027307",
         "title": "巫统成立全国协商大会处理马来社群焦虑",
-        "seq": 216
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1977,7 @@
         "time": "2026-05-11 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260510-9026990",
         "title": "慈济庆祝成立60周年 2000多人共同组成巨型图像",
-        "seq": 217
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1986,7 @@
         "time": "2026-05-11 23:52",
         "link": "https://www.zaobao.com.sg/news/world/story20260510-9027297",
         "title": "特朗普：两周内可打击伊朗“每一个目标”",
-        "seq": 218
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1968,6 +1995,6 @@
         "time": "2026-05-11 23:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20260510-9027166",
         "title": "英超三场皆和局 众球队“喜闻乐见”维拉踢平",
-        "seq": 219
+        "seq": 222
     }
 ]
