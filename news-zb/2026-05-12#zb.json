@@ -1936,12 +1936,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:21",
+        "time": "2026-05-12 22:21",
+        "link": "https://www.zaobao.com.sg/news/china/story20260512-9038216",
+        "title": "赖清德：任何孤立企图 都无法改变台湾参与国际社会决心",
+        "seq": 216
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:22",
+        "time": "2026-05-12 22:22",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260512-9037867",
+        "title": "Prime美国房地产投资信托净房地产收益持续改善 首季环比涨3.3%",
+        "seq": 217
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:23",
         "time": "2026-05-12 22:23",
         "link": "https://www.zaobao.com.sg/news/world/story20260511-9032209",
         "title": "94人已撤离汉坦病毒游轮 一法国人一美国人检测结果呈阳",
-        "seq": 216
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1968,7 @@
         "time": "2026-05-12 22:29",
         "link": "https://www.zaobao.com.sg/news/china/story20260511-9031785",
         "title": "美国据报对台军购预算缩水失望 台外长吁立法院朝野合作补救",
-        "seq": 217
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1977,16 @@
         "time": "2026-05-12 22:29",
         "link": "https://www.zaobao.com.sg/news/sports/story20260511-9032064",
         "title": "【体坛周爆】视频裁判“敲定”英超冠军？足坛VAR再添争议",
-        "seq": 218
+        "seq": 220
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:29",
+        "time": "2026-05-12 22:29",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260512-9038172",
+        "title": "刚率队称霸西甲 巴塞主帅弗里克续约一年",
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1995,7 @@
         "time": "2026-05-12 22:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260511-9031559",
         "title": "武汉大学回应OPPO广告 陷“舆论连坐”争议",
-        "seq": 219
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2004,7 @@
         "time": "2026-05-12 22:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260511-9032251",
         "title": "特朗普拒绝伊朗提案 美伊停战增变数",
-        "seq": 220
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2013,7 @@
         "time": "2026-05-12 22:40",
         "link": "https://www.zaobao.com.sg/finance/china/story20260511-9032255",
         "title": "沪指创11年新高  瑞银分析师：4200点不是今年终点",
-        "seq": 221
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2022,7 @@
         "time": "2026-05-12 22:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260511-9031985",
         "title": "特朗普在北京期间去哪儿住哪儿？",
-        "seq": 222
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2031,7 @@
         "time": "2026-05-12 22:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260511-9032533",
         "title": "白宫记者晚宴枪手对所有指控拒不认罪",
-        "seq": 223
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2040,7 @@
         "time": "2026-05-12 22:54",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260511-9032420",
         "title": "新航工程下半年净利增加20.9%至8560万元",
-        "seq": 224
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2049,7 @@
         "time": "2026-05-12 23:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9032464",
         "title": "前演员黄奕良遭鸡饭摊主袭击 档口不搬也不关但要划清界限",
-        "seq": 225
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2058,7 @@
         "time": "2026-05-12 23:04",
         "link": "https://www.zaobao.com.sg/news/china/story20260511-9032612",
         "title": "消息：黄仁勋未受邀随特朗普访华",
-        "seq": 226
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2067,7 @@
         "time": "2026-05-12 23:08",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9032285",
         "title": "违反防暑规定似有改善 人力部：积极降热保护工人不容懈怠",
-        "seq": 227
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2076,7 @@
         "time": "2026-05-12 23:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9032405",
         "title": "屋契仅剩45年 中峇鲁四房式老组屋153万元转售创新高",
-        "seq": 228
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2085,7 @@
         "time": "2026-05-12 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9031136",
         "title": "性别焦虑症新规出台 跨性别团体支持统一标准但忧求医路更难",
-        "seq": 229
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2094,7 @@
         "time": "2026-05-12 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9031136",
         "title": "跨性别团体支持统一标准\n但忧新指导原则使求医路更难",
-        "seq": 230
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2103,7 @@
         "time": "2026-05-12 23:27",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260511-9032576",
         "title": "豪支付委任AXS创办人张伟南为独立董事 备战第四季消费者支付试点",
-        "seq": 231
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2112,7 @@
         "time": "2026-05-12 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9030364",
         "title": "保健卫生部首个性别焦虑症治疗指导原则 不应为18岁以下者提供荷尔蒙或手术治疗",
-        "seq": 232
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2094,6 +2121,6 @@
         "time": "2026-05-12 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9030364",
         "title": "18岁以下性别焦虑症患者 不应接受荷尔蒙手术治疗",
-        "seq": 233
+        "seq": 236
     }
 ]
