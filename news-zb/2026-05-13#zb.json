@@ -541,12 +541,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:27",
+        "time": "2026-05-13 23:27",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260512-9037638",
+        "title": "星巴克拟申请清真认证 或将禁宠物到店面",
+        "seq": 61
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:32",
         "time": "2026-05-13 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260512-9037924",
         "title": "特朗普访华前夕 美财长访日给高市派定心丸",
-        "seq": 61
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -555,7 +564,7 @@
         "time": "2026-05-13 23:39",
         "link": "https://www.zaobao.com.sg/news/sports/story20260512-9038218",
         "title": "离卫冕差三分钟但被自家球迷冲场 布拉格斯拉维亚遭重罚",
-        "seq": 62
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -564,7 +573,7 @@
         "time": "2026-05-13 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260512-9038371",
         "title": "韩国总统李在明将会见中美高官",
-        "seq": 63
+        "seq": 64
     },
     {
         "media": "聯合早報",
@@ -573,7 +582,7 @@
         "time": "2026-05-13 23:43",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260512-9038207",
         "title": "冬海集团首季业绩优于预期 净利增6%至4.3亿美元",
-        "seq": 64
+        "seq": 65
     },
     {
         "media": "聯合早報",
@@ -582,7 +591,7 @@
         "time": "2026-05-13 23:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260512-9038163",
         "title": "数安联盟培训高等学府学生 化身长辈“数码卫士”",
-        "seq": 65
+        "seq": 66
     },
     {
         "media": "聯合早報",
@@ -591,7 +600,7 @@
         "time": "2026-05-13 23:46",
         "link": "https://www.zaobao.com.sg/news/sea/story20260512-9037506",
         "title": "维持每月200公升 马国不减RON95汽油配额",
-        "seq": 66
+        "seq": 67
     },
     {
         "media": "聯合早報",
@@ -600,6 +609,6 @@
         "time": "2026-05-13 23:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260512-9038209",
         "title": "勿洛肺结核筛查结果陆续出炉 血检呈阳者星期三起照X光",
-        "seq": 67
+        "seq": 68
     }
 ]
