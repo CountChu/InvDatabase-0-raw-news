@@ -2035,12 +2035,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:47",
+        "time": "2026-05-12 22:47",
+        "link": "https://www.zaobao.com.sg/news/china/story20260512-9036317",
+        "title": "黄仁勋据报未随特朗普访华 分析：英伟达晶片难有大订单",
+        "seq": 227
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:54",
         "time": "2026-05-12 22:54",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260511-9032420",
         "title": "新航工程下半年净利增加20.9%至8560万元",
-        "seq": 227
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2058,7 @@
         "time": "2026-05-12 23:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9032464",
         "title": "前演员黄奕良遭鸡饭摊主袭击 档口不搬也不关但要划清界限",
-        "seq": 228
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2067,7 @@
         "time": "2026-05-12 23:04",
         "link": "https://www.zaobao.com.sg/news/china/story20260511-9032612",
         "title": "消息：黄仁勋未受邀随特朗普访华",
-        "seq": 229
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2076,7 @@
         "time": "2026-05-12 23:08",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9032285",
         "title": "违反防暑规定似有改善 人力部：积极降热保护工人不容懈怠",
-        "seq": 230
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2076,15 +2085,6 @@
         "time": "2026-05-12 23:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9032405",
         "title": "屋契仅剩45年 中峇鲁四房式老组屋153万元转售创新高",
-        "seq": 231
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "23:22",
-        "time": "2026-05-12 23:22",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9031136",
-        "title": "性别焦虑症新规出台 跨性别团体支持统一标准但忧求医路更难",
         "seq": 232
     },
     {
@@ -2093,8 +2093,17 @@
         "timeText": "23:22",
         "time": "2026-05-12 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9031136",
-        "title": "跨性别团体支持统一标准\n但忧新指导原则使求医路更难",
+        "title": "性别焦虑症新规出台 跨性别团体支持统一标准但忧求医路更难",
         "seq": 233
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:22",
+        "time": "2026-05-12 23:22",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9031136",
+        "title": "跨性别团体支持统一标准\n但忧新指导原则使求医路更难",
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2103,15 +2112,6 @@
         "time": "2026-05-12 23:27",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260511-9032576",
         "title": "豪支付委任AXS创办人张伟南为独立董事 备战第四季消费者支付试点",
-        "seq": 234
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "23:52",
-        "time": "2026-05-12 23:52",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9030364",
-        "title": "保健卫生部首个性别焦虑症治疗指导原则 不应为18岁以下者提供荷尔蒙或手术治疗",
         "seq": 235
     },
     {
@@ -2120,7 +2120,16 @@
         "timeText": "23:52",
         "time": "2026-05-12 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9030364",
-        "title": "18岁以下性别焦虑症患者 不应接受荷尔蒙手术治疗",
+        "title": "保健卫生部首个性别焦虑症治疗指导原则 不应为18岁以下者提供荷尔蒙或手术治疗",
         "seq": 236
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:52",
+        "time": "2026-05-12 23:52",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260511-9030364",
+        "title": "18岁以下性别焦虑症患者 不应接受荷尔蒙手术治疗",
+        "seq": 237
     }
 ]
