@@ -2215,12 +2215,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:03",
+        "time": "2026-05-13 23:03",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260513-9044338",
+        "title": "小马可斯称未下达逮捕德拉罗萨的指令",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:04",
         "time": "2026-05-13 23:04",
         "link": "https://www.zaobao.com.sg/news/world/story20260512-9038293",
         "title": "五角大楼：美国在伊朗战争已耗资近290亿美元",
-        "seq": 247
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:08",
+        "time": "2026-05-13 23:08",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260513-9042040",
+        "title": "陆交局查逾120起违法使用报废车辆案 充公55辆车",
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2247,7 @@
         "time": "2026-05-13 23:09",
         "link": "https://www.zaobao.com.sg/finance/world/story20260512-9038297",
         "title": "eBay拒绝GameStop的560亿美元收购献议",
-        "seq": 248
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2238,24 +2256,6 @@
         "time": "2026-05-13 23:18",
         "link": "https://www.zaobao.com.sg/news/china/story20260512-9038090",
         "title": "“习特会”或谈对台军售 卓荣泰：持续推进台美军购三拼图",
-        "seq": 249
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "23:27",
-        "time": "2026-05-13 23:27",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260512-9037638",
-        "title": "星巴克申请清真认证将不再“宠物友好” 饲主另觅去处",
-        "seq": 250
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "23:27",
-        "time": "2026-05-13 23:27",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260512-9037638",
-        "title": "星巴克申请清真认证　或禁宠物到店面",
         "seq": 251
     },
     {
@@ -2264,7 +2264,7 @@
         "timeText": "23:27",
         "time": "2026-05-13 23:27",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260512-9037638",
-        "title": "星巴克拟申请清真认证　将禁宠物进店",
+        "title": "星巴克申请清真认证将不再“宠物友好” 饲主另觅去处",
         "seq": 252
     },
     {
@@ -2273,7 +2273,7 @@
         "timeText": "23:27",
         "time": "2026-05-13 23:27",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260512-9037638",
-        "title": "星巴克拟申请清真认证 或将禁宠物到店面",
+        "title": "星巴克申请清真认证　或禁宠物到店面",
         "seq": 253
     },
     {
@@ -2282,8 +2282,26 @@
         "timeText": "23:27",
         "time": "2026-05-13 23:27",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260512-9037638",
-        "title": "星巴克拟申请清真认证 将禁宠物到店面",
+        "title": "星巴克拟申请清真认证　将禁宠物进店",
         "seq": 254
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:27",
+        "time": "2026-05-13 23:27",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260512-9037638",
+        "title": "星巴克拟申请清真认证 或将禁宠物到店面",
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:27",
+        "time": "2026-05-13 23:27",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260512-9037638",
+        "title": "星巴克拟申请清真认证 将禁宠物到店面",
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2310,7 @@
         "time": "2026-05-13 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260512-9037924",
         "title": "特朗普访华前夕 美财长访日给高市派定心丸",
-        "seq": 255
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2319,7 @@
         "time": "2026-05-13 23:39",
         "link": "https://www.zaobao.com.sg/news/sports/story20260512-9038218",
         "title": "离卫冕差三分钟但被自家球迷冲场 布拉格斯拉维亚遭重罚",
-        "seq": 256
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2328,7 @@
         "time": "2026-05-13 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260512-9038371",
         "title": "韩国总统李在明将会见中美高官",
-        "seq": 257
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2337,7 @@
         "time": "2026-05-13 23:43",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260512-9038207",
         "title": "冬海集团首季业绩优于预期 净利增6%至4.3亿美元",
-        "seq": 258
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2346,7 @@
         "time": "2026-05-13 23:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260512-9038163",
         "title": "数安联盟培训高等学府学生 化身长辈“数码卫士”",
-        "seq": 259
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2355,7 @@
         "time": "2026-05-13 23:46",
         "link": "https://www.zaobao.com.sg/news/sea/story20260512-9037506",
         "title": "维持每月200公升 马国不减RON95汽油配额",
-        "seq": 260
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2346,6 +2364,6 @@
         "time": "2026-05-13 23:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260512-9038209",
         "title": "勿洛肺结核筛查结果陆续出炉 血检呈阳者星期三起照X光",
-        "seq": 261
+        "seq": 263
     }
 ]
