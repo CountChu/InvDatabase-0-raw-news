@@ -2269,12 +2269,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:24",
+        "time": "2026-05-15 23:24",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260515-9056787",
+        "title": "两瑞士名牌联手Royal Pop怀表发售前夕 商场外大排长龙",
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:25",
+        "time": "2026-05-15 23:25",
+        "link": "https://www.zaobao.com.sg/news/world/story20260515-9057033",
+        "title": "阿联酋据悉试图说服邻国协同回击伊朗遭拒",
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:26",
+        "time": "2026-05-15 23:26",
+        "link": "https://www.zaobao.com.sg/news/china/story20260515-9057095",
+        "title": "特朗普：中国承诺采购增购波音飞机并采购通用电气发动机",
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:35",
         "time": "2026-05-15 23:35",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260514-9050988",
         "title": "新加坡太空实验室启用 加速太空技术商业应用",
-        "seq": 253
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2310,7 @@
         "time": "2026-05-15 23:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260514-9051035",
         "title": "巴勒斯坦法塔赫举行第八次代表大会 阿巴斯承诺推进改革",
-        "seq": 254
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2319,7 @@
         "time": "2026-05-15 23:41",
         "link": "https://www.zaobao.com.sg/news/sports/story20260514-9051012",
         "title": "伊朗为足球队办盛大世界杯欢送会 足总称美国未发签证",
-        "seq": 255
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2328,7 @@
         "time": "2026-05-15 23:45",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260514-9049539",
         "title": "中小企业AI采用率升至14.5% 业界盼获得针对性指导",
-        "seq": 256
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2337,7 @@
         "time": "2026-05-15 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20260514-9050736",
         "title": "分析：特朗普处于弱姿态与习近平谈判",
-        "seq": 257
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2319,6 +2346,6 @@
         "time": "2026-05-15 23:55",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260514-9050424",
         "title": "刘燕玲：企业应视挑战为机会窗口 提升“ABC”三大能力",
-        "seq": 258
+        "seq": 261
     }
 ]
