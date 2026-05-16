@@ -1684,12 +1684,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:49",
+        "time": "2026-05-16 22:49",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260516-9060312",
+        "title": "涉参院枪战放走国际刑院通缉犯 菲参院保安首长遭停职",
+        "seq": 188
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:50",
         "time": "2026-05-16 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260515-9056965",
         "title": "新加坡置地斥资近3亿元 收购大华银行诺维娜广场合资企业股份",
-        "seq": 188
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1707,7 @@
         "time": "2026-05-16 22:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260515-9056679",
         "title": "特朗普称中国愿支持美伊谈判 伊方要美国展现诚意",
-        "seq": 189
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1716,7 @@
         "time": "2026-05-16 23:00",
         "link": "https://www.zaobao.com.sg/news/china/story20260515-9056605",
         "title": "中国敲定世界杯转播权  网络舆论掀“胜利”论",
-        "seq": 190
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1725,7 @@
         "time": "2026-05-16 23:24",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260515-9056787",
         "title": "两瑞士名牌联手Royal Pop怀表发售前夕 商场外大排长龙",
-        "seq": 191
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1734,7 @@
         "time": "2026-05-16 23:25",
         "link": "https://www.zaobao.com.sg/news/world/story20260515-9057033",
         "title": "阿联酋据悉试图说服邻国协同回击伊朗遭拒",
-        "seq": 192
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1743,7 @@
         "time": "2026-05-16 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20260515-9057095",
         "title": "特朗普：中国承诺采购增购波音飞机并采购通用电气发动机",
-        "seq": 193
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1743,15 +1752,6 @@
         "time": "2026-05-16 23:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260515-9057137",
         "title": "特朗普称未在习特会谈及延长关税休战",
-        "seq": 194
-    },
-    {
-        "media": "聯合早報",
-        "category": "国际",
-        "timeText": "23:54",
-        "time": "2026-05-16 23:54",
-        "link": "https://www.zaobao.com.sg/news/world/story20260515-9057139",
-        "title": "特朗普：美伊停火系“应其他国家要求”",
         "seq": 195
     },
     {
@@ -1760,8 +1760,17 @@
         "timeText": "23:54",
         "time": "2026-05-16 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20260515-9057139",
-        "title": "特朗普：美伊停火是“应其他国家要求”",
+        "title": "特朗普：美伊停火系“应其他国家要求”",
         "seq": 196
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:54",
+        "time": "2026-05-16 23:54",
+        "link": "https://www.zaobao.com.sg/news/world/story20260515-9057139",
+        "title": "特朗普：美伊停火是“应其他国家要求”",
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,6 +1779,6 @@
         "time": "2026-05-16 23:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260515-9056956",
         "title": "华业集团以6850万元收购大华银行在乌节路资产权益",
-        "seq": 197
+        "seq": 198
     }
 ]
