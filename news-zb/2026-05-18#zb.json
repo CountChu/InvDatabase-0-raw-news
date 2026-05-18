@@ -1954,12 +1954,57 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:21",
+        "time": "2026-05-18 21:21",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260518-9068284",
+        "title": "第一通未公布具体人手调整 会否裁员不详",
+        "seq": 218
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:22",
+        "time": "2026-05-18 21:22",
+        "link": "https://www.zaobao.com.sg/news/world/story20260518-9068590",
+        "title": "伊媒：美方提议暂免对伊朗石油制裁",
+        "seq": 219
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "21:24",
         "time": "2026-05-18 21:24",
         "link": "https://www.zaobao.com.sg/news/sports/story20260517-9063091",
         "title": "罗马拿下德比战升意甲第四 尤文输球欧冠资格不妙",
-        "seq": 218
+        "seq": 220
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:25",
+        "time": "2026-05-18 21:25",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260518-9068186",
+        "title": "新加坡推亚洲首个AI测试认证计划 为业者确立标准",
+        "seq": 221
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:33",
+        "time": "2026-05-18 21:33",
+        "link": "https://www.zaobao.com.sg/news/china/story20260518-9068633",
+        "title": "何立峰会见苏姿丰 超威称将持续加大在华投资",
+        "seq": 222
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:39",
+        "time": "2026-05-18 21:39",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260518-9068379",
+        "title": "国阵叫阵、后院失火 安华抛同步大选豪赌能否冲破多重围剿？",
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2013,7 @@
         "time": "2026-05-18 21:48",
         "link": "https://www.zaobao.com.sg/news/sea/story20260517-9062839",
         "title": "胡志明市查获八吨未经检疫肉类 包括猫狗肉与动物内脏",
-        "seq": 219
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2022,7 @@
         "time": "2026-05-18 21:49",
         "link": "https://www.zaobao.com.sg/news/china/story20260517-9062916",
         "title": "苏起谈习特会：北京釜底抽薪 美挺台力度将减弱",
-        "seq": 220
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2031,7 @@
         "time": "2026-05-18 22:16",
         "link": "https://www.zaobao.com.sg/news/sports/story20260517-9063265",
         "title": "费尔南德斯追平英超助攻纪录 曼联主场力克森林",
-        "seq": 221
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2040,7 @@
         "time": "2026-05-18 22:20",
         "link": "https://www.zaobao.com.sg/news/world/story20260517-9063411",
         "title": "关税与伊朗战争推高物价 特朗普流失拉美裔支持",
-        "seq": 222
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2049,7 @@
         "time": "2026-05-18 22:22",
         "link": "https://www.zaobao.com.sg/news/sports/story20260517-9063099",
         "title": "张雪机车德比斯WSBK第五冠 张雪：可以憧憬总冠军了",
-        "seq": 223
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2058,7 @@
         "time": "2026-05-18 22:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260517-9063211",
         "title": "漏油处理过程首次公开 实地展示油污清理程序",
-        "seq": 224
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2067,7 @@
         "time": "2026-05-18 22:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260517-9063483",
         "title": "特朗普与李在明通话 讨论中美峰会成果",
-        "seq": 225
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2076,7 @@
         "time": "2026-05-18 22:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260517-9063115",
         "title": "本地客工和居民混合组队 为世界杯“热身”　",
-        "seq": 226
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2085,7 @@
         "time": "2026-05-18 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260517-9063508",
         "title": "美贸易代表：中方已开始便利美国进口",
-        "seq": 227
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2094,7 @@
         "time": "2026-05-18 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20260517-9063413",
         "title": "习特会后 赖清德称捍卫“中华民国”现状 没有“台独”问题",
-        "seq": 228
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2103,7 @@
         "time": "2026-05-18 23:30",
         "link": "https://www.zaobao.com.sg/news/sports/story20260517-9063175",
         "title": "布哈加尔夺亚冠二级金靴 淡滨尼联赛胜水手双喜临门",
-        "seq": 229
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2112,7 @@
         "time": "2026-05-18 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260517-9062704",
         "title": "高市解禁杀伤性武器出口 近六成日本人反对",
-        "seq": 230
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2121,7 @@
         "time": "2026-05-18 23:35",
         "link": "https://www.zaobao.com.sg/news/sports/story20260517-9063424",
         "title": "传动轴故障毁好局 费斯塔彭痛失纽博格林24小时赛首冠",
-        "seq": 231
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2130,7 @@
         "time": "2026-05-18 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260517-9063038",
         "title": "世卫：非洲伊波拉疫情成“国际关注的紧急状况” 近90死致命率50%",
-        "seq": 232
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2094,6 +2139,6 @@
         "time": "2026-05-18 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260517-9063038",
         "title": "新毒株致死率高达50% 世卫：非洲伊波拉疫情成“国际关注紧急状况”",
-        "seq": 233
+        "seq": 238
     }
 ]
