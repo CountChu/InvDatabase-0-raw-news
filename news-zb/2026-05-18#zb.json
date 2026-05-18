@@ -2251,12 +2251,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:32",
+        "time": "2026-05-18 23:32",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260518-9067409",
+        "title": "辞职退党引宪政风暴 公正党称有“跳槽证据”追讨千万违约金",
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:34",
         "time": "2026-05-18 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260517-9062704",
         "title": "高市解禁杀伤性武器出口 近六成日本人反对",
-        "seq": 251
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2265,15 +2274,6 @@
         "time": "2026-05-18 23:35",
         "link": "https://www.zaobao.com.sg/news/sports/story20260517-9063424",
         "title": "传动轴故障毁好局 费斯塔彭痛失纽博格林24小时赛首冠",
-        "seq": 252
-    },
-    {
-        "media": "聯合早報",
-        "category": "国际",
-        "timeText": "23:55",
-        "time": "2026-05-18 23:55",
-        "link": "https://www.zaobao.com.sg/news/world/story20260517-9063038",
-        "title": "世卫：非洲伊波拉疫情成“国际关注的紧急状况” 近90死致命率50%",
         "seq": 253
     },
     {
@@ -2282,7 +2282,16 @@
         "timeText": "23:55",
         "time": "2026-05-18 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260517-9063038",
-        "title": "新毒株致死率高达50% 世卫：非洲伊波拉疫情成“国际关注紧急状况”",
+        "title": "世卫：非洲伊波拉疫情成“国际关注的紧急状况” 近90死致命率50%",
         "seq": 254
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:55",
+        "time": "2026-05-18 23:55",
+        "link": "https://www.zaobao.com.sg/news/world/story20260517-9063038",
+        "title": "新毒株致死率高达50% 世卫：非洲伊波拉疫情成“国际关注紧急状况”",
+        "seq": 255
     }
 ]
