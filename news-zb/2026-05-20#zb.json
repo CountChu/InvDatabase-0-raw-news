@@ -2413,12 +2413,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:29",
+        "time": "2026-05-20 23:29",
+        "link": "https://www.zaobao.com.sg/news/china/story20260520-9081183",
+        "title": "普京结束访华飞离北京 张国清送机",
+        "seq": 269
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:30",
+        "time": "2026-05-20 23:30",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260520-9081138",
+        "title": "本地进口婴儿乳酪产品可能出现霉菌滋生被召回",
+        "seq": 270
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:31",
+        "time": "2026-05-20 23:31",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260520-9081175",
+        "title": "涉挪用2000万美元 美国控马电讯子公司三前高管",
+        "seq": 271
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:36",
+        "time": "2026-05-20 23:36",
+        "link": "https://www.zaobao.com.sg/news/world/story20260520-9081161",
+        "title": "欧盟就落实欧美贸易协议达成一致",
+        "seq": 272
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:37",
         "time": "2026-05-20 23:37",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260519-9074829",
         "title": "胜科工业与Digital Reef联手 将开发新英国数据中心首阶段",
-        "seq": 269
+        "seq": 273
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2463,7 @@
         "time": "2026-05-20 23:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260519-9074826",
         "title": "下午察：杀人犯变国际影后的反转",
-        "seq": 270
+        "seq": 274
     },
     {
         "media": "聯合早報",
@@ -2436,7 +2472,7 @@
         "time": "2026-05-20 23:41",
         "link": "https://www.zaobao.com.sg/news/china/story20260519-9074458",
         "title": "李资政：国际贸易并非总能双赢 但须努力实现双赢",
-        "seq": 271
+        "seq": 275
     },
     {
         "media": "聯合早報",
@@ -2445,7 +2481,7 @@
         "time": "2026-05-20 23:41",
         "link": "https://www.zaobao.com.sg/news/china/story20260519-9074458",
         "title": "【视频】李资政：国际贸易并非总能双赢 但须努力实现双赢",
-        "seq": 272
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2454,6 +2490,6 @@
         "time": "2026-05-20 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260519-9073456",
         "title": "美环保组织：市面防晒霜仅两成既安全又有效",
-        "seq": 273
+        "seq": 277
     }
 ]
