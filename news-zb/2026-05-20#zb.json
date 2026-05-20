@@ -2215,12 +2215,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:23",
+        "time": "2026-05-20 22:23",
+        "link": "https://www.zaobao.com.sg/news/world/story20260520-9080906",
+        "title": "玻利维亚宣布驱逐哥伦比亚大使",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:24",
         "time": "2026-05-20 22:24",
         "link": "https://www.zaobao.com.sg/news/china/story20260519-9074035",
         "title": "特朗普暂搁军售 卓荣泰：台湾是全球核心利益 不轻易被牺牲",
-        "seq": 247
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:29",
+        "time": "2026-05-20 22:29",
+        "link": "https://www.zaobao.com.sg/news/china/story20260520-9080999",
+        "title": "大陆国防部：民进党政府买再多武器都是螳臂当车以卵击石",
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2247,16 @@
         "time": "2026-05-20 22:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260519-9074195",
         "title": "韩日首脑延续“故乡外交” 同意强化能源保障与战略协作",
-        "seq": 248
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:33",
+        "time": "2026-05-20 22:33",
+        "link": "https://www.zaobao.com.sg/news/china/story20260520-9080442",
+        "title": "赖清德要向特朗普阐明：台湾会不亢不卑维持现状吁美持续对台军售",
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2265,7 @@
         "time": "2026-05-20 22:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260519-9072189",
         "title": "中东战火波及英国就业市场 首季失业率升至5%",
-        "seq": 249
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2274,7 @@
         "time": "2026-05-20 22:43",
         "link": "https://www.zaobao.com.sg/news/sea/story20260519-9074690",
         "title": "从机票、炸鸡到安全套：“原油休克”重创东南亚企业",
-        "seq": 250
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2283,7 @@
         "time": "2026-05-20 22:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260519-9074338",
         "title": "代表数名受伤乘客 英国律师将引述调查报告向新航索赔",
-        "seq": 251
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2292,7 @@
         "time": "2026-05-20 23:04",
         "link": "https://www.zaobao.com.sg/news/china/story20260519-9074747",
         "title": "俄罗斯总统普京抵达北京 王毅接机",
-        "seq": 252
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2301,7 @@
         "time": "2026-05-20 23:04",
         "link": "https://www.zaobao.com.sg/news/china/story20260519-9074747",
         "title": "【视频】俄罗斯总统普京抵达北京 王毅接机",
-        "seq": 253
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2310,7 @@
         "time": "2026-05-20 23:11",
         "link": "https://www.zaobao.com.sg/news/china/story20260519-9074500",
         "title": "“习特会”后普京访华力挺中俄关系　释放中国无意疏远俄罗斯信号",
-        "seq": 254
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2319,7 @@
         "time": "2026-05-20 23:11",
         "link": "https://www.zaobao.com.sg/news/china/story20260519-9074500",
         "title": "“习特会”后普京访华力挺中俄关系 释放中国无意疏远俄罗斯信号",
-        "seq": 255
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2328,7 @@
         "time": "2026-05-20 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260519-9073551",
         "title": "低失业率掩盖劳动力危机 俄罗斯经济增长恐长期承压",
-        "seq": 256
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2337,7 @@
         "time": "2026-05-20 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260519-9074873",
         "title": "特朗普：若谈判无果 美或数天内再袭伊朗",
-        "seq": 257
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2346,7 @@
         "time": "2026-05-20 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20260519-9074910",
         "title": "特朗普称习近平承诺中国不会向伊朗提供武器",
-        "seq": 258
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2355,7 @@
         "time": "2026-05-20 23:37",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260519-9074829",
         "title": "胜科工业与Digital Reef联手 将开发新英国数据中心首阶段",
-        "seq": 259
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2364,7 @@
         "time": "2026-05-20 23:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260519-9074826",
         "title": "下午察：杀人犯变国际影后的反转",
-        "seq": 260
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2373,7 @@
         "time": "2026-05-20 23:41",
         "link": "https://www.zaobao.com.sg/news/china/story20260519-9074458",
         "title": "李资政：国际贸易并非总能双赢 但须努力实现双赢",
-        "seq": 261
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2382,7 @@
         "time": "2026-05-20 23:41",
         "link": "https://www.zaobao.com.sg/news/china/story20260519-9074458",
         "title": "【视频】李资政：国际贸易并非总能双赢 但须努力实现双赢",
-        "seq": 262
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2364,6 +2391,6 @@
         "time": "2026-05-20 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260519-9073456",
         "title": "美环保组织：市面防晒霜仅两成既安全又有效",
-        "seq": 263
+        "seq": 266
     }
 ]
