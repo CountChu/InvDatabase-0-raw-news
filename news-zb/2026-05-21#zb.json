@@ -1999,12 +1999,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:25",
+        "time": "2026-05-21 22:25",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260521-9086802",
+        "title": "半数8岁儿童已使用AI工具 本地研究促尽早制定使用指南",
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:29",
         "time": "2026-05-21 22:29",
         "link": "https://www.zaobao.com.sg/news/china/story20260520-9080999",
         "title": "大陆国防部：民进党政府买再多武器都是螳臂当车以卵击石",
-        "seq": 223
+        "seq": 224
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:32",
+        "time": "2026-05-21 22:32",
+        "link": "https://www.zaobao.com.sg/news/world/story20260521-9087447",
+        "title": "三星电子劳资达协议 高额奖金制度引韩国产业界震荡",
+        "seq": 225
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:32",
+        "time": "2026-05-21 22:32",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260521-9086529",
+        "title": "SpaceX万亿美元IPO曝光 马斯克“超级商业帝国”浮现",
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2040,7 @@
         "time": "2026-05-21 22:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260520-9080442",
         "title": "赖清德要向特朗普阐明：台湾会不亢不卑维持现状吁美持续对台军售",
-        "seq": 224
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2049,7 @@
         "time": "2026-05-21 22:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260520-9081027",
         "title": "阿联酋要求伊拉克停止敌对行动",
-        "seq": 225
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2058,7 @@
         "time": "2026-05-21 22:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260520-9080964",
         "title": "三星电子罢工危机最后时刻逆转 劳资达成暂定协议",
-        "seq": 226
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2067,7 @@
         "time": "2026-05-21 22:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260520-9080103",
         "title": "儿童季再次回归 首次庆祝国际游戏日",
-        "seq": 227
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2076,7 @@
         "time": "2026-05-21 22:55",
         "link": "https://www.zaobao.com.sg/news/sea/story20260520-9081071",
         "title": "马国选委会：两国会议席不补选",
-        "seq": 228
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2085,7 @@
         "time": "2026-05-21 23:01",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260520-9080971",
         "title": "触犯证券与期货法令罪成 两人分别被判监禁及罚款　",
-        "seq": 229
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2094,7 @@
         "time": "2026-05-21 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260520-9081116",
         "title": "伊朗谈判代表：美国企图重启战争 逼迫伊朗投降",
-        "seq": 230
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2103,7 @@
         "time": "2026-05-21 23:19",
         "link": "https://www.zaobao.com.sg/news/sea/story20260520-9081128",
         "title": "马选委会：拉菲兹与聂纳兹米可参加选举",
-        "seq": 231
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2112,7 @@
         "time": "2026-05-21 23:29",
         "link": "https://www.zaobao.com.sg/news/china/story20260520-9081183",
         "title": "普京结束访华飞离北京 张国清送机",
-        "seq": 232
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2121,7 @@
         "time": "2026-05-21 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260520-9081138",
         "title": "本地进口婴儿乳酪产品 因潜在霉菌滋生与变质问题被召回",
-        "seq": 233
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2130,7 @@
         "time": "2026-05-21 23:31",
         "link": "https://www.zaobao.com.sg/news/sea/story20260520-9081175",
         "title": "涉挪用2000万美元 美国控马电讯子公司三前高管",
-        "seq": 234
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2139,7 @@
         "time": "2026-05-21 23:36",
         "link": "https://www.zaobao.com.sg/news/world/story20260520-9081161",
         "title": "欧盟就落实欧美贸易协议达成一致",
-        "seq": 235
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2148,7 @@
         "time": "2026-05-21 23:44",
         "link": "https://www.zaobao.com.sg/news/china/story20260520-9080736",
         "title": "澳门新五年规划 非博彩业经济占比2030年增至六成",
-        "seq": 236
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2130,6 +2157,6 @@
         "time": "2026-05-21 23:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260520-9081129",
         "title": "新电信转移持股后 印尼Superbank将成Grab旗下子公司",
-        "seq": 237
+        "seq": 240
     }
 ]
