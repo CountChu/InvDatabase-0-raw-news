@@ -2206,12 +2206,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:24",
+        "time": "2026-05-21 23:24",
+        "link": "https://www.zaobao.com.sg/news/world/story20260521-9087673",
+        "title": "受中东冲突拖累 欧盟预计今年经济增长将放缓",
+        "seq": 246
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:27",
+        "time": "2026-05-21 23:27",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260521-9087609",
+        "title": "JustCo完成首次公开售股 认购额达发售股份3.4倍",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:29",
         "time": "2026-05-21 23:29",
         "link": "https://www.zaobao.com.sg/news/china/story20260520-9081183",
         "title": "普京结束访华飞离北京 张国清送机",
-        "seq": 246
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2220,7 +2238,7 @@
         "time": "2026-05-21 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260520-9081138",
         "title": "本地进口婴儿乳酪产品 因潜在霉菌滋生与变质问题被召回",
-        "seq": 247
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2247,7 @@
         "time": "2026-05-21 23:31",
         "link": "https://www.zaobao.com.sg/news/sea/story20260520-9081175",
         "title": "涉挪用2000万美元 美国控马电讯子公司三前高管",
-        "seq": 248
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2256,7 @@
         "time": "2026-05-21 23:36",
         "link": "https://www.zaobao.com.sg/news/world/story20260520-9081161",
         "title": "欧盟就落实欧美贸易协议达成一致",
-        "seq": 249
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2265,7 @@
         "time": "2026-05-21 23:44",
         "link": "https://www.zaobao.com.sg/news/china/story20260520-9080736",
         "title": "澳门新五年规划 非博彩业经济占比2030年增至六成",
-        "seq": 250
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2256,6 +2274,6 @@
         "time": "2026-05-21 23:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260520-9081129",
         "title": "新电信转移持股后 印尼Superbank将成Grab旗下子公司",
-        "seq": 251
+        "seq": 253
     }
 ]
