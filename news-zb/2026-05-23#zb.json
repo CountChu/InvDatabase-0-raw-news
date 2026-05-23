@@ -1477,12 +1477,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:50",
+        "time": "2026-05-23 22:50",
+        "link": "https://www.zaobao.com.sg/news/world/story20260523-9096844",
+        "title": "伊朗：伊美正处于谅解备忘录最终敲定阶段",
+        "seq": 165
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:56",
+        "time": "2026-05-23 22:56",
+        "link": "https://www.zaobao.com.sg/news/world/story20260523-9096787",
+        "title": "特朗普周末坐镇白宫 美国可能再次打击伊朗",
+        "seq": 166
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:02",
         "time": "2026-05-23 23:02",
         "link": "https://www.zaobao.com.sg/news/sports/story20260522-9093555",
         "title": "将多名球星排除在世界杯外 三狮主帅图赫尔：球队平衡更重要",
-        "seq": 165
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1509,7 @@
         "time": "2026-05-23 23:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260522-9093028",
         "title": "【视频】李资政：中美元首峰会正面基调能否持续有待观察",
-        "seq": 166
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1518,7 @@
         "time": "2026-05-23 23:10",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260522-9093471",
         "title": "许宝琨辞政务官职 淡滨尼居民认为不影响他履行议员职责",
-        "seq": 167
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1527,7 @@
         "time": "2026-05-23 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260522-9093237",
         "title": "中东五国表明不接受伊朗管控霍尔木兹海峡",
-        "seq": 168
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1536,7 @@
         "time": "2026-05-23 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260522-9093635",
         "title": "美国务卿：与伊朗谈判有“些许进展” 协议前景仍不明朗",
-        "seq": 169
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1545,7 @@
         "time": "2026-05-23 23:21",
         "link": "https://www.zaobao.com.sg/news/world/story20260522-9093696",
         "title": "美伊冲突推高通胀担忧 美国消费者信心指数跌至纪录低点",
-        "seq": 170
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1554,7 @@
         "time": "2026-05-23 23:21",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260522-9093444",
         "title": "张松声暂卸工商总会主席等职务 “集中精力”应对美国指控",
-        "seq": 171
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,7 @@
         "time": "2026-05-23 23:38",
         "link": "https://www.zaobao.com.sg/news/sports/story20260522-9093720",
         "title": "瓜迪奥拉：曼市需要新能量 但我需要喘口气",
-        "seq": 172
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1572,7 @@
         "time": "2026-05-23 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260522-9093773",
         "title": "巴基斯坦军方消息：谈判小组已前往伊朗",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1581,7 @@
         "time": "2026-05-23 23:46",
         "link": "https://www.zaobao.com.sg/finance/world/story20260522-9093685",
         "title": "IBM获10亿美元拨款 股价应声大涨",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,7 @@
         "time": "2026-05-23 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260522-9093579",
         "title": "【视频】李显龙资政：新中长期互利合作仍有很多机会",
-        "seq": 175
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,6 +1599,6 @@
         "time": "2026-05-23 23:58",
         "link": "https://www.zaobao.com.sg/news/china/story20260522-9093762",
         "title": "李资政与上海市长龚正会面 重申新沪长期稳固关系",
-        "seq": 176
+        "seq": 178
     }
 ]
