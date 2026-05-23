@@ -1405,12 +1405,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:33",
+        "time": "2026-05-23 22:33",
+        "link": "https://www.zaobao.com.sg/news/china/story20260523-9096536",
+        "title": "知情人士否认暂缓对台军售与伊朗战事有关　尚无“特赖通话”计划",
+        "seq": 157
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:34",
         "time": "2026-05-23 22:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20260522-9093540",
         "title": "曼谷火车撞巴士惨剧三人被控 警方急整顿58处死亡道口",
-        "seq": 157
+        "seq": 158
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:38",
+        "time": "2026-05-23 22:38",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260523-9096609",
+        "title": "中医师与全科医生组队 探索中西医结合管理病患健康",
+        "seq": 159
     },
     {
         "media": "聯合早報",
@@ -1419,7 +1437,7 @@
         "time": "2026-05-23 22:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260522-9093272",
         "title": "新技术降温服饰 仅泡水就能帮助体表降温4摄氏度",
-        "seq": 158
+        "seq": 160
     },
     {
         "media": "聯合早報",
@@ -1428,7 +1446,7 @@
         "time": "2026-05-23 22:41",
         "link": "https://www.zaobao.com.sg/news/china/story20260522-9093226",
         "title": "美海军代部长称暂缓140亿美元对台军售 台总统府：未收到信息",
-        "seq": 159
+        "seq": 161
     },
     {
         "media": "聯合早報",
@@ -1437,7 +1455,7 @@
         "time": "2026-05-23 22:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260522-9093554",
         "title": "卡塔尔谈判小组抵达德黑兰 协助促成伊美达成协议",
-        "seq": 160
+        "seq": 162
     },
     {
         "media": "聯合早報",
@@ -1446,7 +1464,7 @@
         "time": "2026-05-23 22:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260522-9093259",
         "title": "许宝琨新内阁就职未满一年即辞职 学者：从政代价沉重",
-        "seq": 161
+        "seq": 163
     },
     {
         "media": "聯合早報",
@@ -1455,7 +1473,7 @@
         "time": "2026-05-23 22:49",
         "link": "https://www.zaobao.com.sg/news/china/story20260522-9093416",
         "title": "有中国版“哈尔的移动城堡”之称 贵州“钉子户”建筑遭拆除",
-        "seq": 162
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1482,7 @@
         "time": "2026-05-23 23:02",
         "link": "https://www.zaobao.com.sg/news/sports/story20260522-9093555",
         "title": "将多名球星排除在世界杯外 三狮主帅图赫尔：球队平衡更重要",
-        "seq": 163
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1491,7 @@
         "time": "2026-05-23 23:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260522-9093028",
         "title": "【视频】李资政：中美元首峰会正面基调能否持续有待观察",
-        "seq": 164
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1500,7 @@
         "time": "2026-05-23 23:10",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260522-9093471",
         "title": "许宝琨辞政务官职 淡滨尼居民认为不影响他履行议员职责",
-        "seq": 165
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1509,7 @@
         "time": "2026-05-23 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260522-9093237",
         "title": "中东五国表明不接受伊朗管控霍尔木兹海峡",
-        "seq": 166
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1518,7 @@
         "time": "2026-05-23 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260522-9093635",
         "title": "美国务卿：与伊朗谈判有“些许进展” 协议前景仍不明朗",
-        "seq": 167
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1527,7 @@
         "time": "2026-05-23 23:21",
         "link": "https://www.zaobao.com.sg/news/world/story20260522-9093696",
         "title": "美伊冲突推高通胀担忧 美国消费者信心指数跌至纪录低点",
-        "seq": 168
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1536,7 @@
         "time": "2026-05-23 23:21",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260522-9093444",
         "title": "张松声暂卸工商总会主席等职务 “集中精力”应对美国指控",
-        "seq": 169
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1545,7 @@
         "time": "2026-05-23 23:38",
         "link": "https://www.zaobao.com.sg/news/sports/story20260522-9093720",
         "title": "瓜迪奥拉：曼市需要新能量 但我需要喘口气",
-        "seq": 170
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1554,7 @@
         "time": "2026-05-23 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260522-9093773",
         "title": "巴基斯坦军方消息：谈判小组已前往伊朗",
-        "seq": 171
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,7 @@
         "time": "2026-05-23 23:46",
         "link": "https://www.zaobao.com.sg/finance/world/story20260522-9093685",
         "title": "IBM获10亿美元拨款 股价应声大涨",
-        "seq": 172
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1572,7 @@
         "time": "2026-05-23 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260522-9093579",
         "title": "【视频】李显龙资政：新中长期互利合作仍有很多机会",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,6 +1581,6 @@
         "time": "2026-05-23 23:58",
         "link": "https://www.zaobao.com.sg/news/china/story20260522-9093762",
         "title": "李资政与上海市长龚正会面 重申新沪长期稳固关系",
-        "seq": 174
+        "seq": 176
     }
 ]
