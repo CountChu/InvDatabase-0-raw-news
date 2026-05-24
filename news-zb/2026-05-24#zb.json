@@ -1765,12 +1765,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:30",
+        "time": "2026-05-24 23:30",
+        "link": "https://www.zaobao.com.sg/news/world/story20260524-9100116",
+        "title": "以总理内坦亚胡：与特朗普一致认为须消除伊朗核威胁",
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:33",
         "time": "2026-05-24 23:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260523-9096810",
         "title": "女子违停路口车内沉睡 警方到场搜出毒品电子烟",
-        "seq": 197
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1788,7 @@
         "time": "2026-05-24 23:41",
         "link": "https://www.zaobao.com.sg/news/china/story20260523-9096955",
         "title": "山西煤矿爆炸事故致82死128伤二失联",
-        "seq": 198
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1797,7 @@
         "time": "2026-05-24 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260523-9096943",
         "title": "消息：伊美停火协议将延长60天",
-        "seq": 199
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1806,7 @@
         "time": "2026-05-24 23:43",
         "link": "https://www.zaobao.com.sg/news/china/story20260523-9096534",
         "title": "中国17年来最严重矿难至少82人遇难 地方当局被疑谎报瞒报",
-        "seq": 200
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1815,7 @@
         "time": "2026-05-24 23:46",
         "link": "https://www.zaobao.com.sg/finance/world/story20260522-9093685",
         "title": "IBM获10亿美元拨款 股价应声大涨",
-        "seq": 201
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1815,6 +1824,6 @@
         "time": "2026-05-24 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260523-9096972",
         "title": "孟加拉国麻疹疫情严峻：至少86名儿童死亡",
-        "seq": 202
+        "seq": 203
     }
 ]
