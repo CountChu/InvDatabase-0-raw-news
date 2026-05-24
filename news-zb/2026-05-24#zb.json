@@ -1711,12 +1711,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:05",
+        "time": "2026-05-24 23:05",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260524-9100053",
+        "title": "马国男子疑吸毒过量毙命 警方逮八男包括两狮城男",
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:09",
+        "time": "2026-05-24 23:09",
+        "link": "https://www.zaobao.com.sg/news/china/story20260524-9100073",
+        "title": "中国载人飞船神舟23号准时发射",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:10",
         "time": "2026-05-24 23:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260523-9096879",
         "title": "沙特媒体：伊朗欲以开放霍尔木兹海峡换美国赔偿",
-        "seq": 191
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:18",
+        "time": "2026-05-24 23:18",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260524-9099934",
+        "title": "【红蚂蚁】从政是牺牲 也是从政者家人的牺牲",
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1752,7 @@
         "time": "2026-05-24 23:19",
         "link": "https://www.zaobao.com.sg/news/world/story20260523-9096901",
         "title": "法国禁止以色列国家安全部长入境",
-        "seq": 192
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1761,7 @@
         "time": "2026-05-24 23:21",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260522-9093444",
         "title": "张松声暂卸工商总会主席等职务 “集中精力”应对美国指控",
-        "seq": 193
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1770,7 @@
         "time": "2026-05-24 23:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260523-9096810",
         "title": "女子违停路口车内沉睡 警方到场搜出毒品电子烟",
-        "seq": 194
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1779,7 @@
         "time": "2026-05-24 23:41",
         "link": "https://www.zaobao.com.sg/news/china/story20260523-9096955",
         "title": "山西煤矿爆炸事故致82死128伤二失联",
-        "seq": 195
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1788,7 @@
         "time": "2026-05-24 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260523-9096943",
         "title": "消息：伊美停火协议将延长60天",
-        "seq": 196
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1797,7 @@
         "time": "2026-05-24 23:43",
         "link": "https://www.zaobao.com.sg/news/china/story20260523-9096534",
         "title": "中国17年来最严重矿难至少82人遇难 地方当局被疑谎报瞒报",
-        "seq": 197
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1806,7 @@
         "time": "2026-05-24 23:46",
         "link": "https://www.zaobao.com.sg/finance/world/story20260522-9093685",
         "title": "IBM获10亿美元拨款 股价应声大涨",
-        "seq": 198
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1788,6 +1815,6 @@
         "time": "2026-05-24 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260523-9096972",
         "title": "孟加拉国麻疹疫情严峻：至少86名儿童死亡",
-        "seq": 199
+        "seq": 202
     }
 ]
