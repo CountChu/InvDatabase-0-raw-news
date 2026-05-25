@@ -2359,12 +2359,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:28",
+        "time": "2026-05-25 23:28",
+        "link": "https://www.zaobao.com.sg/news/china/story20260525-9105933",
+        "title": "华为宣布晶片设计新突破  分析师指商业化量产仍待检验",
+        "seq": 263
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:30",
         "time": "2026-05-25 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260524-9100116",
         "title": "以总理内坦亚胡：与特朗普一致认为须消除伊朗核威胁",
-        "seq": 263
+        "seq": 264
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:34",
+        "time": "2026-05-25 23:34",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260525-9105577",
+        "title": "高庭批评大华银行 对逾期付款费用立场前后不一致",
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2391,7 @@
         "time": "2026-05-25 23:46",
         "link": "https://www.zaobao.com.sg/finance/world/story20260522-9093685",
         "title": "IBM获10亿美元拨款 股价应声大涨",
-        "seq": 264
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2382,6 +2400,6 @@
         "time": "2026-05-25 23:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260524-9099931",
         "title": "塌陷、图纸不符、定位卡缺失……山西矿难救援困难重重",
-        "seq": 265
+        "seq": 267
     }
 ]
