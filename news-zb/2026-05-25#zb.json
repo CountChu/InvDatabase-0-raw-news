@@ -2296,12 +2296,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:59",
+        "time": "2026-05-25 22:59",
+        "link": "https://www.zaobao.com.sg/news/world/story20260525-9105924",
+        "title": "警告更多空袭 俄促外国人和外交使团撤离基辅",
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:05",
         "time": "2026-05-25 23:05",
         "link": "https://www.zaobao.com.sg/news/sea/story20260524-9100053",
         "title": "马国男子疑吸毒过量毙命 警方逮八男包括两狮城男",
-        "seq": 256
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2319,7 @@
         "time": "2026-05-25 23:09",
         "link": "https://www.zaobao.com.sg/news/china/story20260524-9100073",
         "title": "中国载人飞船神舟23号准时发射",
-        "seq": 257
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2328,7 @@
         "time": "2026-05-25 23:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260524-9099934",
         "title": "【红蚂蚁】从政是牺牲 也是从政者家人的牺牲",
-        "seq": 258
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2337,7 @@
         "time": "2026-05-25 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260524-9100116",
         "title": "以总理内坦亚胡：与特朗普一致认为须消除伊朗核威胁",
-        "seq": 259
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2346,7 @@
         "time": "2026-05-25 23:46",
         "link": "https://www.zaobao.com.sg/finance/world/story20260522-9093685",
         "title": "IBM获10亿美元拨款 股价应声大涨",
-        "seq": 260
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2346,6 +2355,6 @@
         "time": "2026-05-25 23:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260524-9099931",
         "title": "塌陷、图纸不符、定位卡缺失……山西矿难救援困难重重",
-        "seq": 261
+        "seq": 262
     }
 ]
