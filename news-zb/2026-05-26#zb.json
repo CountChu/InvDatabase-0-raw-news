@@ -2224,12 +2224,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:00",
+        "time": "2026-05-26 23:00",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260526-9111815",
+        "title": "蔡厝港惊人血案：女子遭刺死 男子坠楼重伤",
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:02",
         "time": "2026-05-26 23:02",
         "link": "https://www.zaobao.com.sg/news/sports/story20260525-9105710",
         "title": "亨德森赖斯心系老东家 英超收官战上演感人时刻",
-        "seq": 248
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:02",
+        "time": "2026-05-26 23:02",
+        "link": "https://www.zaobao.com.sg/news/world/story20260526-9111733",
+        "title": "美国拟大砍北约可调用军力 战略轰炸机减半",
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2256,16 @@
         "time": "2026-05-26 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20260525-9105890",
         "title": "伊媒：伊朗用新型防空手段击落敌方无人机",
-        "seq": 249
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:05",
+        "time": "2026-05-26 23:05",
+        "link": "https://www.zaobao.com.sg/news/china/story20260526-9110449",
+        "title": "【东谈西论】《给阿嬷的情书》的华南情义",
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2274,7 @@
         "time": "2026-05-26 23:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260525-9105953",
         "title": "义顺组屋遭工地铁梁砸中屋顶 涉事工地料周二复工",
-        "seq": 250
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2283,7 @@
         "time": "2026-05-26 23:28",
         "link": "https://www.zaobao.com.sg/news/china/story20260525-9105933",
         "title": "华为宣布晶片设计新突破  分析师指商业化量产仍待检验",
-        "seq": 251
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2292,7 @@
         "time": "2026-05-26 23:28",
         "link": "https://www.zaobao.com.sg/news/china/story20260525-9105933",
         "title": "华为宣布晶片设计新突破 分析师指商业化量产仍待检验",
-        "seq": 252
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2301,7 @@
         "time": "2026-05-26 23:34",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260525-9105577",
         "title": "高庭批评大华银行 对逾期付款费用立场前后不一致",
-        "seq": 253
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2310,7 @@
         "time": "2026-05-26 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260525-9106134",
         "title": "伊媒：伊朗最高领袖曾入院治疗 3月初出院",
-        "seq": 254
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2292,6 +2319,6 @@
         "time": "2026-05-26 23:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260525-9105744",
         "title": "林厝港部分农场面对年底迁离压力 业者盼再延长租约",
-        "seq": 255
+        "seq": 258
     }
 ]
