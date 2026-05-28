@@ -1955,11 +1955,47 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "22:01",
+        "time": "2026-05-28 22:01",
+        "link": "https://www.zaobao.com.sg/news/world/story20260528-9122241",
+        "title": "美国和科威特谴责伊朗报复打击美军基地",
+        "seq": 218
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:01",
+        "time": "2026-05-28 22:01",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260528-9122236",
+        "title": "内马尔伤情加重 或缺席世界杯小组赛揭幕战",
+        "seq": 219
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "22:03",
         "time": "2026-05-28 22:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260527-9116113",
         "title": "消息称：若与伊朗达成协议 美将撤走部署以机场的军机",
-        "seq": 218
+        "seq": 220
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:07",
+        "time": "2026-05-28 22:07",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260528-9121448",
+        "title": "新加坡在全球初创生态系统蝉联第四 增长态势10强居冠",
+        "seq": 221
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:13",
+        "time": "2026-05-28 22:13",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260528-9121958",
+        "title": "胡金标控股获陆交局颁发1亿6530万元合同",
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2004,16 @@
         "time": "2026-05-28 22:15",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260527-9115390",
         "title": "肠造口患者参加潜水之旅 鼓励病友积极面对生活",
-        "seq": 219
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:15",
+        "time": "2026-05-28 22:15",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260528-9122203",
+        "title": "金成兴控股下半年净利增加近两倍",
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2022,7 @@
         "time": "2026-05-28 22:35",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260527-9114753",
         "title": "新加坡造口协会加强支援网络 成立“结直肠支持与倡导联盟”",
-        "seq": 220
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2031,7 @@
         "time": "2026-05-28 22:37",
         "link": "https://www.zaobao.com.sg/news/sea/story20260527-9116021",
         "title": "菲日将升级为全面战略伙伴关系 小马可斯：证明双方高度互信",
-        "seq": 221
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2040,7 @@
         "time": "2026-05-28 22:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260527-9116198",
         "title": "为遏制伊波拉疫情 乌干达关闭与刚果（金）边境四周",
-        "seq": 222
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2049,7 @@
         "time": "2026-05-28 22:39",
         "link": "https://www.zaobao.com.sg/news/sea/story20260527-9116219",
         "title": "受困老挝洞穴约一周 五人获救 另两人仍受困",
-        "seq": 223
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2058,7 @@
         "time": "2026-05-28 23:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260527-9116308",
         "title": "世卫：刚果（金）伊波拉疫情病死率低于25%",
-        "seq": 224
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2067,7 @@
         "time": "2026-05-28 23:08",
         "link": "https://www.zaobao.com.sg/finance/china/story20260527-9115194",
         "title": "中国工业企业利润创两年多来最快增速 分析：经济K型分化加剧",
-        "seq": 225
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2076,7 @@
         "time": "2026-05-28 23:30",
         "link": "https://www.zaobao.com.sg/news/sports/story20260527-9116251",
         "title": "伊加与叶连娜轻松晋级法网女单第三轮",
-        "seq": 226
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2085,7 @@
         "time": "2026-05-28 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260527-9116392",
         "title": "伊媒报道披露协议内容 白宫抨击“完全捏造”",
-        "seq": 227
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2049,6 +2094,6 @@
         "time": "2026-05-28 23:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260527-9116300",
         "title": "17岁少年涉时速174公里飙车 逆行撞六车将被控多罪",
-        "seq": 228
+        "seq": 233
     }
 ]
