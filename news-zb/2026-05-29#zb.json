@@ -2053,12 +2053,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:27",
+        "time": "2026-05-29 23:27",
+        "link": "https://www.zaobao.com.sg/news/world/story20260529-9128622",
+        "title": "日本外汇干预规模创历史新高",
+        "seq": 229
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:28",
+        "time": "2026-05-29 23:28",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260529-9128054",
+        "title": "三券商被中国重罚 金管局：新加坡实体财务独立",
+        "seq": 230
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:34",
         "time": "2026-05-29 23:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260528-9122484",
         "title": "遥遥领先后不敌高温崩盘 辛纳意外止步法网次轮",
-        "seq": 229
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2085,7 @@
         "time": "2026-05-29 23:35",
         "link": "https://www.zaobao.com.sg/news/china/story20260528-9122296",
         "title": "欧盟拟系统性加码关税措施  加大力度抵御中国进口冲击",
-        "seq": 230
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2094,7 @@
         "time": "2026-05-29 23:35",
         "link": "https://www.zaobao.com.sg/news/china/story20260528-9122296",
         "title": "欧盟拟系统性加码关税措施 加大力度抵御中国进口冲击",
-        "seq": 231
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2103,7 @@
         "time": "2026-05-29 23:36",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260528-9122543",
         "title": "德加拉增持TIL Investments股权 获印度医疗综合发展项目掌控权",
-        "seq": 232
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2112,7 @@
         "time": "2026-05-29 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260528-9122621",
         "title": "美逮捕前中央情报局官员 住所搜出价值4000万美元黄金",
-        "seq": 233
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2103,6 +2121,6 @@
         "time": "2026-05-29 23:59",
         "link": "https://www.zaobao.com.sg/news/world/story20260528-9122716",
         "title": "美国CEO信心暴跌：供应链与能源忧虑加剧拖累经济",
-        "seq": 234
+        "seq": 236
     }
 ]
