@@ -1810,12 +1810,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:03",
+        "time": "2026-05-29 22:03",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260529-9128210",
+        "title": "新加坡羽球公开赛 骆建佑生涯首胜戚又仁进四强",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:05",
+        "time": "2026-05-29 22:05",
+        "link": "https://www.zaobao.com.sg/news/china/story20260529-9128346",
+        "title": "释永信获刑24年 中国佛协：完全是咎由自取",
+        "seq": 203
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:07",
         "time": "2026-05-29 22:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260528-9121448",
         "title": "新加坡在全球初创生态系统蝉联第四 增长态势10强居冠",
-        "seq": 202
+        "seq": 204
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:11",
+        "time": "2026-05-29 22:11",
+        "link": "https://www.zaobao.com.sg/news/world/story20260529-9128347",
+        "title": "美军三架“全球鹰”无人侦察机今夏移驻东京都",
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1851,16 @@
         "time": "2026-05-29 22:13",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260528-9121958",
         "title": "胡金标控股获陆交局颁发1亿6530万元合同",
-        "seq": 203
+        "seq": 206
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:14",
+        "time": "2026-05-29 22:14",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260529-9128172",
+        "title": "东海岸海鲜中心珍宝海鲜将于9月30日关闭",
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1869,7 @@
         "time": "2026-05-29 22:15",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260528-9122203",
         "title": "金成兴控股下半年净利增加近两倍",
-        "seq": 204
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1878,7 @@
         "time": "2026-05-29 22:31",
         "link": "https://www.zaobao.com.sg/news/china/story20260528-9121722",
         "title": "香港寻求解决“劏房”问题 但部分租户无法负担更高租金",
-        "seq": 205
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1887,7 @@
         "time": "2026-05-29 22:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260528-9122372",
         "title": "纽约联储报告：美国挨饿人口高于冠病疫情高峰期",
-        "seq": 206
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1896,7 @@
         "time": "2026-05-29 22:37",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260528-9121417",
         "title": "出席友诺小学百年校庆 尚达曼：AI时代须坚守育人使命",
-        "seq": 207
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1905,7 @@
         "time": "2026-05-29 22:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260528-9122388",
         "title": "国家大基金领投DeepSeek 投前估值450亿美元",
-        "seq": 208
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1914,7 @@
         "time": "2026-05-29 22:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260528-9121894",
         "title": "今年首季个人可支配收入增幅扩大 个人储蓄由跌转升",
-        "seq": 209
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1923,7 @@
         "time": "2026-05-29 22:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260528-9122302",
         "title": "爆粗辱骂本地两保安 香港校长李卓兴道歉请辞",
-        "seq": 210
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1932,7 @@
         "time": "2026-05-29 22:47",
         "link": "https://www.zaobao.com.sg/news/china/story20260528-9122080",
         "title": "董军不出席香会 中国代表团层级降低",
-        "seq": 211
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1941,7 @@
         "time": "2026-05-29 22:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260528-9122245",
         "title": "网传新一波冠病“更会藏” 当局：无证据显示病毒更危险",
-        "seq": 212
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1950,7 @@
         "time": "2026-05-29 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20260528-9122474",
         "title": "特朗普提交新版诉状 向华尔街日报索赔百亿美元",
-        "seq": 213
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1959,7 @@
         "time": "2026-05-29 23:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260528-9121919",
         "title": "SpaceX上市点燃太空热 新加坡靠另辟赛道争优势",
-        "seq": 214
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1968,7 @@
         "time": "2026-05-29 23:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260528-9122484",
         "title": "遥遥领先后不敌高温崩盘 辛纳意外止步法网次轮",
-        "seq": 215
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1977,7 @@
         "time": "2026-05-29 23:35",
         "link": "https://www.zaobao.com.sg/news/china/story20260528-9122296",
         "title": "欧盟拟系统性加码关税措施  加大力度抵御中国进口冲击",
-        "seq": 216
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1986,7 @@
         "time": "2026-05-29 23:35",
         "link": "https://www.zaobao.com.sg/news/china/story20260528-9122296",
         "title": "欧盟拟系统性加码关税措施 加大力度抵御中国进口冲击",
-        "seq": 217
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1995,7 @@
         "time": "2026-05-29 23:36",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260528-9122543",
         "title": "德加拉增持TIL Investments股权 获印度医疗综合发展项目掌控权",
-        "seq": 218
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2004,7 @@
         "time": "2026-05-29 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260528-9122621",
         "title": "美逮捕前中央情报局官员 住所搜出价值4000万美元黄金",
-        "seq": 219
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1977,6 +2013,6 @@
         "time": "2026-05-29 23:59",
         "link": "https://www.zaobao.com.sg/news/world/story20260528-9122716",
         "title": "美国CEO信心暴跌：供应链与能源忧虑加剧拖累经济",
-        "seq": 220
+        "seq": 224
     }
 ]
