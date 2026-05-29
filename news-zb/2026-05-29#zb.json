@@ -2026,12 +2026,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:16",
+        "time": "2026-05-29 23:16",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260529-9128438",
+        "title": "纳达尔纪录片出炉：20年对抗疼痛 为网球牺牲健康",
+        "seq": 226
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:17",
+        "time": "2026-05-29 23:17",
+        "link": "https://www.zaobao.com.sg/news/world/story20260529-9128193",
+        "title": "需求放缓竞争激烈 日本车商相继喊停电动车计划",
+        "seq": 227
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:20",
         "time": "2026-05-29 23:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260528-9121919",
         "title": "SpaceX上市点燃太空热 新加坡靠另辟赛道争优势",
-        "seq": 226
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2058,7 @@
         "time": "2026-05-29 23:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260528-9122484",
         "title": "遥遥领先后不敌高温崩盘 辛纳意外止步法网次轮",
-        "seq": 227
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2067,7 @@
         "time": "2026-05-29 23:35",
         "link": "https://www.zaobao.com.sg/news/china/story20260528-9122296",
         "title": "欧盟拟系统性加码关税措施  加大力度抵御中国进口冲击",
-        "seq": 228
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2076,7 @@
         "time": "2026-05-29 23:35",
         "link": "https://www.zaobao.com.sg/news/china/story20260528-9122296",
         "title": "欧盟拟系统性加码关税措施 加大力度抵御中国进口冲击",
-        "seq": 229
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2085,7 @@
         "time": "2026-05-29 23:36",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260528-9122543",
         "title": "德加拉增持TIL Investments股权 获印度医疗综合发展项目掌控权",
-        "seq": 230
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2094,7 @@
         "time": "2026-05-29 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260528-9122621",
         "title": "美逮捕前中央情报局官员 住所搜出价值4000万美元黄金",
-        "seq": 231
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2085,6 +2103,6 @@
         "time": "2026-05-29 23:59",
         "link": "https://www.zaobao.com.sg/news/world/story20260528-9122716",
         "title": "美国CEO信心暴跌：供应链与能源忧虑加剧拖累经济",
-        "seq": 232
+        "seq": 234
     }
 ]
