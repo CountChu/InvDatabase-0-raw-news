@@ -1801,12 +1801,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:46",
+        "time": "2026-06-01 21:46",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260601-9138808",
+        "title": "苏林与小马可斯会晤 双边关系升格“增强型战略伙伴”",
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "21:54",
         "time": "2026-06-01 21:54",
         "link": "https://www.zaobao.com.sg/news/world/story20260531-9135127",
         "title": "1848名“奥沙利文氏”相见爱尔兰 创同姓聚会纪录",
-        "seq": 201
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1824,7 @@
         "time": "2026-06-01 22:17",
         "link": "https://www.zaobao.com.sg/news/sports/story20260531-9135091",
         "title": "哈里斯成雄狮出场次数第一 新加坡友谊赛4比0胜蒙古",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,7 @@
         "time": "2026-06-01 22:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260531-9134885",
         "title": "全国家庭节提醒人们 通过生活小日常维系亲情",
-        "seq": 203
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1842,7 @@
         "time": "2026-06-01 22:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260531-9135197",
         "title": "伊加25岁生日法网出局 乌克兰女将玛尔塔勇闯八强",
-        "seq": 204
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1851,7 @@
         "time": "2026-06-01 22:40",
         "link": "https://www.zaobao.com.sg/news/sea/story20260531-9133757",
         "title": "国际社会对挪威违反军购合约视而不见  马防长斥双重标准实施国际法",
-        "seq": 205
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1860,7 @@
         "time": "2026-06-01 22:59",
         "link": "https://www.zaobao.com.sg/news/sea/story20260531-9135141",
         "title": "印尼泥浆喷发20周年阴影犹在 灾区地下水严重污染",
-        "seq": 206
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1869,7 @@
         "time": "2026-06-01 23:27",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260531-9135122",
         "title": "香格里拉对话举行期间 陈振声与多国防长会面",
-        "seq": 207
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1878,7 @@
         "time": "2026-06-01 23:32",
         "link": "https://www.zaobao.com.sg/news/sea/story20260531-9134408",
         "title": "菲防长再谴责中国拒承认南中国海仲裁 中方重申裁决是非法无效的“废纸”",
-        "seq": 208
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1887,7 @@
         "time": "2026-06-01 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260531-9135348",
         "title": "印尼二战遗留炸弹爆炸 造成五死五伤",
-        "seq": 209
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1896,7 @@
         "time": "2026-06-01 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260531-9135174",
         "title": "卫塞节礼佛浴佛 逾万信众齐聚佛光山",
-        "seq": 210
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1896,6 +1905,6 @@
         "time": "2026-06-01 23:50",
         "link": "https://www.zaobao.com.sg/news/sports/story20260531-9134638",
         "title": "13小将获羽总发展奖学金 两退役前国手获退役酬金",
-        "seq": 211
+        "seq": 212
     }
 ]
