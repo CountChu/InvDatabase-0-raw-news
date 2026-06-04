@@ -2071,12 +2071,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:21",
+        "time": "2026-06-04 23:21",
+        "link": "https://www.zaobao.com.sg/news/china/story20260604-9157559",
+        "title": "北京首禁访台新西兰议员入境 制裁措施或成新趋势",
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:32",
+        "time": "2026-06-04 23:32",
+        "link": "https://www.zaobao.com.sg/news/world/story20260604-9157736",
+        "title": "黎真主党：只要占领存在 抵抗就将继续",
+        "seq": 232
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:37",
         "time": "2026-06-04 23:37",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260603-9151083",
         "title": "工人党余振忠新书：为保密 2025年大选前未走访东海岸 团队已料无胜算",
-        "seq": 231
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2103,7 @@
         "time": "2026-06-04 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260603-9150722",
         "title": "学者：工人党保守谨慎政治定位或已不合时宜",
-        "seq": 232
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2112,7 @@
         "time": "2026-06-04 23:43",
         "link": "https://www.zaobao.com.sg/news/sports/story20260603-9151531",
         "title": "阿丽娜复赛惨遭俄罗斯黑马逆转 首夺法网冠军梦碎",
-        "seq": 233
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2121,7 @@
         "time": "2026-06-04 23:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20260603-9151563",
         "title": "雌狮日籍新帅首战告捷 新加坡时隔四年再胜印尼",
-        "seq": 234
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2112,6 +2130,6 @@
         "time": "2026-06-04 23:57",
         "link": "https://www.zaobao.com.sg/news/china/story20260603-9151334",
         "title": "比拉哈里：习特会后中美休战不稳定且脆弱",
-        "seq": 235
+        "seq": 237
     }
 ]
