@@ -1936,12 +1936,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:25",
+        "time": "2026-06-04 22:25",
+        "link": "https://www.zaobao.com.sg/news/world/story20260604-9157529",
+        "title": "德国汉莎航空波音787客机前起落架坍塌 多人受伤",
+        "seq": 216
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:30",
         "time": "2026-06-04 22:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260604-9156563",
         "title": "地缘政治或分化数码生态 杨莉明吁投资者把握亚细安AI机遇",
-        "seq": 216
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1959,7 @@
         "time": "2026-06-04 22:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260603-9150877",
         "title": "平价集团总裁韦朴：亚洲正成为全球“零售实验室” 加入创新前沿",
-        "seq": 217
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1968,7 @@
         "time": "2026-06-04 22:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260603-9150955",
         "title": "新马签署谅解备忘录 推动企业纠纷有效解决",
-        "seq": 218
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1977,7 @@
         "time": "2026-06-04 22:38",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260603-9151084",
         "title": "The Assembly Place成立合资企业 将凤凰园打造成本地最大共居社区",
-        "seq": 219
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1977,7 +1986,7 @@
         "time": "2026-06-04 22:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260603-9151006",
         "title": "台风“蔷薇”席卷东京首都圈 市区河川暴涨 陆空交通大乱",
-        "seq": 220
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1986,7 +1995,7 @@
         "time": "2026-06-04 22:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260603-9149371",
         "title": "照亮新加坡灯光艺术节周五登场 14件艺术装置呈现“流转光影”",
-        "seq": 221
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2004,16 @@
         "time": "2026-06-04 22:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260603-9151413",
         "title": "特朗普承认与内坦亚胡紧张通话 斥责以色列政策",
-        "seq": 222
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:59",
+        "time": "2026-06-04 22:59",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260604-9157516",
+        "title": "警方全岛扫荡 捕涉私会党活动13男",
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2022,7 @@
         "time": "2026-06-04 23:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260603-9151420",
         "title": "北约秘书长：俄罗斯在乌克兰战事中陷入绝望",
-        "seq": 223
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2031,7 @@
         "time": "2026-06-04 23:37",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260603-9151083",
         "title": "工人党余振忠新书：为保密 2025年大选前未走访东海岸 团队已料无胜算",
-        "seq": 224
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2040,7 @@
         "time": "2026-06-04 23:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260603-9150722",
         "title": "学者：工人党保守谨慎政治定位或已不合时宜",
-        "seq": 225
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2049,7 @@
         "time": "2026-06-04 23:43",
         "link": "https://www.zaobao.com.sg/news/sports/story20260603-9151531",
         "title": "阿丽娜复赛惨遭俄罗斯黑马逆转 首夺法网冠军梦碎",
-        "seq": 226
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2058,7 @@
         "time": "2026-06-04 23:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20260603-9151563",
         "title": "雌狮日籍新帅首战告捷 新加坡时隔四年再胜印尼",
-        "seq": 227
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2049,6 +2067,6 @@
         "time": "2026-06-04 23:57",
         "link": "https://www.zaobao.com.sg/news/china/story20260603-9151334",
         "title": "比拉哈里：习特会后中美休战不稳定且脆弱",
-        "seq": 228
+        "seq": 230
     }
 ]
