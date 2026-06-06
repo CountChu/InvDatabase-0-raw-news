@@ -1459,12 +1459,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:52",
+        "time": "2026-06-06 22:52",
+        "link": "https://www.zaobao.com.sg/news/world/story20260606-9166632",
+        "title": "特朗普：伊朗导弹只剩两成  最终必会接受停战协议",
+        "seq": 163
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:54",
         "time": "2026-06-06 22:54",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260605-9163490",
         "title": "原交警局长陈新兴调往赌管局 周利玲将领军交警",
-        "seq": 163
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1482,7 @@
         "time": "2026-06-06 22:56",
         "link": "https://www.zaobao.com.sg/news/sea/story20260605-9163144",
         "title": "印尼市场爆发“抛售印尼”信任危机 财长否认请辞谣言",
-        "seq": 164
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1491,7 @@
         "time": "2026-06-06 23:04",
         "link": "https://www.zaobao.com.sg/news/china/story20260605-9163437",
         "title": "德籍稀土专家：稀土问题悬而未决形同美国对华政治投降",
-        "seq": 165
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1500,7 @@
         "time": "2026-06-06 23:05",
         "link": "https://www.zaobao.com.sg/news/sports/story20260605-9163503",
         "title": "英国摄影大师操刀 挪威国家队维京风写真照引爆全网",
-        "seq": 166
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1509,7 @@
         "time": "2026-06-06 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260605-9163664",
         "title": "爱尔兰GDP大幅下滑所累 欧元区经济年初萎缩",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2026-06-06 23:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260605-9163695",
         "title": "世贸组织：2026年全球货物贸易仍保持韧性",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1527,7 @@
         "time": "2026-06-06 23:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260605-9163705",
         "title": "美军否认伊朗向美军舰进行警告射击",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1536,7 @@
         "time": "2026-06-06 23:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260605-9163223",
         "title": "“少年善行网络”启动 年轻人主导创建公益交流平台",
-        "seq": 170
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1545,7 @@
         "time": "2026-06-06 23:50",
         "link": "https://www.zaobao.com.sg/news/china/story20260605-9163747",
         "title": "中国外交部：美国乱搞古巴终将反噬自身",
-        "seq": 171
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,6 +1554,6 @@
         "time": "2026-06-06 23:59",
         "link": "https://www.zaobao.com.sg/news/world/story20260605-9163760",
         "title": "空间站气体泄漏加剧 宇航员曾进入紧急撤离状态",
-        "seq": 172
+        "seq": 173
     }
 ]
