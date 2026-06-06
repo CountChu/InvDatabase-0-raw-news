@@ -1532,11 +1532,29 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:26",
+        "time": "2026-06-06 23:26",
+        "link": "https://www.zaobao.com.sg/news/world/story20260606-9166914",
+        "title": "黎巴嫩总统谴责以色列袭击黎军巡逻队",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:31",
         "time": "2026-06-06 23:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260605-9163705",
         "title": "美军否认伊朗向美军舰进行警告射击",
-        "seq": 171
+        "seq": 172
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2026-06-06 23:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20260606-9166906",
+        "title": "斯塔默：西方情报显示 俄或在四年内攻击北约",
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,7 @@
         "time": "2026-06-06 23:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260605-9163223",
         "title": "“少年善行网络”启动 年轻人主导创建公益交流平台",
-        "seq": 172
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1572,7 @@
         "time": "2026-06-06 23:50",
         "link": "https://www.zaobao.com.sg/news/china/story20260605-9163747",
         "title": "中国外交部：美国乱搞古巴终将反噬自身",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,6 +1581,6 @@
         "time": "2026-06-06 23:59",
         "link": "https://www.zaobao.com.sg/news/world/story20260605-9163760",
         "title": "空间站气体泄漏加剧 宇航员曾进入紧急撤离状态",
-        "seq": 174
+        "seq": 176
     }
 ]
