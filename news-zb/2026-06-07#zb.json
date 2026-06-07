@@ -1829,11 +1829,38 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:26",
+        "time": "2026-06-07 23:26",
+        "link": "https://www.zaobao.com.sg/news/world/story20260607-9169617",
+        "title": "日本陆自最大规模实弹军演：迈向“有攻击能力”时代",
+        "seq": 204
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:33",
+        "time": "2026-06-07 23:33",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260607-9169476",
+        "title": "柔佛国阵确认州选全面开打 拒与民行党合组州政府",
+        "seq": 205
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:35",
         "time": "2026-06-07 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260606-9166906",
         "title": "斯塔默：西方情报显示 俄或在四年内攻击北约",
-        "seq": 204
+        "seq": 206
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:38",
+        "time": "2026-06-07 23:38",
+        "link": "https://www.zaobao.com.sg/news/china/story20260607-9169767",
+        "title": "中国灵活就业人数今年料达3.2亿 占就业人口四成",
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1869,7 @@
         "time": "2026-06-07 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260606-9166785",
         "title": "警惕煽动种族情绪内容 学者：严法与公民辨别力是抵御分裂双重防线",
-        "seq": 205
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1878,7 @@
         "time": "2026-06-07 23:56",
         "link": "https://www.zaobao.com.sg/news/sea/story20260606-9166477",
         "title": "希盟同心党同日造势互别苗头 安华促柔佛人支持国州政府同一团队",
-        "seq": 206
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1860,6 +1887,6 @@
         "time": "2026-06-07 23:58",
         "link": "https://www.zaobao.com.sg/news/sports/story20260606-9166926",
         "title": "F1摩纳哥排位赛 安东内利力压维斯塔潘夺杆位",
-        "seq": 207
+        "seq": 210
     }
 ]
