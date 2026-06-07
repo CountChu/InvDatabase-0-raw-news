@@ -1756,12 +1756,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:45",
+        "time": "2026-06-07 22:45",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260607-9169419",
+        "title": "新报业首办足球嘉年华 22支队伍以球会友迎世界杯",
+        "seq": 196
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:46",
+        "time": "2026-06-07 22:46",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260607-9169524",
+        "title": "远程操控柬电诈与人口贩卖团伙 日本通缉犯曼谷落网",
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:52",
         "time": "2026-06-07 22:52",
         "link": "https://www.zaobao.com.sg/news/world/story20260606-9166632",
         "title": "特朗普：伊朗导弹只剩两成  最终必会接受停战协议",
-        "seq": 196
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1788,7 @@
         "time": "2026-06-07 22:56",
         "link": "https://www.zaobao.com.sg/news/sea/story20260605-9163144",
         "title": "印尼市场爆发“抛售印尼”信任危机 财长否认请辞谣言",
-        "seq": 197
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1797,7 @@
         "time": "2026-06-07 23:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260606-9166859",
         "title": "美国出现第二起螺旋蝇蛆病 得州发布“灾难宣告”",
-        "seq": 198
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1806,7 @@
         "time": "2026-06-07 23:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260606-9166914",
         "title": "黎巴嫩总统谴责以色列袭击黎军巡逻队",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1815,7 @@
         "time": "2026-06-07 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260606-9166906",
         "title": "斯塔默：西方情报显示 俄或在四年内攻击北约",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-06-07 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260606-9166785",
         "title": "警惕煽动种族情绪内容 学者：严法与公民辨别力是抵御分裂双重防线",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1833,7 @@
         "time": "2026-06-07 23:56",
         "link": "https://www.zaobao.com.sg/news/sea/story20260606-9166477",
         "title": "希盟同心党同日造势互别苗头 安华促柔佛人支持国州政府同一团队",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,6 +1842,6 @@
         "time": "2026-06-07 23:58",
         "link": "https://www.zaobao.com.sg/news/sports/story20260606-9166926",
         "title": "F1摩纳哥排位赛 安东内利力压维斯塔潘夺杆位",
-        "seq": 203
+        "seq": 205
     }
 ]
