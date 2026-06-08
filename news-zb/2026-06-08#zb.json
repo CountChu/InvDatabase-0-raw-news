@@ -2359,12 +2359,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:30",
+        "time": "2026-06-08 23:30",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260608-9174929",
+        "title": "不会坐等观望 新加坡将积极推动全球AI发展框架",
+        "seq": 263
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:33",
         "time": "2026-06-08 23:33",
         "link": "https://www.zaobao.com.sg/news/sea/story20260607-9169476",
         "title": "柔佛国阵确认州选全面开打 拒与民行党合组州政府",
-        "seq": 263
+        "seq": 264
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:35",
+        "time": "2026-06-08 23:35",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260608-9173924",
+        "title": "菲律宾近50年最强地震夺35命 数万人流离失所",
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2373,6 +2391,6 @@
         "time": "2026-06-08 23:38",
         "link": "https://www.zaobao.com.sg/news/china/story20260607-9169767",
         "title": "中国灵活就业人数今年料达3.2亿 占就业人口四成",
-        "seq": 264
+        "seq": 266
     }
 ]
