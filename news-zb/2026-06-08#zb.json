@@ -2305,12 +2305,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:54",
+        "time": "2026-06-08 22:54",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260608-9175132",
+        "title": "强生10亿美元收购生物科技公司Firefly 扩大抗癌药物领域足迹",
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:06",
         "time": "2026-06-08 23:06",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260607-9169280",
         "title": "西北健康生活节 吸引6000名公众参与",
-        "seq": 257
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2328,7 @@
         "time": "2026-06-08 23:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260607-9169617",
         "title": "日本陆自最大规模实弹军演：迈向“有攻击能力”时代",
-        "seq": 258
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2337,7 @@
         "time": "2026-06-08 23:33",
         "link": "https://www.zaobao.com.sg/news/sea/story20260607-9169476",
         "title": "柔佛国阵确认州选全面开打 拒与民行党合组州政府",
-        "seq": 259
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2337,6 +2346,6 @@
         "time": "2026-06-08 23:38",
         "link": "https://www.zaobao.com.sg/news/china/story20260607-9169767",
         "title": "中国灵活就业人数今年料达3.2亿 占就业人口四成",
-        "seq": 260
+        "seq": 261
     }
 ]
