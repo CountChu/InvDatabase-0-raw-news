@@ -2242,12 +2242,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:41",
+        "time": "2026-06-09 22:41",
+        "link": "https://www.zaobao.com.sg/news/china/story20260609-9180480",
+        "title": "腾讯拟发行美元与离岸人民币债券",
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:50",
+        "time": "2026-06-09 22:50",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260609-9180693",
+        "title": "比特币创FTX崩盘以来最大单周跌幅 分析师警告或未见底",
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:54",
         "time": "2026-06-09 22:54",
         "link": "https://www.zaobao.com.sg/finance/world/story20260608-9175132",
         "title": "强生10亿美元收购生物科技公司Firefly 扩大抗癌药物领域足迹",
-        "seq": 250
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:59",
+        "time": "2026-06-09 22:59",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260609-9180503",
+        "title": "颜金勇：印尼长远经济基础仍牢固  新印合作与时俱进",
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2283,7 @@
         "time": "2026-06-09 23:01",
         "link": "https://www.zaobao.com.sg/news/world/story20260608-9173946",
         "title": "法国人口预计2037年见顶 其后数十年将持续回落",
-        "seq": 251
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2292,7 @@
         "time": "2026-06-09 23:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260608-9174866",
         "title": "朝中峰会聚焦战略协作未谈无核化 中国对朝政策现微妙变化",
-        "seq": 252
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2301,7 @@
         "time": "2026-06-09 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260608-9174929",
         "title": "不会坐等观望 新加坡将积极推动全球AI发展框架",
-        "seq": 253
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2310,7 @@
         "time": "2026-06-09 23:35",
         "link": "https://www.zaobao.com.sg/news/sea/story20260608-9173924",
         "title": "菲律宾近50年最强地震夺35命 数万人流离失所",
-        "seq": 254
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2319,7 @@
         "time": "2026-06-09 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260608-9172864",
         "title": "骚扰与仇恨言论增加 日本穆斯林忧成歧视目标",
-        "seq": 255
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2328,7 @@
         "time": "2026-06-09 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260608-9175193",
         "title": "特朗普将现场观赛 尼克斯主场外禁止举办看球派对",
-        "seq": 256
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2310,6 +2337,6 @@
         "time": "2026-06-09 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260608-9175009",
         "title": "以色列伊朗两月来首次直接交火",
-        "seq": 257
+        "seq": 260
     }
 ]
