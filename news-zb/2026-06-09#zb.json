@@ -2288,11 +2288,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:07",
+        "time": "2026-06-09 23:07",
+        "link": "https://www.zaobao.com.sg/news/world/story20260609-9180818",
+        "title": "法国禁止以色列财政部长斯莫特里奇入境",
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:10",
         "time": "2026-06-09 23:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260608-9174866",
         "title": "朝中峰会聚焦战略协作未谈无核化 中国对朝政策现微妙变化",
-        "seq": 255
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2310,7 @@
         "time": "2026-06-09 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260608-9174929",
         "title": "不会坐等观望 新加坡将积极推动全球AI发展框架",
-        "seq": 256
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2319,7 @@
         "time": "2026-06-09 23:35",
         "link": "https://www.zaobao.com.sg/news/sea/story20260608-9173924",
         "title": "菲律宾近50年最强地震夺35命 数万人流离失所",
-        "seq": 257
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2328,7 @@
         "time": "2026-06-09 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260608-9172864",
         "title": "骚扰与仇恨言论增加 日本穆斯林忧成歧视目标",
-        "seq": 258
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2337,7 @@
         "time": "2026-06-09 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260608-9175193",
         "title": "特朗普将现场观赛 尼克斯主场外禁止举办看球派对",
-        "seq": 259
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2337,6 +2346,6 @@
         "time": "2026-06-09 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260608-9175009",
         "title": "以色列伊朗两月来首次直接交火",
-        "seq": 260
+        "seq": 261
     }
 ]
