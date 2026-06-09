@@ -2305,12 +2305,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:23",
+        "time": "2026-06-09 23:23",
+        "link": "https://www.zaobao.com.sg/news/china/story20260609-9180588",
+        "title": "郑丽文：习近平承诺 只要两岸同属一中“什么事都好商量”",
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:26",
+        "time": "2026-06-09 23:26",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260609-9180846",
+        "title": "世界杯开幕日 墨西哥城学校停课 公务员居家办公",
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:29",
+        "time": "2026-06-09 23:29",
+        "link": "https://www.zaobao.com.sg/news/world/story20260609-9180887",
+        "title": "4月访韩外国人消费额高达1.33万亿韩元 增近55%创新高",
+        "seq": 259
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:30",
         "time": "2026-06-09 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260608-9174929",
         "title": "不会坐等观望 新加坡将积极推动全球AI发展框架",
-        "seq": 257
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2346,25 @@
         "time": "2026-06-09 23:35",
         "link": "https://www.zaobao.com.sg/news/sea/story20260608-9173924",
         "title": "菲律宾近50年最强地震夺35命 数万人流离失所",
-        "seq": 258
+        "seq": 261
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:38",
+        "time": "2026-06-09 23:38",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260609-9180835",
+        "title": "新加坡信贷中心与马国Experian将推出跨境信贷报告服务",
+        "seq": 262
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:39",
+        "time": "2026-06-09 23:39",
+        "link": "https://www.zaobao.com.sg/news/china/story20260609-9180901",
+        "title": "卢秀燕访欧盼为台中寻找更多国际合作机会",
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2373,7 @@
         "time": "2026-06-09 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260608-9172864",
         "title": "骚扰与仇恨言论增加 日本穆斯林忧成歧视目标",
-        "seq": 259
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2382,7 @@
         "time": "2026-06-09 23:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20260608-9175193",
         "title": "特朗普将现场观赛 尼克斯主场外禁止举办看球派对",
-        "seq": 260
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2346,6 +2391,6 @@
         "time": "2026-06-09 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260608-9175009",
         "title": "以色列伊朗两月来首次直接交火",
-        "seq": 261
+        "seq": 266
     }
 ]
