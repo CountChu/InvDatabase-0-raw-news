@@ -2233,12 +2233,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:42",
+        "time": "2026-06-11 22:42",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260611-9192714",
+        "title": "若不赔2137万元 世皇将申请宣告罗斯玛破产",
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:44",
+        "time": "2026-06-11 22:44",
+        "link": "https://www.zaobao.com.sg/news/china/story20260611-9192746",
+        "title": "国民党批民进党禁地方政府人员参加海峡论坛",
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:45",
         "time": "2026-06-11 22:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260610-9186289",
         "title": "女皇镇福华岭二房式组屋单位54万元转售",
-        "seq": 249
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:49",
+        "time": "2026-06-11 22:49",
+        "link": "https://www.zaobao.com.sg/news/world/story20260611-9192727",
+        "title": "美财长：将用冻结的伊朗账户资金补偿波斯湾国家损失",
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2274,16 @@
         "time": "2026-06-11 22:51",
         "link": "https://www.zaobao.com.sg/news/sea/story20260610-9186553",
         "title": "越南力推提高煤炭产量 满足激增电力需求",
-        "seq": 250
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:54",
+        "time": "2026-06-11 22:54",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260611-9192685",
+        "title": "Cuscaden Peak子公司6.04亿元脱售澳洲一购物中心股份",
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2292,16 @@
         "time": "2026-06-11 22:55",
         "link": "https://www.zaobao.com.sg/news/china/story20260610-9186559",
         "title": "郑丽文华府行非坦途 美参院多数党领袖：本周没有安排会议",
-        "seq": 251
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:55",
+        "time": "2026-06-11 22:55",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260611-9192400",
+        "title": "房地产代理理事会改进网站 公开过去三年纪律处分信息",
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2310,7 @@
         "time": "2026-06-11 23:12",
         "link": "https://www.zaobao.com.sg/news/china/story20260610-9186611",
         "title": "香港宏福苑大火 七人及两公司被控25项罪名",
-        "seq": 252
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2319,7 @@
         "time": "2026-06-11 23:15",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260610-9185685",
         "title": "退休辅助计划存款和存户去年双增长 现金储存占比升至21%",
-        "seq": 253
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2328,7 @@
         "time": "2026-06-11 23:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260610-9186573",
         "title": "新加坡高庭扣押BigPay和Teleport股份 打击亚航创始人Capital A",
-        "seq": 254
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2337,7 @@
         "time": "2026-06-11 23:43",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260610-9185799",
         "title": "美国上市在即SpaceX新加坡扩招 新岗包括星链与AI",
-        "seq": 255
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2346,7 @@
         "time": "2026-06-11 23:48",
         "link": "https://www.zaobao.com.sg/news/china/story20260610-9186870",
         "title": "央视：中国大陆首次扫测台湾东部海域补齐海底地图",
-        "seq": 256
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2355,7 @@
         "time": "2026-06-11 23:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260610-9186773",
         "title": "巴西和美国女足友谊赛火药味浓 巴西全队共八人被罚下",
-        "seq": 257
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2319,6 +2364,6 @@
         "time": "2026-06-11 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260610-9186699",
         "title": "调查：仅11%欧洲人视美国为盟友",
-        "seq": 258
+        "seq": 263
     }
 ]
