@@ -2305,12 +2305,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:02",
+        "time": "2026-06-11 23:02",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260611-9192762",
+        "title": "传SpaceX散户认购金额逾900亿元 料成史上规模最大IPO",
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:05",
+        "time": "2026-06-11 23:05",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260611-9192569",
+        "title": "榴梿成为马国与法国的“文化大使”",
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:12",
         "time": "2026-06-11 23:12",
         "link": "https://www.zaobao.com.sg/news/china/story20260610-9186611",
         "title": "香港宏福苑大火 七人及两公司被控25项罪名",
-        "seq": 257
+        "seq": 259
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:13",
+        "time": "2026-06-11 23:13",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260611-9192455",
+        "title": "中欧贸易战风险上升 中国据报临时取消与欧盟两场高层会晤",
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2346,7 @@
         "time": "2026-06-11 23:15",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260610-9185685",
         "title": "退休辅助计划存款和存户去年双增长 现金储存占比升至21%",
-        "seq": 258
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2355,7 @@
         "time": "2026-06-11 23:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260610-9186573",
         "title": "新加坡高庭扣押BigPay和Teleport股份 打击亚航创始人Capital A",
-        "seq": 259
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2364,7 @@
         "time": "2026-06-11 23:43",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260610-9185799",
         "title": "美国上市在即SpaceX新加坡扩招 新岗包括星链与AI",
-        "seq": 260
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2373,7 @@
         "time": "2026-06-11 23:48",
         "link": "https://www.zaobao.com.sg/news/china/story20260610-9186870",
         "title": "央视：中国大陆首次扫测台湾东部海域补齐海底地图",
-        "seq": 261
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2382,7 @@
         "time": "2026-06-11 23:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260610-9186773",
         "title": "巴西和美国女足友谊赛火药味浓 巴西全队共八人被罚下",
-        "seq": 262
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2364,6 +2391,6 @@
         "time": "2026-06-11 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260610-9186699",
         "title": "调查：仅11%欧洲人视美国为盟友",
-        "seq": 263
+        "seq": 266
     }
 ]
