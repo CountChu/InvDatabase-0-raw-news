@@ -1756,12 +1756,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "19:58",
+        "time": "2026-06-11 19:58",
+        "link": "https://www.zaobao.com.sg/news/china/story20260611-9192098",
+        "title": "香港海关检获逾1.5亿港元世杯冒牌商品",
+        "seq": 196
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "20:18",
         "time": "2026-06-11 20:18",
         "link": "https://www.zaobao.com.sg/finance/world/story20260610-9185675",
         "title": "瀚亚投资：AI正加剧亚洲市场分化 新马韩日台明显受益",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1779,7 @@
         "time": "2026-06-11 20:20",
         "link": "https://www.zaobao.com.sg/news/world/story20260610-9186092",
         "title": "日本国会批准提案 解决皇位继承危机",
-        "seq": 197
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1788,7 @@
         "time": "2026-06-11 20:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260610-9186016",
         "title": "新加坡银行委任林良源领导迪拜超高净值业务",
-        "seq": 198
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1788,15 +1797,6 @@
         "time": "2026-06-11 20:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260610-9186112",
         "title": "特朗普：伊朗在谈判中拖太久 必须付出代价",
-        "seq": 199
-    },
-    {
-        "media": "聯合早報",
-        "category": "东南亚",
-        "timeText": "20:29",
-        "time": "2026-06-11 20:29",
-        "link": "https://www.zaobao.com.sg/news/sea/story20260610-9186127",
-        "title": "配合新柔地铁工程 新山中央车站列车服务6月11日起停运",
         "seq": 200
     },
     {
@@ -1805,8 +1805,17 @@
         "timeText": "20:29",
         "time": "2026-06-11 20:29",
         "link": "https://www.zaobao.com.sg/news/sea/story20260610-9186127",
-        "title": "配合新柔地铁工程 新山中央车站列车服务6月11日停运",
+        "title": "配合新柔地铁工程 新山中央车站列车服务6月11日起停运",
         "seq": 201
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "20:29",
+        "time": "2026-06-11 20:29",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260610-9186127",
+        "title": "配合新柔地铁工程 新山中央车站列车服务6月11日停运",
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1824,7 @@
         "time": "2026-06-11 20:37",
         "link": "https://www.zaobao.com.sg/news/sports/story20260610-9185966",
         "title": "现场收音酸孙兴慜没当过兵 韩电视台紧急消音澄清",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,7 @@
         "time": "2026-06-11 20:47",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260610-9185369",
         "title": "世界杯凌晨清晨开踢 成本客流考验本地酒吧是否直播赛事",
-        "seq": 203
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1842,7 @@
         "time": "2026-06-11 20:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260610-9185223",
         "title": "尚达曼会见桑给巴尔总统姆维尼",
-        "seq": 204
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1851,7 @@
         "time": "2026-06-11 20:52",
         "link": "https://www.zaobao.com.sg/news/sea/story20260610-9185749",
         "title": "安华：亚洲须摆脱零和竞争 在碎片化世界强化合作",
-        "seq": 205
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1860,7 @@
         "time": "2026-06-11 21:03",
         "link": "https://www.zaobao.com.sg/news/china/story20260610-9185309",
         "title": "中国5月PPI录得近四年来最高涨幅 CPI涨幅停滞",
-        "seq": 206
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1869,7 @@
         "time": "2026-06-11 21:06",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260610-9186165",
         "title": "美伊再开火亚太股纷走低 美通胀数据将左右下个交易日表现",
-        "seq": 207
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1878,7 @@
         "time": "2026-06-11 21:21",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260610-9186288",
         "title": "新科电信媒体全球数据中心公司扩建印尼数据中心园区",
-        "seq": 208
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1887,7 @@
         "time": "2026-06-11 21:23",
         "link": "https://www.zaobao.com.sg/news/china/story20260610-9185452",
         "title": "下午察：天价上“过气综艺”，地方文旅“卑微而富有”？",
-        "seq": 209
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1896,7 @@
         "time": "2026-06-11 21:27",
         "link": "https://www.zaobao.com.sg/news/sports/story20260610-9186336",
         "title": "阿根廷热身赛战胜冰岛前 全体球员护照资料意外泄漏",
-        "seq": 210
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1896,15 +1905,6 @@
         "time": "2026-06-11 21:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260610-9186150",
         "title": "挪威法院下令继续拘留患病王储妃的长子",
-        "seq": 211
-    },
-    {
-        "media": "聯合早報",
-        "category": "东南亚",
-        "timeText": "21:46",
-        "time": "2026-06-11 21:46",
-        "link": "https://www.zaobao.com.sg/news/sea/story20260610-9186430",
-        "title": "马国非回教团体指雪州非回教场所指南严苛 违反联邦宪法",
         "seq": 212
     },
     {
@@ -1913,8 +1913,17 @@
         "timeText": "21:46",
         "time": "2026-06-11 21:46",
         "link": "https://www.zaobao.com.sg/news/sea/story20260610-9186430",
-        "title": "雪州非回教场所指南被批过度严苛或违宪",
+        "title": "马国非回教团体指雪州非回教场所指南严苛 违反联邦宪法",
         "seq": 213
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:46",
+        "time": "2026-06-11 21:46",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260610-9186430",
+        "title": "雪州非回教场所指南被批过度严苛或违宪",
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1932,7 @@
         "time": "2026-06-11 22:18",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260610-9185713",
         "title": "应用材料6亿元新厂启用 颜金勇：新加坡须超越自身定位",
-        "seq": 214
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1941,7 @@
         "time": "2026-06-11 22:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260610-9186315",
         "title": "世界杯热潮引燃本地零售业 有球迷花4000元扫光40多款球衣",
-        "seq": 215
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1950,7 @@
         "time": "2026-06-11 22:25",
         "link": "https://www.zaobao.com.sg/news/china/story20260610-9185014",
         "title": "北京宣布结束在台东海域四天专项执法行动",
-        "seq": 216
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1959,7 @@
         "time": "2026-06-11 22:32",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260610-9186299",
         "title": "当局扩大回教家庭支援网络 四回教堂设家庭发展官员",
-        "seq": 217
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1968,7 @@
         "time": "2026-06-11 22:39",
         "link": "https://www.zaobao.com.sg/news/sports/story20260610-9186558",
         "title": "茅台新加坡女子高球大师赛本周开打 庞润芝盼成功卫冕",
-        "seq": 218
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1977,7 @@
         "time": "2026-06-11 22:40",
         "link": "https://www.zaobao.com.sg/news/china/story20260610-9186691",
         "title": "山西多名官员接连落马 官媒：82死矿难开启问责链",
-        "seq": 219
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1977,7 +1986,7 @@
         "time": "2026-06-11 22:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260610-9186289",
         "title": "女皇镇福华岭二房式组屋单位54万元转售",
-        "seq": 220
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1986,7 +1995,7 @@
         "time": "2026-06-11 22:51",
         "link": "https://www.zaobao.com.sg/news/sea/story20260610-9186553",
         "title": "越南力推提高煤炭产量 满足激增电力需求",
-        "seq": 221
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2004,7 @@
         "time": "2026-06-11 22:55",
         "link": "https://www.zaobao.com.sg/news/china/story20260610-9186559",
         "title": "郑丽文华府行非坦途 美参院多数党领袖：本周没有安排会议",
-        "seq": 222
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2013,7 @@
         "time": "2026-06-11 23:12",
         "link": "https://www.zaobao.com.sg/news/china/story20260610-9186611",
         "title": "香港宏福苑大火 七人及两公司被控25项罪名",
-        "seq": 223
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2022,7 @@
         "time": "2026-06-11 23:15",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260610-9185685",
         "title": "退休辅助计划存款和存户去年双增长 现金储存占比升至21%",
-        "seq": 224
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2031,7 @@
         "time": "2026-06-11 23:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260610-9186573",
         "title": "新加坡高庭扣押BigPay和Teleport股份 打击亚航创始人Capital A",
-        "seq": 225
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2040,7 @@
         "time": "2026-06-11 23:43",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260610-9185799",
         "title": "美国上市在即SpaceX新加坡扩招 新岗包括星链与AI",
-        "seq": 226
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2049,7 @@
         "time": "2026-06-11 23:48",
         "link": "https://www.zaobao.com.sg/news/china/story20260610-9186870",
         "title": "央视：中国大陆首次扫测台湾东部海域补齐海底地图",
-        "seq": 227
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2058,7 @@
         "time": "2026-06-11 23:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260610-9186773",
         "title": "巴西和美国女足友谊赛火药味浓 巴西全队共八人被罚下",
-        "seq": 228
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2058,6 +2067,6 @@
         "time": "2026-06-11 23:58",
         "link": "https://www.zaobao.com.sg/news/world/story20260610-9186699",
         "title": "调查：仅11%欧洲人视美国为盟友",
-        "seq": 229
+        "seq": 230
     }
 ]
