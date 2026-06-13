@@ -1666,12 +1666,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:00",
+        "time": "2026-06-13 23:00",
+        "link": "https://www.zaobao.com.sg/news/world/story20260613-9201949",
+        "title": "美伊均称数日内可签署 和平协议或更利伊朗",
+        "seq": 186
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:05",
+        "time": "2026-06-13 23:05",
+        "link": "https://www.zaobao.com.sg/news/world/story20260613-9201975",
+        "title": "印度季风季或现中强度厄尔尼诺现象",
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:09",
         "time": "2026-06-13 23:09",
         "link": "https://www.zaobao.com.sg/news/china/story20260612-9198020",
         "title": "湖南山西安全事故后多名官员落马 分析：预防性制度建设是关键",
-        "seq": 186
+        "seq": 188
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:13",
+        "time": "2026-06-13 23:13",
+        "link": "https://www.zaobao.com.sg/news/world/story20260613-9201930",
+        "title": "联合国粮农组织：欧洲和中亚逾1亿人经历粮食短缺",
+        "seq": 189
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:15",
+        "time": "2026-06-13 23:15",
+        "link": "https://www.zaobao.com.sg/news/china/story20260613-9202005",
+        "title": "北京扬言反制美国扩大“中国军企”名单 学者判断中美安全领域“稳定不合作”",
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1716,7 @@
         "time": "2026-06-13 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260612-9198737",
         "title": "淡滨尼组屋邻居纠纷 44岁男子被指用塑料桶砸邻居头部",
-        "seq": 187
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1725,7 @@
         "time": "2026-06-13 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260612-9198916",
         "title": "中东战争冲击供应链 印度限制柴油购买量",
-        "seq": 188
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1734,7 @@
         "time": "2026-06-13 23:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260612-9198932",
         "title": "伊朗：备忘录接近完成 美方称伊朗同意弃核",
-        "seq": 189
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1707,6 +1743,6 @@
         "time": "2026-06-13 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260612-9198964",
         "title": "美伊和平协议前景乐观 油气价格延续跌势",
-        "seq": 190
+        "seq": 194
     }
 ]
