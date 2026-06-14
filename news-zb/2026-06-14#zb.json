@@ -1720,12 +1720,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:40",
+        "time": "2026-06-14 22:40",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260614-9205079",
+        "title": "尼克斯NBA夺冠引混乱 世界杯巴士被破坏63人被捕",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:43",
         "time": "2026-06-14 22:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260614-9203893",
         "title": "研究：七成AI职位属高级岗位 新人入行更难",
-        "seq": 192
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1743,7 @@
         "time": "2026-06-14 22:48",
         "link": "https://www.zaobao.com.sg/news/sea/story20260614-9204951",
         "title": "自学成才 柬埔寨艺术家以独特米画闻名",
-        "seq": 193
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1752,7 @@
         "time": "2026-06-14 22:49",
         "link": "https://www.zaobao.com.sg/news/sea/story20260612-9198663",
         "title": "印尼大学生抗议政府政策 与警方爆发冲突",
-        "seq": 194
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1761,7 @@
         "time": "2026-06-14 22:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9201798",
         "title": "实际断供低于市场预期 霍尔木兹石油运输恢复近半",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1770,7 @@
         "time": "2026-06-14 22:54",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260614-9204810",
         "title": "时隔七年重返社区 端午嘉年华吸引逾4000人参与",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1779,7 @@
         "time": "2026-06-14 22:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260614-9204702",
         "title": "世界杯在华收视率破1.4%  球迷对比赛热度反应两极",
-        "seq": 197
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1788,7 @@
         "time": "2026-06-14 23:00",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9201949",
         "title": "美伊均称数日内可签署 和平协议或更利伊朗",
-        "seq": 198
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1797,16 @@
         "time": "2026-06-14 23:02",
         "link": "https://www.zaobao.com.sg/news/world/story20260614-9205188",
         "title": "美伊协议前夕袭击黎巴嫩 消息：以色列欲阻协议达成",
-        "seq": 199
+        "seq": 200
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:02",
+        "time": "2026-06-14 23:02",
+        "link": "https://www.zaobao.com.sg/news/world/story20260614-9205188",
+        "title": "传以色列袭击贝鲁特阻美伊达成协议 特朗普批：别搞砸了",
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1815,7 @@
         "time": "2026-06-14 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9201975",
         "title": "印度季风季或现中强度厄尔尼诺现象",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-06-14 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9201930",
         "title": "联合国粮农组织：欧洲和中亚逾1亿人经历粮食短缺",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1833,7 @@
         "time": "2026-06-14 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260614-9204789",
         "title": "特朗普称美伊星期天签协议 伊朗据报未做出最终决定",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1842,7 @@
         "time": "2026-06-14 23:15",
         "link": "https://www.zaobao.com.sg/news/china/story20260613-9202005",
         "title": "北京扬言反制美国扩大“中国军企”名单 学者判断中美安全领域“稳定不合作”",
-        "seq": 203
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1851,7 @@
         "time": "2026-06-14 23:15",
         "link": "https://www.zaobao.com.sg/news/china/story20260613-9202005",
         "title": "北京警告反制美国扩大“中国军企”名单 学者判断中美安全领域“稳定不合作”",
-        "seq": 204
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1842,6 +1860,6 @@
         "time": "2026-06-14 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9202124",
         "title": "瑞典国王伉俪庆祝金婚 乘马车与民同欢",
-        "seq": 205
+        "seq": 207
     }
 ]
