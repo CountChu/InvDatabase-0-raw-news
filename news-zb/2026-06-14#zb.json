@@ -1693,12 +1693,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:21",
+        "time": "2026-06-14 22:21",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260614-9204999",
+        "title": "消息：安联或以20亿美元收购汇丰新加坡保险业务",
+        "seq": 189
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:28",
+        "time": "2026-06-14 22:28",
+        "link": "https://www.zaobao.com.sg/news/world/story20260614-9204779",
+        "title": "日媒：日本拟8月派地质专家 赴格陵兰勘探稀土开采",
+        "seq": 190
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:49",
         "time": "2026-06-14 22:49",
         "link": "https://www.zaobao.com.sg/news/sea/story20260612-9198663",
         "title": "印尼大学生抗议政府政策 与警方爆发冲突",
-        "seq": 189
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1725,7 @@
         "time": "2026-06-14 22:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9201798",
         "title": "实际断供低于市场预期 霍尔木兹石油运输恢复近半",
-        "seq": 190
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1734,7 @@
         "time": "2026-06-14 23:00",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9201949",
         "title": "美伊均称数日内可签署 和平协议或更利伊朗",
-        "seq": 191
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1743,7 @@
         "time": "2026-06-14 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9201975",
         "title": "印度季风季或现中强度厄尔尼诺现象",
-        "seq": 192
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1752,7 @@
         "time": "2026-06-14 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9201930",
         "title": "联合国粮农组织：欧洲和中亚逾1亿人经历粮食短缺",
-        "seq": 193
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1761,7 @@
         "time": "2026-06-14 23:15",
         "link": "https://www.zaobao.com.sg/news/china/story20260613-9202005",
         "title": "北京扬言反制美国扩大“中国军企”名单 学者判断中美安全领域“稳定不合作”",
-        "seq": 194
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1770,7 @@
         "time": "2026-06-14 23:15",
         "link": "https://www.zaobao.com.sg/news/china/story20260613-9202005",
         "title": "北京警告反制美国扩大“中国军企”名单 学者判断中美安全领域“稳定不合作”",
-        "seq": 195
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1761,6 +1779,6 @@
         "time": "2026-06-14 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9202124",
         "title": "瑞典国王伉俪庆祝金婚 乘马车与民同欢",
-        "seq": 196
+        "seq": 198
     }
 ]
