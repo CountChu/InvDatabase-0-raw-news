@@ -1784,11 +1784,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:02",
+        "time": "2026-06-14 23:02",
+        "link": "https://www.zaobao.com.sg/news/world/story20260614-9205188",
+        "title": "美伊协议前夕袭击黎巴嫩 消息：以色列欲阻协议达成",
+        "seq": 199
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:05",
         "time": "2026-06-14 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9201975",
         "title": "印度季风季或现中强度厄尔尼诺现象",
-        "seq": 199
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1806,16 @@
         "time": "2026-06-14 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9201930",
         "title": "联合国粮农组织：欧洲和中亚逾1亿人经历粮食短缺",
-        "seq": 200
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:13",
+        "time": "2026-06-14 23:13",
+        "link": "https://www.zaobao.com.sg/news/world/story20260614-9204789",
+        "title": "特朗普称美伊星期天签协议 伊朗据报未做出最终决定",
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-06-14 23:15",
         "link": "https://www.zaobao.com.sg/news/china/story20260613-9202005",
         "title": "北京扬言反制美国扩大“中国军企”名单 学者判断中美安全领域“稳定不合作”",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1833,7 @@
         "time": "2026-06-14 23:15",
         "link": "https://www.zaobao.com.sg/news/china/story20260613-9202005",
         "title": "北京警告反制美国扩大“中国军企”名单 学者判断中美安全领域“稳定不合作”",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,6 +1842,6 @@
         "time": "2026-06-14 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260613-9202124",
         "title": "瑞典国王伉俪庆祝金婚 乘马车与民同欢",
-        "seq": 203
+        "seq": 205
     }
 ]
