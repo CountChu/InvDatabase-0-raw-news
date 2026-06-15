@@ -2161,12 +2161,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:41",
+        "time": "2026-06-15 22:41",
+        "link": "https://www.zaobao.com.sg/news/china/story20260615-9210978",
+        "title": "中国多地成立对学生思想政治教育的辅导员学院 官媒：这是好事",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:43",
         "time": "2026-06-15 22:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260614-9203893",
         "title": "研究：七成AI职位属高级岗位 新人入行更难",
-        "seq": 241
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2184,7 @@
         "time": "2026-06-15 22:48",
         "link": "https://www.zaobao.com.sg/news/sea/story20260614-9204951",
         "title": "自学成才 柬埔寨艺术家以独特米画闻名",
-        "seq": 242
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2193,7 @@
         "time": "2026-06-15 22:54",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260614-9204810",
         "title": "时隔七年重返社区 端午嘉年华吸引逾4000人参与",
-        "seq": 243
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2202,7 @@
         "time": "2026-06-15 22:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260614-9204702",
         "title": "世界杯在华收视率破1.4%  球迷对比赛热度反应两极",
-        "seq": 244
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2211,7 @@
         "time": "2026-06-15 23:02",
         "link": "https://www.zaobao.com.sg/news/world/story20260614-9205188",
         "title": "传以色列袭击贝鲁特阻美伊达成协议 特朗普批：别搞砸了",
-        "seq": 245
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2211,6 +2220,6 @@
         "time": "2026-06-15 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260614-9204789",
         "title": "特朗普称美伊星期天签协议 伊朗据报未做出最终决定",
-        "seq": 246
+        "seq": 247
     }
 ]
