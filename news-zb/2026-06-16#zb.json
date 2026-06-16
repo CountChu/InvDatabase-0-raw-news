@@ -2224,12 +2224,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:59",
+        "time": "2026-06-16 22:59",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260616-9217158",
+        "title": "音乐串流平台Spotify出现故障 无法登录",
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:03",
+        "time": "2026-06-16 23:03",
+        "link": "https://www.zaobao.com.sg/news/world/story20260616-9216677",
+        "title": "北极竞争与贸易摩擦升温 冰岛8月公投重启入欧谈判",
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:05",
         "time": "2026-06-16 23:05",
         "link": "https://www.zaobao.com.sg/news/china/story20260615-9211049",
         "title": "重庆官场人事震荡后 袁家军：忠诚摆首位 全面肃清流毒影响",
-        "seq": 248
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:14",
+        "time": "2026-06-16 23:14",
+        "link": "https://www.zaobao.com.sg/news/world/story20260616-9216918",
+        "title": "美伊协议附带3000亿美元重建基金",
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2265,7 @@
         "time": "2026-06-16 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260615-9210791",
         "title": "美伊达成初步协议 特朗普称商船开始驶出海峡",
-        "seq": 249
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2274,7 @@
         "time": "2026-06-16 23:20",
         "link": "https://www.zaobao.com.sg/news/china/story20260615-9210882",
         "title": "会见层级受限 郑丽文访美遭逢逆风调整论述",
-        "seq": 250
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2283,7 @@
         "time": "2026-06-16 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260615-9211104",
         "title": "巴勒斯坦总统宣布2027年初举行总统选举",
-        "seq": 251
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2292,7 @@
         "time": "2026-06-16 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260615-9211022",
         "title": "印度青年领袖示威时 遭两男子多次掌掴",
-        "seq": 252
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2301,7 @@
         "time": "2026-06-16 23:45",
         "link": "https://www.zaobao.com.sg/news/sea/story20260615-9211033",
         "title": "从欢迎到排斥 马国罗兴亚难民引爆民众集体反弹",
-        "seq": 253
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2283,6 +2310,6 @@
         "time": "2026-06-16 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260615-9211000",
         "title": "以人为本打造宜居城市 获奖城市分享治理经验",
-        "seq": 254
+        "seq": 257
     }
 ]
