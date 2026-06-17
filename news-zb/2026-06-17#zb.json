@@ -2026,12 +2026,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:34",
+        "time": "2026-06-17 22:34",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260617-9222624",
+        "title": "裕廊西组屋火患 青年半夜闻烟味敲门示警",
+        "seq": 226
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:36",
         "time": "2026-06-17 22:36",
         "link": "https://www.zaobao.com.sg/news/world/story20260616-9216434",
         "title": "G7聚焦俄乌战争 特朗普：俄罗斯应达成协议",
-        "seq": 226
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2049,7 @@
         "time": "2026-06-17 22:40",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260616-9217068",
         "title": "英利英国房地产信托私下配售获超额认购筹得740万英镑",
-        "seq": 227
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2058,16 @@
         "time": "2026-06-17 22:41",
         "link": "https://www.zaobao.com.sg/news/china/story20260616-9217042",
         "title": "夏宝龙访港调研 聚焦北部都会区与十五五规划",
-        "seq": 228
+        "seq": 229
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:44",
+        "time": "2026-06-17 22:44",
+        "link": "https://www.zaobao.com.sg/news/china/story20260617-9223041",
+        "title": "日防长公开质疑中国军费开支数据可信度",
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2076,7 @@
         "time": "2026-06-17 22:47",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260616-9217108",
         "title": "丰树泛亚商业信托发行2亿元高级绿色票据 票息率2.53%",
-        "seq": 229
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2085,7 @@
         "time": "2026-06-17 22:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260616-9216779",
         "title": "日本有意派兵赴霍尔木兹海峡参与扫雷",
-        "seq": 230
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2094,7 @@
         "time": "2026-06-17 22:54",
         "link": "https://www.zaobao.com.sg/news/sea/story20260616-9216935",
         "title": "越南捣毁跨省偷猫团伙 解救数百只猫逮捕九人",
-        "seq": 231
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2103,7 @@
         "time": "2026-06-17 22:59",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260616-9217158",
         "title": "音乐串流平台Spotify出现故障 无法登录",
-        "seq": 232
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2112,7 @@
         "time": "2026-06-17 23:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260616-9216677",
         "title": "北极竞争与贸易摩擦升温 冰岛8月公投重启入欧谈判",
-        "seq": 233
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2121,7 @@
         "time": "2026-06-17 23:14",
         "link": "https://www.zaobao.com.sg/news/world/story20260616-9216918",
         "title": "美伊协议附带3000亿美元重建基金",
-        "seq": 234
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2130,7 @@
         "time": "2026-06-17 23:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260616-9217283",
         "title": "美国放宽限制 允许进口部分中国玩具无人机",
-        "seq": 235
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2139,7 @@
         "time": "2026-06-17 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260616-9217008",
         "title": "美军拟在澳洲设战备物资库 学者：有助应对中国扩军",
-        "seq": 236
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2130,6 +2148,6 @@
         "time": "2026-06-17 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260616-9217289",
         "title": "消息：俄护卫舰英吉利海峡鸣枪示警",
-        "seq": 237
+        "seq": 239
     }
 ]
