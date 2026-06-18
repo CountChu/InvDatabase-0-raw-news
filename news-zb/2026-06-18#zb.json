@@ -2143,12 +2143,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:39",
+        "time": "2026-06-18 22:39",
+        "link": "https://www.zaobao.com.sg/news/world/story20260618-9229191",
+        "title": "因已签电子谅解备忘录 巴基斯坦总理推迟瑞士行",
+        "seq": 239
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:44",
         "time": "2026-06-18 22:44",
         "link": "https://www.zaobao.com.sg/news/china/story20260617-9223041",
         "title": "日防长公开质疑中国军费开支数据可信度",
-        "seq": 239
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2166,7 @@
         "time": "2026-06-18 23:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20260617-9222710",
         "title": "大力发展倡议经济 印尼部长特乌库：新一代创造者将塑造亚洲未来",
-        "seq": 240
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2175,7 @@
         "time": "2026-06-18 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260617-9223045",
         "title": "BBC削减550个职位 未来数月将公布更多撙节成本措施",
-        "seq": 241
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2184,7 @@
         "time": "2026-06-18 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260617-9223106",
         "title": "冬海集团据报低调进军美国AI聊天机器人市场",
-        "seq": 242
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2193,7 @@
         "time": "2026-06-18 23:32",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260617-9221308",
         "title": "包容巧固球运动将引入本地三学校 料明年中落实",
-        "seq": 243
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2202,7 @@
         "time": "2026-06-18 23:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260617-9223247",
         "title": "称G7峰会成功 马克龙：特朗普承认俄罗斯不愿实现和平",
-        "seq": 244
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2202,6 +2211,6 @@
         "time": "2026-06-18 23:55",
         "link": "https://www.zaobao.com.sg/news/china/story20260617-9223276",
         "title": "王毅与伊朗外长通电话 吁妥善处理霍尔木兹通航问题",
-        "seq": 245
+        "seq": 246
     }
 ]
