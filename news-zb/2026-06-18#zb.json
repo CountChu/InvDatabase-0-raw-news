@@ -1810,12 +1810,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:04",
+        "time": "2026-06-18 21:04",
+        "link": "https://www.zaobao.com.sg/news/china/story20260618-9228449",
+        "title": "夏宝龙访港高度评价李家超 学者：最早年底才知会否连任特首",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "21:05",
         "time": "2026-06-18 21:05",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260617-9222315",
         "title": "赡养费事务执行程序7月初全面落实 解决拖欠问题",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,7 @@
         "time": "2026-06-18 21:05",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260617-9220593",
         "title": "日本业务超市A-PRICE进军本地 首店落户丹戎巴葛",
-        "seq": 203
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1842,16 @@
         "time": "2026-06-18 21:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260617-9221588",
         "title": "G7领导人欢迎美伊达成协议 一致支持乌克兰",
-        "seq": 204
+        "seq": 205
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:08",
+        "time": "2026-06-18 21:08",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260618-9228725",
+        "title": "金管局将全球大型加密货币交易所ByBit列入须警惕名单",
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1860,25 @@
         "time": "2026-06-18 21:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260617-9222653",
         "title": "斯里兰卡前总统之子涉贪被捕后获准保释",
-        "seq": 205
+        "seq": 207
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:12",
+        "time": "2026-06-18 21:12",
+        "link": "https://www.zaobao.com.sg/news/world/story20260618-9228483",
+        "title": "霍尔木兹海峡解封 原油涌向亚洲或反致油库满载",
+        "seq": 208
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:13",
+        "time": "2026-06-18 21:13",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260618-9228604",
+        "title": "大士南三车相撞22人送院 41岁巴士司机协助调查",
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1887,7 @@
         "time": "2026-06-18 21:15",
         "link": "https://www.zaobao.com.sg/news/china/story20260617-9221788",
         "title": "中国将完善涉外金融立法 增设阻断与反制条款",
-        "seq": 206
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1896,7 @@
         "time": "2026-06-18 21:16",
         "link": "https://www.zaobao.com.sg/news/china/story20260617-9222348",
         "title": "吴清：外界对跨境券商整治存在误读",
-        "seq": 207
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1905,7 @@
         "time": "2026-06-18 21:21",
         "link": "https://www.zaobao.com.sg/news/sea/story20260617-9222693",
         "title": "湄公河干流首现高浓度砷污染 泰国忧威胁居民健康",
-        "seq": 208
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1914,7 @@
         "time": "2026-06-18 21:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260617-9222137",
         "title": "【红蚂蚁】新加坡的水源策略 是将开源节流做到极致？",
-        "seq": 209
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1923,7 @@
         "time": "2026-06-18 21:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260617-9222509",
         "title": "以军继续空袭黎南多地致多人死 G7领导人要求停火",
-        "seq": 210
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1932,7 @@
         "time": "2026-06-18 21:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260617-9222635",
         "title": "美联邦调查局捣破袭击白宫UFC格斗活动阴谋",
-        "seq": 211
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1941,7 @@
         "time": "2026-06-18 21:50",
         "link": "https://www.zaobao.com.sg/news/china/story20260617-9222848",
         "title": "七国集团拟五年内降低中国稀土供应占比至60%以下",
-        "seq": 212
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1950,7 @@
         "time": "2026-06-18 22:00",
         "link": "https://www.zaobao.com.sg/news/world/story20260617-9222836",
         "title": "消息：G7国家拟授权乌克兰境内公司生产远程导弹",
-        "seq": 213
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1959,7 @@
         "time": "2026-06-18 22:05",
         "link": "https://www.zaobao.com.sg/news/china/story20260617-9222352",
         "title": "郑丽文驳访美遭“降级接待”说法 称收获丰硕超出预期",
-        "seq": 214
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1968,7 @@
         "time": "2026-06-18 22:21",
         "link": "https://www.zaobao.com.sg/news/sea/story20260617-9222828",
         "title": "印尼多地持续爆发学生示威",
-        "seq": 215
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1977,7 @@
         "time": "2026-06-18 22:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260617-9222624",
         "title": "裕廊西组屋火患 青年半夜闻烟味敲门示警",
-        "seq": 216
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1986,7 @@
         "time": "2026-06-18 22:44",
         "link": "https://www.zaobao.com.sg/news/china/story20260617-9223041",
         "title": "日防长公开质疑中国军费开支数据可信度",
-        "seq": 217
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1995,7 @@
         "time": "2026-06-18 23:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20260617-9222710",
         "title": "大力发展倡议经济 印尼部长特乌库：新一代创造者将塑造亚洲未来",
-        "seq": 218
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2004,7 @@
         "time": "2026-06-18 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260617-9223045",
         "title": "BBC削减550个职位 未来数月将公布更多撙节成本措施",
-        "seq": 219
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2013,7 @@
         "time": "2026-06-18 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260617-9223106",
         "title": "冬海集团据报低调进军美国AI聊天机器人市场",
-        "seq": 220
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2022,7 @@
         "time": "2026-06-18 23:32",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260617-9221308",
         "title": "包容巧固球运动将引入本地三学校 料明年中落实",
-        "seq": 221
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2031,7 @@
         "time": "2026-06-18 23:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260617-9223247",
         "title": "称G7峰会成功 马克龙：特朗普承认俄罗斯不愿实现和平",
-        "seq": 222
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2004,6 +2040,6 @@
         "time": "2026-06-18 23:55",
         "link": "https://www.zaobao.com.sg/news/china/story20260617-9223276",
         "title": "王毅与伊朗外长通电话 吁妥善处理霍尔木兹通航问题",
-        "seq": 223
+        "seq": 227
     }
 ]
