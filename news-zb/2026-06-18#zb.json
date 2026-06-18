@@ -2071,12 +2071,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:08",
+        "time": "2026-06-18 22:08",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260618-9228848",
+        "title": "台央行上修全年经济增长预测至9.45％ 密切关注通胀压力",
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:10",
+        "time": "2026-06-18 22:10",
+        "link": "https://www.zaobao.com.sg/news/world/story20260618-9229077",
+        "title": "波兰：美国对在波设立永久美军基地持开放态度",
+        "seq": 232
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:21",
         "time": "2026-06-18 22:21",
         "link": "https://www.zaobao.com.sg/news/sea/story20260617-9222828",
         "title": "印尼多地持续爆发学生示威",
-        "seq": 231
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2103,7 @@
         "time": "2026-06-18 22:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260617-9222624",
         "title": "裕廊西组屋火患 青年半夜闻烟味敲门示警",
-        "seq": 232
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2112,7 @@
         "time": "2026-06-18 22:44",
         "link": "https://www.zaobao.com.sg/news/china/story20260617-9223041",
         "title": "日防长公开质疑中国军费开支数据可信度",
-        "seq": 233
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2121,7 @@
         "time": "2026-06-18 23:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20260617-9222710",
         "title": "大力发展倡议经济 印尼部长特乌库：新一代创造者将塑造亚洲未来",
-        "seq": 234
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2130,7 @@
         "time": "2026-06-18 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260617-9223045",
         "title": "BBC削减550个职位 未来数月将公布更多撙节成本措施",
-        "seq": 235
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2139,7 @@
         "time": "2026-06-18 23:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260617-9223106",
         "title": "冬海集团据报低调进军美国AI聊天机器人市场",
-        "seq": 236
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2148,7 @@
         "time": "2026-06-18 23:32",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260617-9221308",
         "title": "包容巧固球运动将引入本地三学校 料明年中落实",
-        "seq": 237
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2157,7 @@
         "time": "2026-06-18 23:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260617-9223247",
         "title": "称G7峰会成功 马克龙：特朗普承认俄罗斯不愿实现和平",
-        "seq": 238
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2148,6 +2166,6 @@
         "time": "2026-06-18 23:55",
         "link": "https://www.zaobao.com.sg/news/china/story20260617-9223276",
         "title": "王毅与伊朗外长通电话 吁妥善处理霍尔木兹通航问题",
-        "seq": 239
+        "seq": 241
     }
 ]
