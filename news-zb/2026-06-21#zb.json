@@ -1603,12 +1603,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:30",
+        "time": "2026-06-21 23:30",
+        "link": "https://www.zaobao.com.sg/news/world/story20260621-9240541",
+        "title": "同桌共餐却“各看各屏” 研究显示父母滑手机多过孩子",
+        "seq": 179
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:32",
         "time": "2026-06-21 23:32",
         "link": "https://www.zaobao.com.sg/news/china/story20260620-9238318",
         "title": "负面事件缠身形象受创 武汉大学纪委书记由中纪委干将空降引议论",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,6 +1626,6 @@
         "time": "2026-06-21 23:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20260620-9237682",
         "title": "杨佳敏冯盛均喜结连理 我国体坛名将齐聚祝贺",
-        "seq": 180
+        "seq": 181
     }
 ]
