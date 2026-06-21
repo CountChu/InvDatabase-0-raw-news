@@ -1450,12 +1450,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:03",
+        "time": "2026-06-21 22:03",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9241442",
+        "title": "温馨之家撤照 健卫部调查相关人员是否违法",
+        "seq": 162
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:06",
         "time": "2026-06-21 22:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20260619-9233601",
         "title": "土团伊党争国盟主导权 慕尤丁开会风波凸显内部分裂",
-        "seq": 162
+        "seq": 163
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1473,25 @@
         "time": "2026-06-21 22:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260620-9238335",
         "title": "伊朗：因以色列袭击黎巴嫩 霍尔木兹海峡封闭",
-        "seq": 163
+        "seq": 164
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:16",
+        "time": "2026-06-21 22:16",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9241288",
+        "title": "乌敏岛榴梿丰收 公众上岛品尝山芭榴梿",
+        "seq": 165
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:17",
+        "time": "2026-06-21 22:17",
+        "link": "https://www.zaobao.com.sg/news/world/story20260621-9241314",
+        "title": "日媒：高市首亮相七国集团 建议纳入联合声明凸显日本存在感",
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1500,7 @@
         "time": "2026-06-21 22:24",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260619-9234945",
         "title": "竞消委7月推快速通道：配合解决调查事宜 罚单可减多达30%",
-        "seq": 164
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1509,7 @@
         "time": "2026-06-21 22:36",
         "link": "https://www.zaobao.com.sg/news/world/story20260620-9238213",
         "title": "日美启动“坚毅之龙”军演 聚焦西南岛屿防御",
-        "seq": 165
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1518,7 @@
         "time": "2026-06-21 22:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260620-9238429",
         "title": "伊朗代表团将前往瑞士谈判",
-        "seq": 166
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1527,7 @@
         "time": "2026-06-21 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260620-9238250",
         "title": "美伊高官相继到瑞士 以黎停火后又互攻",
-        "seq": 167
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1536,7 @@
         "time": "2026-06-21 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260620-9238250",
         "title": "以黎停火后又互攻 伊朗再封霍尔木兹海峡",
-        "seq": 168
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1545,7 @@
         "time": "2026-06-21 23:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260620-9238221",
         "title": "丹戎巴葛时隔多年再现“武林大会” 会馆团体招生居民同欢",
-        "seq": 169
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1554,7 @@
         "time": "2026-06-21 23:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260620-9238504",
         "title": "巴基斯坦：美伊后续会谈定于6月21日举行",
-        "seq": 170
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1563,7 @@
         "time": "2026-06-21 23:25",
         "link": "https://www.zaobao.com.sg/news/sea/story20260619-9234794",
         "title": "印泰越菲马等亚细安多国 寻求加强与俄能源合作",
-        "seq": 171
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1572,7 @@
         "time": "2026-06-21 23:32",
         "link": "https://www.zaobao.com.sg/news/china/story20260620-9238318",
         "title": "负面事件缠身形象受创 武汉大学纪委书记由中纪委干将空降引议论",
-        "seq": 172
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1554,6 +1581,6 @@
         "time": "2026-06-21 23:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20260620-9237682",
         "title": "杨佳敏冯盛均喜结连理 我国体坛名将齐聚祝贺",
-        "seq": 173
+        "seq": 176
     }
 ]
