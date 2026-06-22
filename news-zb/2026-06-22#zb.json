@@ -1396,12 +1396,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "17:24",
+        "time": "2026-06-22 17:24",
+        "link": "https://www.zaobao.com.sg/news/world/story20260622-9245341",
+        "title": "特朗普民调不断下滑 美国中期选举存变数",
+        "seq": 156
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "17:26",
         "time": "2026-06-22 17:26",
         "link": "https://www.zaobao.com.sg/news/china/story20260621-9240454",
         "title": "消毒液广告被指物化女性 滴露启动内部调查",
-        "seq": 156
+        "seq": 157
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "17:29",
+        "time": "2026-06-22 17:29",
+        "link": "https://www.zaobao.com.sg/news/china/story20260622-9245713",
+        "title": "辽宁舰编队完成40多天远海训练 西太平洋与两栖攻击舰联合演练",
+        "seq": 158
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "17:33",
+        "time": "2026-06-22 17:33",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260622-9244924",
+        "title": "雅加达欢庆建城499周年 公共交通与旅游景点三天免费",
+        "seq": 159
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "17:39",
+        "time": "2026-06-22 17:39",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260622-9245684",
+        "title": "不堪长期遭霸凌 三男持巴冷刀新山理发店砍人",
+        "seq": 160
     },
     {
         "media": "聯合早報",
@@ -1410,7 +1446,7 @@
         "time": "2026-06-22 17:55",
         "link": "https://www.zaobao.com.sg/news/sea/story20260621-9240732",
         "title": "泰柬海上边界争端成阿努廷洪马内政治考验",
-        "seq": 157
+        "seq": 161
     },
     {
         "media": "聯合早報",
@@ -1419,7 +1455,7 @@
         "time": "2026-06-22 18:02",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9240209",
         "title": "牛车水大厦熟食中心排油烟机故障 摊贩称拟暂停业",
-        "seq": 158
+        "seq": 162
     },
     {
         "media": "聯合早報",
@@ -1428,7 +1464,7 @@
         "time": "2026-06-22 18:07",
         "link": "https://www.zaobao.com.sg/news/sea/story20260621-9240837",
         "title": "杜绝走私与滥用 马国7月统一全国柴油价格",
-        "seq": 159
+        "seq": 163
     },
     {
         "media": "聯合早報",
@@ -1437,7 +1473,7 @@
         "time": "2026-06-22 18:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9223482",
         "title": "按下暂停键后 在职妈妈回返职场如何安心前行？",
-        "seq": 160
+        "seq": 164
     },
     {
         "media": "聯合早報",
@@ -1446,7 +1482,7 @@
         "time": "2026-06-22 19:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260621-9237641",
         "title": "IBM亚太区总经理德克斯：未来小模型创建者才是赢家",
-        "seq": 161
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1455,7 +1491,7 @@
         "time": "2026-06-22 19:11",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9239260",
         "title": "老少同制“拼贴船” 85岁前苦力重温新加坡河往事",
-        "seq": 162
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1464,7 +1500,7 @@
         "time": "2026-06-22 19:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9241105",
         "title": "乌兹别克斯坦外长首次正式访新",
-        "seq": 163
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1509,7 @@
         "time": "2026-06-22 19:56",
         "link": "https://www.zaobao.com.sg/finance/world/story20260621-9240776",
         "title": "生物学诺贝尔奖得主 从谷歌跳槽至Anthropic",
-        "seq": 164
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1518,7 @@
         "time": "2026-06-22 19:57",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260621-9240874",
         "title": "创值科技82岁非执董辞世 董事会委员会维持现状",
-        "seq": 165
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1527,7 @@
         "time": "2026-06-22 20:23",
         "link": "https://www.zaobao.com.sg/news/china/story20260621-9092706",
         "title": "中国留学归国人数创新高 国内求职海归祛魅光环不再？",
-        "seq": 166
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1536,7 @@
         "time": "2026-06-22 20:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241246",
         "title": "伊方消息：以色列若不停火 海峡不会重开",
-        "seq": 167
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1545,7 @@
         "time": "2026-06-22 20:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20260621-9241211",
         "title": "世杯期间频繁乘飞机转场 因凡蒂诺遭环保人士批评",
-        "seq": 168
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1554,7 @@
         "time": "2026-06-22 20:59",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9240973",
         "title": "细菌含量升高 美国多州海滩发布游泳警告",
-        "seq": 169
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1563,7 @@
         "time": "2026-06-22 21:00",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9232526",
         "title": "北烁学校创办20年 助会考不及格生重拾信心发掘潜能",
-        "seq": 170
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1572,7 @@
         "time": "2026-06-22 21:05",
         "link": "https://www.zaobao.com.sg/news/sea/story20260621-9241275",
         "title": "柔摄政王：中央应归还柔佛约三成税收",
-        "seq": 171
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1581,7 @@
         "time": "2026-06-22 21:11",
         "link": "https://www.zaobao.com.sg/news/sea/story20260621-9241217",
         "title": "缅甸难民领取泰国非公民身份证 持卡者可获政府银行电信医疗等基本服务",
-        "seq": 172
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1590,7 @@
         "time": "2026-06-22 21:11",
         "link": "https://www.zaobao.com.sg/news/sea/story20260621-9241217",
         "title": "泰国向缅甸难民发放非公民身份证 持卡者可获基本服务",
-        "seq": 173
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1599,7 @@
         "time": "2026-06-22 21:25",
         "link": "https://www.zaobao.com.sg/news/sea/story20260621-9241351",
         "title": "登嘉楼警方起获55万元大麻花",
-        "seq": 174
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1608,7 @@
         "time": "2026-06-22 21:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9240678",
         "title": "塔利班限制下 阿富汗女性靠创业撑起生计",
-        "seq": 175
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1617,7 @@
         "time": "2026-06-22 22:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9241442",
         "title": "温馨之家撤照 健卫部调查相关人员是否违法",
-        "seq": 176
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1626,7 @@
         "time": "2026-06-22 22:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9241288",
         "title": "乌敏岛榴梿丰收 公众上岛品尝山芭榴梿",
-        "seq": 177
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1635,7 @@
         "time": "2026-06-22 22:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241314",
         "title": "日媒：高市首亮相七国集团 建议纳入联合声明凸显日本存在感",
-        "seq": 178
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1644,7 @@
         "time": "2026-06-22 22:21",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241498",
         "title": "万斯称美伊关系或迎根本改变",
-        "seq": 179
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1653,7 @@
         "time": "2026-06-22 22:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241552",
         "title": "特朗普：斯塔默将辞去英国首相职务",
-        "seq": 180
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1662,7 @@
         "time": "2026-06-22 22:35",
         "link": "https://www.zaobao.com.sg/news/sports/story20260621-9241530",
         "title": "40度酷热来袭 马德里取消西班牙对沙特赛事户外直播",
-        "seq": 181
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1671,7 @@
         "time": "2026-06-22 22:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241564",
         "title": "美伊瑞士会谈设禁飞区 空管故障致苏黎世多航班延误",
-        "seq": 182
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1680,7 @@
         "time": "2026-06-22 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9240541",
         "title": "同桌共餐却“各看各屏” 研究显示父母滑手机多过孩子",
-        "seq": 183
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1689,7 @@
         "time": "2026-06-22 23:42",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9236393",
         "title": "徐芳达：秉承“阿公阿嫲”建国精神 新移民要落地生根一起打造家园",
-        "seq": 184
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1698,7 @@
         "time": "2026-06-22 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241510",
         "title": "黎巴嫩成首要议题 万斯称美伊谈判取得进展",
-        "seq": 185
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1671,6 +1707,6 @@
         "time": "2026-06-22 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241718",
         "title": "美伊瑞士首轮谈判结束",
-        "seq": 186
+        "seq": 190
     }
 ]
