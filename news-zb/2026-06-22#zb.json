@@ -2026,12 +2026,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:41",
+        "time": "2026-06-22 21:41",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260622-9247016",
+        "title": "响应国际瑜伽日 缅甸多地举行活动逾3500人参与",
+        "seq": 226
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "21:41",
+        "time": "2026-06-22 21:41",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260622-9246939",
+        "title": "德国后卫施洛特贝克脚踝韧带受伤 确定告别世界杯",
+        "seq": 227
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "21:48",
         "time": "2026-06-22 21:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9240678",
         "title": "塔利班限制下 阿富汗女性靠创业撑起生计",
-        "seq": 226
+        "seq": 228
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:52",
+        "time": "2026-06-22 21:52",
+        "link": "https://www.zaobao.com.sg/news/china/story20260622-9246576",
+        "title": "中国对美国企业祭出反制措施 “稀土牌”再成博弈焦点",
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2067,7 @@
         "time": "2026-06-22 22:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9241442",
         "title": "温馨之家撤照 健卫部调查相关人员是否违法",
-        "seq": 227
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2076,7 @@
         "time": "2026-06-22 22:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9241288",
         "title": "乌敏岛榴梿丰收 公众上岛品尝山芭榴梿",
-        "seq": 228
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2085,7 @@
         "time": "2026-06-22 22:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241314",
         "title": "日媒：高市首亮相七国集团 建议纳入联合声明凸显日本存在感",
-        "seq": 229
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2094,7 @@
         "time": "2026-06-22 22:21",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241498",
         "title": "万斯称美伊关系或迎根本改变",
-        "seq": 230
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2103,7 @@
         "time": "2026-06-22 22:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241552",
         "title": "特朗普：斯塔默将辞去英国首相职务",
-        "seq": 231
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2112,7 @@
         "time": "2026-06-22 22:35",
         "link": "https://www.zaobao.com.sg/news/sports/story20260621-9241530",
         "title": "40度酷热来袭 马德里取消西班牙对沙特赛事户外直播",
-        "seq": 232
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2121,7 @@
         "time": "2026-06-22 22:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241564",
         "title": "美伊瑞士会谈设禁飞区 空管故障致苏黎世多航班延误",
-        "seq": 233
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2130,7 @@
         "time": "2026-06-22 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9240541",
         "title": "同桌共餐却“各看各屏” 研究显示父母滑手机多过孩子",
-        "seq": 234
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2139,7 @@
         "time": "2026-06-22 23:42",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260621-9236393",
         "title": "徐芳达：秉承“阿公阿嫲”建国精神 新移民要落地生根一起打造家园",
-        "seq": 235
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2148,7 @@
         "time": "2026-06-22 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241510",
         "title": "黎巴嫩成首要议题 万斯称美伊谈判取得进展",
-        "seq": 236
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2130,6 +2157,6 @@
         "time": "2026-06-22 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260621-9241718",
         "title": "美伊瑞士首轮谈判结束",
-        "seq": 237
+        "seq": 240
     }
 ]
