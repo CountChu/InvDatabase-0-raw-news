@@ -2152,12 +2152,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:21",
+        "time": "2026-06-23 23:21",
+        "link": "https://www.zaobao.com.sg/news/china/story20260623-9253544",
+        "title": "台国防部公布福建舰再航经台湾海峡",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:24",
         "time": "2026-06-23 23:24",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260622-9246843",
         "title": "AI推动IP开发提速 创作者吁守住本土故事与创作本质",
-        "seq": 240
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2175,16 @@
         "time": "2026-06-23 23:26",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260622-9247431",
         "title": "独立董事建议Bromat控股股东 接受全面收购要约",
-        "seq": 241
+        "seq": 242
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:29",
+        "time": "2026-06-23 23:29",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260623-9253561",
+        "title": "新航发行15亿人民币点心债券 票息率2.38%",
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2193,7 @@
         "time": "2026-06-23 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260622-9246926",
         "title": "英首相斯塔默宣布辞职 伯纳姆要竞选党魁争首相大位",
-        "seq": 242
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2202,7 @@
         "time": "2026-06-23 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260622-9247463",
         "title": "鲁比奥星期二访波斯湾三国",
-        "seq": 243
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2211,7 @@
         "time": "2026-06-23 23:40",
         "link": "https://www.zaobao.com.sg/news/sea/story20260622-9247284",
         "title": "国盟开会讨论土团党地位 慕尤丁：若被驱逐或另组政党联盟",
-        "seq": 244
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2220,7 @@
         "time": "2026-06-23 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260622-9247448",
         "title": "首届全球华文小说创作大赛得奖作家：时代变迁 撼动不了文学的地位",
-        "seq": 245
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2211,6 +2229,6 @@
         "time": "2026-06-23 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260622-9247448",
         "title": "首届全球华文小说创作大赛得奖作家：时代变迁撼动不了文学的地位",
-        "seq": 246
+        "seq": 248
     }
 ]
