@@ -2152,12 +2152,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:03",
+        "time": "2026-06-24 23:03",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260624-9258934",
+        "title": "400客工被欠薪涉事公司增至三家 雇主或已离新",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:07",
         "time": "2026-06-24 23:07",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260623-9253218",
         "title": "日元兑美元逼近40年低位 兑新元接近历史低位",
-        "seq": 240
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:13",
+        "time": "2026-06-24 23:13",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260624-9259413",
+        "title": "涉协助诈骗 24岁马国男子被控",
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2184,7 @@
         "time": "2026-06-24 23:21",
         "link": "https://www.zaobao.com.sg/news/china/story20260623-9253544",
         "title": "台国防部公布福建舰再航经台湾海峡",
-        "seq": 241
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2193,7 @@
         "time": "2026-06-24 23:29",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260623-9253561",
         "title": "新航发行15亿人民币点心债券 票息率2.38%",
-        "seq": 242
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2202,7 @@
         "time": "2026-06-24 23:57",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260623-9253595",
         "title": "和美置地发行1.5亿元绿色债券 票息率3.3%",
-        "seq": 243
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2211,7 @@
         "time": "2026-06-24 23:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260623-9253636",
         "title": "涉太子集团案 新加坡警方调查两中国男子封逾6亿资产",
-        "seq": 244
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2202,6 +2220,6 @@
         "time": "2026-06-24 23:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260623-9253636",
         "title": "涉太子集团案 新加坡警方调查两中国男子封逾6亿元资产",
-        "seq": 245
+        "seq": 247
     }
 ]
