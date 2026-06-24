@@ -2197,20 +2197,20 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2026-06-24 23:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20260624-9257169",
+        "title": "澳洲出口命脉面临罢工风险 铁矿石与天然气行业紧张升温",
+        "seq": 245
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:57",
         "time": "2026-06-24 23:57",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260623-9253595",
         "title": "和美置地发行1.5亿元绿色债券 票息率3.3%",
-        "seq": 245
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "23:58",
-        "time": "2026-06-24 23:58",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260623-9253636",
-        "title": "涉太子集团案 新加坡警方调查两中国男子封逾6亿资产",
         "seq": 246
     },
     {
@@ -2219,7 +2219,16 @@
         "timeText": "23:58",
         "time": "2026-06-24 23:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260623-9253636",
-        "title": "涉太子集团案 新加坡警方调查两中国男子封逾6亿元资产",
+        "title": "涉太子集团案 新加坡警方调查两中国男子封逾6亿资产",
         "seq": 247
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:58",
+        "time": "2026-06-24 23:58",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260623-9253636",
+        "title": "涉太子集团案 新加坡警方调查两中国男子封逾6亿元资产",
+        "seq": 248
     }
 ]
