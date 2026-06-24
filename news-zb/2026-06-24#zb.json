@@ -2063,11 +2063,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "22:32",
+        "time": "2026-06-24 22:32",
+        "link": "https://www.zaobao.com.sg/news/world/story20260624-9258836",
+        "title": "特朗普：伊朗若在霍尔木兹海峡收费就终止谈判",
+        "seq": 230
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "22:37",
         "time": "2026-06-24 22:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260623-9253383",
         "title": "伊朗和阿曼将研究霍尔木兹海峡服务收费问题",
-        "seq": 230
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2085,7 @@
         "time": "2026-06-24 22:39",
         "link": "https://www.zaobao.com.sg/news/sports/story20260623-9253357",
         "title": "意大利国家队下课后重返意甲 加图索接掌拉齐奥兵符",
-        "seq": 231
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2094,7 @@
         "time": "2026-06-24 22:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260623-9253401",
         "title": "俄罗斯：美国并非乌克兰问题的“客观调解人”",
-        "seq": 232
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2103,7 @@
         "time": "2026-06-24 22:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260623-9253096",
         "title": "年轻律师留不住？法学院和律所：AI冲击与制度压力",
-        "seq": 233
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2112,7 @@
         "time": "2026-06-24 22:58",
         "link": "https://www.zaobao.com.sg/news/china/story20260623-9253462",
         "title": "王毅在金砖会议强调加强战略性矿产资源合作",
-        "seq": 234
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2121,7 @@
         "time": "2026-06-24 23:01",
         "link": "https://www.zaobao.com.sg/news/sea/story20260623-9253119",
         "title": "菲校园枪击案死伤增至23人 少年嫌凶或受网上暴力影响",
-        "seq": 235
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2130,7 @@
         "time": "2026-06-24 23:07",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260623-9253218",
         "title": "日元兑美元逼近40年低位 兑新元接近历史低位",
-        "seq": 236
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2139,7 @@
         "time": "2026-06-24 23:21",
         "link": "https://www.zaobao.com.sg/news/china/story20260623-9253544",
         "title": "台国防部公布福建舰再航经台湾海峡",
-        "seq": 237
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2148,7 @@
         "time": "2026-06-24 23:29",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260623-9253561",
         "title": "新航发行15亿人民币点心债券 票息率2.38%",
-        "seq": 238
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2148,15 +2157,6 @@
         "time": "2026-06-24 23:57",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260623-9253595",
         "title": "和美置地发行1.5亿元绿色债券 票息率3.3%",
-        "seq": 239
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "23:58",
-        "time": "2026-06-24 23:58",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260623-9253636",
-        "title": "涉太子集团案 新加坡警方调查两中国男子封逾6亿资产",
         "seq": 240
     },
     {
@@ -2165,7 +2165,16 @@
         "timeText": "23:58",
         "time": "2026-06-24 23:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260623-9253636",
-        "title": "涉太子集团案 新加坡警方调查两中国男子封逾6亿元资产",
+        "title": "涉太子集团案 新加坡警方调查两中国男子封逾6亿资产",
         "seq": 241
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:58",
+        "time": "2026-06-24 23:58",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260623-9253636",
+        "title": "涉太子集团案 新加坡警方调查两中国男子封逾6亿元资产",
+        "seq": 242
     }
 ]
