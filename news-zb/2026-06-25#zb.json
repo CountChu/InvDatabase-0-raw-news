@@ -2035,12 +2035,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:20",
+        "time": "2026-06-25 22:20",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260625-9265916",
+        "title": "职总与IBF联手 未来三年助10万金融业人士提升AI技能",
+        "seq": 227
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:24",
+        "time": "2026-06-25 22:24",
+        "link": "https://www.zaobao.com.sg/news/world/story20260625-9265987",
+        "title": "美国通胀升至三年高点 消费支出增长加快",
+        "seq": 228
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:32",
         "time": "2026-06-25 22:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260624-9258836",
         "title": "特朗普：伊朗若在霍尔木兹海峡收费就终止谈判",
-        "seq": 227
+        "seq": 229
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:37",
+        "time": "2026-06-25 22:37",
+        "link": "https://www.zaobao.com.sg/news/china/story20260625-9266036",
+        "title": "李强会孟加拉总理：推动港口水利等标志性项目落地见效",
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2076,7 @@
         "time": "2026-06-25 22:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260624-9258489",
         "title": "熊患加剧 东京郊区斥资购700支防熊喷雾",
-        "seq": 228
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2085,7 @@
         "time": "2026-06-25 22:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260624-9256070",
         "title": "油价回落但经济影响滞后 亚细安经济与物价恢复仍需时",
-        "seq": 229
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2094,7 @@
         "time": "2026-06-25 23:01",
         "link": "https://www.zaobao.com.sg/news/sea/story20260623-9253119",
         "title": "菲校园枪击案死伤增至23人 少年嫌凶或受网上暴力影响",
-        "seq": 230
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2103,7 @@
         "time": "2026-06-25 23:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260624-9258934",
         "title": "400客工被欠薪涉事公司增至三家 雇主或已离新",
-        "seq": 231
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2112,7 @@
         "time": "2026-06-25 23:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260624-9259413",
         "title": "涉协助诈骗 24岁马国男子被控",
-        "seq": 232
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2121,7 @@
         "time": "2026-06-25 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260624-9257169",
         "title": "澳洲出口命脉面临罢工风险 铁矿石与天然气行业紧张升温",
-        "seq": 233
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2130,7 @@
         "time": "2026-06-25 23:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260624-9259521",
         "title": "油价跌至中东冲突前水平 预期霍尔木兹海峡油运更顺畅",
-        "seq": 234
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2139,7 @@
         "time": "2026-06-25 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260624-9259311",
         "title": "每日送免费榴梿15分钟扫空一吨 民众提早两小时排队",
-        "seq": 235
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2148,7 @@
         "time": "2026-06-25 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260624-9259311",
         "title": "免费榴梿15分钟扫空一吨 民众提前2小时排队",
-        "seq": 236
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2130,6 +2157,6 @@
         "time": "2026-06-25 23:56",
         "link": "https://www.zaobao.com.sg/news/sea/story20260624-9259601",
         "title": "马国修法限制交通违规外国车离境",
-        "seq": 237
+        "seq": 240
     }
 ]
