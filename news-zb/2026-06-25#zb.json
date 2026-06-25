@@ -2152,12 +2152,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:26",
+        "time": "2026-06-25 23:26",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260625-9265952",
+        "title": "指王室干政 柔佛州前议长退出巫统",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:34",
+        "time": "2026-06-25 23:34",
+        "link": "https://www.zaobao.com.sg/news/world/story20260625-9266168",
+        "title": "美最高法院：允许政府终止保护叙利亚与海地人免遭遣返",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:35",
         "time": "2026-06-25 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260624-9257169",
         "title": "澳洲出口命脉面临罢工风险 铁矿石与天然气行业紧张升温",
-        "seq": 240
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2184,7 @@
         "time": "2026-06-25 23:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260624-9259521",
         "title": "油价跌至中东冲突前水平 预期霍尔木兹海峡油运更顺畅",
-        "seq": 241
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2193,7 @@
         "time": "2026-06-25 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260624-9259311",
         "title": "每日送免费榴梿15分钟扫空一吨 民众提早两小时排队",
-        "seq": 242
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2202,7 @@
         "time": "2026-06-25 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260624-9259311",
         "title": "免费榴梿15分钟扫空一吨 民众提前2小时排队",
-        "seq": 243
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2193,6 +2211,6 @@
         "time": "2026-06-25 23:56",
         "link": "https://www.zaobao.com.sg/news/sea/story20260624-9259601",
         "title": "马国修法限制交通违规外国车离境",
-        "seq": 244
+        "seq": 246
     }
 ]
