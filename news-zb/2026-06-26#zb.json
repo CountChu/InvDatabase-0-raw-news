@@ -2161,12 +2161,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:42",
+        "time": "2026-06-26 22:42",
+        "link": "https://www.zaobao.com.sg/news/world/story20260626-9271999",
+        "title": "挂新加坡旗货船阿曼湾遇袭 疏散滞留船只行动暂停",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:43",
         "time": "2026-06-26 22:43",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260625-9265949",
         "title": "冒充政府官员指示受害者贷款 五人损失逾25万元",
-        "seq": 241
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2184,52 @@
         "time": "2026-06-26 22:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260625-9265712",
         "title": "日本东北地区发生7.2级地震  一周内恐再有强震",
-        "seq": 242
+        "seq": 243
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:44",
+        "time": "2026-06-26 22:44",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272316",
+        "title": "盛裕集团首席执行官乔全生将卸任 董事会启动“全球遴选”程序",
+        "seq": 244
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:45",
+        "time": "2026-06-26 22:45",
+        "link": "https://www.zaobao.com.sg/news/world/story20260626-9272438",
+        "title": "乌克兰频密空袭 俄吞并的克里米亚进入“紧急状态”",
+        "seq": 245
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:50",
+        "time": "2026-06-26 22:50",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9272375",
+        "title": "【红蚂蚁】“阿嬷”来了，新加坡“破防”了？",
+        "seq": 246
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:50",
+        "time": "2026-06-26 22:50",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272360",
+        "title": "林增创筑获准配售1500万新股 可筹集1140万元",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:51",
+        "time": "2026-06-26 22:51",
+        "link": "https://www.zaobao.com.sg/news/world/story20260626-9272001",
+        "title": "日媒：中国U盘藏病毒 潜伏日本防卫系统一年",
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2238,7 @@
         "time": "2026-06-26 23:03",
         "link": "https://www.zaobao.com.sg/news/china/story20260625-9265265",
         "title": "美再促州政府企业深化对台合作 指大陆阻挠并曲解对台政策",
-        "seq": 243
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2247,7 @@
         "time": "2026-06-26 23:26",
         "link": "https://www.zaobao.com.sg/news/sea/story20260625-9265952",
         "title": "指王室干政 柔佛州前议长退出巫统",
-        "seq": 244
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2256,7 @@
         "time": "2026-06-26 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260625-9266168",
         "title": "美最高法院：允许政府终止保护叙利亚与海地人免遭遣返",
-        "seq": 245
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2211,6 +2265,6 @@
         "time": "2026-06-26 23:41",
         "link": "https://www.zaobao.com.sg/news/china/story20260625-9266078",
         "title": "韩国瑜：台湾国际处境“只能恋爱不能结婚” 吁美挺台参与国际社会\n　　",
-        "seq": 246
+        "seq": 252
     }
 ]
