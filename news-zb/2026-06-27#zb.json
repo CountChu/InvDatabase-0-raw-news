@@ -19,12 +19,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "05:00",
+        "time": "2026-06-27 05:00",
+        "link": "https://www.zaobao.com.sg/news/china/story20260627-9271576",
+        "title": "新闻人间：陆委会梁文杰一句话掀起凤梨释迦风波",
+        "seq": 3
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "06:52",
         "time": "2026-06-27 06:52",
         "link": "https://www.zaobao.com.sg/news/sports/story20260627-9273070",
         "title": "登贝莱戴帽抢戏 法国4比1大胜挪威锁定I组盟主",
-        "seq": 3
+        "seq": 4
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "07:12",
+        "time": "2026-06-27 07:12",
+        "link": "https://www.zaobao.com.sg/news/world/story20260627-9273066",
+        "title": "霍尔木兹海峡货船遇袭后 美军报复打击伊朗",
+        "seq": 5
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "07:18",
+        "time": "2026-06-27 07:18",
+        "link": "https://www.zaobao.com.sg/news/china/story20260627-9273127",
+        "title": "中组部副部长张光军履新科技部副部长",
+        "seq": 6
     },
     {
         "media": "聯合早報",
@@ -33,7 +60,7 @@
         "time": "2026-06-27 10:41",
         "link": "https://www.zaobao.com.sg/news/sports/story20260626-9267346",
         "title": "韩国加拿大世界杯小组赛落败 洛杉矶温哥华门票暴跌",
-        "seq": 4
+        "seq": 7
     },
     {
         "media": "聯合早報",
@@ -42,7 +69,7 @@
         "time": "2026-06-27 12:09",
         "link": "https://www.zaobao.com.sg/news/sports/story20260626-9268042",
         "title": "澳洲踢平出线 土耳其绝杀美国仍出局",
-        "seq": 5
+        "seq": 8
     },
     {
         "media": "聯合早報",
@@ -51,7 +78,7 @@
         "time": "2026-06-27 13:00",
         "link": "https://www.zaobao.com.sg/news/sports/story20260626-9262665",
         "title": "G组收官战：埃及对伊朗以逸待劳 比利时欲胜新西兰争直接出线",
-        "seq": 6
+        "seq": 9
     },
     {
         "media": "聯合早報",
@@ -60,7 +87,7 @@
         "time": "2026-06-27 13:47",
         "link": "https://www.zaobao.com.sg/news/sports/story20260626-9268332",
         "title": "32强硬碰五星巴西 森保一：日本绝不会轻易倒下",
-        "seq": 7
+        "seq": 10
     },
     {
         "media": "聯合早報",
@@ -69,7 +96,7 @@
         "time": "2026-06-27 14:00",
         "link": "https://www.zaobao.com.sg/news/sports/story20260626-9263647",
         "title": "H组收官战：乌拉圭背水一战 西班牙严阵以待",
-        "seq": 8
+        "seq": 11
     },
     {
         "media": "聯合早報",
@@ -78,7 +105,7 @@
         "time": "2026-06-27 14:59",
         "link": "https://www.zaobao.com.sg/news/sports/story20260626-9268917",
         "title": "赛程刚过半即产生177球 美加墨世界杯刷新历史进球纪录",
-        "seq": 9
+        "seq": 12
     },
     {
         "media": "聯合早報",
@@ -87,7 +114,7 @@
         "time": "2026-06-27 15:00",
         "link": "https://www.zaobao.com.sg/news/sports/story20260626-9263120",
         "title": "I组收官战：姆巴佩哈兰德强强对话 塞内加尔伊拉克为希望而战",
-        "seq": 10
+        "seq": 13
     },
     {
         "media": "聯合早報",
@@ -96,7 +123,7 @@
         "time": "2026-06-27 15:06",
         "link": "https://www.zaobao.com.sg/news/sports/story20260626-9268662",
         "title": "哈密尔顿：去年试车撞伤九周寝食难安 本季有望追逐F1第八冠",
-        "seq": 11
+        "seq": 14
     },
     {
         "media": "聯合早報",
@@ -105,7 +132,7 @@
         "time": "2026-06-27 15:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9269334",
         "title": "哈迪否认与土团党假分裂 以提升国盟胜算",
-        "seq": 12
+        "seq": 15
     },
     {
         "media": "聯合早報",
@@ -114,7 +141,7 @@
         "time": "2026-06-27 16:16",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9269901",
         "title": "受印尼措施限制 TikTok与YouTube停用470万儿童账户",
-        "seq": 13
+        "seq": 16
     },
     {
         "media": "聯合早報",
@@ -123,7 +150,7 @@
         "time": "2026-06-27 16:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20260626-9270000",
         "title": "爆冷击败德国惊喜出线 厄瓜多尔总统宣布全国放假一天",
-        "seq": 14
+        "seq": 17
     },
     {
         "media": "聯合早報",
@@ -132,7 +159,7 @@
         "time": "2026-06-27 17:47",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9269856",
         "title": "评股论经：新加坡交易所",
-        "seq": 15
+        "seq": 18
     },
     {
         "media": "聯合早報",
@@ -141,7 +168,7 @@
         "time": "2026-06-27 17:57",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9270752",
         "title": "日韩股市暴跌 投资者趁低吸纳海指午盘跌幅收窄",
-        "seq": 16
+        "seq": 19
     },
     {
         "media": "聯合早報",
@@ -150,7 +177,7 @@
         "time": "2026-06-27 18:17",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9241556",
         "title": "女皇镇红山私宅价猛追里峇峇利 买房看地段潜力更要逐盘挑",
-        "seq": 17
+        "seq": 20
     },
     {
         "media": "聯合早報",
@@ -159,7 +186,7 @@
         "time": "2026-06-27 18:26",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9270985",
         "title": "世界禁毒日 缅甸销毁大量毒品",
-        "seq": 18
+        "seq": 21
     },
     {
         "media": "聯合早報",
@@ -168,7 +195,7 @@
         "time": "2026-06-27 18:38",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9270491",
         "title": "马国四执法机构纪律案 警方四年逾1.4万起最多",
-        "seq": 19
+        "seq": 22
     },
     {
         "media": "聯合早報",
@@ -177,7 +204,7 @@
         "time": "2026-06-27 19:19",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9269027",
         "title": "下午察：豆包收费，谁来买单？",
-        "seq": 20
+        "seq": 23
     },
     {
         "media": "聯合早報",
@@ -186,7 +213,7 @@
         "time": "2026-06-27 19:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9270585",
         "title": "有地住宅市场受地缘政治影响 上半年交易量值皆跌",
-        "seq": 21
+        "seq": 24
     },
     {
         "media": "聯合早報",
@@ -195,7 +222,7 @@
         "time": "2026-06-27 19:20",
         "link": "https://www.zaobao.com.sg/news/sports/story20260626-9271093",
         "title": "全国奥理会公布第二批亚运会名单 本届阵容增至304名运动员",
-        "seq": 22
+        "seq": 25
     },
     {
         "media": "聯合早報",
@@ -204,7 +231,7 @@
         "time": "2026-06-27 19:38",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9257617",
         "title": "油价回调油气股一个月跌达30% 投资者应避而远之？",
-        "seq": 23
+        "seq": 26
     },
     {
         "media": "聯合早報",
@@ -213,7 +240,7 @@
         "time": "2026-06-27 19:43",
         "link": "https://www.zaobao.com.sg/finance/world/story20260626-9270624",
         "title": "周五美市盘前走低 聚焦微软股价走势",
-        "seq": 24
+        "seq": 27
     },
     {
         "media": "聯合早報",
@@ -222,7 +249,7 @@
         "time": "2026-06-27 19:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9270509",
         "title": "赴柬加入团伙三天骗不到钱被开除 马国男子本地落网入狱",
-        "seq": 25
+        "seq": 28
     },
     {
         "media": "聯合早報",
@@ -231,7 +258,7 @@
         "time": "2026-06-27 19:56",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9271053",
         "title": "台湾中研院研究：台湾抵抗意志高于日韩",
-        "seq": 26
+        "seq": 29
     },
     {
         "media": "聯合早報",
@@ -240,7 +267,7 @@
         "time": "2026-06-27 20:00",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9271130",
         "title": "智谱AI模型低成本高性能 或能再创DeepSeek时刻",
-        "seq": 27
+        "seq": 30
     },
     {
         "media": "聯合早報",
@@ -249,7 +276,7 @@
         "time": "2026-06-27 20:02",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9271395",
         "title": "拖欠400客工薪水事件延烧 涉事董事曾抵押私宅借贷",
-        "seq": 28
+        "seq": 31
     },
     {
         "media": "聯合早報",
@@ -258,7 +285,7 @@
         "time": "2026-06-27 20:03",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9270517",
         "title": "越南下达强制拆迁令 为特朗普度假村项目清理土地",
-        "seq": 29
+        "seq": 32
     },
     {
         "media": "聯合早報",
@@ -267,7 +294,7 @@
         "time": "2026-06-27 20:10",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9271669",
         "title": "泰国啤酒豪门争产案引爆“不孝子法”争议",
-        "seq": 30
+        "seq": 33
     },
     {
         "media": "聯合早報",
@@ -276,7 +303,7 @@
         "time": "2026-06-27 20:14",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9270873",
         "title": "芽笼公寓禁租给部分外籍员工 建设局：附例不得限制业主出租权",
-        "seq": 31
+        "seq": 34
     },
     {
         "media": "聯合早報",
@@ -285,7 +312,7 @@
         "time": "2026-06-27 20:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9270426",
         "title": "公民永久居民及全职司机可优先报读4级驾照 候时缩至两个月",
-        "seq": 32
+        "seq": 35
     },
     {
         "media": "聯合早報",
@@ -294,7 +321,7 @@
         "time": "2026-06-27 20:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9271356",
         "title": "委内瑞拉双强震死者增至589人 数万人仍下落不明",
-        "seq": 33
+        "seq": 36
     },
     {
         "media": "聯合早報",
@@ -303,7 +330,7 @@
         "time": "2026-06-27 20:37",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9271851",
         "title": "菲律宾萨兰加尼西南发生6.7级地震",
-        "seq": 34
+        "seq": 37
     },
     {
         "media": "聯合早報",
@@ -312,7 +339,7 @@
         "time": "2026-06-27 20:40",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9271872",
         "title": "湖北原一把手王忠林退居二线 履新中国人大专门委员会副主任委员",
-        "seq": 35
+        "seq": 38
     },
     {
         "media": "聯合早報",
@@ -321,7 +348,7 @@
         "time": "2026-06-27 21:12",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9271960",
         "title": "英国国王查尔斯公布税单 系现代英国君主首例",
-        "seq": 36
+        "seq": 39
     },
     {
         "media": "聯合早報",
@@ -330,7 +357,7 @@
         "time": "2026-06-27 21:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9271793",
         "title": "韩国推进无人机战力建设 应对朝鲜威胁",
-        "seq": 37
+        "seq": 40
     },
     {
         "media": "聯合早報",
@@ -339,7 +366,7 @@
         "time": "2026-06-27 21:19",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9272045",
         "title": "【视频】北京第一高楼“中国尊”疑遭小型飞机撞击后 现场被封锁",
-        "seq": 38
+        "seq": 41
     },
     {
         "media": "聯合早報",
@@ -348,7 +375,7 @@
         "time": "2026-06-27 21:19",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9271415",
         "title": "PayNow升级有望降低支付成本 中小商户盼更多顾客转用",
-        "seq": 39
+        "seq": 42
     },
     {
         "media": "聯合早報",
@@ -357,7 +384,7 @@
         "time": "2026-06-27 21:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9271584",
         "title": "维文与乌克兰外长通电话 重申尊重各国主权与领土完整",
-        "seq": 40
+        "seq": 43
     },
     {
         "media": "聯合早報",
@@ -366,7 +393,7 @@
         "time": "2026-06-27 21:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9271945",
         "title": "BKE朝兀兰方向路段7月起启用移动测速摄像机",
-        "seq": 41
+        "seq": 44
     },
     {
         "media": "聯合早報",
@@ -375,7 +402,7 @@
         "time": "2026-06-27 21:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9266169",
         "title": "艾利森：若放任大国竞争 下一代人或以灾难性战争告终",
-        "seq": 42
+        "seq": 45
     },
     {
         "media": "聯合早報",
@@ -384,7 +411,7 @@
         "time": "2026-06-27 21:40",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9270494",
         "title": "台风“米克拉”引发特大暴雨 台湾约600万人受灾",
-        "seq": 43
+        "seq": 46
     },
     {
         "media": "聯合早報",
@@ -393,7 +420,7 @@
         "time": "2026-06-27 21:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272108",
         "title": "委内瑞拉罹难者上升至589人 中国与印度提供援助",
-        "seq": 44
+        "seq": 47
     },
     {
         "media": "聯合早報",
@@ -402,7 +429,7 @@
         "time": "2026-06-27 21:41",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9272119",
         "title": "印尼新法为主权基金引资开绿灯 被指或助长可疑资金流入",
-        "seq": 45
+        "seq": 48
     },
     {
         "media": "聯合早報",
@@ -411,7 +438,7 @@
         "time": "2026-06-27 21:48",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272015",
         "title": "郭氏集团拟投资53亿欧元 在意大利建设数据中心",
-        "seq": 46
+        "seq": 49
     },
     {
         "media": "聯合早報",
@@ -420,7 +447,7 @@
         "time": "2026-06-27 22:03",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9272222",
         "title": "马国机场截获AI晶片 高端服务器伪报为“电脑零件”转运亚洲",
-        "seq": 47
+        "seq": 50
     },
     {
         "media": "聯合早報",
@@ -429,7 +456,7 @@
         "time": "2026-06-27 22:07",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9271751",
         "title": "刘尚进任重庆市政府党组副书记 市长一职罕见空缺逾三个月",
-        "seq": 48
+        "seq": 51
     },
     {
         "media": "聯合早報",
@@ -438,7 +465,7 @@
         "time": "2026-06-27 22:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9272080",
         "title": "伊党土团党共用国盟招牌 分析：“离婚不分家”避免票源流失",
-        "seq": 49
+        "seq": 52
     },
     {
         "media": "聯合早報",
@@ -447,7 +474,7 @@
         "time": "2026-06-27 22:32",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9272400",
         "title": "委内瑞拉双强震已致589死 习近平承诺提供救灾重建帮助",
-        "seq": 50
+        "seq": 53
     },
     {
         "media": "聯合早報",
@@ -456,7 +483,7 @@
         "time": "2026-06-27 22:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9269111",
         "title": "工作场所安全违规行为 首次罚款额提高至3000元",
-        "seq": 51
+        "seq": 54
     },
     {
         "media": "聯合早報",
@@ -465,7 +492,7 @@
         "time": "2026-06-27 22:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9272035",
         "title": "白沙市镇广场正式开幕 提供全天候社区活动空间",
-        "seq": 52
+        "seq": 55
     },
     {
         "media": "聯合早報",
@@ -474,7 +501,7 @@
         "time": "2026-06-27 22:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9271999",
         "title": "挂新加坡旗货船阿曼湾遇袭 疏散滞留船只行动暂停",
-        "seq": 53
+        "seq": 56
     },
     {
         "media": "聯合早報",
@@ -483,7 +510,7 @@
         "time": "2026-06-27 22:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272316",
         "title": "盛裕集团首席执行官乔全生将卸任 董事会启动“全球遴选”程序",
-        "seq": 54
+        "seq": 57
     },
     {
         "media": "聯合早報",
@@ -492,7 +519,7 @@
         "time": "2026-06-27 22:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272438",
         "title": "乌克兰频密空袭 俄吞并的克里米亚进入“紧急状态”",
-        "seq": 55
+        "seq": 58
     },
     {
         "media": "聯合早報",
@@ -501,7 +528,7 @@
         "time": "2026-06-27 22:50",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9272375",
         "title": "【红蚂蚁】“阿嬷”来了，新加坡“破防”了？",
-        "seq": 56
+        "seq": 59
     },
     {
         "media": "聯合早報",
@@ -510,7 +537,7 @@
         "time": "2026-06-27 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272360",
         "title": "林增创筑获准配售1500万新股 可筹集1140万元",
-        "seq": 57
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -519,7 +546,7 @@
         "time": "2026-06-27 22:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272001",
         "title": "日媒：中国U盘藏病毒 潜伏日本防卫系统一年",
-        "seq": 58
+        "seq": 61
     },
     {
         "media": "聯合早報",
@@ -528,7 +555,7 @@
         "time": "2026-06-27 23:02",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272615",
         "title": "日本山梨县东部发生5.6级地震",
-        "seq": 59
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -537,7 +564,7 @@
         "time": "2026-06-27 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9271610",
         "title": "首届亚细安毒品受害者纪念日 近50地标建筑亮灯反毒",
-        "seq": 60
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -546,7 +573,7 @@
         "time": "2026-06-27 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272683",
         "title": "交换战俘 泽连斯基下令开展40天行动结束战争",
-        "seq": 61
+        "seq": 64
     },
     {
         "media": "聯合早報",
@@ -555,7 +582,7 @@
         "time": "2026-06-27 23:46",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9272735",
         "title": "马兴瑞胡衡华解放军三名上将等15人 被终止中国人大代表资格",
-        "seq": 62
+        "seq": 65
     },
     {
         "media": "聯合早報",
@@ -564,6 +591,6 @@
         "time": "2026-06-27 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272733",
         "title": "日本“雪猴”公园限游客数量 遏制不文明行为",
-        "seq": 63
+        "seq": 66
     }
 ]
