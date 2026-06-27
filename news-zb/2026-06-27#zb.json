@@ -1576,12 +1576,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:44",
+        "time": "2026-06-27 21:44",
+        "link": "https://www.zaobao.com.sg/news/world/story20260627-9275839",
+        "title": "青少年社媒禁令加强 澳洲对违规科技公司罚款加倍",
+        "seq": 176
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "21:48",
         "time": "2026-06-27 21:48",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272015",
         "title": "郭氏集团拟投资53亿欧元 在意大利建设数据中心",
-        "seq": 176
+        "seq": 177
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:55",
+        "time": "2026-06-27 21:55",
+        "link": "https://www.zaobao.com.sg/news/china/story20260627-9275428",
+        "title": "马兴瑞与六名解放军将领人大代表资格被终止 学者：或涉二十一大布局",
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1608,7 @@
         "time": "2026-06-27 22:03",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9272222",
         "title": "马国机场截获AI晶片 高端服务器伪报为“电脑零件”转运亚洲",
-        "seq": 177
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1617,7 @@
         "time": "2026-06-27 22:07",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9271751",
         "title": "刘尚进任重庆市政府党组副书记 市长一职罕见空缺逾三个月",
-        "seq": 178
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1626,7 @@
         "time": "2026-06-27 22:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9272080",
         "title": "伊党土团党共用国盟招牌 分析：“离婚不分家”避免票源流失",
-        "seq": 179
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1635,7 @@
         "time": "2026-06-27 22:32",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9272400",
         "title": "委内瑞拉双强震已致589死 习近平承诺提供救灾重建帮助",
-        "seq": 180
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1644,7 @@
         "time": "2026-06-27 22:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9269111",
         "title": "工作场所安全违规行为 首次罚款额提高至3000元",
-        "seq": 181
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1653,7 @@
         "time": "2026-06-27 22:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9272035",
         "title": "白沙市镇广场正式开幕 提供全天候社区活动空间",
-        "seq": 182
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1662,7 @@
         "time": "2026-06-27 22:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9271999",
         "title": "挂新加坡旗货船阿曼湾遇袭 疏散滞留船只行动暂停",
-        "seq": 183
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1671,7 @@
         "time": "2026-06-27 22:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272316",
         "title": "盛裕集团首席执行官乔全生将卸任 董事会启动“全球遴选”程序",
-        "seq": 184
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1680,7 @@
         "time": "2026-06-27 22:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272438",
         "title": "乌克兰频密空袭 俄吞并的克里米亚进入“紧急状态”",
-        "seq": 185
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1689,7 @@
         "time": "2026-06-27 22:50",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9272375",
         "title": "【红蚂蚁】“阿嬷”来了，新加坡“破防”了？",
-        "seq": 186
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1698,7 @@
         "time": "2026-06-27 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272360",
         "title": "林增创筑获准配售1500万新股 可筹集1140万元",
-        "seq": 187
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1707,7 @@
         "time": "2026-06-27 22:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272001",
         "title": "日媒：中国U盘藏病毒 潜伏日本防卫系统一年",
-        "seq": 188
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1716,7 @@
         "time": "2026-06-27 23:02",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272615",
         "title": "日本山梨县东部发生5.6级地震",
-        "seq": 189
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1725,7 @@
         "time": "2026-06-27 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9271610",
         "title": "首届亚细安毒品受害者纪念日 近50地标建筑亮灯反毒",
-        "seq": 190
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1734,7 @@
         "time": "2026-06-27 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272683",
         "title": "交换战俘 泽连斯基下令开展40天行动结束战争",
-        "seq": 191
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1743,7 @@
         "time": "2026-06-27 23:46",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9272735",
         "title": "马兴瑞胡衡华解放军三名上将等15人 被终止中国人大代表资格",
-        "seq": 192
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,6 +1752,6 @@
         "time": "2026-06-27 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272733",
         "title": "日本“雪猴”公园限游客数量 遏制不文明行为",
-        "seq": 193
+        "seq": 195
     }
 ]
