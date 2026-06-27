@@ -1747,12 +1747,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:14",
+        "time": "2026-06-27 23:14",
+        "link": "https://www.zaobao.com.sg/news/world/story20260627-9276076",
+        "title": "中非共和国暴发霍乱疫情 24人死亡",
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:26",
         "time": "2026-06-27 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260626-9271610",
         "title": "首届亚细安毒品受害者纪念日 近50地标建筑亮灯反毒",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1770,7 @@
         "time": "2026-06-27 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272683",
         "title": "交换战俘 泽连斯基下令开展40天行动结束战争",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1779,7 @@
         "time": "2026-06-27 23:46",
         "link": "https://www.zaobao.com.sg/news/china/story20260626-9272735",
         "title": "马兴瑞胡衡华解放军三名上将等15人 被终止中国人大代表资格",
-        "seq": 197
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1779,6 +1788,6 @@
         "time": "2026-06-27 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260626-9272733",
         "title": "日本“雪猴”公园限游客数量 遏制不文明行为",
-        "seq": 198
+        "seq": 199
     }
 ]
