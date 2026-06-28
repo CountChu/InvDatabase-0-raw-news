@@ -1675,12 +1675,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:40",
+        "time": "2026-06-28 21:40",
+        "link": "https://www.zaobao.com.sg/news/world/story20260628-9279384",
+        "title": "普京：俄罗斯正经历困难时期 但也学到很多",
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "21:41",
         "time": "2026-06-28 21:41",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9272119",
         "title": "印尼新法为主权基金引资开绿灯 被指或助长可疑资金流入",
-        "seq": 187
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1698,7 @@
         "time": "2026-06-28 21:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9275839",
         "title": "青少年社媒禁令加强 澳洲对违规科技公司罚款加倍",
-        "seq": 188
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1707,7 @@
         "time": "2026-06-28 21:48",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272015",
         "title": "郭氏集团拟投资53亿欧元 在意大利建设数据中心",
-        "seq": 189
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1716,7 @@
         "time": "2026-06-28 21:55",
         "link": "https://www.zaobao.com.sg/news/china/story20260627-9275428",
         "title": "马兴瑞与六名解放军将领人大代表资格被终止 学者：或涉二十一大布局",
-        "seq": 190
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1725,7 @@
         "time": "2026-06-28 22:03",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9272222",
         "title": "马国机场截获AI晶片 高端服务器伪报为“电脑零件”转运亚洲",
-        "seq": 191
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1734,7 @@
         "time": "2026-06-28 22:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9275938",
         "title": "真主党领袖：以黎框架协议“无效” 是为耻辱",
-        "seq": 192
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1743,7 @@
         "time": "2026-06-28 22:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9275958",
         "title": "阿富汗兴都库什地区发生6级地震",
-        "seq": 193
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1752,7 @@
         "time": "2026-06-28 22:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9272080",
         "title": "伊党土团党共用国盟招牌 分析：“离婚不分家”避免票源流失",
-        "seq": 194
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1761,7 @@
         "time": "2026-06-28 22:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272316",
         "title": "盛裕集团首席执行官乔全生将卸任 董事会启动“全球遴选”程序",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1770,7 @@
         "time": "2026-06-28 22:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9275924",
         "title": "美再打击伊朗设施伊方反击 双方剑拔弩张停火安排摇摇欲坠",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1779,7 @@
         "time": "2026-06-28 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272360",
         "title": "林增创筑获准配售1500万新股 可筹集1140万元",
-        "seq": 197
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1788,7 @@
         "time": "2026-06-28 23:14",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9276076",
         "title": "中非共和国暴发霍乱疫情 24人死亡",
-        "seq": 198
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1788,6 +1797,6 @@
         "time": "2026-06-28 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9276122",
         "title": "委内瑞拉地震废墟中 一新生儿获救",
-        "seq": 199
+        "seq": 200
     }
 ]
