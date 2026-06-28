@@ -1783,12 +1783,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:24",
+        "time": "2026-06-28 22:24",
+        "link": "https://www.zaobao.com.sg/news/world/story20260628-9279225",
+        "title": "美伊互袭波及科威特巴林 特朗普再威胁摧毁伊朗",
+        "seq": 199
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:38",
+        "time": "2026-06-28 22:38",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260628-9279476",
+        "title": "安装煤气新客户减少 复兴联合2026财年料蒙受净亏损",
+        "seq": 200
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:44",
         "time": "2026-06-28 22:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272316",
         "title": "盛裕集团首席执行官乔全生将卸任 董事会启动“全球遴选”程序",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1815,7 @@
         "time": "2026-06-28 22:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9275924",
         "title": "美再打击伊朗设施伊方反击 双方剑拔弩张停火安排摇摇欲坠",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-06-28 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272360",
         "title": "林增创筑获准配售1500万新股 可筹集1140万元",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1833,7 @@
         "time": "2026-06-28 23:14",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9276076",
         "title": "中非共和国暴发霍乱疫情 24人死亡",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,6 +1842,6 @@
         "time": "2026-06-28 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9276122",
         "title": "委内瑞拉地震废墟中 一新生儿获救",
-        "seq": 203
+        "seq": 205
     }
 ]
