@@ -1720,12 +1720,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:00",
+        "time": "2026-06-28 22:00",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260628-9278537",
+        "title": "透视角：法国阿根廷露冠军相 挪威黑马出击佛得角惊艳",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:03",
         "time": "2026-06-28 22:03",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9272222",
         "title": "马国机场截获AI晶片 高端服务器伪报为“电脑零件”转运亚洲",
-        "seq": 192
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:06",
+        "time": "2026-06-28 22:06",
+        "link": "https://www.zaobao.com.sg/news/world/story20260628-9279277",
+        "title": "日本东北地区频震 专家：有必要警惕7.5至8级大地震和海啸",
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1752,7 @@
         "time": "2026-06-28 22:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9275938",
         "title": "真主党领袖：以黎框架协议“无效” 是为耻辱",
-        "seq": 193
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1761,7 @@
         "time": "2026-06-28 22:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9275958",
         "title": "阿富汗兴都库什地区发生6级地震",
-        "seq": 194
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1770,16 @@
         "time": "2026-06-28 22:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20260626-9272080",
         "title": "伊党土团党共用国盟招牌 分析：“离婚不分家”避免票源流失",
-        "seq": 195
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:14",
+        "time": "2026-06-28 22:14",
+        "link": "https://www.zaobao.com.sg/news/world/story20260628-9278426",
+        "title": "养生还是养病？每天吞多种保健品 恐更伤身",
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1788,7 @@
         "time": "2026-06-28 22:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272316",
         "title": "盛裕集团首席执行官乔全生将卸任 董事会启动“全球遴选”程序",
-        "seq": 196
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1797,7 @@
         "time": "2026-06-28 22:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9275924",
         "title": "美再打击伊朗设施伊方反击 双方剑拔弩张停火安排摇摇欲坠",
-        "seq": 197
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1806,7 @@
         "time": "2026-06-28 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260626-9272360",
         "title": "林增创筑获准配售1500万新股 可筹集1140万元",
-        "seq": 198
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1815,7 @@
         "time": "2026-06-28 23:14",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9276076",
         "title": "中非共和国暴发霍乱疫情 24人死亡",
-        "seq": 199
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1797,6 +1824,6 @@
         "time": "2026-06-28 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260627-9276122",
         "title": "委内瑞拉地震废墟中 一新生儿获救",
-        "seq": 200
+        "seq": 203
     }
 ]
