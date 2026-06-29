@@ -2071,12 +2071,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:03",
+        "time": "2026-06-29 22:03",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260629-9284633",
+        "title": "马雷斯卡重回曼市 取代瓜迪奥拉成球队新帅",
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:06",
         "time": "2026-06-29 22:06",
         "link": "https://www.zaobao.com.sg/news/world/story20260628-9279277",
         "title": "日本东北地区频震 专家：有必要警惕7.5至8级大地震和海啸",
-        "seq": 231
+        "seq": 232
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:07",
+        "time": "2026-06-29 22:07",
+        "link": "https://www.zaobao.com.sg/news/china/story20260629-9284738",
+        "title": "涉职场霸凌被停职 杨珍妮称不排除采取法律途径",
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:10",
+        "time": "2026-06-29 22:10",
+        "link": "https://www.zaobao.com.sg/news/china/story20260629-9283114",
+        "title": "缪宗翰：一架小飞机撞出的中国安全风险",
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2112,16 @@
         "time": "2026-06-29 22:14",
         "link": "https://www.zaobao.com.sg/news/world/story20260628-9278426",
         "title": "养生还是养病？每天吞多种保健品 恐更伤身",
-        "seq": 232
+        "seq": 235
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:14",
+        "time": "2026-06-29 22:14",
+        "link": "https://www.zaobao.com.sg/news/world/story20260629-9284487",
+        "title": "日本推出新机制扩大对外资审核力度 强化经济安全",
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2130,7 @@
         "time": "2026-06-29 22:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260628-9279225",
         "title": "美伊互袭波及科威特巴林 特朗普再威胁摧毁伊朗",
-        "seq": 233
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2139,7 @@
         "time": "2026-06-29 22:38",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260628-9279476",
         "title": "安装煤气新客户减少 复兴联合2026财年料蒙受净亏损",
-        "seq": 234
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2148,7 @@
         "time": "2026-06-29 22:41",
         "link": "https://www.zaobao.com.sg/news/sports/story20260628-9279399",
         "title": "看尼克斯夺冠已释怀 林书豪：亚洲球员须练出“杀手本能”",
-        "seq": 235
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2157,7 @@
         "time": "2026-06-29 23:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260628-9279446",
         "title": "委内瑞拉强震：黄金72小时已过搜救希望渐渺 官方反应迟缓引民怨",
-        "seq": 236
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2166,7 @@
         "time": "2026-06-29 23:17",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260628-9274161",
         "title": "男子网购手机退款遭拒不妥协 三个月找消协上庭终获赔",
-        "seq": 237
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2175,7 @@
         "time": "2026-06-29 23:17",
         "link": "https://www.zaobao.com.sg/news/china/story20260628-9279142",
         "title": "河南省提级调查冷冻货车集体跨省偏航查扣案 分析：比“远洋捕捞”更恶劣",
-        "seq": 238
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2184,7 @@
         "time": "2026-06-29 23:19",
         "link": "https://www.zaobao.com.sg/news/world/story20260628-9278792",
         "title": "特朗普谈判爱拉锯 分析称恐成“不成交的艺术”",
-        "seq": 239
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2193,7 @@
         "time": "2026-06-29 23:24",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260628-9279130",
         "title": "耗资约1.9亿元 皇家集团于乌节区建长住型服务公寓",
-        "seq": 240
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2166,6 +2202,6 @@
         "time": "2026-06-29 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260628-9279524",
         "title": "扶轮社携手三团体 三年助300年长者原地养老",
-        "seq": 241
+        "seq": 245
     }
 ]
