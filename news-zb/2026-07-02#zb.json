@@ -2251,12 +2251,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:11",
+        "time": "2026-07-02 23:11",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260702-9303981",
+        "title": "曼市豪掷2亿元签下英格兰中场安德森加盟",
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:13",
         "time": "2026-07-02 23:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260702-9303328",
         "title": "小型疗养院运营受关注 学者吁监管机构助业者求存",
-        "seq": 251
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2274,7 @@
         "time": "2026-07-02 23:15",
         "link": "https://www.zaobao.com.sg/news/china/story20260701-9297537",
         "title": "两中将出席党庆与上将并排而坐 显示解放军高层人事升迁",
-        "seq": 252
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2283,7 @@
         "time": "2026-07-02 23:17",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260702-9303777",
         "title": "仰望花海如星空 花园节赏花新体验",
-        "seq": 253
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2292,7 @@
         "time": "2026-07-02 23:18",
         "link": "https://www.zaobao.com.sg/news/sea/story20260701-9297879",
         "title": "沙亚南轻快铁开通 雪州苏丹点名赞扬安华和纳吉",
-        "seq": 254
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2301,25 @@
         "time": "2026-07-02 23:25",
         "link": "https://www.zaobao.com.sg/news/china/story20260701-9297935",
         "title": "王毅与鲁比奥通话 指台湾问题牵一发动全身",
-        "seq": 255
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:28",
+        "time": "2026-07-02 23:28",
+        "link": "https://www.zaobao.com.sg/news/world/story20260702-9304126",
+        "title": "伊朗已故最高领袖哈梅内伊葬礼周末举行 中俄等国政要出席",
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:29",
+        "time": "2026-07-02 23:29",
+        "link": "https://www.zaobao.com.sg/news/china/story20260702-9303973",
+        "title": "中国官方定性小飞机撞“中国尊”：个人原因造成的危害公共安全案件",
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2328,7 @@
         "time": "2026-07-02 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260701-9278699",
         "title": "澳洲房产拍卖遇冷 悉尼墨尔本清盘率创多年新低",
-        "seq": 256
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2310,6 +2337,6 @@
         "time": "2026-07-02 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260701-9298019",
         "title": "“草莓月”升空 各地共赏夏季首轮满月",
-        "seq": 257
+        "seq": 260
     }
 ]
