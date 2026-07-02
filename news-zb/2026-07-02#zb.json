@@ -2215,12 +2215,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:02",
+        "time": "2026-07-02 23:02",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260702-9303301",
+        "title": "受管制电价涨17%创新高 零售配套不涨反降",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:03",
         "time": "2026-07-02 23:03",
         "link": "https://www.zaobao.com.sg/news/sea/story20260701-9295671",
         "title": "称“不喜欢胖子” 曼谷男子涉持美工刀袭击外国女子",
-        "seq": 247
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2238,25 @@
         "time": "2026-07-02 23:08",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260701-9297539",
         "title": "用教学引领科技 教育部制定专业学习蓝图助教师善用AI",
-        "seq": 248
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:11",
+        "time": "2026-07-02 23:11",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260702-9303981",
+        "title": "创英国球员转会费纪录 曼市官宣英格兰中场安德森加盟",
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:13",
+        "time": "2026-07-02 23:13",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260702-9303328",
+        "title": "小型疗养院运营受关注 学者吁监管机构助业者求存",
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2265,16 @@
         "time": "2026-07-02 23:15",
         "link": "https://www.zaobao.com.sg/news/china/story20260701-9297537",
         "title": "两中将出席党庆与上将并排而坐 显示解放军高层人事升迁",
-        "seq": 249
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:17",
+        "time": "2026-07-02 23:17",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260702-9303777",
+        "title": "仰望花海如星空 花园节赏花新体验",
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2283,7 @@
         "time": "2026-07-02 23:18",
         "link": "https://www.zaobao.com.sg/news/sea/story20260701-9297879",
         "title": "沙亚南轻快铁开通 雪州苏丹点名赞扬安华和纳吉",
-        "seq": 250
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2292,7 @@
         "time": "2026-07-02 23:25",
         "link": "https://www.zaobao.com.sg/news/china/story20260701-9297935",
         "title": "王毅与鲁比奥通话 指台湾问题牵一发动全身",
-        "seq": 251
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2301,7 @@
         "time": "2026-07-02 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260701-9278699",
         "title": "澳洲房产拍卖遇冷 悉尼墨尔本清盘率创多年新低",
-        "seq": 252
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2274,6 +2310,6 @@
         "time": "2026-07-02 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260701-9298019",
         "title": "“草莓月”升空 各地共赏夏季首轮满月",
-        "seq": 253
+        "seq": 257
     }
 ]
