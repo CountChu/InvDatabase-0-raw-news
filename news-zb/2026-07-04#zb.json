@@ -1523,11 +1523,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:01",
+        "time": "2026-07-04 23:01",
+        "link": "https://www.zaobao.com.sg/news/world/story20260704-9313877",
+        "title": "哈梅内伊告别式上千万民众瞻仰 部分德黑兰居民周末“出逃”",
+        "seq": 170
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:11",
         "time": "2026-07-04 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260703-9310656",
         "title": "欧洲逾三分之二人口 6月经历35摄氏度以上高温",
-        "seq": 170
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1545,7 @@
         "time": "2026-07-04 23:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260703-9309973",
         "title": "房檐雨水唤起纸船旧梦 折纸园景摘得设计巅峰",
-        "seq": 171
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1554,7 @@
         "time": "2026-07-04 23:19",
         "link": "https://www.zaobao.com.sg/news/china/story20260703-9310691",
         "title": "接替孙卫东 中国副外长苗得雨兼任外交部机关党委书记",
-        "seq": 172
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1563,7 @@
         "time": "2026-07-04 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260703-9310681",
         "title": "前所未有 比利时6月热浪致死亡人数激增39%",
-        "seq": 173
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1572,7 @@
         "time": "2026-07-04 23:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260703-9309691",
         "title": "劳资政就业理事会首场会议 陈诗龙：三方携手确保AI创造优质就业",
-        "seq": 174
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1572,15 +1581,6 @@
         "time": "2026-07-04 23:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260703-9310051",
         "title": "“与声剧来”参赛人数作品创新高 两中一女生巧编广播剧夺魁",
-        "seq": 175
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "23:46",
-        "time": "2026-07-04 23:46",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260703-9310262",
-        "title": "新加坡东帝汶加强合作 本地企业明年起可引进当地劳工",
         "seq": 176
     },
     {
@@ -1589,8 +1589,17 @@
         "timeText": "23:46",
         "time": "2026-07-04 23:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260703-9310262",
-        "title": "新加坡东帝汶加强合作 本地企业明年起可引进当地工人",
+        "title": "新加坡东帝汶加强合作 本地企业明年起可引进当地劳工",
         "seq": 177
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:46",
+        "time": "2026-07-04 23:46",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260703-9310262",
+        "title": "新加坡东帝汶加强合作 本地企业明年起可引进当地工人",
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1608,7 @@
         "time": "2026-07-04 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260703-9310727",
         "title": "燃油危机冲击 俄罗斯出现中国电动车抢购潮",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,7 @@
         "time": "2026-07-04 23:48",
         "link": "https://www.zaobao.com.sg/news/china/story20260703-9310747",
         "title": "中纪委副书记肖培未出席常委会议 或已退居二线",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,6 +1626,6 @@
         "time": "2026-07-04 23:55",
         "link": "https://www.zaobao.com.sg/news/china/story20260703-9310395",
         "title": "北京升级法律战应对台东海域划界谈判 学者：望日菲知难而退",
-        "seq": 180
+        "seq": 181
     }
 ]
