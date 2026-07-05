@@ -1801,12 +1801,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:42",
+        "time": "2026-07-05 22:42",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260705-9317096",
+        "title": "更多乳业中企进军新加坡 料与澳洲等地鲜奶竞争",
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:48",
         "time": "2026-07-05 22:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260704-9306530",
         "title": "我国五规划区满65岁人口占逾四分一 登加幼童占比最高",
-        "seq": 201
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1824,7 @@
         "time": "2026-07-05 22:51",
         "link": "https://www.zaobao.com.sg/news/china/story20260704-9313952",
         "title": "伊朗驻华大使：霍尔木兹海峡拟收服务费 对友好国家给予特殊待遇",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,16 @@
         "time": "2026-07-05 22:51",
         "link": "https://www.zaobao.com.sg/finance/china/story20260703-9308738",
         "title": "科技股估值持续下探 中国资产未分得全球AI行情红利",
-        "seq": 203
+        "seq": 204
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:51",
+        "time": "2026-07-05 22:51",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260705-9316906",
+        "title": "国库券与储蓄债券收益率回落 公积金普通户头投资额去年降至166亿元",
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1851,7 @@
         "time": "2026-07-05 23:01",
         "link": "https://www.zaobao.com.sg/news/world/story20260704-9313877",
         "title": "哈梅内伊告别式上千万民众瞻仰 部分德黑兰居民周末“出逃”",
-        "seq": 204
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1860,7 @@
         "time": "2026-07-05 23:21",
         "link": "https://www.zaobao.com.sg/news/world/story20260704-9313846",
         "title": "签证大涨价日语或得及格 日本调高移民门槛",
-        "seq": 205
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1851,6 +1869,6 @@
         "time": "2026-07-05 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260704-9313066",
         "title": "徐芳达：新加坡应维护“重情谊讲情义”价值观",
-        "seq": 206
+        "seq": 208
     }
 ]
