@@ -2134,12 +2134,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:12",
+        "time": "2026-07-06 23:12",
+        "link": "https://www.zaobao.com.sg/news/china/story20260706-9322583",
+        "title": "中美G2正在形成中 建设性战略稳定关系或难延续",
+        "seq": 238
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:14",
         "time": "2026-07-06 23:14",
         "link": "https://www.zaobao.com.sg/news/world/story20260705-9317414",
         "title": "俄称乌拒六小时停火 遗体移交受阻",
-        "seq": 238
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2157,7 @@
         "time": "2026-07-06 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260706-9323046",
         "title": "雷击伤者不带电 医生吁公众应尽快施救",
-        "seq": 239
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2166,16 @@
         "time": "2026-07-06 23:17",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260705-9315008",
         "title": "社区“猛男”乐龄健美队核心黄美佳逝世",
-        "seq": 240
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:20",
+        "time": "2026-07-06 23:20",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260706-9322793",
+        "title": "菲律宾启动莎拉弹劾审判 结果或影响2028大选",
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2184,25 @@
         "time": "2026-07-06 23:24",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260705-9314238",
         "title": "【红蚂蚁】绯闻主角半年后复出：时间是短暂记忆社会的良药？",
-        "seq": 241
+        "seq": 243
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:25",
+        "time": "2026-07-06 23:25",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260706-9323102",
+        "title": "微软裁退4800职员 商业行销与游戏业务影响最大",
+        "seq": 244
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:26",
+        "time": "2026-07-06 23:26",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260706-9323024",
+        "title": "特朗普：只要求审查巴洛贡判罚 未指示国际足联该怎么做",
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2211,16 @@
         "time": "2026-07-06 23:27",
         "link": "https://www.zaobao.com.sg/news/china/story20260705-9317224",
         "title": "中国军舰频繁横穿第一岛链 与俄海上联演或牵制日本",
-        "seq": 242
+        "seq": 246
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:31",
+        "time": "2026-07-06 23:31",
+        "link": "https://www.zaobao.com.sg/news/china/story20260706-9322539",
+        "title": "中国试射潜射战略导弹 分析：展示全面战略核力量威慑美国",
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2229,7 @@
         "time": "2026-07-06 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260705-9316529",
         "title": "海洋气味来源竟能造云？研究揭浮游生物影响气候机制",
-        "seq": 243
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2193,6 +2238,6 @@
         "time": "2026-07-06 23:37",
         "link": "https://www.zaobao.com.sg/news/sea/story20260705-9317250",
         "title": "柔州选前超级星期天 朝野巨头全力造势",
-        "seq": 244
+        "seq": 249
     }
 ]
