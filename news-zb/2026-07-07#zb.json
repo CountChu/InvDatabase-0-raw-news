@@ -2368,12 +2368,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:02",
+        "time": "2026-07-07 23:02",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260707-9328964",
+        "title": "基础医疗控股IPO总认购率3.8倍 星期三于主板开始交易",
+        "seq": 264
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:10",
         "time": "2026-07-07 23:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260706-9323045",
         "title": "克宫：普京特朗普同意近期再次通话",
-        "seq": 264
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2391,7 @@
         "time": "2026-07-07 23:12",
         "link": "https://www.zaobao.com.sg/news/china/story20260706-9322583",
         "title": "中美G2正在形成中 建设性战略稳定关系或难延续",
-        "seq": 265
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2400,16 @@
         "time": "2026-07-07 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260706-9323046",
         "title": "雷击伤者不带电 医生吁公众应尽快施救",
-        "seq": 266
+        "seq": 267
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:18",
+        "time": "2026-07-07 23:18",
+        "link": "https://www.zaobao.com.sg/news/china/story20260707-9328815",
+        "title": "台卫福部急转弯　致癌油食品全下架",
+        "seq": 268
     },
     {
         "media": "聯合早報",
@@ -2400,7 +2418,7 @@
         "time": "2026-07-07 23:20",
         "link": "https://www.zaobao.com.sg/news/sea/story20260706-9322793",
         "title": "菲律宾启动莎拉弹劾审判 结果或影响2028大选",
-        "seq": 267
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2409,7 +2427,7 @@
         "time": "2026-07-07 23:25",
         "link": "https://www.zaobao.com.sg/finance/world/story20260706-9323102",
         "title": "微软裁退4800职员 商业行销与游戏业务影响最大",
-        "seq": 268
+        "seq": 270
     },
     {
         "media": "聯合早報",
@@ -2418,7 +2436,7 @@
         "time": "2026-07-07 23:26",
         "link": "https://www.zaobao.com.sg/news/sports/story20260706-9323024",
         "title": "特朗普：只要求审查巴洛贡判罚 未指示国际足联该怎么做",
-        "seq": 269
+        "seq": 271
     },
     {
         "media": "聯合早報",
@@ -2427,6 +2445,6 @@
         "time": "2026-07-07 23:31",
         "link": "https://www.zaobao.com.sg/news/china/story20260706-9322539",
         "title": "中国试射潜射战略导弹 分析：展示全面战略核力量威慑美国",
-        "seq": 270
+        "seq": 272
     }
 ]
