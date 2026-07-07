@@ -2296,12 +2296,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:25",
+        "time": "2026-07-07 22:25",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260707-9328903",
+        "title": "ESR-REIT拟2.479亿元收购墨尔本五项物流资产",
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:29",
         "time": "2026-07-07 22:29",
         "link": "https://www.zaobao.com.sg/news/china/story20260706-9322853",
         "title": "学者：区域国家向过航霍尔木兹船只收费或成新常态",
-        "seq": 256
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:30",
+        "time": "2026-07-07 22:30",
+        "link": "https://www.zaobao.com.sg/news/china/story20260707-9328771",
+        "title": "受贿逾22亿元人民币破中国纪录 南京小官巨贪杨有林被判死刑",
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2328,7 @@
         "time": "2026-07-07 22:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260706-9322613",
         "title": "新印深化双边合作 携手开拓碳信用市场推动跨境电力贸易",
-        "seq": 257
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2337,7 @@
         "time": "2026-07-07 23:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260706-9323045",
         "title": "克宫：普京特朗普同意近期再次通话",
-        "seq": 258
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2346,7 @@
         "time": "2026-07-07 23:12",
         "link": "https://www.zaobao.com.sg/news/china/story20260706-9322583",
         "title": "中美G2正在形成中 建设性战略稳定关系或难延续",
-        "seq": 259
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2355,7 @@
         "time": "2026-07-07 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260706-9323046",
         "title": "雷击伤者不带电 医生吁公众应尽快施救",
-        "seq": 260
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2364,7 @@
         "time": "2026-07-07 23:20",
         "link": "https://www.zaobao.com.sg/news/sea/story20260706-9322793",
         "title": "菲律宾启动莎拉弹劾审判 结果或影响2028大选",
-        "seq": 261
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2373,7 @@
         "time": "2026-07-07 23:25",
         "link": "https://www.zaobao.com.sg/finance/world/story20260706-9323102",
         "title": "微软裁退4800职员 商业行销与游戏业务影响最大",
-        "seq": 262
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2382,7 @@
         "time": "2026-07-07 23:26",
         "link": "https://www.zaobao.com.sg/news/sports/story20260706-9323024",
         "title": "特朗普：只要求审查巴洛贡判罚 未指示国际足联该怎么做",
-        "seq": 263
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2373,6 +2391,6 @@
         "time": "2026-07-07 23:31",
         "link": "https://www.zaobao.com.sg/news/china/story20260706-9322539",
         "title": "中国试射潜射战略导弹 分析：展示全面战略核力量威慑美国",
-        "seq": 264
+        "seq": 266
     }
 ]
