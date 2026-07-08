@@ -2071,12 +2071,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:21",
+        "time": "2026-07-08 22:21",
+        "link": "https://www.zaobao.com.sg/news/china/story20260708-9334919",
+        "title": "胡锡进：谷立言螳臂当车 国台办强烈措辞点名抨击非常罕见",
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:25",
         "time": "2026-07-08 22:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260707-9328903",
         "title": "ESR-REIT拟2.479亿元收购墨尔本五项物流资产",
-        "seq": 231
+        "seq": 232
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:26",
+        "time": "2026-07-08 22:26",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260708-9334721",
+        "title": "马国旅游业者不满政府拒绝补贴柴油",
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:29",
+        "time": "2026-07-08 22:29",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260708-9334559",
+        "title": "拉动暑期消费 中国将发放逾4.5亿元人民币文旅消费券",
+        "seq": 234
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:29",
+        "time": "2026-07-08 22:29",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260708-9334882",
+        "title": "克罗地亚功勋主帅达利奇宣布辞职",
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2121,16 @@
         "time": "2026-07-08 22:30",
         "link": "https://www.zaobao.com.sg/news/china/story20260707-9328771",
         "title": "受贿逾22亿元人民币破中国纪录 南京小官巨贪杨有林被判死刑",
-        "seq": 232
+        "seq": 236
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:36",
+        "time": "2026-07-08 22:36",
+        "link": "https://www.zaobao.com.sg/news/china/story20260708-9334711",
+        "title": "台在野党要求卓荣泰为致癌油负责下台 赖清德吁请立法行政合作修食安法",
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2139,7 @@
         "time": "2026-07-08 22:49",
         "link": "https://www.zaobao.com.sg/news/sea/story20260707-9328747",
         "title": "印度向印尼出售超音速巡航导弹 增进两国防务合作关系",
-        "seq": 233
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2148,7 @@
         "time": "2026-07-08 22:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260707-9327588",
         "title": "晚婚与女性收入提高推动 美国年轻人更愿意签婚前协议",
-        "seq": 234
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2157,7 @@
         "time": "2026-07-08 22:54",
         "link": "https://www.zaobao.com.sg/news/sea/story20260707-9328714",
         "title": "莎拉现身参议院大楼　称“虽遍体鳞伤但绝不屈服”",
-        "seq": 235
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2166,7 @@
         "time": "2026-07-08 22:54",
         "link": "https://www.zaobao.com.sg/news/sea/story20260707-9328714",
         "title": "菲副总统莎拉现身参议院大楼 称“虽遍体鳞伤但绝不屈服”",
-        "seq": 236
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2175,7 @@
         "time": "2026-07-08 22:56",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260707-9328777",
         "title": "市建局：发展商应采取更有针对性反洗钱核查方法",
-        "seq": 237
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2184,7 @@
         "time": "2026-07-08 23:02",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260707-9328964",
         "title": "基础医疗控股IPO总认购率3.8倍 星期三于主板开始交易",
-        "seq": 238
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2193,7 @@
         "time": "2026-07-08 23:18",
         "link": "https://www.zaobao.com.sg/news/china/story20260707-9328815",
         "title": "台卫福部急转弯　致癌油食品全下架",
-        "seq": 239
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2202,7 @@
         "time": "2026-07-08 23:28",
         "link": "https://www.zaobao.com.sg/news/china/story20260707-9328805",
         "title": "香港黄金中央清算及结算系统试营运",
-        "seq": 240
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2211,7 @@
         "time": "2026-07-08 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260707-9326496",
         "title": "太阳死亡后行星会怎样？韦布发现新线索",
-        "seq": 241
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2175,6 +2220,6 @@
         "time": "2026-07-08 23:49",
         "link": "https://www.zaobao.com.sg/news/china/story20260707-9329157",
         "title": "荷兰贸易部长率团访华 阿斯麦与安世争议交织中美科技博弈",
-        "seq": 242
+        "seq": 247
     }
 ]
