@@ -2179,20 +2179,20 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:22",
+        "time": "2026-07-09 23:22",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260709-9340927",
+        "title": "IHH印度与新加坡医院受中东冲突影响 中东患者已减少",
+        "seq": 243
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:26",
         "time": "2026-07-09 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260708-9334688",
         "title": "艺术科学博物馆获颁新加坡旅游业大奖特别表扬奖",
-        "seq": 243
-    },
-    {
-        "media": "聯合早報",
-        "category": "财经",
-        "timeText": "23:30",
-        "time": "2026-07-09 23:30",
-        "link": "https://www.zaobao.com.sg/finance/singapore/story20260708-9334913",
-        "title": "陈圣辉：青年华商首要效忠对象为新加坡",
         "seq": 244
     },
     {
@@ -2201,8 +2201,35 @@
         "timeText": "23:30",
         "time": "2026-07-09 23:30",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260708-9334913",
-        "title": "陈圣辉：从华侨到华人 青年华商首要效忠对象为新加坡",
+        "title": "陈圣辉：青年华商首要效忠对象为新加坡",
         "seq": 245
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:30",
+        "time": "2026-07-09 23:30",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260708-9334913",
+        "title": "陈圣辉：从华侨到华人 青年华商首要效忠对象为新加坡",
+        "seq": 246
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2026-07-09 23:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20260709-9341166",
+        "title": "伊朗同阿曼与土耳其通话 阿曼反对征收海峡通行费",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:38",
+        "time": "2026-07-09 23:38",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260709-9340974",
+        "title": "有才有梗 哈兰德热潮席卷网络 谷歌跟风网民模仿",
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2211,7 +2238,7 @@
         "time": "2026-07-09 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260708-9335103",
         "title": "特朗普：美国应把叙利亚移出支恐名单",
-        "seq": 246
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2220,7 +2247,7 @@
         "time": "2026-07-09 23:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260708-9293558",
         "title": "巧用水枪地上作画 青年“冲”出跨国机遇",
-        "seq": 247
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2256,7 @@
         "time": "2026-07-09 23:49",
         "link": "https://www.zaobao.com.sg/finance/china/story20260708-9335122",
         "title": "消息：中国拟允许阿里字节DeepSeek限量购买英伟达H200晶片",
-        "seq": 248
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2265,7 @@
         "time": "2026-07-09 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260708-9334741",
         "title": "杨莉明: AI应用广泛 须加强风险管理与保护关键基础设施",
-        "seq": 249
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2274,7 @@
         "time": "2026-07-09 23:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260708-9335023",
         "title": "司机突昏迷德士继续前行 女乘客开车门擦撞护栏减速脱险",
-        "seq": 250
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2256,6 +2283,6 @@
         "time": "2026-07-09 23:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260708-9335023",
         "title": "司机突昏迷德士续前行 女乘客开车门擦撞护栏减速脱险",
-        "seq": 251
+        "seq": 254
     }
 ]
