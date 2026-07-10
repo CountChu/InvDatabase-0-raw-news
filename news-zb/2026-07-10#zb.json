@@ -1891,12 +1891,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:14",
+        "time": "2026-07-10 22:14",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260710-9346515",
+        "title": "比自己原纪录快八秒 苏睿勇伦敦刷新5000米全国纪录",
+        "seq": 211
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:19",
         "time": "2026-07-10 22:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260710-9337026",
         "title": "潮州总会第八届理事会就职 徐芳达吁总会支持华社三大战略方向",
-        "seq": 211
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1914,34 @@
         "time": "2026-07-10 22:21",
         "link": "https://www.zaobao.com.sg/news/world/story20260709-9340551",
         "title": "美伊继续交火局势紧张 伊朗强调海峡通行须由伊方主导",
-        "seq": 212
+        "seq": 213
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:22",
+        "time": "2026-07-10 22:22",
+        "link": "https://www.zaobao.com.sg/news/world/story20260710-9346419",
+        "title": "哈梅内伊已安葬 最高领袖缺席葬礼引关注",
+        "seq": 214
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:25",
+        "time": "2026-07-10 22:25",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260710-9345902",
+        "title": "傅海燕：紧抓绿色转型机遇 以创新建立企业竞争优势",
+        "seq": 215
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:32",
+        "time": "2026-07-10 22:32",
+        "link": "https://www.zaobao.com.sg/news/china/story20260710-9346777",
+        "title": "曾是胡耀邦秘书 中宣部原副部长李彦逝世享年97岁",
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1950,7 @@
         "time": "2026-07-10 22:36",
         "link": "https://www.zaobao.com.sg/news/sea/story20260709-9340947",
         "title": "经济与职场压力影响 马国男女平均婚龄31岁及29岁",
-        "seq": 213
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1959,7 @@
         "time": "2026-07-10 23:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260709-9341091",
         "title": "面临高温天气 法国卢浮宫再次缩短开放时间",
-        "seq": 214
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1968,7 @@
         "time": "2026-07-10 23:14",
         "link": "https://www.zaobao.com.sg/news/china/story20260709-9340942",
         "title": "超强台风“巴威”逼近 台湾福建浙江面临猛烈风雨考验",
-        "seq": 215
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1977,7 @@
         "time": "2026-07-10 23:22",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260709-9340927",
         "title": "IHH印度与新加坡医院受中东冲突影响 中东患者已减少",
-        "seq": 216
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1986,7 @@
         "time": "2026-07-10 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260709-9341166",
         "title": "伊朗同阿曼与土耳其通话 阿曼反对征收海峡通行费",
-        "seq": 217
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1995,7 @@
         "time": "2026-07-10 23:38",
         "link": "https://www.zaobao.com.sg/news/sports/story20260709-9340974",
         "title": "有才有梗 哈兰德热潮席卷网络 谷歌跟风网民模仿",
-        "seq": 218
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2004,7 @@
         "time": "2026-07-10 23:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260709-9341242",
         "title": "因应台风巴威 官方对浙江福建启动地质灾害防御三级响应",
-        "seq": 219
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2013,7 @@
         "time": "2026-07-10 23:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260709-9340674",
         "title": "“欧洲最美王冠”复制品 亚洲首展",
-        "seq": 220
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1986,6 +2022,6 @@
         "time": "2026-07-10 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260709-9341224",
         "title": "船只在霍尔木兹海峡遇袭 卡塔尔暂停液化天然气增产计划",
-        "seq": 221
+        "seq": 225
     }
 ]
