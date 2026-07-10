@@ -2044,12 +2044,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:21",
+        "time": "2026-07-10 23:21",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260710-9346368",
+        "title": "全国小学华语讲故事比赛 8岁最小选手林恩希夺第一名",
+        "seq": 228
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:22",
         "time": "2026-07-10 23:22",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260709-9340927",
         "title": "IHH印度与新加坡医院受中东冲突影响 中东患者已减少",
-        "seq": 228
+        "seq": 229
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:23",
+        "time": "2026-07-10 23:23",
+        "link": "https://www.zaobao.com.sg/news/china/story20260710-9346735",
+        "title": "中度台风“巴威”暴风圈周六凌晨触及台湾东部和北部",
+        "seq": 230
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:24",
+        "time": "2026-07-10 23:24",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260710-9346806",
+        "title": "IHH：预防性医疗保健是医疗行业新机遇",
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:27",
+        "time": "2026-07-10 23:27",
+        "link": "https://www.zaobao.com.sg/news/world/story20260710-9346936",
+        "title": "特朗普：美国同意与伊朗继续谈判 停火协议“已结束”",
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2094,7 @@
         "time": "2026-07-10 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260709-9341166",
         "title": "伊朗同阿曼与土耳其通话 阿曼反对征收海峡通行费",
-        "seq": 229
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2103,16 @@
         "time": "2026-07-10 23:38",
         "link": "https://www.zaobao.com.sg/news/sports/story20260709-9340974",
         "title": "有才有梗 哈兰德热潮席卷网络 谷歌跟风网民模仿",
-        "seq": 230
+        "seq": 234
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:39",
+        "time": "2026-07-10 23:39",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260710-9345976",
+        "title": "建屋局规划两新住宅区时 采纳绿色组织大部分建议",
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2121,7 @@
         "time": "2026-07-10 23:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260709-9341242",
         "title": "因应台风巴威 官方对浙江福建启动地质灾害防御三级响应",
-        "seq": 231
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2130,7 @@
         "time": "2026-07-10 23:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260709-9340674",
         "title": "“欧洲最美王冠”复制品 亚洲首展",
-        "seq": 232
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2094,6 +2139,6 @@
         "time": "2026-07-10 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260709-9341224",
         "title": "船只在霍尔木兹海峡遇袭 卡塔尔暂停液化天然气增产计划",
-        "seq": 233
+        "seq": 238
     }
 ]
