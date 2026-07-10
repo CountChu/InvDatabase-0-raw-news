@@ -1991,11 +1991,47 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:02",
+        "time": "2026-07-10 23:02",
+        "link": "https://www.zaobao.com.sg/news/world/story20260710-9346554",
+        "title": "石油设施受乌克兰持续空袭 俄罗斯全国燃油短缺",
+        "seq": 222
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:03",
+        "time": "2026-07-10 23:03",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260710-9346821",
+        "title": "维文赴泰出席亚细安缅甸问题会议",
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:07",
         "time": "2026-07-10 23:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260709-9341091",
         "title": "面临高温天气 法国卢浮宫再次缩短开放时间",
-        "seq": 222
+        "seq": 224
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:08",
+        "time": "2026-07-10 23:08",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260710-9346676",
+        "title": "希音获准赴香港上市 三度冲刺IPO终迎突破",
+        "seq": 225
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:10",
+        "time": "2026-07-10 23:10",
+        "link": "https://www.zaobao.com.sg/news/china/story20260710-9346894",
+        "title": "中国副总理乘冲锋舟看望广西洪灾受困民众 称习近平非常关心挂念",
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2040,7 @@
         "time": "2026-07-10 23:14",
         "link": "https://www.zaobao.com.sg/news/china/story20260709-9340942",
         "title": "超强台风“巴威”逼近 台湾福建浙江面临猛烈风雨考验",
-        "seq": 223
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2049,7 @@
         "time": "2026-07-10 23:22",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260709-9340927",
         "title": "IHH印度与新加坡医院受中东冲突影响 中东患者已减少",
-        "seq": 224
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2058,7 @@
         "time": "2026-07-10 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260709-9341166",
         "title": "伊朗同阿曼与土耳其通话 阿曼反对征收海峡通行费",
-        "seq": 225
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2067,7 @@
         "time": "2026-07-10 23:38",
         "link": "https://www.zaobao.com.sg/news/sports/story20260709-9340974",
         "title": "有才有梗 哈兰德热潮席卷网络 谷歌跟风网民模仿",
-        "seq": 226
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2076,7 @@
         "time": "2026-07-10 23:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260709-9341242",
         "title": "因应台风巴威 官方对浙江福建启动地质灾害防御三级响应",
-        "seq": 227
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2085,7 @@
         "time": "2026-07-10 23:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260709-9340674",
         "title": "“欧洲最美王冠”复制品 亚洲首展",
-        "seq": 228
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2058,6 +2094,6 @@
         "time": "2026-07-10 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20260709-9341224",
         "title": "船只在霍尔木兹海峡遇袭 卡塔尔暂停液化天然气增产计划",
-        "seq": 229
+        "seq": 233
     }
 ]
