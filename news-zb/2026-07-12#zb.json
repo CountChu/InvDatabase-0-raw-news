@@ -1774,12 +1774,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:09",
+        "time": "2026-07-12 23:09",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260712-9287549",
+        "title": "“超级厄尔尼诺”未至 新加坡棕油股先受关注",
+        "seq": 198
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:10",
         "time": "2026-07-12 23:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260711-9349978",
         "title": "乌克兰成立远程打击司令部 推进对俄深入打击",
-        "seq": 198
+        "seq": 199
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:15",
+        "time": "2026-07-12 23:15",
+        "link": "https://www.zaobao.com.sg/news/world/story20260712-9353312",
+        "title": "德黑兰关闭霍尔木兹海峡 美伊一周内三度互袭",
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1806,7 @@
         "time": "2026-07-12 23:19",
         "link": "https://www.zaobao.com.sg/news/sports/story20260711-9350354",
         "title": "刚踢完世界杯不久 25岁南非国脚亚当斯去世",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1815,7 @@
         "time": "2026-07-12 23:24",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260710-9346806",
         "title": "IHH：预防性医疗保健是医疗行业新机遇",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-07-12 23:35",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260711-9349662",
         "title": "建匹克球场还是攀岩墙？ 六提案供史波蒂斯兀园居民投选",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,6 +1833,6 @@
         "time": "2026-07-12 23:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260711-9350156",
         "title": "台风巴威暴风圈扫过台湾东北部 日本三艘巡防舰到台海避风",
-        "seq": 202
+        "seq": 204
     }
 ]
