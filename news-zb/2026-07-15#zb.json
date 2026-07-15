@@ -2242,12 +2242,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:01",
+        "time": "2026-07-15 23:01",
+        "link": "https://www.zaobao.com.sg/news/world/story20260715-9370682",
+        "title": "德总理：不反对中国接管德国汽车工厂",
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:03",
+        "time": "2026-07-15 23:03",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260715-9369942",
+        "title": "我国简化混凝土抗压测试抽样标准 节省时间材料成本",
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:07",
         "time": "2026-07-15 23:07",
         "link": "https://www.zaobao.com.sg/news/china/story20260714-9364381",
         "title": "马兴瑞被双开 通报称涉权色交易与家族式腐败 学者：政治影响较低",
-        "seq": 250
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2274,25 @@
         "time": "2026-07-15 23:07",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260714-9364659",
         "title": "聘专业人士协助 创值科技分拆子公司为美国上市做准备",
-        "seq": 251
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:12",
+        "time": "2026-07-15 23:12",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260715-9370726",
+        "title": "泰国曼谷酒吧火灾遇难人数上升至33人",
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:13",
+        "time": "2026-07-15 23:13",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260715-9368326",
+        "title": "神话与传说化作光影艺术 仲夏夜空8月21日登场",
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2301,7 @@
         "time": "2026-07-15 23:20",
         "link": "https://www.zaobao.com.sg/news/world/story20260714-9364701",
         "title": "乌克兰将采购法国战斗机和防空系统",
-        "seq": 252
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2310,7 @@
         "time": "2026-07-15 23:22",
         "link": "https://www.zaobao.com.sg/finance/world/story20260714-9364543",
         "title": "局势波动大型投行获益 花旗次季股票交易收入大增45%",
-        "seq": 253
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2319,7 @@
         "time": "2026-07-15 23:22",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260714-9364600",
         "title": "免税国际第一季净利大跌近90%",
-        "seq": 254
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2328,7 @@
         "time": "2026-07-15 23:27",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260714-9364705",
         "title": "Info-Tech系统：上半年营收和盈利将强劲增长",
-        "seq": 255
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2337,7 @@
         "time": "2026-07-15 23:32",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260714-9327593",
         "title": "诊断放射科医生 金融衍生品交易员与飞行教员 三职业去年最赚钱",
-        "seq": 256
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2346,7 @@
         "time": "2026-07-15 23:33",
         "link": "https://www.zaobao.com.sg/finance/china/story20260714-9364239",
         "title": "AI热潮推中国贸易额创新高 进口不均衡凸显经济板块分化扩大",
-        "seq": 257
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2355,7 @@
         "time": "2026-07-15 23:33",
         "link": "https://www.zaobao.com.sg/finance/china/story20260714-9364239",
         "title": "中国上半年贸易创新高 AI相关产业是主推手　",
-        "seq": 258
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2328,6 +2364,6 @@
         "time": "2026-07-15 23:54",
         "link": "https://www.zaobao.com.sg/news/china/story20260714-9364518",
         "title": "台湾行政院长卓荣泰表示为致癌食用油事件检讨与反省",
-        "seq": 259
+        "seq": 263
     }
 ]
