@@ -1801,12 +1801,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:12",
+        "time": "2026-07-16 21:12",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260716-9375582",
+        "title": "李显龙资政访文莱与年轻领袖交流 盼新文深化合作延续友谊",
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "21:13",
         "time": "2026-07-16 21:13",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260715-9370009",
         "title": "康福德高委任叶志健为首席运营官 加强全球业务管理",
-        "seq": 201
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1824,7 @@
         "time": "2026-07-16 21:13",
         "link": "https://www.zaobao.com.sg/news/sea/story20260716-9375886",
         "title": "印尼客船沉没 一死24失踪",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,16 @@
         "time": "2026-07-16 21:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260715-9369929",
         "title": "美军恢复海上封锁持续空袭 伊朗威胁关闭其他油气出口通道",
-        "seq": 203
+        "seq": 204
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:21",
+        "time": "2026-07-16 21:21",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260716-9375813",
+        "title": "消息：希音IPO寻求最高500亿美元估值 较2022年腰斩",
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1851,7 @@
         "time": "2026-07-16 21:22",
         "link": "https://www.zaobao.com.sg/news/china/story20260715-9370179",
         "title": "美大学研究团队用宇树科技人形机器人 完成活体外科手术",
-        "seq": 204
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1860,7 @@
         "time": "2026-07-16 21:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260715-9370239",
         "title": "美参议员提出新法案 应对中伊等国“跨国镇压”",
-        "seq": 205
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1869,7 @@
         "time": "2026-07-16 21:24",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260715-9370052",
         "title": "新航集团6月载客人次增加6.3% 达368万人次",
-        "seq": 206
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1878,7 @@
         "time": "2026-07-16 21:32",
         "link": "https://www.zaobao.com.sg/news/sports/story20260715-9370011",
         "title": "新加坡匹克球公开赛阵容出炉 高手齐聚狮城争冠",
-        "seq": 207
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1887,7 @@
         "time": "2026-07-16 21:35",
         "link": "https://www.zaobao.com.sg/news/sports/story20260715-9370352",
         "title": "撞脸哈兰德爆红 俄模特如做梦 “起初难接受像男球员”",
-        "seq": 208
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1896,16 @@
         "time": "2026-07-16 21:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260715-9370377",
         "title": "体育机构接纳俄运动员 九国敦促欧盟削减赞助",
-        "seq": 209
+        "seq": 211
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:37",
+        "time": "2026-07-16 21:37",
+        "link": "https://www.zaobao.com.sg/news/world/story20260716-9376017",
+        "title": "乌克兰议会批准科列茨基出任总理",
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1914,7 @@
         "time": "2026-07-16 22:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260715-9369850",
         "title": "少男少女首次吸食冰毒后身亡 验尸庭裁定死于毒品相关意外",
-        "seq": 210
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1923,7 @@
         "time": "2026-07-16 22:09",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260715-9369184",
         "title": "尚达曼：亚细安应加强协作 提升绿色与数码经济竞争力",
-        "seq": 211
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1932,7 @@
         "time": "2026-07-16 22:12",
         "link": "https://www.zaobao.com.sg/news/world/story20260715-9370308",
         "title": "日本出台新版AI战略计划 加强自主研发和安全",
-        "seq": 212
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1941,7 @@
         "time": "2026-07-16 22:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260715-9369586",
         "title": "国立癌症中心建设项目疏漏多 健卫部控股违规招标3083万元工程",
-        "seq": 213
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1950,7 @@
         "time": "2026-07-16 22:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260715-9369982",
         "title": "黄循财总理会晤小马可斯 看好新菲拓展AI合作",
-        "seq": 214
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1959,7 @@
         "time": "2026-07-16 22:47",
         "link": "https://www.zaobao.com.sg/news/china/story20260715-9370475",
         "title": "中国季度经济增速降至三年最低 内外需差距再扩大",
-        "seq": 215
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1968,7 @@
         "time": "2026-07-16 22:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260715-9370528",
         "title": "沈颖访问西安和武汉 探讨深化经贸与创新合作",
-        "seq": 216
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1977,7 @@
         "time": "2026-07-16 22:49",
         "link": "https://www.zaobao.com.sg/news/sea/story20260715-9370630",
         "title": "缅甸领导人敏昂莱将于8月访问泰国",
-        "seq": 217
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1986,7 @@
         "time": "2026-07-16 23:01",
         "link": "https://www.zaobao.com.sg/news/world/story20260715-9370682",
         "title": "德总理：不反对中国接管德国汽车工厂",
-        "seq": 218
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1995,7 @@
         "time": "2026-07-16 23:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260715-9369942",
         "title": "我国简化混凝土抗压测试抽样标准 节省时间材料成本",
-        "seq": 219
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2004,7 @@
         "time": "2026-07-16 23:12",
         "link": "https://www.zaobao.com.sg/news/sea/story20260715-9370726",
         "title": "泰国曼谷酒吧火灾遇难人数上升至33人",
-        "seq": 220
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2013,7 @@
         "time": "2026-07-16 23:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260715-9368326",
         "title": "神话与传说化作光影艺术 仲夏夜空8月21日登场",
-        "seq": 221
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2022,7 @@
         "time": "2026-07-16 23:20",
         "link": "https://www.zaobao.com.sg/news/china/story20260715-9370751",
         "title": "德总理：不反对中国车企接手汽车工厂 但非长久之计",
-        "seq": 222
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2031,7 @@
         "time": "2026-07-16 23:44",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260715-9370416",
         "title": "男子嫌巴士车速太慢拍视频挑衅 巴士车长冷静应对获赞　",
-        "seq": 223
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2040,7 @@
         "time": "2026-07-16 23:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260715-9370785",
         "title": "行经牛车水汽车引擎冒烟起火 驾驶员及时逃未受伤",
-        "seq": 224
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2022,6 +2049,6 @@
         "time": "2026-07-16 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260715-9370610",
         "title": "李资政赴文莱贺寿 重申新文深厚情谊",
-        "seq": 225
+        "seq": 228
     }
 ]
