@@ -577,12 +577,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:37",
+        "time": "2026-07-17 23:37",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260716-9375552",
+        "title": "政府科技局开大会“随你问” 员工仍忧前景士气低迷",
+        "seq": 65
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:40",
         "time": "2026-07-17 23:40",
         "link": "https://www.zaobao.com.sg/news/china/story20260716-9376278",
         "title": "马以南声明：再有以马英九名义或签署文件行为将究责",
-        "seq": 65
+        "seq": 66
     },
     {
         "media": "聯合早報",
@@ -591,6 +600,6 @@
         "time": "2026-07-17 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260716-9376495",
         "title": "美国再收紧移民政策 限制学生和记者在美停留时间",
-        "seq": 66
+        "seq": 67
     }
 ]
