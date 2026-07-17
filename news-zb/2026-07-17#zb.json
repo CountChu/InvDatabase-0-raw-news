@@ -2170,20 +2170,20 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:26",
+        "time": "2026-07-17 23:26",
+        "link": "https://www.zaobao.com.sg/news/china/story20260717-9381897",
+        "title": "台湾致癌油风波演变为政治风暴 恐影响年底地方选情",
+        "seq": 242
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:29",
         "time": "2026-07-17 23:29",
         "link": "https://www.zaobao.com.sg/news/world/story20260716-9376420",
         "title": "消息：若伊朗电力设施遇袭 胡塞武装或封锁红海通道",
-        "seq": 242
-    },
-    {
-        "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "23:36",
-        "time": "2026-07-17 23:36",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260716-9376072",
-        "title": "涉勒死印尼籍女友 新加坡籍男子峇厘岛被捕",
         "seq": 243
     },
     {
@@ -2192,16 +2192,16 @@
         "timeText": "23:36",
         "time": "2026-07-17 23:36",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260716-9376072",
-        "title": "涉勒死印尼女友 新加坡男子峇厘岛被捕",
+        "title": "涉勒死印尼籍女友 新加坡籍男子峇厘岛被捕",
         "seq": 244
     },
     {
         "media": "聯合早報",
         "category": "新加坡",
-        "timeText": "23:37",
-        "time": "2026-07-17 23:37",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20260716-9375552",
-        "title": "政府科技局裁员隔天开大会 员工士气低迷不少人忧被裁",
+        "timeText": "23:36",
+        "time": "2026-07-17 23:36",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260716-9376072",
+        "title": "涉勒死印尼女友 新加坡男子峇厘岛被捕",
         "seq": 245
     },
     {
@@ -2210,7 +2210,7 @@
         "timeText": "23:37",
         "time": "2026-07-17 23:37",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260716-9375552",
-        "title": "政府科技局开大会“随你问” 员工士气低落忧被裁",
+        "title": "政府科技局裁员隔天开大会 员工士气低迷不少人忧被裁",
         "seq": 246
     },
     {
@@ -2219,8 +2219,26 @@
         "timeText": "23:37",
         "time": "2026-07-17 23:37",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260716-9375552",
-        "title": "政府科技局开大会“随你问” 员工仍忧前景士气低迷",
+        "title": "政府科技局开大会“随你问” 员工士气低落忧被裁",
         "seq": 247
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:37",
+        "time": "2026-07-17 23:37",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260716-9375552",
+        "title": "政府科技局开大会“随你问” 员工仍忧前景士气低迷",
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:39",
+        "time": "2026-07-17 23:39",
+        "link": "https://www.zaobao.com.sg/news/world/story20260717-9381880",
+        "title": "《皇室法》改革案未打破“男子继位”传统  日舆论感叹女天皇成泡影",
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2247,7 @@
         "time": "2026-07-17 23:40",
         "link": "https://www.zaobao.com.sg/news/china/story20260716-9376278",
         "title": "马以南声明：再有以马英九名义或签署文件行为将究责",
-        "seq": 248
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2238,6 +2256,6 @@
         "time": "2026-07-17 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260716-9376495",
         "title": "美国再收紧移民政策 限制学生和记者在美停留时间",
-        "seq": 249
+        "seq": 251
     }
 ]
