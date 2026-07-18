@@ -1630,12 +1630,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:25",
+        "time": "2026-07-18 23:25",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260718-9385218",
+        "title": "涉在印尼制造“丧尸烟弹” 34岁新加坡籍男子被捕",
+        "seq": 182
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:26",
         "time": "2026-07-18 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20260717-9381897",
         "title": "台湾致癌油风波演变为政治风暴 恐影响年底地方选情",
-        "seq": 182
+        "seq": 183
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:27",
+        "time": "2026-07-18 23:27",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260718-9385263",
+        "title": "安华正式推出AI分身 PMX AI随时随地聆听民意",
+        "seq": 184
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:33",
+        "time": "2026-07-18 23:33",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260718-9385197",
+        "title": "当局推猫只寄养试验计划 严审代养者资格保障动物福利",
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1671,16 @@
         "time": "2026-07-18 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260717-9381880",
         "title": "《皇室法》改革案未打破“男子继位”传统  日舆论感叹女天皇成泡影",
-        "seq": 183
+        "seq": 186
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:39",
+        "time": "2026-07-18 23:39",
+        "link": "https://www.zaobao.com.sg/news/world/story20260718-9385227",
+        "title": "巴黎6月热浪致死近3000人 死亡率倍增",
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1689,7 @@
         "time": "2026-07-18 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260717-9382217",
         "title": "墨西哥发生7.4级强震 邻国建筑物也震动",
-        "seq": 184
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1698,7 @@
         "time": "2026-07-18 23:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260717-9382238",
         "title": "受耐用品生产拖累 美国制造业产出陷入停滞",
-        "seq": 185
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1671,6 +1707,6 @@
         "time": "2026-07-18 23:52",
         "link": "https://www.zaobao.com.sg/news/china/story20260717-9382281",
         "title": "大埔火灾调查听证会结束 工人天台抽烟等照片首次曝光",
-        "seq": 186
+        "seq": 190
     }
 ]
