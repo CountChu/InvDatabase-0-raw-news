@@ -1594,12 +1594,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:26",
+        "time": "2026-07-19 23:26",
+        "link": "https://www.zaobao.com.sg/news/china/story20260719-9388153",
+        "title": "LV密集诉讼与中企商标纠纷升温 中国舆论忧国际品牌维权越界",
+        "seq": 178
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:27",
         "time": "2026-07-19 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260718-9385263",
         "title": "安华正式推出AI分身 PMX AI随时随地聆听民意",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,7 @@
         "time": "2026-07-19 23:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260718-9385197",
         "title": "当局推猫只寄养试验计划 严审代养者资格保障动物福利",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1626,7 @@
         "time": "2026-07-19 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260718-9385227",
         "title": "巴黎6月热浪致死近3000人 死亡率倍增",
-        "seq": 180
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1626,6 +1635,6 @@
         "time": "2026-07-19 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260718-9385268",
         "title": "纽约将降暴雨 世界杯决赛前烟霾有望缓解　",
-        "seq": 181
+        "seq": 182
     }
 ]
