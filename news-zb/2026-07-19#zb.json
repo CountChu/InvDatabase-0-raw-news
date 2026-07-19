@@ -1549,12 +1549,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:05",
+        "time": "2026-07-19 23:05",
+        "link": "https://www.zaobao.com.sg/news/world/story20260719-9387985",
+        "title": "日本防长大胆倡议推翻“无核”政策 报道：可能为“引进”开绿灯",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:08",
+        "time": "2026-07-19 23:08",
+        "link": "https://www.zaobao.com.sg/news/china/story20260719-9388105",
+        "title": "民进党中常委改选 赖清德党内权力基础愈加巩固",
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:14",
+        "time": "2026-07-19 23:14",
+        "link": "https://www.zaobao.com.sg/news/world/story20260719-9388192",
+        "title": "印度洪水和山体滑坡造成至少19人死亡",
+        "seq": 175
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:16",
         "time": "2026-07-19 23:16",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260717-9382047",
         "title": "新航回应证投会：投资印度航空提供增长机遇",
-        "seq": 173
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1590,7 @@
         "time": "2026-07-19 23:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260718-9385218",
         "title": "涉在印尼制造“丧尸烟弹” 34岁新加坡籍男子被捕",
-        "seq": 174
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1599,7 @@
         "time": "2026-07-19 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260718-9385263",
         "title": "安华正式推出AI分身 PMX AI随时随地聆听民意",
-        "seq": 175
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1608,7 @@
         "time": "2026-07-19 23:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260718-9385197",
         "title": "当局推猫只寄养试验计划 严审代养者资格保障动物福利",
-        "seq": 176
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1617,7 @@
         "time": "2026-07-19 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260718-9385227",
         "title": "巴黎6月热浪致死近3000人 死亡率倍增",
-        "seq": 177
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1599,6 +1626,6 @@
         "time": "2026-07-19 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260718-9385268",
         "title": "纽约将降暴雨 世界杯决赛前烟霾有望缓解　",
-        "seq": 178
+        "seq": 181
     }
 ]
