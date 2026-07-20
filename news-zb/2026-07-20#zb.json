@@ -2161,12 +2161,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:05",
+        "time": "2026-07-20 23:05",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260720-9393787",
+        "title": "西班牙捧大力神杯凯旋 料百万球迷涌上街头庆祝",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:07",
+        "time": "2026-07-20 23:07",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260720-9393375",
+        "title": "黄总理祝贺伯纳姆就任英国首相 期待深化两国伙伴关系",
+        "seq": 242
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:08",
         "time": "2026-07-20 23:08",
         "link": "https://www.zaobao.com.sg/news/china/story20260719-9388105",
         "title": "民进党中常委改选 赖清德党内权力基础愈加巩固",
-        "seq": 241
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2193,25 @@
         "time": "2026-07-20 23:14",
         "link": "https://www.zaobao.com.sg/news/world/story20260719-9388192",
         "title": "印度洪水和山体滑坡造成至少19人死亡",
-        "seq": 242
+        "seq": 244
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:15",
+        "time": "2026-07-20 23:15",
+        "link": "https://www.zaobao.com.sg/news/world/story20260720-9393232",
+        "title": "美伊互击无消停迹象 伊朗称“全面战争”恢复",
+        "seq": 245
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:17",
+        "time": "2026-07-20 23:17",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260720-9393952",
+        "title": "伊朗祝贺西班牙世界杯夺冠 称胜利令反美反以民众欣喜",
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2220,7 @@
         "time": "2026-07-20 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20260719-9388153",
         "title": "LV密集诉讼与中企商标纠纷升温 中国舆论忧国际品牌维权越界",
-        "seq": 243
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2193,6 +2229,6 @@
         "time": "2026-07-20 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260718-9385263",
         "title": "安华正式推出AI分身 PMX AI随时随地聆听民意",
-        "seq": 244
+        "seq": 248
     }
 ]
