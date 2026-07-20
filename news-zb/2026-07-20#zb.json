@@ -2215,12 +2215,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:22",
+        "time": "2026-07-20 23:22",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260720-9393570",
+        "title": "调查：德士召不到 私召车等太久 乘客最不满意",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:26",
         "time": "2026-07-20 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20260719-9388153",
         "title": "LV密集诉讼与中企商标纠纷升温 中国舆论忧国际品牌维权越界",
-        "seq": 247
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:26",
+        "time": "2026-07-20 23:26",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260720-9394002",
+        "title": "盼森州如北海道 阿米努丁：让孩子不必离乡寻梦",
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2229,6 +2247,15 @@
         "time": "2026-07-20 23:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20260718-9385263",
         "title": "安华正式推出AI分身 PMX AI随时随地聆听民意",
-        "seq": 248
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:29",
+        "time": "2026-07-20 23:29",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260720-9393906",
+        "title": "中国公开赛首圈 我国两男单面临考验 对阵石宇奇和西本拳太",
+        "seq": 251
     }
 ]
