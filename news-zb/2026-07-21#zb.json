@@ -1909,12 +1909,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:04",
+        "time": "2026-07-21 22:04",
+        "link": "https://www.zaobao.com.sg/news/world/story20260721-9398705",
+        "title": "誓为阵亡美军加倍报复伊朗 特朗普面临关键抉择",
+        "seq": 213
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:09",
+        "time": "2026-07-21 22:09",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260721-9398687",
+        "title": "早知：陈之财减刑入狱一天 免剃头不留宿？",
+        "seq": 214
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:13",
         "time": "2026-07-21 22:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260720-9390708",
         "title": "约480家企业加入“乐善” 近年支持公益企业增至逾1000家",
-        "seq": 213
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1941,7 @@
         "time": "2026-07-21 22:13",
         "link": "https://www.zaobao.com.sg/news/world/story20260720-9392026",
         "title": "伯纳姆出任英国首相 本周出台新措施缓解民困",
-        "seq": 214
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1950,16 @@
         "time": "2026-07-21 22:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20260720-9393655",
         "title": "比利时足总宣布 不与主教练加西亚续约",
-        "seq": 215
+        "seq": 217
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:14",
+        "time": "2026-07-21 22:14",
+        "link": "https://www.zaobao.com.sg/news/world/story20260721-9399200",
+        "title": "美贸易代表：10%关税将到期 很快会有新行动",
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1968,7 @@
         "time": "2026-07-21 22:16",
         "link": "https://www.zaobao.com.sg/news/sports/story20260720-9393255",
         "title": "亚细安足球锦标赛 雄狮公布大名单",
-        "seq": 216
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1977,7 @@
         "time": "2026-07-21 22:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260720-9393176",
         "title": "新印海底光缆登陆峇淡岛 料9月投入运营传输数据",
-        "seq": 217
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1986,7 @@
         "time": "2026-07-21 22:18",
         "link": "https://www.zaobao.com.sg/news/world/story20260720-9393310",
         "title": "印度示威者要教育部长辞职 警方放催泪瓦斯驱散人群",
-        "seq": 218
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1995,7 @@
         "time": "2026-07-21 22:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260720-9393107",
         "title": "潮州八邑会馆推商业导师计划 资深领袖助年轻潮商成长",
-        "seq": 219
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2004,7 @@
         "time": "2026-07-21 22:31",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260720-9392967",
         "title": "生成式AI模型开发如何使用个资？ 三问题了解企业责任",
-        "seq": 220
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2013,7 @@
         "time": "2026-07-21 22:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260720-9393815",
         "title": "美国称黎军开始接管南部“试点区域”",
-        "seq": 221
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2022,7 @@
         "time": "2026-07-21 22:45",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260720-9393336",
         "title": "美罗将转型为新零售概念店 CICT推进百利宫重新规划",
-        "seq": 222
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2031,7 @@
         "time": "2026-07-21 22:45",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260720-9393336",
         "title": "美罗拟关闭转型成新概念店 凯德重塑百利宫零售布局",
-        "seq": 223
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2040,7 @@
         "time": "2026-07-21 22:51",
         "link": "https://www.zaobao.com.sg/news/sports/story20260720-9393695",
         "title": "西班牙球迷热烈庆祝世界杯夺冠 科学家探测到“人工地震”",
-        "seq": 224
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2049,7 @@
         "time": "2026-07-21 22:54",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260720-9393671",
         "title": "杨协成委任何文龙为总裁 翁煜煌因个人原因卸任",
-        "seq": 225
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2058,7 @@
         "time": "2026-07-21 22:57",
         "link": "https://www.zaobao.com.sg/news/sea/story20260720-9393511",
         "title": "巫伊结盟或激发华族危机感 希盟放眼夺森州23席单独执政",
-        "seq": 226
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2067,7 @@
         "time": "2026-07-21 23:05",
         "link": "https://www.zaobao.com.sg/news/sports/story20260720-9393787",
         "title": "西班牙捧大力神杯凯旋 料百万球迷涌上街头庆祝",
-        "seq": 227
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2076,7 @@
         "time": "2026-07-21 23:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260720-9393375",
         "title": "黄总理祝贺伯纳姆就任英国首相 期待深化两国伙伴关系",
-        "seq": 228
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2085,7 @@
         "time": "2026-07-21 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260720-9393232",
         "title": "美伊互击无消停迹象 伊朗称“全面战争”恢复",
-        "seq": 229
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2094,7 @@
         "time": "2026-07-21 23:17",
         "link": "https://www.zaobao.com.sg/news/sports/story20260720-9393952",
         "title": "伊朗祝贺西班牙世界杯夺冠 称胜利令反美反以民众欣喜",
-        "seq": 230
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2103,7 @@
         "time": "2026-07-21 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260720-9393570",
         "title": "调查：德士召不到 私召车等太久 乘客最不满意",
-        "seq": 231
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2112,7 @@
         "time": "2026-07-21 23:26",
         "link": "https://www.zaobao.com.sg/news/sea/story20260720-9394002",
         "title": "盼森州如北海道 阿米努丁：让孩子不必离乡寻梦",
-        "seq": 232
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2121,7 @@
         "time": "2026-07-21 23:29",
         "link": "https://www.zaobao.com.sg/news/sports/story20260720-9393906",
         "title": "中国公开赛首圈 我国两男单面临考验 对阵石宇奇和西本拳太",
-        "seq": 233
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2103,6 +2130,6 @@
         "time": "2026-07-21 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260720-9394087",
         "title": "白宫：特朗普与英国新任首相进行了通话",
-        "seq": 234
+        "seq": 237
     }
 ]
