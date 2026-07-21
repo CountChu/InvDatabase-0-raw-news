@@ -2215,12 +2215,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:22",
+        "time": "2026-07-21 23:22",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260721-9399148",
+        "title": "亚细安外长会议重申缅甸“五点共识” 吁采取步骤推动落实",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:26",
         "time": "2026-07-21 23:26",
         "link": "https://www.zaobao.com.sg/news/sea/story20260720-9394002",
         "title": "盼森州如北海道 阿米努丁：让孩子不必离乡寻梦",
-        "seq": 247
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:28",
+        "time": "2026-07-21 23:28",
+        "link": "https://www.zaobao.com.sg/news/world/story20260721-9399388",
+        "title": "联合国：上半年俄乌战争平民伤亡增37%",
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2247,25 @@
         "time": "2026-07-21 23:29",
         "link": "https://www.zaobao.com.sg/news/sports/story20260720-9393906",
         "title": "中国公开赛首圈 我国两男单面临考验 对阵石宇奇和西本拳太",
-        "seq": 248
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:33",
+        "time": "2026-07-21 23:33",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260721-9399253",
+        "title": "斥国际足联“摧毁足球产业” 西甲主席促因凡蒂诺下台",
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:34",
+        "time": "2026-07-21 23:34",
+        "link": "https://www.zaobao.com.sg/news/china/story20260721-9399192",
+        "title": "中国军舰在日本冲之鸟附近实弹演习 学者：选址释放战略信号",
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2238,6 +2274,6 @@
         "time": "2026-07-21 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260720-9394087",
         "title": "白宫：特朗普与英国新任首相进行了通话",
-        "seq": 249
+        "seq": 253
     }
 ]
