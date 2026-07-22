@@ -2287,12 +2287,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:29",
+        "time": "2026-07-22 23:29",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260722-9405395",
+        "title": "格鲁吉亚总理访新 探讨加强贸易与互联互通合作",
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:33",
         "time": "2026-07-22 23:33",
         "link": "https://www.zaobao.com.sg/news/sports/story20260721-9399253",
         "title": "斥国际足联“摧毁足球产业” 西甲主席促因凡蒂诺下台",
-        "seq": 255
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2310,16 @@
         "time": "2026-07-22 23:34",
         "link": "https://www.zaobao.com.sg/news/china/story20260721-9399192",
         "title": "中国军舰在日本冲之鸟附近实弹演习 学者：选址释放战略信号",
-        "seq": 256
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:34",
+        "time": "2026-07-22 23:34",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260722-9405321",
+        "title": "国大医学组织“追踪”急诊病患 多管齐下提高护理水平",
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2310,6 +2328,6 @@
         "time": "2026-07-22 23:42",
         "link": "https://www.zaobao.com.sg/news/sea/story20260721-9399123",
         "title": "中东战火与周边冲突背景下开会 亚细安外长会聚焦南中国海与缅甸危机",
-        "seq": 257
+        "seq": 259
     }
 ]
