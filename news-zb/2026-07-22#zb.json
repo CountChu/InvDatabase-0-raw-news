@@ -2251,12 +2251,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:14",
+        "time": "2026-07-22 23:14",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260722-9404629",
+        "title": "安华赴森州助选 促选民勿按族群投票",
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:17",
         "time": "2026-07-22 23:17",
         "link": "https://www.zaobao.com.sg/news/sports/story20260721-9399328",
         "title": "人类战胜AI！韩国世界第一围棋手2比1逆转最强AI",
-        "seq": 251
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2274,7 @@
         "time": "2026-07-22 23:22",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260721-9399148",
         "title": "亚细安外长会议重申缅甸“五点共识” 吁采取步骤推动落实",
-        "seq": 252
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2283,7 @@
         "time": "2026-07-22 23:28",
         "link": "https://www.zaobao.com.sg/news/world/story20260721-9399388",
         "title": "联合国：上半年俄乌战争平民伤亡增37%",
-        "seq": 253
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2292,7 @@
         "time": "2026-07-22 23:33",
         "link": "https://www.zaobao.com.sg/news/sports/story20260721-9399253",
         "title": "斥国际足联“摧毁足球产业” 西甲主席促因凡蒂诺下台",
-        "seq": 254
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2301,7 @@
         "time": "2026-07-22 23:34",
         "link": "https://www.zaobao.com.sg/news/china/story20260721-9399192",
         "title": "中国军舰在日本冲之鸟附近实弹演习 学者：选址释放战略信号",
-        "seq": 255
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2301,6 +2310,6 @@
         "time": "2026-07-22 23:42",
         "link": "https://www.zaobao.com.sg/news/sea/story20260721-9399123",
         "title": "中东战火与周边冲突背景下开会 亚细安外长会聚焦南中国海与缅甸危机",
-        "seq": 256
+        "seq": 257
     }
 ]
