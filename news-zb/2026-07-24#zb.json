@@ -460,12 +460,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:35",
+        "time": "2026-07-24 22:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20260723-9410741",
+        "title": "胡塞武装红海攻击沙特油轮 特朗普警告再袭将严厉军事打击",
+        "seq": 52
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:37",
         "time": "2026-07-24 22:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260723-9411380",
         "title": "中国籍数学家首次获颁菲尔兹奖",
-        "seq": 52
+        "seq": 53
     },
     {
         "media": "聯合早報",
@@ -474,7 +483,7 @@
         "time": "2026-07-24 22:40",
         "link": "https://www.zaobao.com.sg/finance/world/story20260723-9407419",
         "title": "周四美市盘前走低 Alphabet强劲营业额难阻股价下跌",
-        "seq": 53
+        "seq": 54
     },
     {
         "media": "聯合早報",
@@ -483,7 +492,7 @@
         "time": "2026-07-24 22:41",
         "link": "https://www.zaobao.com.sg/news/china/story20260723-9409871",
         "title": "梁文锋：DeepSeek不追求成为字节或腾讯 AGI是首要目标",
-        "seq": 54
+        "seq": 55
     },
     {
         "media": "聯合早報",
@@ -492,7 +501,7 @@
         "time": "2026-07-24 23:01",
         "link": "https://www.zaobao.com.sg/news/world/story20260723-9411468",
         "title": "美国颁布签证限制 对付网络犯罪同伙",
-        "seq": 55
+        "seq": 56
     },
     {
         "media": "聯合早報",
@@ -501,7 +510,7 @@
         "time": "2026-07-24 23:02",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260723-9396460",
         "title": "引入区块链技术追踪榴梿来源 消费者买单吗？",
-        "seq": 56
+        "seq": 57
     },
     {
         "media": "聯合早報",
@@ -510,7 +519,7 @@
         "time": "2026-07-24 23:02",
         "link": "https://www.zaobao.com.sg/news/china/story20260723-9411492",
         "title": "重庆彭水崩塌灾害致11死10伤50失联",
-        "seq": 57
+        "seq": 58
     },
     {
         "media": "聯合早報",
@@ -519,7 +528,7 @@
         "time": "2026-07-24 23:03",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260723-9411355",
         "title": "消息：凯德与丰树合并谈判据悉陷入停滞",
-        "seq": 58
+        "seq": 59
     },
     {
         "media": "聯合早報",
@@ -528,7 +537,7 @@
         "time": "2026-07-24 23:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260723-9410951",
         "title": "【红蚂蚁】“互动失当”引起多重反响 费绍尔请辞风波酝酿中",
-        "seq": 59
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -537,7 +546,7 @@
         "time": "2026-07-24 23:15",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260723-9410970",
         "title": "新交所扩大MSCI许可协议 将推100多种指数衍生产品　",
-        "seq": 60
+        "seq": 61
     },
     {
         "media": "聯合早報",
@@ -546,7 +555,7 @@
         "time": "2026-07-24 23:17",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260723-9411012",
         "title": "“红头巾”和“苦力”当导览 牛车水原貌馆推出多感官体验",
-        "seq": 61
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -555,7 +564,7 @@
         "time": "2026-07-24 23:20",
         "link": "https://www.zaobao.com.sg/news/china/story20260723-9410693",
         "title": "民进党秘书长批台北未落实抽验 蒋万安强烈回击",
-        "seq": 62
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -564,15 +573,6 @@
         "time": "2026-07-24 23:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260723-9410671",
         "title": "亚细安教育部长会议考察我国学府 了解本地教育体系",
-        "seq": 63
-    },
-    {
-        "media": "聯合早報",
-        "category": "国际",
-        "timeText": "23:27",
-        "time": "2026-07-24 23:27",
-        "link": "https://www.zaobao.com.sg/news/world/story20260723-9411519",
-        "title": "监测机构：加沙三分之二人口年内或将面临严重饥饿",
         "seq": 64
     },
     {
@@ -581,8 +581,17 @@
         "timeText": "23:27",
         "time": "2026-07-24 23:27",
         "link": "https://www.zaobao.com.sg/news/world/story20260723-9411519",
-        "title": "监测机构：加沙三分二人口年内或面临严重饥饿",
+        "title": "监测机构：加沙三分之二人口年内或将面临严重饥饿",
         "seq": 65
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:27",
+        "time": "2026-07-24 23:27",
+        "link": "https://www.zaobao.com.sg/news/world/story20260723-9411519",
+        "title": "监测机构：加沙三分二人口年内或面临严重饥饿",
+        "seq": 66
     },
     {
         "media": "聯合早報",
@@ -591,7 +600,7 @@
         "time": "2026-07-24 23:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20260723-9411315",
         "title": "亚细安外长会议公报呼吁保障国际海峡航行自由",
-        "seq": 66
+        "seq": 67
     },
     {
         "media": "聯合早報",
@@ -600,7 +609,7 @@
         "time": "2026-07-24 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260723-9411584",
         "title": "美众议院再次指示政府停止伊朗战争 象征性谴责特朗普",
-        "seq": 67
+        "seq": 68
     },
     {
         "media": "聯合早報",
@@ -609,6 +618,6 @@
         "time": "2026-07-24 23:58",
         "link": "https://www.zaobao.com.sg/news/china/story20260723-9411451",
         "title": "中菲黄岩岛再起摩擦 学者：南中国海成大国竞争前沿",
-        "seq": 68
+        "seq": 69
     }
 ]
