@@ -2242,12 +2242,75 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:01",
+        "time": "2026-07-23 23:01",
+        "link": "https://www.zaobao.com.sg/news/world/story20260723-9411468",
+        "title": "美国颁布签证限制 对付网络犯罪同伙",
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:02",
+        "time": "2026-07-23 23:02",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260723-9396460",
+        "title": "引入区块链技术追踪榴梿来源 消费者买单吗？",
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:02",
+        "time": "2026-07-23 23:02",
+        "link": "https://www.zaobao.com.sg/news/china/story20260723-9411492",
+        "title": "重庆彭水崩塌灾害致11死10伤50失联",
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:03",
+        "time": "2026-07-23 23:03",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260723-9411355",
+        "title": "消息：凯德与丰树合并谈判据悉陷入停滞",
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:13",
+        "time": "2026-07-23 23:13",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260723-9410951",
+        "title": "【红蚂蚁】“互动失当”引起多重反响 费绍尔请辞风波酝酿中",
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:14",
         "time": "2026-07-23 23:14",
         "link": "https://www.zaobao.com.sg/news/sea/story20260722-9404629",
         "title": "安华赴森州助选 促选民勿按族群投票",
-        "seq": 250
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:15",
+        "time": "2026-07-23 23:15",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260723-9410970",
+        "title": "新交所扩大MSCI许可协议 将推100多种指数衍生产品　",
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:17",
+        "time": "2026-07-23 23:17",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260723-9411012",
+        "title": "“红头巾”和“苦力”当导览 牛车水原貌馆推出多感官体验",
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2319,7 @@
         "time": "2026-07-23 23:29",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260722-9405395",
         "title": "格鲁吉亚总理访新 探讨加强贸易与互联互通合作",
-        "seq": 251
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2328,7 @@
         "time": "2026-07-23 23:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260722-9405321",
         "title": "国大医学组织“追踪”急诊病患 多管齐下提高护理水平",
-        "seq": 252
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2337,7 @@
         "time": "2026-07-23 23:41",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260722-9405297",
         "title": "CSE环球以800万美元 收购美国电信解决方案公司",
-        "seq": 253
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2346,7 @@
         "time": "2026-07-23 23:41",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260722-9405117",
         "title": "李金耀儿子家族拥有的勒密路优质洋房再求售 要价9880万元 较此前下调",
-        "seq": 254
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2292,6 +2355,6 @@
         "time": "2026-07-23 23:47",
         "link": "https://www.zaobao.com.sg/news/china/story20260722-9405296",
         "title": "中菲外长两年来首次会晤 南中国海争议成焦点",
-        "seq": 255
+        "seq": 262
     }
 ]
