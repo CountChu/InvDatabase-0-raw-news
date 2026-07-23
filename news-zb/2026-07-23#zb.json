@@ -2206,12 +2206,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:40",
+        "time": "2026-07-23 22:40",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260723-9407419",
+        "title": "周四美市盘前走低 Alphabet强劲营业额难阻股价下跌",
+        "seq": 246
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:41",
+        "time": "2026-07-23 22:41",
+        "link": "https://www.zaobao.com.sg/news/china/story20260723-9409871",
+        "title": "梁文锋：DeepSeek不追求成为字节或腾讯 AGI是首要目标",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:45",
         "time": "2026-07-23 22:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260722-9404014",
         "title": "人民行动党社区基金会庆祝40周年 首部跨代音乐剧上演",
-        "seq": 246
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2220,7 +2238,7 @@
         "time": "2026-07-23 22:48",
         "link": "https://www.zaobao.com.sg/news/china/story20260722-9405428",
         "title": "王毅会见菲律宾外长拉扎罗：中菲关系站在十字路口",
-        "seq": 247
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2247,7 @@
         "time": "2026-07-23 23:14",
         "link": "https://www.zaobao.com.sg/news/sea/story20260722-9404629",
         "title": "安华赴森州助选 促选民勿按族群投票",
-        "seq": 248
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2256,7 @@
         "time": "2026-07-23 23:29",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260722-9405395",
         "title": "格鲁吉亚总理访新 探讨加强贸易与互联互通合作",
-        "seq": 249
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2265,7 @@
         "time": "2026-07-23 23:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260722-9405321",
         "title": "国大医学组织“追踪”急诊病患 多管齐下提高护理水平",
-        "seq": 250
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2274,7 @@
         "time": "2026-07-23 23:41",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260722-9405297",
         "title": "CSE环球以800万美元 收购美国电信解决方案公司",
-        "seq": 251
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2283,7 @@
         "time": "2026-07-23 23:41",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260722-9405117",
         "title": "李金耀儿子家族拥有的勒密路优质洋房再求售 要价9880万元 较此前下调",
-        "seq": 252
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2274,6 +2292,6 @@
         "time": "2026-07-23 23:47",
         "link": "https://www.zaobao.com.sg/news/china/story20260722-9405296",
         "title": "中菲外长两年来首次会晤 南中国海争议成焦点",
-        "seq": 253
+        "seq": 255
     }
 ]
