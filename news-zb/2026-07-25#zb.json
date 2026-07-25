@@ -1675,12 +1675,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:51",
+        "time": "2026-07-25 22:51",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260725-9420617",
+        "title": "拉下上届冠军王祉怡 山口茜约陈雨菲中国羽球赛女单决战",
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:29",
         "time": "2026-07-25 23:29",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260724-9417252",
         "title": "维多利亚学校育才服务社会 尚达曼：正是我国所需教育",
-        "seq": 187
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1698,7 @@
         "time": "2026-07-25 23:31",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260724-9417351",
         "title": "黄志明：惹兰加由居民仍居首置 定会兑现承诺",
-        "seq": 188
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1707,7 @@
         "time": "2026-07-25 23:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260724-9417191",
         "title": "中菲五天内三度在南中国海对峙 学者：菲借舆论战对抗北京",
-        "seq": 189
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1716,7 @@
         "time": "2026-07-25 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260724-9417402",
         "title": "胡塞武装：海上禁运针对沙特 曼德海峡未封锁",
-        "seq": 190
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1716,15 +1725,6 @@
         "time": "2026-07-25 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260724-9417453",
         "title": "罗马尼亚首次击落犯境无人机",
-        "seq": 191
-    },
-    {
-        "media": "聯合早報",
-        "category": "体育",
-        "timeText": "23:59",
-        "time": "2026-07-25 23:59",
-        "link": "https://www.zaobao.com.sg/news/sports/story20260724-9417455",
-        "title": "美媒：NBA超级巨星詹姆斯加盟费城76人",
         "seq": 192
     },
     {
@@ -1733,7 +1733,16 @@
         "timeText": "23:59",
         "time": "2026-07-25 23:59",
         "link": "https://www.zaobao.com.sg/news/sports/story20260724-9417455",
-        "title": "NBA震撼弹：詹姆斯加盟76人 开启创纪录第24赛季",
+        "title": "美媒：NBA超级巨星詹姆斯加盟费城76人",
         "seq": 193
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:59",
+        "time": "2026-07-25 23:59",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260724-9417455",
+        "title": "NBA震撼弹：詹姆斯加盟76人 开启创纪录第24赛季",
+        "seq": 194
     }
 ]
