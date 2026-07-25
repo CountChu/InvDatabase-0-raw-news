@@ -1702,12 +1702,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:21",
+        "time": "2026-07-25 23:21",
+        "link": "https://www.zaobao.com.sg/news/china/story20260725-9420624",
+        "title": "蓝白号召“725凯道反毒油”　国民党称逾20万人参与",
+        "seq": 190
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:21",
+        "time": "2026-07-25 23:21",
+        "link": "https://www.zaobao.com.sg/news/world/story20260725-9420716",
+        "title": "哈萨克斯坦总统当普京面直言：乌克兰战争应该停止",
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:26",
+        "time": "2026-07-25 23:26",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260725-9420623",
+        "title": "加冷汇庆典外场炒热国庆气氛 雨水冲不淡公众热情",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:29",
         "time": "2026-07-25 23:29",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260724-9417252",
         "title": "维多利亚学校育才服务社会 尚达曼：正是我国所需教育",
-        "seq": 190
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1743,7 @@
         "time": "2026-07-25 23:31",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260724-9417351",
         "title": "黄志明：惹兰加由居民仍居首置 定会兑现承诺",
-        "seq": 191
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1752,7 @@
         "time": "2026-07-25 23:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260724-9417191",
         "title": "中菲五天内三度在南中国海对峙 学者：菲借舆论战对抗北京",
-        "seq": 192
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1761,25 @@
         "time": "2026-07-25 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260724-9417402",
         "title": "胡塞武装：海上禁运针对沙特 曼德海峡未封锁",
-        "seq": 193
+        "seq": 196
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:37",
+        "time": "2026-07-25 23:37",
+        "link": "https://www.zaobao.com.sg/news/china/story20260725-9420404",
+        "title": "方星海落马 中国证监系统成金融反腐焦点",
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:39",
+        "time": "2026-07-25 23:39",
+        "link": "https://www.zaobao.com.sg/news/world/story20260725-9420772",
+        "title": "法国出动军用运输机 增派500士兵协助扑灭山火",
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1788,7 @@
         "time": "2026-07-25 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260724-9417453",
         "title": "罗马尼亚首次击落犯境无人机",
-        "seq": 194
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1797,7 @@
         "time": "2026-07-25 23:59",
         "link": "https://www.zaobao.com.sg/news/sports/story20260724-9417455",
         "title": "美媒：NBA超级巨星詹姆斯加盟费城76人",
-        "seq": 195
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1761,6 +1806,6 @@
         "time": "2026-07-25 23:59",
         "link": "https://www.zaobao.com.sg/news/sports/story20260724-9417455",
         "title": "NBA震撼弹：詹姆斯加盟76人 开启创纪录第24赛季",
-        "seq": 196
+        "seq": 201
     }
 ]
