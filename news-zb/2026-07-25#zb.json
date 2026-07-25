@@ -1577,11 +1577,20 @@
     {
         "media": "聯合早報",
         "category": "新加坡",
+        "timeText": "22:23",
+        "time": "2026-07-25 22:23",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260725-9419435",
+        "title": "“新空下”新谣歌唱及创作比赛 冠军冯敬淇写歌呼吁珍惜当下",
+        "seq": 176
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
         "timeText": "22:25",
         "time": "2026-07-25 22:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260724-9417069",
         "title": "移民局海陆空严查 四天捉56人起获逾440电子烟及配件",
-        "seq": 176
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1599,7 @@
         "time": "2026-07-25 22:28",
         "link": "https://www.zaobao.com.sg/news/world/story20260724-9416660",
         "title": "美国打击伊朗至里海沿岸 伊朗无人机反击美军基地",
-        "seq": 177
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1608,7 @@
         "time": "2026-07-25 22:28",
         "link": "https://www.zaobao.com.sg/news/sea/story20260724-9416769",
         "title": "泰国推动电动车销售 提振汽车工业促能源转型",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,16 @@
         "time": "2026-07-25 22:32",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260724-9416468",
         "title": "陈振声勉励公共服务奖学金得主：深造期间积极拓展人脉网络",
-        "seq": 179
+        "seq": 180
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:34",
+        "time": "2026-07-25 22:34",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260725-9419129",
+        "title": "政府促社媒平台调整服务与功能 让儿童安全上网",
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1635,16 @@
         "time": "2026-07-25 22:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260724-9417200",
         "title": "泽连斯基下周访美 与特朗普会晤",
-        "seq": 180
+        "seq": 182
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:38",
+        "time": "2026-07-25 22:38",
+        "link": "https://www.zaobao.com.sg/news/world/story20260725-9420630",
+        "title": "日本连续五天“酷暑” 部分地区发布中暑预警",
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1653,7 @@
         "time": "2026-07-25 22:48",
         "link": "https://www.zaobao.com.sg/news/sports/story20260724-9416880",
         "title": "伊尔汗凌空抽射助雄狮绝杀柬埔寨 迎亚细安锦标赛开门红",
-        "seq": 181
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1662,7 @@
         "time": "2026-07-25 22:49",
         "link": "https://www.zaobao.com.sg/news/sea/story20260724-9417301",
         "title": "搜寻十天 印尼结束对14名船难失踪者的搜救",
-        "seq": 182
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1671,7 @@
         "time": "2026-07-25 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260724-9417209",
         "title": "贸工部：继续与美方沟通 探讨可行方案",
-        "seq": 183
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1680,7 @@
         "time": "2026-07-25 23:29",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260724-9417252",
         "title": "维多利亚学校育才服务社会 尚达曼：正是我国所需教育",
-        "seq": 184
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1689,7 @@
         "time": "2026-07-25 23:31",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260724-9417351",
         "title": "黄志明：惹兰加由居民仍居首置 定会兑现承诺",
-        "seq": 185
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1698,7 @@
         "time": "2026-07-25 23:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260724-9417191",
         "title": "中菲五天内三度在南中国海对峙 学者：菲借舆论战对抗北京",
-        "seq": 186
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1707,7 @@
         "time": "2026-07-25 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260724-9417402",
         "title": "胡塞武装：海上禁运针对沙特 曼德海峡未封锁",
-        "seq": 187
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1716,7 @@
         "time": "2026-07-25 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260724-9417453",
         "title": "罗马尼亚首次击落犯境无人机",
-        "seq": 188
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1725,7 @@
         "time": "2026-07-25 23:59",
         "link": "https://www.zaobao.com.sg/news/sports/story20260724-9417455",
         "title": "美媒：NBA超级巨星詹姆斯加盟费城76人",
-        "seq": 189
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1707,6 +1734,6 @@
         "time": "2026-07-25 23:59",
         "link": "https://www.zaobao.com.sg/news/sports/story20260724-9417455",
         "title": "NBA震撼弹：詹姆斯加盟76人 开启创纪录第24赛季",
-        "seq": 190
+        "seq": 193
     }
 ]
