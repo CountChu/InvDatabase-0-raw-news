@@ -1756,12 +1756,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:03",
+        "time": "2026-07-26 23:03",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260726-9423724",
+        "title": "希音香港IPO前披露财务状况 去年净利降38.7%",
+        "seq": 196
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:03",
+        "time": "2026-07-26 23:03",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260726-9423725",
+        "title": "世杯失利后重返赛场 内马尔巴甲梅开二度回应质疑",
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:06",
+        "time": "2026-07-26 23:06",
+        "link": "https://www.zaobao.com.sg/news/world/story20260726-9423554",
+        "title": "为外交斡旋制造空间 美伊连续两日未相互攻击",
+        "seq": 198
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:07",
         "time": "2026-07-26 23:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260725-9420427",
         "title": "新空中交通管制员可得2万元签约奖金 民航局加大对人才吸引力",
-        "seq": 196
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1797,7 @@
         "time": "2026-07-26 23:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260725-9420427",
         "title": "新空中交通管制员可得2万元签约奖金 民航局探讨是否扩大招聘奖励至其他岗位",
-        "seq": 197
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1806,7 @@
         "time": "2026-07-26 23:11",
         "link": "https://www.zaobao.com.sg/news/sports/story20260725-9420425",
         "title": "共运会三人篮球 新加坡男女队均取一胜一负",
-        "seq": 198
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1815,7 @@
         "time": "2026-07-26 23:21",
         "link": "https://www.zaobao.com.sg/news/china/story20260725-9420624",
         "title": "蓝白号召“725凯道反毒油”　国民党称逾20万人参与",
-        "seq": 199
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1824,7 @@
         "time": "2026-07-26 23:21",
         "link": "https://www.zaobao.com.sg/news/world/story20260725-9420716",
         "title": "哈萨克斯坦总统当普京面直言：乌克兰战争应该停止",
-        "seq": 200
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1833,7 @@
         "time": "2026-07-26 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260725-9420623",
         "title": "加冷汇庆典外场炒热国庆气氛 雨水冲不淡公众热情",
-        "seq": 201
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1842,7 @@
         "time": "2026-07-26 23:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260725-9420404",
         "title": "方星海落马 中国证监系统成金融反腐焦点",
-        "seq": 202
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1851,7 @@
         "time": "2026-07-26 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260725-9420772",
         "title": "法国出动军用运输机 增派500士兵协助扑灭山火",
-        "seq": 203
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1860,7 @@
         "time": "2026-07-26 23:46",
         "link": "https://www.zaobao.com.sg/news/sports/story20260725-9420731",
         "title": "打破马赛地杆位垄断 诺里斯赢下F1匈牙利排位赛",
-        "seq": 204
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1869,7 @@
         "time": "2026-07-26 23:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260725-9420762",
         "title": "台风“红霞”逼近粤闽沿海 新航取消香港深圳三趟班机",
-        "seq": 205
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1851,6 +1878,6 @@
         "time": "2026-07-26 23:51",
         "link": "https://www.zaobao.com.sg/news/china/story20260725-9420497",
         "title": "“红霞”预计于粤闽登陆 中国发布今年首个台风红色预警",
-        "seq": 206
+        "seq": 209
     }
 ]
