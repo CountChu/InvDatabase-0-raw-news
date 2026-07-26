@@ -1838,11 +1838,29 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "23:27",
+        "time": "2026-07-26 23:27",
+        "link": "https://www.zaobao.com.sg/news/china/story20260726-9423583",
+        "title": "美国扩大对华科研合作黑名单 复旦和上海交通大学上榜",
+        "seq": 205
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:30",
+        "time": "2026-07-26 23:30",
+        "link": "https://www.zaobao.com.sg/news/world/story20260726-9422372",
+        "title": "葡萄牙出土1.48亿年前甲龙类恐龙化石",
+        "seq": 206
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "23:37",
         "time": "2026-07-26 23:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260725-9420404",
         "title": "方星海落马 中国证监系统成金融反腐焦点",
-        "seq": 205
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1869,7 @@
         "time": "2026-07-26 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260725-9420772",
         "title": "法国出动军用运输机 增派500士兵协助扑灭山火",
-        "seq": 206
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1878,7 @@
         "time": "2026-07-26 23:46",
         "link": "https://www.zaobao.com.sg/news/sports/story20260725-9420731",
         "title": "打破马赛地杆位垄断 诺里斯赢下F1匈牙利排位赛",
-        "seq": 207
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1887,7 @@
         "time": "2026-07-26 23:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260725-9420762",
         "title": "台风“红霞”逼近粤闽沿海 新航取消香港深圳三趟班机",
-        "seq": 208
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1878,6 +1896,6 @@
         "time": "2026-07-26 23:51",
         "link": "https://www.zaobao.com.sg/news/china/story20260725-9420497",
         "title": "“红霞”预计于粤闽登陆 中国发布今年首个台风红色预警",
-        "seq": 209
+        "seq": 211
     }
 ]
