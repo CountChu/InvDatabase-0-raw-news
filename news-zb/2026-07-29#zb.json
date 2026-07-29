@@ -2179,12 +2179,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:48",
+        "time": "2026-07-29 22:48",
+        "link": "https://www.zaobao.com.sg/news/world/story20260729-9440729",
+        "title": "伊朗突袭约旦美军基地 沙特加入美军打击伊拉克民兵行动",
+        "seq": 243
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:49",
+        "time": "2026-07-29 22:49",
+        "link": "https://www.zaobao.com.sg/news/china/story20260729-9440531",
+        "title": "美国管控机器人和逆变器进口 中美科技博弈领域再拓宽",
+        "seq": 244
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:56",
         "time": "2026-07-29 22:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260728-9434989",
         "title": "不再有妈蜜鸡？ 标志性妈蜜酱悄然消失",
-        "seq": 243
+        "seq": 245
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:56",
+        "time": "2026-07-29 22:56",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260729-9440832",
+        "title": "安徽跻身中国GDP10强省份 分析：长期扶持新兴产业迎来收获",
+        "seq": 246
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:59",
+        "time": "2026-07-29 22:59",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260729-9441268",
+        "title": "足球大赛私有化投资陷争议 因凡蒂诺限各足总9月中表决",
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2229,7 @@
         "time": "2026-07-29 23:06",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260728-9435053",
         "title": "“保护公共安全增强版”新判刑7月底生效 加强严重罪案打击力度",
-        "seq": 244
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2238,7 @@
         "time": "2026-07-29 23:09",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260728-9435148",
         "title": "涉义顺环路纠众闹事 七名男子被捕",
-        "seq": 245
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2211,7 +2247,7 @@
         "time": "2026-07-29 23:17",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260728-9435178",
         "title": "香港置地上半年基本盈利增11%至2.59亿美元",
-        "seq": 246
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2220,7 +2256,7 @@
         "time": "2026-07-29 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260728-9434992",
         "title": "日本九州熊本县发生7.1级强震  百多人死伤",
-        "seq": 247
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2265,7 @@
         "time": "2026-07-29 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260728-9434992",
         "title": "日本九州熊本县发生7.1级强震 百多人死伤",
-        "seq": 248
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2274,7 @@
         "time": "2026-07-29 23:35",
         "link": "https://www.zaobao.com.sg/finance/world/story20260728-9435206",
         "title": "Visa裁减2600职位 占员工总数约7%",
-        "seq": 249
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2283,7 @@
         "time": "2026-07-29 23:38",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260728-9435208",
         "title": "扭亏为盈 DFI零售集团半年盈利1.18亿美元",
-        "seq": 250
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2292,7 @@
         "time": "2026-07-29 23:38",
         "link": "https://www.zaobao.com.sg/news/sea/story20260728-9434495",
         "title": "森州军警投票率逾九成 种族争议发酵与变天阴霾笼罩",
-        "seq": 251
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2265,6 +2301,6 @@
         "time": "2026-07-29 23:59",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260728-9433842",
         "title": "尚穆根：不可与李显龙相比 尽力履行国务资政职责",
-        "seq": 252
+        "seq": 256
     }
 ]
