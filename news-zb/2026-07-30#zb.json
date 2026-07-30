@@ -2261,11 +2261,29 @@
     {
         "media": "聯合早報",
         "category": "新加坡",
+        "timeText": "23:22",
+        "time": "2026-07-30 23:22",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260730-9446955",
+        "title": "51特需者获奖 追求艺术路上收获鼓舞与支持",
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
         "timeText": "23:24",
         "time": "2026-07-30 23:24",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260729-9440936",
         "title": "学者：纾困措施及时 为黄总理群众大会阐述长远战略腾空间",
-        "seq": 252
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:31",
+        "time": "2026-07-30 23:31",
+        "link": "https://www.zaobao.com.sg/news/china/story20260730-9447572",
+        "title": "重庆彭水山体崩塌事故 迄今51人遇难10人失联",
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2292,7 @@
         "time": "2026-07-30 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260729-9439056",
         "title": "新血液检测可预测失智风险 专家：不宜单作诊断",
-        "seq": 253
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2301,16 @@
         "time": "2026-07-30 23:36",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260729-9440990",
         "title": "政策执法科技齐发力 三内政部长国庆奖章获奖者诠释护国使命",
-        "seq": 254
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:37",
+        "time": "2026-07-30 23:37",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260730-9446466",
+        "title": "义顺历史走道全面更新 17景点见证百年变迁",
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2319,16 @@
         "time": "2026-07-30 23:38",
         "link": "https://www.zaobao.com.sg/news/sea/story20260728-9434495",
         "title": "森州军警投票率逾九成 种族争议发酵与变天阴霾笼罩",
-        "seq": 255
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:39",
+        "time": "2026-07-30 23:39",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260730-9446648",
+        "title": "新报业媒体颁新闻从业奖学金 三学子获奖 一人靠追剧苦练华文",
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2337,7 @@
         "time": "2026-07-30 23:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260729-9440416",
         "title": "政府追加9亿元援助配套 助家庭和企业应对高涨成本",
-        "seq": 256
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2346,7 @@
         "time": "2026-07-30 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260729-9441491",
         "title": "义顺公寓停车场汽车失火 一人送院",
-        "seq": 257
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2355,7 @@
         "time": "2026-07-30 23:53",
         "link": "https://www.zaobao.com.sg/news/china/story20260729-9441506",
         "title": "中俄海军结束16天海上联合巡航",
-        "seq": 258
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2328,6 +2364,6 @@
         "time": "2026-07-30 23:59",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260729-9441468",
         "title": "升禧环球REIT下半财年每单位派息增长1.6%",
-        "seq": 259
+        "seq": 263
     }
 ]
