@@ -1729,12 +1729,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:38",
+        "time": "2026-08-01 23:38",
+        "link": "https://www.zaobao.com.sg/news/world/story20260801-9456899",
+        "title": "意大利那不勒斯火山区4.7级地震 26人受伤",
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:42",
         "time": "2026-08-01 23:42",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260731-9453314",
         "title": "幸运抽奖诈骗今年骗走近百万元 警方吁公众提高警惕",
-        "seq": 193
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1752,7 @@
         "time": "2026-08-01 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260731-9453532",
         "title": "刚果（金）本次伊波拉疫情 规模为历来第二大",
-        "seq": 194
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1752,6 +1761,6 @@
         "time": "2026-08-01 23:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260731-9453422",
         "title": "舞台上展示外地旗帜 英电音组合两成员被禁入境新加坡",
-        "seq": 195
+        "seq": 196
     }
 ]
