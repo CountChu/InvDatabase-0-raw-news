@@ -1810,12 +1810,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:06",
+        "time": "2026-08-02 23:06",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260802-9459825",
+        "title": "马国平均每天18人死于车祸 59%是电单车骑士",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:17",
+        "time": "2026-08-02 23:17",
+        "link": "https://www.zaobao.com.sg/news/world/story20260802-9459688",
+        "title": "日美拟联手扶持日元 汇率一度急剧回升至1美元兑157.08日元",
+        "seq": 203
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:18",
         "time": "2026-08-02 23:18",
         "link": "https://www.zaobao.com.sg/news/world/story20260801-9456774",
         "title": "总统就职典礼在即 哥伦比亚卡车炸弹袭击致11人受伤",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1842,7 @@
         "time": "2026-08-02 23:19",
         "link": "https://www.zaobao.com.sg/news/china/story20260801-9456293",
         "title": "重庆主要领导班子完成补位 陈新武首次主持党组会议强调正确政绩观",
-        "seq": 203
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1851,7 @@
         "time": "2026-08-02 23:28",
         "link": "https://www.zaobao.com.sg/finance/world/story20260731-9453371",
         "title": "日韩罕见同步出手干预汇市 美国据报在背后支持",
-        "seq": 204
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1860,7 @@
         "time": "2026-08-02 23:35",
         "link": "https://www.zaobao.com.sg/finance/world/story20260731-9453476",
         "title": "美国10年期国债收益率攀升 达去年1月来最高",
-        "seq": 205
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1851,6 +1869,6 @@
         "time": "2026-08-02 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260801-9456899",
         "title": "意大利那不勒斯火山区4.7级地震 26人受伤",
-        "seq": 206
+        "seq": 208
     }
 ]
