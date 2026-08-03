@@ -2162,11 +2162,29 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "23:21",
+        "time": "2026-08-03 23:21",
+        "link": "https://www.zaobao.com.sg/news/china/story20260803-9465328",
+        "title": "中共五中全会聚焦从严治党 失去中央委员资格人数或再创纪录",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "23:26",
         "time": "2026-08-03 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20260802-9459763",
         "title": "黑恶犯罪变种叠加经济承压 中国升级扫黑除恶专项斗争",
-        "seq": 241
+        "seq": 242
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:29",
+        "time": "2026-08-03 23:29",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260803-9465080",
+        "title": "华侨银行携手中国国企中关村国际 助潜在1万4000科技公司进军亚细安",
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2193,16 @@
         "time": "2026-08-03 23:31",
         "link": "https://www.zaobao.com.sg/news/sea/story20260802-9458586",
         "title": "森州新大臣宣誓 分析员：政局稳中存变",
-        "seq": 242
+        "seq": 244
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:38",
+        "time": "2026-08-03 23:38",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260803-9465374",
+        "title": "淡马锡推出7.5亿元10年期新元债券 固定利率2.65%",
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2211,7 @@
         "time": "2026-08-03 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260802-9459875",
         "title": "非法移民死亡人数升至72人 西班牙为何爆发边境危机？",
-        "seq": 243
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2220,7 @@
         "time": "2026-08-03 23:52",
         "link": "https://www.zaobao.com.sg/news/world/story20260802-9459889",
         "title": "巴基斯坦和平集会发生自杀式炸弹袭击 酿七死20多人伤",
-        "seq": 244
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2229,7 @@
         "time": "2026-08-03 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260802-9459768",
         "title": "美对伊袭击“靴子仍未落地” 特朗普有条件暂缓打击",
-        "seq": 245
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2211,6 +2238,6 @@
         "time": "2026-08-03 23:59",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260802-9459758",
         "title": "本土文化知识大比拼 52参赛者激战“狮城荣耀杯”",
-        "seq": 246
+        "seq": 249
     }
 ]
