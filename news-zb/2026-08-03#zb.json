@@ -2125,12 +2125,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:07",
+        "time": "2026-08-03 23:07",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260803-9465386",
+        "title": "云顶山脚树倒砸车 巫青团马兰区团长一家四死一伤",
+        "seq": 237
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:13",
+        "time": "2026-08-03 23:13",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260803-9465329",
+        "title": "首铸集团上半年净亏9280万元",
+        "seq": 238
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:17",
         "time": "2026-08-03 23:17",
         "link": "https://www.zaobao.com.sg/news/world/story20260802-9459688",
         "title": "日美拟联手扶持日元 汇率一度急剧回升至1美元兑157.08日元",
-        "seq": 237
+        "seq": 239
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:18",
+        "time": "2026-08-03 23:18",
+        "link": "https://www.zaobao.com.sg/news/world/story20260803-9465423",
+        "title": "瑙鲁正式更改国名 中文译法保持不变",
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2166,7 @@
         "time": "2026-08-03 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20260802-9459763",
         "title": "黑恶犯罪变种叠加经济承压 中国升级扫黑除恶专项斗争",
-        "seq": 238
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2175,7 @@
         "time": "2026-08-03 23:31",
         "link": "https://www.zaobao.com.sg/news/sea/story20260802-9458586",
         "title": "森州新大臣宣誓 分析员：政局稳中存变",
-        "seq": 239
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2184,7 @@
         "time": "2026-08-03 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260802-9459875",
         "title": "非法移民死亡人数升至72人 西班牙为何爆发边境危机？",
-        "seq": 240
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2193,7 @@
         "time": "2026-08-03 23:52",
         "link": "https://www.zaobao.com.sg/news/world/story20260802-9459889",
         "title": "巴基斯坦和平集会发生自杀式炸弹袭击 酿七死20多人伤",
-        "seq": 241
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2202,7 @@
         "time": "2026-08-03 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260802-9459768",
         "title": "美对伊袭击“靴子仍未落地” 特朗普有条件暂缓打击",
-        "seq": 242
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2184,6 +2211,6 @@
         "time": "2026-08-03 23:59",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260802-9459758",
         "title": "本土文化知识大比拼 52参赛者激战“狮城荣耀杯”",
-        "seq": 243
+        "seq": 246
     }
 ]
