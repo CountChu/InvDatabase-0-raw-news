@@ -1720,12 +1720,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:00",
+        "time": "2026-08-04 21:00",
+        "link": "https://www.zaobao.com.sg/news/china/story20260804-9470731",
+        "title": "中国主持人半蹲递麦采访《奥德赛》主创 被斥“卑躬屈膝”",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "21:04",
         "time": "2026-08-04 21:04",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260803-9464653",
         "title": "星展委任罗中恒加入集团和银行董事会",
-        "seq": 192
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:09",
+        "time": "2026-08-04 21:09",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260804-9469667",
+        "title": "职总办职业展提供逾千份工作 助政府科技局被裁者觅职",
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1752,16 @@
         "time": "2026-08-04 21:10",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260803-9464944",
         "title": "Vividthree旗下子公司 将经营乌节路一现场演出场地和音乐工作室",
-        "seq": 193
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:11",
+        "time": "2026-08-04 21:11",
+        "link": "https://www.zaobao.com.sg/news/china/story20260804-9471062",
+        "title": "中国国防部驳日防卫白皮书：为自身军事松绑找借口",
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1770,16 @@
         "time": "2026-08-04 21:14",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260803-9464712",
         "title": "17岁前在家受教育 大提琴生南艺毕业",
-        "seq": 194
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:14",
+        "time": "2026-08-04 21:14",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260804-9470276",
+        "title": "老旧项目集售门槛拟降低 分析师：有助城市更新 但短期难掀热潮",
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1788,7 @@
         "time": "2026-08-04 21:15",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260803-9465108",
         "title": "跑马埔路组屋火患五人受困 三名年长男女昏迷送院",
-        "seq": 195
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1797,16 @@
         "time": "2026-08-04 21:15",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260803-9465108",
         "title": "跑马埔路组屋火患五人受困  三年长者昏迷送院  邻居：疑找不到钥匙脱身",
-        "seq": 196
+        "seq": 200
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:16",
+        "time": "2026-08-04 21:16",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260804-9470899",
+        "title": "燃油成本上涨导致汉莎航空季度盈利减半 股价大跌11%",
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1815,16 @@
         "time": "2026-08-04 21:17",
         "link": "https://www.zaobao.com.sg/news/sea/story20260803-9464725",
         "title": "巩固泰国旅游经济 曼谷湄南河畔再迎开发热潮",
-        "seq": 197
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:19",
+        "time": "2026-08-04 21:19",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260804-9463157",
+        "title": "新加坡米其林指南新出炉 45餐馆入榜六家首摘一星",
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1833,7 @@
         "time": "2026-08-04 21:23",
         "link": "https://www.zaobao.com.sg/news/sea/story20260803-9464838",
         "title": "全球贸易碎片化 亚细安内部深化合作有望构建完整产业链",
-        "seq": 198
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1842,7 @@
         "time": "2026-08-04 21:27",
         "link": "https://www.zaobao.com.sg/news/world/story20260803-9465084",
         "title": "英男子冰柜中藏母遗体三年 冒领数万福利金获刑",
-        "seq": 199
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1851,7 @@
         "time": "2026-08-04 21:29",
         "link": "https://www.zaobao.com.sg/finance/china/story20260803-9464229",
         "title": "证监会深化合作10项新措施 分析：大陆盼通过香港联通国际市场",
-        "seq": 200
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1860,7 @@
         "time": "2026-08-04 21:36",
         "link": "https://www.zaobao.com.sg/finance/world/story20260803-9462706",
         "title": "【早知】日美为何出手干预汇市“救日元”？",
-        "seq": 201
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1869,7 @@
         "time": "2026-08-04 21:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260803-9464759",
         "title": "日本推动使用初创企业技术 研发国产拦截无人机",
-        "seq": 202
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1878,7 @@
         "time": "2026-08-04 21:58",
         "link": "https://www.zaobao.com.sg/news/sea/story20260803-9464072",
         "title": "推广柔森选举合作模式？ 伊党和巫统主张不同",
-        "seq": 203
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1887,7 @@
         "time": "2026-08-04 22:00",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260803-9464238",
         "title": "亚细安要成更强经济体 能源金融数据三制高点须把握",
-        "seq": 204
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1896,7 @@
         "time": "2026-08-04 22:06",
         "link": "https://www.zaobao.com.sg/news/world/story20260803-9464681",
         "title": "伊朗打脸特朗普 否认与美国恢复谈判",
-        "seq": 205
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1905,7 @@
         "time": "2026-08-04 22:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20260803-9465256",
         "title": "越南连续第八个月出现贸易逆差",
-        "seq": 206
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1914,7 @@
         "time": "2026-08-04 22:17",
         "link": "https://www.zaobao.com.sg/finance/china/story20260803-9465247",
         "title": "中国修订集成电路布图设计保护条例 加大晶片设计保护",
-        "seq": 207
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1923,7 @@
         "time": "2026-08-04 22:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260803-9465214",
         "title": "联实全球商业REIT下半年每单位派息增3％",
-        "seq": 208
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1932,7 @@
         "time": "2026-08-04 22:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260803-9465260",
         "title": "美战争部签框架协议 增加“爱国者”和“萨德”零部件产能",
-        "seq": 209
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1941,7 @@
         "time": "2026-08-04 22:41",
         "link": "https://www.zaobao.com.sg/news/world/story20260803-9465365",
         "title": "六艘沙特油轮绕开曼德海峡 驶向非洲南部",
-        "seq": 210
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1950,7 @@
         "time": "2026-08-04 22:48",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260803-9465268",
         "title": "APAC产业上半年净利跌16.8%至940万元",
-        "seq": 211
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1959,7 @@
         "time": "2026-08-04 22:51",
         "link": "https://www.zaobao.com.sg/news/sports/story20260803-9464656",
         "title": "新商业计划惹众怒 多国撤回支持因凡蒂诺国际足联连任",
-        "seq": 212
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1968,7 @@
         "time": "2026-08-04 23:07",
         "link": "https://www.zaobao.com.sg/news/sea/story20260803-9465386",
         "title": "云顶山脚树倒砸车 巫青团马兰区团长一家四死一伤",
-        "seq": 213
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1977,7 @@
         "time": "2026-08-04 23:13",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260803-9465329",
         "title": "首铸集团上半年净亏9280万元",
-        "seq": 214
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1986,7 @@
         "time": "2026-08-04 23:18",
         "link": "https://www.zaobao.com.sg/news/world/story20260803-9465423",
         "title": "瑙鲁正式更改国名 中文译法保持不变",
-        "seq": 215
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1995,7 @@
         "time": "2026-08-04 23:21",
         "link": "https://www.zaobao.com.sg/news/china/story20260803-9465328",
         "title": "中共五中全会聚焦从严治党 失去中央委员资格人数或再创纪录",
-        "seq": 216
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1950,7 +2004,7 @@
         "time": "2026-08-04 23:29",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260803-9465080",
         "title": "华侨银行携手中国国企中关村国际 助潜在1万4000科技公司进军亚细安",
-        "seq": 217
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1959,7 +2013,7 @@
         "time": "2026-08-04 23:38",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260803-9465374",
         "title": "淡马锡推出7.5亿元10年期新元债券 固定利率2.65%",
-        "seq": 218
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1968,6 +2022,6 @@
         "time": "2026-08-04 23:51",
         "link": "https://www.zaobao.com.sg/news/sea/story20260803-9465497",
         "title": "陆兆福辞民行党森州主席 留任秘书长拼大选",
-        "seq": 219
+        "seq": 225
     }
 ]
