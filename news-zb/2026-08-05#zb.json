@@ -2431,12 +2431,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:31",
+        "time": "2026-08-05 23:31",
+        "link": "https://www.zaobao.com.sg/news/world/story20260805-9476566",
+        "title": "企业降本兼采用AI 英国就业市场低迷近两年",
+        "seq": 271
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:32",
         "time": "2026-08-05 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260804-9470122",
         "title": "企业采用AI智能体投资回报料翻倍 初级工作或减少",
-        "seq": 271
+        "seq": 272
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:33",
+        "time": "2026-08-05 23:33",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260805-9477317",
+        "title": "工人党吁立法强制企业提供裁员补偿 劳资政工作小组将进一步探讨",
+        "seq": 273
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:33",
+        "time": "2026-08-05 23:33",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260805-9477554",
+        "title": "胜捷住宿信托上半年派息高于预测 每单位派息3.499分",
+        "seq": 274
     },
     {
         "media": "聯合早報",
@@ -2445,7 +2472,7 @@
         "time": "2026-08-05 23:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260804-9471252",
         "title": "日本最新防卫白皮书强调军事转型",
-        "seq": 272
+        "seq": 275
     },
     {
         "media": "聯合早報",
@@ -2454,7 +2481,7 @@
         "time": "2026-08-05 23:41",
         "link": "https://www.zaobao.com.sg/news/sea/story20260804-9471449",
         "title": "亚细安与缅甸恢复接触 真正“回归”仍遥远",
-        "seq": 273
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2463,7 +2490,7 @@
         "time": "2026-08-05 23:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260804-9471146",
         "title": "国会观察：不寻常的“加时”",
-        "seq": 274
+        "seq": 277
     },
     {
         "media": "聯合早報",
@@ -2472,7 +2499,7 @@
         "time": "2026-08-05 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260804-9471658",
         "title": "意大利女子误丢148万新元中奖彩票 垃圾工人翻一天寻回",
-        "seq": 275
+        "seq": 278
     },
     {
         "media": "聯合早報",
@@ -2481,6 +2508,6 @@
         "time": "2026-08-05 23:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260804-9471277",
         "title": "全面禁止持手机驾驶 议员促检讨车内设计与其他分心源头",
-        "seq": 276
+        "seq": 279
     }
 ]
