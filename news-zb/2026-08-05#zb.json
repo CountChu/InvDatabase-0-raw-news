@@ -2314,12 +2314,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:47",
+        "time": "2026-08-05 22:47",
+        "link": "https://www.zaobao.com.sg/news/world/story20260805-9476425",
+        "title": "美媒：美国增派情报人员 加大对古巴施压",
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:52",
         "time": "2026-08-05 22:52",
         "link": "https://www.zaobao.com.sg/news/sea/story20260804-9471273",
         "title": "陆兆福辞民行党森州主席 分析员：可专注拼全国大选",
-        "seq": 258
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2337,16 @@
         "time": "2026-08-05 22:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260804-9471507",
         "title": "英吉利海峡移民船起火 法英救起157人",
-        "seq": 259
+        "seq": 260
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:58",
+        "time": "2026-08-05 22:58",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260805-9477231",
+        "title": "凯德腾飞房地产信托上半年每单位派息微增0.1%至7.482分",
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2355,7 @@
         "time": "2026-08-05 22:59",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260804-9471323",
         "title": "健卫部另11发展项目未申报结余 5.41亿元已交财政部调配",
-        "seq": 260
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2364,7 @@
         "time": "2026-08-05 23:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260804-9471429",
         "title": "世银吁发展中国家用AI改善治理 否认将落后于时代",
-        "seq": 261
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2373,7 @@
         "time": "2026-08-05 23:16",
         "link": "https://www.zaobao.com.sg/news/china/story20260804-9470847",
         "title": "中国公布抹黑车企案例引“竹知了”联想 学者：华为维权符官方原则但存“泛侵权化”",
-        "seq": 262
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2382,7 @@
         "time": "2026-08-05 23:20",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260804-9471183",
         "title": "交通部或探讨发布更多巴士业者长期表现数据",
-        "seq": 263
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2391,7 @@
         "time": "2026-08-05 23:27",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260804-9470486",
         "title": "跑马埔路组屋火患五人受困 三名年长者昏迷送院 邻居：疑找不到钥匙脱身",
-        "seq": 264
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2400,7 @@
         "time": "2026-08-05 23:28",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260804-9471545",
         "title": "丰树物流信托发行4亿元永续证券 票面利率3.50%",
-        "seq": 265
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2409,7 @@
         "time": "2026-08-05 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260804-9470122",
         "title": "企业采用AI智能体投资回报料翻倍 初级工作或减少",
-        "seq": 266
+        "seq": 268
     },
     {
         "media": "聯合早報",
@@ -2400,7 +2418,7 @@
         "time": "2026-08-05 23:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260804-9471252",
         "title": "日本最新防卫白皮书强调军事转型",
-        "seq": 267
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2409,7 +2427,7 @@
         "time": "2026-08-05 23:41",
         "link": "https://www.zaobao.com.sg/news/sea/story20260804-9471449",
         "title": "亚细安与缅甸恢复接触 真正“回归”仍遥远",
-        "seq": 268
+        "seq": 270
     },
     {
         "media": "聯合早報",
@@ -2418,7 +2436,7 @@
         "time": "2026-08-05 23:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260804-9471146",
         "title": "国会观察：不寻常的“加时”",
-        "seq": 269
+        "seq": 271
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2445,7 @@
         "time": "2026-08-05 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260804-9471658",
         "title": "意大利女子误丢148万新元中奖彩票 垃圾工人翻一天寻回",
-        "seq": 270
+        "seq": 272
     },
     {
         "media": "聯合早報",
@@ -2436,6 +2454,6 @@
         "time": "2026-08-05 23:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260804-9471277",
         "title": "全面禁止持手机驾驶 议员促检讨车内设计与其他分心源头",
-        "seq": 271
+        "seq": 273
     }
 ]
