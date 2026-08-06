@@ -1972,12 +1972,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:14",
+        "time": "2026-08-06 23:14",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260806-9482965",
+        "title": "从宏茂桥综合诊所扩至卡迪综合诊所 星护诊所服务惠及更多残障者",
+        "seq": 220
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:14",
+        "time": "2026-08-06 23:14",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260806-9483534",
+        "title": "马国反贪会周五提控前首相依斯迈",
+        "seq": 221
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:16",
         "time": "2026-08-06 23:16",
         "link": "https://www.zaobao.com.sg/news/china/story20260805-9477355",
         "title": "台陆委会主委：中共统战从娃娃抓起 台湾须正视风险",
-        "seq": 220
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2004,7 @@
         "time": "2026-08-06 23:16",
         "link": "https://www.zaobao.com.sg/news/china/story20260805-9477316",
         "title": "中国出台多项对美反制措施 分析：中美摩擦升级空间有限",
-        "seq": 221
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2013,25 @@
         "time": "2026-08-06 23:17",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260805-9477440",
         "title": "CSE环球次季新订单达约2亿元 同比减少5.8%",
-        "seq": 222
+        "seq": 224
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:18",
+        "time": "2026-08-06 23:18",
+        "link": "https://www.zaobao.com.sg/news/china/story20260806-9483600",
+        "title": "消息：DeepSeek已恢复第二轮融资",
+        "seq": 225
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:18",
+        "time": "2026-08-06 23:18",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260806-9480262",
+        "title": "敏昂莱访问泰国 学者：缅甸最快2028年或重返亚细安",
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2040,7 @@
         "time": "2026-08-06 23:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260805-9476566",
         "title": "企业降本兼采用AI 英国就业市场低迷近两年",
-        "seq": 223
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2049,7 @@
         "time": "2026-08-06 23:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260805-9477317",
         "title": "工人党吁立法强制企业提供裁员补偿 劳资政工作小组将进一步探讨",
-        "seq": 224
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2058,7 @@
         "time": "2026-08-06 23:33",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260805-9477554",
         "title": "胜捷住宿信托上半年派息高于预测 每单位派息3.499分",
-        "seq": 225
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2067,7 @@
         "time": "2026-08-06 23:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260805-9477621",
         "title": "IREIT全球上半年每单位派息跌47.9%至欧元0.37分",
-        "seq": 226
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2040,6 +2076,6 @@
         "time": "2026-08-06 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260805-9477669",
         "title": "伊朗称与阿曼敲定霍尔木兹海峡新航线",
-        "seq": 227
+        "seq": 231
     }
 ]
