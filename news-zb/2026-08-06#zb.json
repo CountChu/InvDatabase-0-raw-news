@@ -2035,12 +2035,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:22",
+        "time": "2026-08-06 23:22",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260806-9483467",
+        "title": "远东乌节2026财年上半年净利同比跌39.9%",
+        "seq": 227
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:31",
         "time": "2026-08-06 23:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260805-9476566",
         "title": "企业降本兼采用AI 英国就业市场低迷近两年",
-        "seq": 227
+        "seq": 228
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:32",
+        "time": "2026-08-06 23:32",
+        "link": "https://www.zaobao.com.sg/news/world/story20260806-9483183",
+        "title": "同意霍尔木兹海峡划一通行航道 伊朗与阿曼磋商共同管理机制",
+        "seq": 229
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:32",
+        "time": "2026-08-06 23:32",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260806-9483542",
+        "title": "皇马签下科特迪瓦新星迪奥曼德 1.2亿英镑转会费破球队纪录",
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2076,7 @@
         "time": "2026-08-06 23:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260805-9477317",
         "title": "工人党吁立法强制企业提供裁员补偿 劳资政工作小组将进一步探讨",
-        "seq": 228
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2085,7 @@
         "time": "2026-08-06 23:33",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260805-9477554",
         "title": "胜捷住宿信托上半年派息高于预测 每单位派息3.499分",
-        "seq": 229
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2094,7 @@
         "time": "2026-08-06 23:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260805-9477621",
         "title": "IREIT全球上半年每单位派息跌47.9%至欧元0.37分",
-        "seq": 230
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2076,6 +2103,6 @@
         "time": "2026-08-06 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260805-9477669",
         "title": "伊朗称与阿曼敲定霍尔木兹海峡新航线",
-        "seq": 231
+        "seq": 234
     }
 ]
