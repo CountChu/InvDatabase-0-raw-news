@@ -1892,11 +1892,38 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "22:20",
+        "time": "2026-08-06 22:20",
+        "link": "https://www.zaobao.com.sg/news/world/story20260806-9483355",
+        "title": "美国参议院委员会投票 以藐视国会罪起诉福奇",
+        "seq": 211
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:21",
+        "time": "2026-08-06 22:21",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260806-9483198",
+        "title": "涉网上发文侮辱他人宗教 27岁男子马国被捕遣返",
+        "seq": 212
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "22:30",
         "time": "2026-08-06 22:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260805-9475083",
         "title": "联合国：强厄尔尼诺恐令4900万人陷粮食危机",
-        "seq": 211
+        "seq": 213
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:30",
+        "time": "2026-08-06 22:30",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260806-9482322",
+        "title": "两周内第三起 三名马国女子运毒印尼被捕",
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1932,7 @@
         "time": "2026-08-06 22:37",
         "link": "https://www.zaobao.com.sg/news/sports/story20260805-9477261",
         "title": "蓝军不敌尤文吞两连败 穆德里克禁赛20个月后复出",
-        "seq": 212
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1941,7 @@
         "time": "2026-08-06 22:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260805-9476425",
         "title": "美媒：美国增派情报人员 加大对古巴施压",
-        "seq": 213
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1950,7 @@
         "time": "2026-08-06 22:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260805-9477231",
         "title": "凯德腾飞房地产信托上半年每单位派息微增0.1%至7.482分",
-        "seq": 214
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1959,7 @@
         "time": "2026-08-06 23:16",
         "link": "https://www.zaobao.com.sg/news/china/story20260805-9477355",
         "title": "台陆委会主委：中共统战从娃娃抓起 台湾须正视风险",
-        "seq": 215
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1968,7 @@
         "time": "2026-08-06 23:16",
         "link": "https://www.zaobao.com.sg/news/china/story20260805-9477316",
         "title": "中国出台多项对美反制措施 分析：中美摩擦升级空间有限",
-        "seq": 216
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1977,7 @@
         "time": "2026-08-06 23:17",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260805-9477440",
         "title": "CSE环球次季新订单达约2亿元 同比减少5.8%",
-        "seq": 217
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1986,7 @@
         "time": "2026-08-06 23:31",
         "link": "https://www.zaobao.com.sg/news/world/story20260805-9476566",
         "title": "企业降本兼采用AI 英国就业市场低迷近两年",
-        "seq": 218
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1995,7 @@
         "time": "2026-08-06 23:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260805-9477317",
         "title": "工人党吁立法强制企业提供裁员补偿 劳资政工作小组将进一步探讨",
-        "seq": 219
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2004,7 @@
         "time": "2026-08-06 23:33",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260805-9477554",
         "title": "胜捷住宿信托上半年派息高于预测 每单位派息3.499分",
-        "seq": 220
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2013,7 @@
         "time": "2026-08-06 23:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260805-9477621",
         "title": "IREIT全球上半年每单位派息跌47.9%至欧元0.37分",
-        "seq": 221
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1995,6 +2022,6 @@
         "time": "2026-08-06 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260805-9477669",
         "title": "伊朗称与阿曼敲定霍尔木兹海峡新航线",
-        "seq": 222
+        "seq": 225
     }
 ]
