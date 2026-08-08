@@ -1540,12 +1540,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:35",
+        "time": "2026-08-08 23:35",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260808-9492146",
+        "title": "中华总商会：企业应善用人才科技资源 打造更强商业生态",
+        "seq": 172
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:42",
         "time": "2026-08-08 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260807-9489496",
         "title": "美上诉法院裁决：禁特朗普耗4亿美元建造白宫宴会厅",
-        "seq": 172
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1554,6 +1563,6 @@
         "time": "2026-08-08 23:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260807-9489458",
         "title": "顺福企业控股上半年转亏为盈 净利报1930万元",
-        "seq": 173
+        "seq": 174
     }
 ]
