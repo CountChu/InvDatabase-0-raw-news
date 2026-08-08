@@ -1451,11 +1451,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "22:52",
+        "time": "2026-08-08 22:52",
+        "link": "https://www.zaobao.com.sg/news/world/story20260808-9491750",
+        "title": "日本新财年军费料达720亿元 再创新高",
+        "seq": 162
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:06",
         "time": "2026-08-08 23:06",
         "link": "https://www.zaobao.com.sg/news/world/story20260807-9489363",
         "title": "涉秘鲁前总理纷争化解 秘鲁与墨西哥恢复外交关系",
-        "seq": 162
+        "seq": 163
     },
     {
         "media": "聯合早報",
@@ -1464,15 +1473,6 @@
         "time": "2026-08-08 23:12",
         "link": "https://www.zaobao.com.sg/news/china/story20260807-9489223",
         "title": "中国全国人大公报披露六将领涉严重违纪违法 李云泽罢免原因未列",
-        "seq": 163
-    },
-    {
-        "media": "聯合早報",
-        "category": "体育",
-        "timeText": "23:17",
-        "time": "2026-08-08 23:17",
-        "link": "https://www.zaobao.com.sg/news/sports/story20260807-9489345",
-        "title": "伊尔汗扳平雄狮逼平印尼 连续两届晋级亚细安锦标赛半决赛献礼国庆",
         "seq": 164
     },
     {
@@ -1481,8 +1481,17 @@
         "timeText": "23:17",
         "time": "2026-08-08 23:17",
         "link": "https://www.zaobao.com.sg/news/sports/story20260807-9489345",
-        "title": "伊尔汗建功逼平印尼 雄狮连两届晋级亚细安锦标赛四强献礼国庆",
+        "title": "伊尔汗扳平雄狮逼平印尼 连续两届晋级亚细安锦标赛半决赛献礼国庆",
         "seq": 165
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:17",
+        "time": "2026-08-08 23:17",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260807-9489345",
+        "title": "伊尔汗建功逼平印尼 雄狮连两届晋级亚细安锦标赛四强献礼国庆",
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1500,7 @@
         "time": "2026-08-08 23:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260807-9489273",
         "title": "艺术毕业生扎根社会 解决痛点探讨亲情文化",
-        "seq": 166
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1509,7 @@
         "time": "2026-08-08 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260807-9489338",
         "title": "丰隆金融上半年净利增8.8%至3500万元",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2026-08-08 23:28",
         "link": "https://www.zaobao.com.sg/news/china/story20260807-9488526",
         "title": "中国首次证实南中国海自家撞船事件致两海警死亡",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1527,7 @@
         "time": "2026-08-08 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260807-9489305",
         "title": "汽车钥匙放轮胎上酿偷车案 一对男女被捕",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1536,7 @@
         "time": "2026-08-08 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260807-9489496",
         "title": "美上诉法院裁决：禁特朗普耗4亿美元建造白宫宴会厅",
-        "seq": 170
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1536,6 +1545,6 @@
         "time": "2026-08-08 23:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260807-9489458",
         "title": "顺福企业控股上半年转亏为盈 净利报1930万元",
-        "seq": 171
+        "seq": 172
     }
 ]
