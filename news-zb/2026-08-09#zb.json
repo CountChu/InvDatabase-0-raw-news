@@ -1657,12 +1657,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:09",
+        "time": "2026-08-09 23:09",
+        "link": "https://www.zaobao.com.sg/news/china/story20260809-9495660",
+        "title": "台风“白海豚”登陆浙江 各地超过100万人疏散",
+        "seq": 185
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:10",
         "time": "2026-08-09 23:10",
         "link": "https://www.zaobao.com.sg/news/world/story20260808-9492262",
         "title": "泽连斯基：俄无人机袭击基辅 三岁男童与祖父母丧命",
-        "seq": 185
+        "seq": 186
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:12",
+        "time": "2026-08-09 23:12",
+        "link": "https://www.zaobao.com.sg/news/world/story20260809-9495814",
+        "title": "伊朗官媒：总统佩泽希齐扬近期曾与最高领袖穆杰塔巴会面",
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:15",
+        "time": "2026-08-09 23:15",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260809-9495299",
+        "title": "中国CPI、PPI均低于预期 学者：“K型分化”因新旧动能衔接不畅",
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1698,7 @@
         "time": "2026-08-09 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260807-9489338",
         "title": "丰隆金融上半年净利增8.8%至3500万元",
-        "seq": 186
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1707,7 @@
         "time": "2026-08-09 23:35",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260808-9492146",
         "title": "中华总商会：企业应善用人才科技资源 打造更强商业生态",
-        "seq": 187
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1716,7 @@
         "time": "2026-08-09 23:41",
         "link": "https://www.zaobao.com.sg/news/sports/story20260808-9492185",
         "title": "泰国四战全胜登顶B组 与雄狮会师亚细安足球锦标赛半决赛",
-        "seq": 188
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1725,7 @@
         "time": "2026-08-09 23:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260808-9492320",
         "title": "野火肆虐 加拿大不列颠哥伦比亚省一区进入紧急状态",
-        "seq": 189
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1734,7 @@
         "time": "2026-08-09 23:49",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260807-9489458",
         "title": "顺福企业控股上半年转亏为盈 净利报1930万元",
-        "seq": 190
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1716,6 +1743,6 @@
         "time": "2026-08-09 23:54",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260808-9406856",
         "title": "新加坡庆祝61岁生日 各区居民别出心裁布置邻里献祝福",
-        "seq": 191
+        "seq": 194
     }
 ]
