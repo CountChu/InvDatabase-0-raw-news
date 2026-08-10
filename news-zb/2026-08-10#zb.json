@@ -1648,12 +1648,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:54",
+        "time": "2026-08-10 21:54",
+        "link": "https://www.zaobao.com.sg/news/china/story20260810-9498910",
+        "title": "香港市民建议港府设立“屋宇维修署” 专门负责旧楼维修工程",
+        "seq": 184
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:54",
+        "time": "2026-08-10 21:54",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260810-9499104",
+        "title": "Anthropic联手GIC与麦格理资管 合作建设AI数据中心",
+        "seq": 185
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:18",
         "time": "2026-08-10 22:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260809-9493389",
         "title": "新晋政务官肩负新重任 政治职务改变初衷不变",
-        "seq": 184
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1680,7 @@
         "time": "2026-08-10 22:25",
         "link": "https://www.zaobao.com.sg/news/world/story20260809-9495628",
         "title": "日本熊本地震死亡人数升至39人",
-        "seq": 185
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1689,7 @@
         "time": "2026-08-10 22:34",
         "link": "https://www.zaobao.com.sg/news/world/story20260809-9495072",
         "title": "核爆81周年长崎市长誓言人类与核武永不共存 高市含糊表态",
-        "seq": 186
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1698,7 @@
         "time": "2026-08-10 22:53",
         "link": "https://www.zaobao.com.sg/news/sports/story20260809-9495731",
         "title": "切尔西副选军柔佛遇“硬仗” 艰难3比3踢平JDT",
-        "seq": 187
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1707,7 @@
         "time": "2026-08-10 23:09",
         "link": "https://www.zaobao.com.sg/news/china/story20260809-9495660",
         "title": "台风“白海豚”登陆浙江 各地超过100万人疏散",
-        "seq": 188
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1716,7 @@
         "time": "2026-08-10 23:12",
         "link": "https://www.zaobao.com.sg/news/world/story20260809-9495814",
         "title": "伊朗官媒：总统佩泽希齐扬近期曾与最高领袖穆杰塔巴会面",
-        "seq": 189
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1725,7 @@
         "time": "2026-08-10 23:15",
         "link": "https://www.zaobao.com.sg/finance/china/story20260809-9495299",
         "title": "中国CPI、PPI均低于预期 学者：“K型分化”因新旧动能衔接不畅",
-        "seq": 190
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1734,7 @@
         "time": "2026-08-10 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260809-9495865",
         "title": "加拿大山火继续蔓延 政府将提供援助安置灾民",
-        "seq": 191
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1725,6 +1743,6 @@
         "time": "2026-08-10 23:41",
         "link": "https://www.zaobao.com.sg/news/sports/story20260808-9492185",
         "title": "泰国四战全胜登顶B组 与雄狮会师亚细安足球锦标赛半决赛",
-        "seq": 192
+        "seq": 194
     }
 ]
