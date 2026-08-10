@@ -1802,11 +1802,47 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:21",
+        "time": "2026-08-10 23:21",
+        "link": "https://www.zaobao.com.sg/news/world/story20260810-9499430",
+        "title": "哥伦比亚强震已有至少20人遇难",
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:25",
+        "time": "2026-08-10 23:25",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260810-9499321",
+        "title": "尚达曼总统办国庆酒会 750名各界宾客齐聚一堂",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:33",
         "time": "2026-08-10 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260809-9495865",
         "title": "加拿大山火继续蔓延 政府将提供援助安置灾民",
-        "seq": 201
+        "seq": 203
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:33",
+        "time": "2026-08-10 23:33",
+        "link": "https://www.zaobao.com.sg/news/china/story20260810-9499466",
+        "title": "中国发射卫星失利 运载火箭升空不到90秒爆炸（612字）",
+        "seq": 204
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:38",
+        "time": "2026-08-10 23:38",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260810-9499472",
+        "title": "上周面控前紧急入院 阿末扎希探望依斯迈",
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1815,6 +1851,6 @@
         "time": "2026-08-10 23:41",
         "link": "https://www.zaobao.com.sg/news/sports/story20260808-9492185",
         "title": "泰国四战全胜登顶B组 与雄狮会师亚细安足球锦标赛半决赛",
-        "seq": 202
+        "seq": 206
     }
 ]
