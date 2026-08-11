@@ -2071,12 +2071,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:47",
+        "time": "2026-08-11 22:47",
+        "link": "https://www.zaobao.com.sg/news/china/story20260811-9504635",
+        "title": "中共高规格纪念江泽民百年诞辰 分析：兼顾传承历史与稳定党内人心",
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:50",
+        "time": "2026-08-11 22:50",
+        "link": "https://www.zaobao.com.sg/news/world/story20260811-9504718",
+        "title": "印度航空惊险失速突降91米 机长被查出吸食大麻",
+        "seq": 232
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:53",
         "time": "2026-08-11 22:53",
         "link": "https://www.zaobao.com.sg/news/sports/story20260810-9499061",
         "title": "欧足联等商讨另办国际赛 国际足联和因凡蒂诺再面临挑战",
-        "seq": 231
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:54",
+        "time": "2026-08-11 22:54",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260811-9504699",
+        "title": "K2 Therapeutics获得5000万美元种子轮融资",
+        "seq": 234
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:58",
+        "time": "2026-08-11 22:58",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260811-9504019",
+        "title": "榜鹅跨岛线工程噪音扰民 陆交局为受扰居民提供“隔音垫”",
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2121,7 @@
         "time": "2026-08-11 23:12",
         "link": "https://www.zaobao.com.sg/news/sports/story20260810-9498892",
         "title": "国庆日刷新全国纪录 自由潜水女将王惠義：别具意义",
-        "seq": 232
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2130,7 @@
         "time": "2026-08-11 23:21",
         "link": "https://www.zaobao.com.sg/news/world/story20260810-9499430",
         "title": "哥伦比亚强震已有至少20人遇难",
-        "seq": 233
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2139,7 @@
         "time": "2026-08-11 23:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260810-9499321",
         "title": "尚达曼总统办国庆酒会 750名各界宾客齐聚一堂",
-        "seq": 234
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2148,7 @@
         "time": "2026-08-11 23:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260810-9499466",
         "title": "中国发射卫星失利 运载火箭升空不到90秒爆炸",
-        "seq": 235
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2157,7 @@
         "time": "2026-08-11 23:38",
         "link": "https://www.zaobao.com.sg/news/sea/story20260810-9499472",
         "title": "阿末扎希探望住院前首相依斯迈",
-        "seq": 236
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2130,6 +2166,6 @@
         "time": "2026-08-11 23:48",
         "link": "https://www.zaobao.com.sg/news/china/story20260810-9498592",
         "title": "民进党大老贱卖土地导致亏损 台糖称8月若未提合理清偿计划将再声请管收",
-        "seq": 237
+        "seq": 241
     }
 ]
