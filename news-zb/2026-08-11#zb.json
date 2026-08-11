@@ -2197,12 +2197,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:24",
+        "time": "2026-08-11 23:24",
+        "link": "https://www.zaobao.com.sg/news/world/story20260811-9502996",
+        "title": "哥伦比亚7.4级强震死亡人数升至224 全国进入紧急状态",
+        "seq": 245
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:25",
         "time": "2026-08-11 23:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260810-9499321",
         "title": "尚达曼总统办国庆酒会 750名各界宾客齐聚一堂",
-        "seq": 245
+        "seq": 246
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:28",
+        "time": "2026-08-11 23:28",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260811-9504467",
+        "title": "马国14人沦毒骡 海外运毒落网",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:30",
+        "time": "2026-08-11 23:30",
+        "link": "https://www.zaobao.com.sg/news/world/story20260811-9504833",
+        "title": "美国解除限制 联邦政府设备可使用TikTok",
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2211,7 +2238,7 @@
         "time": "2026-08-11 23:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260810-9499466",
         "title": "中国发射卫星失利 运载火箭升空不到90秒爆炸",
-        "seq": 246
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2220,7 +2247,7 @@
         "time": "2026-08-11 23:38",
         "link": "https://www.zaobao.com.sg/news/sea/story20260810-9499472",
         "title": "阿末扎希探望住院前首相依斯迈",
-        "seq": 247
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2229,6 +2256,6 @@
         "time": "2026-08-11 23:48",
         "link": "https://www.zaobao.com.sg/news/china/story20260810-9498592",
         "title": "民进党大老贱卖土地导致亏损 台糖称8月若未提合理清偿计划将再声请管收",
-        "seq": 248
+        "seq": 251
     }
 ]
