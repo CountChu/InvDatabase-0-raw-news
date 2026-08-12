@@ -2198,11 +2198,29 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:20",
+        "time": "2026-08-12 23:20",
+        "link": "https://www.zaobao.com.sg/news/world/story20260812-9510292",
+        "title": "泽连斯基：乌克兰今年已解放745平方公里土地",
+        "seq": 245
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:21",
+        "time": "2026-08-12 23:21",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260812-9509554",
+        "title": "李资政：虽非万灵丹　新加坡民选总统制行之有效",
+        "seq": 246
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:24",
         "time": "2026-08-12 23:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9502996",
         "title": "哥伦比亚7.4级强震死亡人数升至224 全国进入紧急状态",
-        "seq": 245
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2211,7 +2229,25 @@
         "time": "2026-08-12 23:28",
         "link": "https://www.zaobao.com.sg/news/sea/story20260811-9504467",
         "title": "马国14人沦毒骡 海外运毒落网",
-        "seq": 246
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:28",
+        "time": "2026-08-12 23:28",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260812-9510186",
+        "title": "丰隆亚洲上半年净利升64.1%至9191万元 拟每股派息3分",
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:29",
+        "time": "2026-08-12 23:29",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260812-9510216",
+        "title": "马拉多纳死前多个症状未获重视 法医：医生本可发出警告",
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2220,7 +2256,34 @@
         "time": "2026-08-12 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9504833",
         "title": "美国解除限制 联邦政府设备可使用TikTok",
-        "seq": 247
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2026-08-12 23:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20260812-9510324",
+        "title": "英国连环性侵犯者被判终身监禁 警方承认失职",
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:35",
+        "time": "2026-08-12 23:35",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260812-9510045",
+        "title": "欧洲球员公会：国际足联需全面改革 而非纠结主席去留",
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:38",
+        "time": "2026-08-12 23:38",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260812-9509391",
+        "title": "马国首相安华获准出院 在社媒发文报平安",
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2292,7 @@
         "time": "2026-08-12 23:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260811-9504723",
         "title": "建国一代基金缺口近8亿 政府承诺注资延续保障",
-        "seq": 248
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2238,6 +2301,6 @@
         "time": "2026-08-12 23:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260811-9504723",
         "title": "建国一代基金缺口近8亿元 政府承诺注资延续保障",
-        "seq": 249
+        "seq": 256
     }
 ]
