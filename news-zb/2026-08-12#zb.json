@@ -1639,12 +1639,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:50",
+        "time": "2026-08-12 20:50",
+        "link": "https://www.zaobao.com.sg/news/world/story20260812-9509729",
+        "title": "普京：若欧盟扣押俄罗斯船只 俄方将反制",
+        "seq": 183
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "20:57",
+        "time": "2026-08-12 20:57",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260812-9509463",
+        "title": "史上最强阵容出征亚运会 新加坡高球队力争首夺牌",
+        "seq": 184
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "20:59",
         "time": "2026-08-12 20:59",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260811-9503643",
         "title": "上半年注册新车电动车占比破六成 比亚迪占四分之一",
-        "seq": 183
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1671,7 @@
         "time": "2026-08-12 21:00",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260811-9452685",
         "title": "【早镜头】运营26载不敌时代变迁 新加坡雪城9月底走入历史",
-        "seq": 184
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1680,7 @@
         "time": "2026-08-12 21:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260811-9504213",
         "title": "胡金标控股上半年净利增43.8% 派0.6分特别股息庆祝60周年",
-        "seq": 185
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1689,7 @@
         "time": "2026-08-12 21:01",
         "link": "https://www.zaobao.com.sg/news/china/story20260811-9503753",
         "title": "蔡英文罕见大动作辅选台湾年底地方选举 或成“最强母鸡”拉抬绿营气势",
-        "seq": 186
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1698,7 @@
         "time": "2026-08-12 21:12",
         "link": "https://www.zaobao.com.sg/news/sea/story20260811-9503968",
         "title": "马召开朝圣基金局弊案特别会议 安华缺席引反对党离席",
-        "seq": 187
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1707,7 @@
         "time": "2026-08-12 21:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20260811-9502622",
         "title": "三人篮球女子系列赛首次落地新加坡 我队首日连战强敌",
-        "seq": 188
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1716,7 @@
         "time": "2026-08-12 21:18",
         "link": "https://www.zaobao.com.sg/news/sea/story20260811-9504362",
         "title": "疑新加坡建筑废料偷倒笨珍 柔州设小组调查",
-        "seq": 189
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1725,7 @@
         "time": "2026-08-12 21:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9503991",
         "title": "不满伊朗提出新条件 特朗普也要求伊朗赔偿  海峡重开前景趋黯淡",
-        "seq": 190
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1734,7 @@
         "time": "2026-08-12 21:30",
         "link": "https://www.zaobao.com.sg/news/sea/story20260811-9503811",
         "title": "印尼林火肆虐 当局启动大规模灭火行动",
-        "seq": 191
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1743,7 @@
         "time": "2026-08-12 21:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260811-9504458",
         "title": "林增控股发盈利指引 料2026财年营收净利显著改善",
-        "seq": 192
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1752,7 @@
         "time": "2026-08-12 21:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260811-9504479",
         "title": "中国7月汽车出口同比跃升88% 国内市场低迷促使车企加速出海",
-        "seq": 193
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1761,7 @@
         "time": "2026-08-12 21:36",
         "link": "https://www.zaobao.com.sg/news/sea/story20260811-9504475",
         "title": "民调：85.7%希盟支持者挺民行党“留守”政府",
-        "seq": 194
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1770,7 @@
         "time": "2026-08-12 21:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260811-9504443",
         "title": "弃保潜逃马国落网 人民之声党秘书长林鼎遭遣返回国被捕",
-        "seq": 195
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1779,7 @@
         "time": "2026-08-12 21:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260811-9504455",
         "title": "香港议员普通话太“普通” 夏宝龙鼓励要学好普通话引关注",
-        "seq": 196
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1788,7 @@
         "time": "2026-08-12 21:56",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260811-9504530",
         "title": "Eneco Energy拟2420万元收购一处工业房地产",
-        "seq": 197
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1797,7 @@
         "time": "2026-08-12 21:57",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260811-9504541",
         "title": "Delfi半年净利增5.4%至1290万美元",
-        "seq": 198
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1806,7 @@
         "time": "2026-08-12 22:00",
         "link": "https://www.zaobao.com.sg/news/china/story20260811-9503807",
         "title": "长征七号发射失败后朱雀三号推迟 分析：投资者情绪放大关联性",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1815,7 @@
         "time": "2026-08-12 22:06",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260811-9504442",
         "title": "虾皮实现增长 冬海集团次季净利涨11%至4.58亿美元",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-08-12 22:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9504624",
         "title": "美官员：美军向悬挂巴拿马国旗 与伊朗有关船只开火",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1833,7 @@
         "time": "2026-08-12 22:26",
         "link": "https://www.zaobao.com.sg/news/sea/story20260811-9504605",
         "title": "菲律宾明年举债近700亿新元 以振兴经济",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1842,7 @@
         "time": "2026-08-12 22:28",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260811-9504590",
         "title": "凯德投资旗下信托在上海挂牌 发行规模达5.98亿新元",
-        "seq": 203
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1851,7 @@
         "time": "2026-08-12 22:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9504660",
         "title": "匈牙利批准前最高法院院长鲍卡 出任下一任总统",
-        "seq": 204
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1860,7 @@
         "time": "2026-08-12 22:47",
         "link": "https://www.zaobao.com.sg/news/china/story20260811-9504635",
         "title": "中共高规格纪念江泽民百年诞辰 分析：兼顾传承历史与稳定党内人心",
-        "seq": 205
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1869,7 @@
         "time": "2026-08-12 22:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9504718",
         "title": "印度航空惊险失速突降91米 消息称：机长被查出吸食大麻",
-        "seq": 206
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1878,7 @@
         "time": "2026-08-12 22:54",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260811-9504699",
         "title": "K2 Therapeutics获得5000万美元种子轮融资",
-        "seq": 207
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1887,7 @@
         "time": "2026-08-12 22:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260811-9504019",
         "title": "榜鹅跨岛线工程噪音扰民 承包商为受扰居民提供“隔音垫”",
-        "seq": 208
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1896,7 @@
         "time": "2026-08-12 23:02",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9504505",
         "title": "独居老人增加 日本一年5万具“孤独死” 遗体无人认领",
-        "seq": 209
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1905,7 @@
         "time": "2026-08-12 23:02",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9504505",
         "title": "独居老人增加 日本一年5万具“孤独死”遗体无人认领",
-        "seq": 210
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1914,7 @@
         "time": "2026-08-12 23:06",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260811-9499633",
         "title": "马善高许昆林会面 新辽经贸理事会时隔七年再举行共拓新商机",
-        "seq": 211
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1923,7 @@
         "time": "2026-08-12 23:07",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9504757",
         "title": "南非废弃矿井坍塌 造成14名非法采矿者死亡",
-        "seq": 212
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1932,7 @@
         "time": "2026-08-12 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260811-9504584",
         "title": "国会预算委员会：社工和医疗机构管理保健基金申请 应获充分支持与资源",
-        "seq": 213
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1941,7 @@
         "time": "2026-08-12 23:18",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9504785",
         "title": "特朗普制裁国际刑事法院 四人权组织起诉他违宪",
-        "seq": 214
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1950,7 @@
         "time": "2026-08-12 23:18",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9504785",
         "title": "特朗普制裁国际刑事法院 遭四人权组织起诉违宪",
-        "seq": 215
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1959,7 @@
         "time": "2026-08-12 23:19",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260811-9504780",
         "title": "美日干预效果减退 日元逼近160的心理关口水平",
-        "seq": 216
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1968,7 @@
         "time": "2026-08-12 23:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9502996",
         "title": "哥伦比亚7.4级强震死亡人数升至224 全国进入紧急状态",
-        "seq": 217
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1977,7 @@
         "time": "2026-08-12 23:28",
         "link": "https://www.zaobao.com.sg/news/sea/story20260811-9504467",
         "title": "马国14人沦毒骡 海外运毒落网",
-        "seq": 218
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1986,7 @@
         "time": "2026-08-12 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260811-9504833",
         "title": "美国解除限制 联邦政府设备可使用TikTok",
-        "seq": 219
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1977,7 +1995,7 @@
         "time": "2026-08-12 23:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260811-9504723",
         "title": "建国一代基金缺口近8亿 政府承诺注资延续保障",
-        "seq": 220
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1986,6 +2004,6 @@
         "time": "2026-08-12 23:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260811-9504723",
         "title": "建国一代基金缺口近8亿元 政府承诺注资延续保障",
-        "seq": 221
+        "seq": 223
     }
 ]
