@@ -731,11 +731,29 @@
     {
         "media": "聯合早報",
         "category": "东南亚",
+        "timeText": "20:21",
+        "time": "2026-09-11 20:21",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260911-9663962",
+        "title": "印尼极度干旱持续到9月底 林火烟霾等问题加剧",
+        "seq": 82
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "20:29",
+        "time": "2026-09-11 20:29",
+        "link": "https://www.zaobao.com.sg/news/world/story20260911-9662660",
+        "title": "澳洲悉尼机场管制员短缺 近月六起险些相撞事故",
+        "seq": 83
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
         "timeText": "20:57",
         "time": "2026-09-11 20:57",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9658074",
         "title": "新加坡日本等国外企特许经营地 涉野火暴露印尼监管漏洞",
-        "seq": 82
+        "seq": 84
     },
     {
         "media": "聯合早報",
@@ -744,7 +762,7 @@
         "time": "2026-09-11 21:53",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9659545",
         "title": "民调：菲律宾近三分之二民众支持莎拉退还机密资金",
-        "seq": 83
+        "seq": 85
     },
     {
         "media": "聯合早報",
@@ -753,7 +771,7 @@
         "time": "2026-09-11 22:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9659108",
         "title": "挺纳吉 联伊党 巫统三附属组织大会剑指希盟",
-        "seq": 84
+        "seq": 86
     },
     {
         "media": "聯合早報",
@@ -762,6 +780,6 @@
         "time": "2026-09-11 22:52",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9659747",
         "title": "印尼野火相关呼吸疾病病例激增 9天内增加逾一倍",
-        "seq": 85
+        "seq": 87
     }
 ]
