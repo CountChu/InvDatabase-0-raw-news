@@ -433,12 +433,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "17:53",
+        "time": "2026-09-11 17:53",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260911-9663670",
+        "title": "菲律宾渡轮大火五死84失踪 消防员逾一天后登船寻获焦尸",
+        "seq": 49
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "17:59",
         "time": "2026-09-11 17:59",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260911-9663646",
         "title": "新加坡海指逆势微升0.11% 银行股领涨护盘",
-        "seq": 49
+        "seq": 50
     },
     {
         "media": "聯合早報",
@@ -447,7 +456,7 @@
         "time": "2026-09-11 18:03",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260911-9662879",
         "title": "金润置地斥资8420万元 购远东黄氏家族华登园路有地住宅地段",
-        "seq": 50
+        "seq": 51
     },
     {
         "media": "聯合早報",
@@ -456,7 +465,7 @@
         "time": "2026-09-11 18:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260911-9583676",
         "title": "AI生成广告渐普遍 消协：业者虚构效果可触法",
-        "seq": 51
+        "seq": 52
     },
     {
         "media": "聯合早報",
@@ -465,7 +474,7 @@
         "time": "2026-09-11 18:24",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260911-9663434",
         "title": "晶片大厂美光科技 发放多达68个月花红给台湾员工",
-        "seq": 52
+        "seq": 53
     },
     {
         "media": "聯合早報",
@@ -474,7 +483,7 @@
         "time": "2026-09-11 18:36",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9658297",
         "title": "菲最高法院推翻前第一夫人伊美黛贪腐案",
-        "seq": 53
+        "seq": 54
     },
     {
         "media": "聯合早報",
@@ -483,7 +492,7 @@
         "time": "2026-09-11 18:37",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260911-9627136",
         "title": "亚太区IPO竞争加剧 新交所与分析：今年上市宗数仍有望超越去年",
-        "seq": 54
+        "seq": 55
     },
     {
         "media": "聯合早報",
@@ -492,7 +501,70 @@
         "time": "2026-09-11 18:55",
         "link": "https://www.zaobao.com.sg/news/china/story20260911-9662650",
         "title": "中国日均词元调用量破500万亿 应用将覆盖2万企业",
-        "seq": 55
+        "seq": 56
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "19:00",
+        "time": "2026-09-11 19:00",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260911-9662948",
+        "title": "曼彻斯特德比打响 曼市新帅马雷斯卡迎首场大考",
+        "seq": 57
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "19:06",
+        "time": "2026-09-11 19:06",
+        "link": "https://www.zaobao.com.sg/news/china/story20260911-9663210",
+        "title": "下午察：电话还没接，微信账号就被黑？",
+        "seq": 58
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "19:09",
+        "time": "2026-09-11 19:09",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260911-9664245",
+        "title": "True Fitness与True Yoga无预警清盘 消协接241起投诉涉逾60万元损失",
+        "seq": 59
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "19:09",
+        "time": "2026-09-11 19:09",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260911-9663963",
+        "title": "印尼要求遣返五只疑遭贩运至印度的红毛猩猩幼崽",
+        "seq": 60
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "19:11",
+        "time": "2026-09-11 19:11",
+        "link": "https://www.zaobao.com.sg/news/world/story20260911-9663863",
+        "title": "疑默认共和党可能落败 特朗普誓在国会充当民主党“拦路者”",
+        "seq": 61
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "19:15",
+        "time": "2026-09-11 19:15",
+        "link": "https://www.zaobao.com.sg/news/world/story20260911-9663206",
+        "title": "美国加大对伊朗经济施压 特朗普称不后悔对伊开战",
+        "seq": 62
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "19:18",
+        "time": "2026-09-11 19:18",
+        "link": "https://www.zaobao.com.sg/news/world/story20260911-9664115",
+        "title": "也门政府官员：胡塞武装夺取曼德海峡关键岛屿",
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -501,7 +573,7 @@
         "time": "2026-09-11 19:43",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9658652",
         "title": "印尼婆罗洲野火威胁濒危红毛猩猩　一个月救出15只",
-        "seq": 56
+        "seq": 64
     },
     {
         "media": "聯合早報",
@@ -510,7 +582,7 @@
         "time": "2026-09-11 19:48",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9658626",
         "title": "俄罗斯与越南深化战略伙伴关系 推动贸易达150亿美元",
-        "seq": 57
+        "seq": 65
     },
     {
         "media": "聯合早報",
@@ -519,7 +591,7 @@
         "time": "2026-09-11 20:57",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9658074",
         "title": "新加坡日本等国外企特许经营地 涉野火暴露印尼监管漏洞",
-        "seq": 58
+        "seq": 66
     },
     {
         "media": "聯合早報",
@@ -528,7 +600,7 @@
         "time": "2026-09-11 21:53",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9659545",
         "title": "民调：菲律宾近三分之二民众支持莎拉退还机密资金",
-        "seq": 59
+        "seq": 67
     },
     {
         "media": "聯合早報",
@@ -537,7 +609,7 @@
         "time": "2026-09-11 22:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9659108",
         "title": "挺纳吉 联伊党 巫统三附属组织大会剑指希盟",
-        "seq": 60
+        "seq": 68
     },
     {
         "media": "聯合早報",
@@ -546,6 +618,6 @@
         "time": "2026-09-11 22:52",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9659747",
         "title": "印尼野火相关呼吸疾病病例激增 9天内增加逾一倍",
-        "seq": 61
+        "seq": 69
     }
 ]
