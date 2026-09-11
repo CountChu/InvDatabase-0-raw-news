@@ -775,12 +775,57 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:01",
+        "time": "2026-09-11 21:01",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260911-9664537",
+        "title": "All-Link Air & Sea上半年净利同比滑落19.8%",
+        "seq": 87
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:02",
+        "time": "2026-09-11 21:02",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260911-9664697",
+        "title": "学生食物中毒现失忆抽搐 印尼民间团体发最后通牒拟起诉政府",
+        "seq": 88
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:04",
+        "time": "2026-09-11 21:04",
+        "link": "https://www.zaobao.com.sg/news/world/story20260911-9664797",
+        "title": "俄警告立陶宛若部署核武 将成为俄核武瞄准目标",
+        "seq": 89
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "21:04",
+        "time": "2026-09-11 21:04",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260911-9664737",
+        "title": "与卡尔德拉诺争WTT澳门赛四强 松岛辉空冲击世界第一",
+        "seq": 90
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:15",
+        "time": "2026-09-11 21:15",
+        "link": "https://www.zaobao.com.sg/news/china/story20260911-9664304",
+        "title": "台行政院长副署无人机条例  郑丽文：另外八项法案也应副署",
+        "seq": 91
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "21:53",
         "time": "2026-09-11 21:53",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9659545",
         "title": "民调：菲律宾近三分之二民众支持莎拉退还机密资金",
-        "seq": 87
+        "seq": 92
     },
     {
         "media": "聯合早報",
@@ -789,7 +834,7 @@
         "time": "2026-09-11 22:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9659108",
         "title": "挺纳吉 联伊党 巫统三附属组织大会剑指希盟",
-        "seq": 88
+        "seq": 93
     },
     {
         "media": "聯合早報",
@@ -798,6 +843,6 @@
         "time": "2026-09-11 22:52",
         "link": "https://www.zaobao.com.sg/news/sea/story20260910-9659747",
         "title": "印尼野火相关呼吸疾病病例激增 9天内增加逾一倍",
-        "seq": 89
+        "seq": 94
     }
 ]
