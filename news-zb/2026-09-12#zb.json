@@ -1468,12 +1468,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:11",
+        "time": "2026-09-12 23:11",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260912-9667893",
+        "title": "WTT澳门冠军赛：张本智和闯男单四强 松岛辉空出局",
+        "seq": 164
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:16",
+        "time": "2026-09-12 23:16",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260912-9667879",
+        "title": "晋级越南羽球公开赛决赛 新加坡男单男双坐亚望冠",
+        "seq": 165
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:23",
         "time": "2026-09-12 23:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260911-9665002",
         "title": "新日欢庆建交60周年 两国民间往来日益紧密",
-        "seq": 164
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1500,7 @@
         "time": "2026-09-12 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260911-9665212",
         "title": "巴西总统候选人涉贪腐洗钱被调查 大选前选情或受冲击",
-        "seq": 165
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1509,7 @@
         "time": "2026-09-12 23:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20260911-9664208",
         "title": "抗议抽成过高 越南Grab司机号召周末罢工",
-        "seq": 166
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1518,7 @@
         "time": "2026-09-12 23:39",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260911-9665185",
         "title": "美国通胀率高于预期 促使美元一度上涨",
-        "seq": 167
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1527,7 @@
         "time": "2026-09-12 23:45",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260911-9664632",
         "title": "小一报名明年调整 2B阶段学额或减少 影响家长当义工意愿",
-        "seq": 168
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1536,7 @@
         "time": "2026-09-12 23:48",
         "link": "https://www.zaobao.com.sg/news/china/story20260911-9665077",
         "title": "习近平周末访印“习莫会”尚未敲定 杨荣文：不好征兆",
-        "seq": 169
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1527,6 +1545,6 @@
         "time": "2026-09-12 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260911-9664908",
         "title": "据报胡塞武装已控制曼德海峡",
-        "seq": 170
+        "seq": 172
     }
 ]
