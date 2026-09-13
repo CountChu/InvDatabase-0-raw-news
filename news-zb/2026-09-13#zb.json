@@ -1648,12 +1648,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:18",
+        "time": "2026-09-13 23:18",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260913-9670815",
+        "title": "巫统挑战解散国会 希盟暗示2028年届满才解散",
+        "seq": 184
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:20",
         "time": "2026-09-13 23:20",
         "link": "https://www.zaobao.com.sg/news/china/story20260912-9667965",
         "title": "习近平：中印致力于维护边境地区和平安宁",
-        "seq": 184
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1671,7 @@
         "time": "2026-09-13 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260912-9667963",
         "title": "Anthropic首席执行官呼吁AI公司放缓研发步伐",
-        "seq": 185
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1680,7 @@
         "time": "2026-09-13 23:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20260911-9664208",
         "title": "抗议抽成过高 越南Grab司机号召周末罢工",
-        "seq": 186
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1689,7 @@
         "time": "2026-09-13 23:39",
         "link": "https://www.zaobao.com.sg/finance/world/story20260911-9665185",
         "title": "美国通胀率高于预期 促使美元一度上涨",
-        "seq": 187
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1698,7 @@
         "time": "2026-09-13 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260912-9667933",
         "title": "年轻新加坡人提议 放宽二胎家庭组屋最低居住年限",
-        "seq": 188
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1698,6 +1707,6 @@
         "time": "2026-09-13 23:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260912-9667095",
         "title": "黄循财总理促强化社群间互信 将所有国人视作“自己人”",
-        "seq": 189
+        "seq": 190
     }
 ]
