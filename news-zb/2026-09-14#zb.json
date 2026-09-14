@@ -1990,12 +1990,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:03",
+        "time": "2026-09-14 23:03",
+        "link": "https://www.zaobao.com.sg/news/china/story20260914-9676018",
+        "title": "王毅：保护主义提升不了欧洲竞争力",
+        "seq": 222
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:09",
+        "time": "2026-09-14 23:09",
+        "link": "https://www.zaobao.com.sg/news/world/story20260914-9676028",
+        "title": "挂牛头卖猪肉 伊拉克圣城肉贩被判监10年",
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:18",
         "time": "2026-09-14 23:18",
         "link": "https://www.zaobao.com.sg/news/sea/story20260913-9670815",
         "title": "巫统挑战解散国会 希盟暗示2028年届满才解散",
-        "seq": 222
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2022,7 @@
         "time": "2026-09-14 23:24",
         "link": "https://www.zaobao.com.sg/news/world/story20260913-9670970",
         "title": "特朗普吁泽连斯基停止攻击俄罗斯柴油设施",
-        "seq": 223
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2031,7 @@
         "time": "2026-09-14 23:41",
         "link": "https://www.zaobao.com.sg/news/sports/story20260913-9670957",
         "title": "安东内利西班牙F1夺冠 距离世界冠军更近一步",
-        "seq": 224
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2040,7 @@
         "time": "2026-09-14 23:42",
         "link": "https://www.zaobao.com.sg/news/china/story20260913-9670780",
         "title": "苹果折叠机中国预购热 黄牛哄抬价格至近1万9000新元",
-        "seq": 225
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2049,7 @@
         "time": "2026-09-14 23:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260913-9670996",
         "title": "批评美国人权致大使履新受阻 法国驻联合国代表团致歉",
-        "seq": 226
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2058,7 @@
         "time": "2026-09-14 23:45",
         "link": "https://www.zaobao.com.sg/news/china/story20260913-9670653",
         "title": "金砖国家凝聚力增加 学者：凝聚力加强但内部仍显著缺失",
-        "seq": 227
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2067,7 @@
         "time": "2026-09-14 23:50",
         "link": "https://www.zaobao.com.sg/news/sports/story20260913-9670948",
         "title": "WTT澳门冠军赛：莫雷加德与张本美和称王封后",
-        "seq": 228
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2076,7 @@
         "time": "2026-09-14 23:51",
         "link": "https://www.zaobao.com.sg/news/china/story20260913-9670849",
         "title": "习近平宣布建金砖人工智能开源专区",
-        "seq": 229
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2067,6 +2085,6 @@
         "time": "2026-09-14 23:57",
         "link": "https://www.zaobao.com.sg/news/sports/story20260913-9670932",
         "title": "本田圭佑新超首秀推迟 裕廊队4比0大胜幼狮",
-        "seq": 230
+        "seq": 232
     }
 ]
