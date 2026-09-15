@@ -2071,12 +2071,57 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:21",
+        "time": "2026-09-15 22:21",
+        "link": "https://www.zaobao.com.sg/news/world/story20260915-9681665",
+        "title": "卡尼：加拿大仍是美国“关键领域”重要合作伙伴",
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:21",
+        "time": "2026-09-15 22:21",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260915-9681371",
+        "title": "亚运男足首战严智星戴帽 韩国大胜卡塔尔剑指四连冠",
+        "seq": 232
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:30",
+        "time": "2026-09-15 22:30",
+        "link": "https://www.zaobao.com.sg/news/world/story20260915-9681410",
+        "title": "长寿国日本 人瑞首破10万",
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:38",
+        "time": "2026-09-15 22:38",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260915-9679795",
+        "title": "新鲁贸易额半年逾50亿元 萧振祥：两地优势互补 应深化创新协作",
+        "seq": 234
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:39",
+        "time": "2026-09-15 22:39",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260915-9681732",
+        "title": "反毒机构入驻新柔地铁 马新两大关卡防毒品走私",
+        "seq": 235
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:51",
         "time": "2026-09-15 22:51",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260914-9675914",
         "title": "新翔集团与香港物流商KLN合作 加强温控及紧急货运物流",
-        "seq": 231
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2130,7 @@
         "time": "2026-09-15 22:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260914-9675966",
         "title": "特朗普批AI威胁论：有病态阴谋正在上演",
-        "seq": 232
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2139,7 @@
         "time": "2026-09-15 23:03",
         "link": "https://www.zaobao.com.sg/news/china/story20260914-9676018",
         "title": "王毅：保护主义提升不了欧洲竞争力",
-        "seq": 233
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2148,7 @@
         "time": "2026-09-15 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260914-9676028",
         "title": "挂牛头卖猪肉 伊拉克圣城肉贩被判监10年",
-        "seq": 234
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2157,7 @@
         "time": "2026-09-15 23:18",
         "link": "https://www.zaobao.com.sg/news/sea/story20260913-9670815",
         "title": "巫统挑战解散国会 希盟暗示2028年届满才解散",
-        "seq": 235
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2166,7 @@
         "time": "2026-09-15 23:21",
         "link": "https://www.zaobao.com.sg/news/sports/story20260914-9676020",
         "title": "孙颖莎217周世界第一告终 被队友王曼昱超越",
-        "seq": 236
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2175,7 @@
         "time": "2026-09-15 23:26",
         "link": "https://www.zaobao.com.sg/news/sports/story20260914-9675975",
         "title": "为入选亚洲杯雄狮队 伊尔范与淡滨尼流浪签短约重返新超",
-        "seq": 237
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2184,7 @@
         "time": "2026-09-15 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260914-9675836",
         "title": "政府探讨更好满足单身者住房需求 包括与家人合购较大组屋",
-        "seq": 238
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2193,7 @@
         "time": "2026-09-15 23:54",
         "link": "https://www.zaobao.com.sg/news/sea/story20260914-9676155",
         "title": "泰柬海界争端调解开启 泰边境村民忧冲突再起",
-        "seq": 239
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2157,6 +2202,6 @@
         "time": "2026-09-15 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260914-9676134",
         "title": "疑脚卡新山中央车站电动扶梯 年长者受伤倒地惊动出行公众",
-        "seq": 240
+        "seq": 245
     }
 ]
