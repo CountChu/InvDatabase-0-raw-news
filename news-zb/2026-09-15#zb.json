@@ -1972,12 +1972,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "21:59",
+        "time": "2026-09-15 21:59",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260915-9681314",
+        "title": "日本乒乓球队以赛代练迎亚运 中韩主将“空降”名古屋",
+        "seq": 220
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:00",
         "time": "2026-09-15 22:00",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260914-9672454",
         "title": "东南亚对核能兴趣增 新加坡明年任亚细安主席国将推进核安全合作",
-        "seq": 220
+        "seq": 221
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:02",
+        "time": "2026-09-15 22:02",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260915-9681452",
+        "title": "内罗毕历史性获举办权 田径世锦赛首次登陆非洲",
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2004,7 @@
         "time": "2026-09-15 22:03",
         "link": "https://www.zaobao.com.sg/news/china/story20260914-9675860",
         "title": "中国国务院对青岛货轮火灾事故提级调查",
-        "seq": 221
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2013,43 @@
         "time": "2026-09-15 22:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260914-9675834",
         "title": "父亲去世 英首相取消两天活动",
-        "seq": 222
+        "seq": 224
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:07",
+        "time": "2026-09-15 22:07",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260915-9680836",
+        "title": "新加坡企业第四季展望谨慎乐观 商业乐观指数连跌三季后略回温",
+        "seq": 225
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:11",
+        "time": "2026-09-15 22:11",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260915-9681556",
+        "title": "本地回教堂与回教学校发薪系统遭勒索软件入侵 部分资料或已外泄",
+        "seq": 226
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:13",
+        "time": "2026-09-15 22:13",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260915-9681313",
+        "title": "印尼政府接管雅万高铁股权重组债务 违约风险缓解但债留子孙",
+        "seq": 227
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:14",
+        "time": "2026-09-15 22:14",
+        "link": "https://www.zaobao.com.sg/finance/china/story20260915-9681491",
+        "title": "香港旅游业复苏 8月访港旅客创疫情后单月新高",
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2058,16 @@
         "time": "2026-09-15 22:16",
         "link": "https://www.zaobao.com.sg/news/sports/story20260914-9675635",
         "title": "王霜独造四球 中国女足亚运5比1大胜香港迎开门红",
-        "seq": 223
+        "seq": 229
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:17",
+        "time": "2026-09-15 22:17",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260915-9681166",
+        "title": "让轮椅使用者也能在树冠间“飞翔” 雨林探险园打造包容乐园",
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2076,7 @@
         "time": "2026-09-15 22:51",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260914-9675914",
         "title": "新翔集团与香港物流商KLN合作 加强温控及紧急货运物流",
-        "seq": 224
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2085,7 @@
         "time": "2026-09-15 22:55",
         "link": "https://www.zaobao.com.sg/news/world/story20260914-9675966",
         "title": "特朗普批AI威胁论：有病态阴谋正在上演",
-        "seq": 225
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2094,7 @@
         "time": "2026-09-15 23:03",
         "link": "https://www.zaobao.com.sg/news/china/story20260914-9676018",
         "title": "王毅：保护主义提升不了欧洲竞争力",
-        "seq": 226
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2103,7 @@
         "time": "2026-09-15 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260914-9676028",
         "title": "挂牛头卖猪肉 伊拉克圣城肉贩被判监10年",
-        "seq": 227
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2112,7 @@
         "time": "2026-09-15 23:18",
         "link": "https://www.zaobao.com.sg/news/sea/story20260913-9670815",
         "title": "巫统挑战解散国会 希盟暗示2028年届满才解散",
-        "seq": 228
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2121,7 @@
         "time": "2026-09-15 23:21",
         "link": "https://www.zaobao.com.sg/news/sports/story20260914-9676020",
         "title": "孙颖莎217周世界第一告终 被队友王曼昱超越",
-        "seq": 229
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2130,7 @@
         "time": "2026-09-15 23:26",
         "link": "https://www.zaobao.com.sg/news/sports/story20260914-9675975",
         "title": "为入选亚洲杯雄狮队 伊尔范与淡滨尼流浪签短约重返新超",
-        "seq": 230
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2139,7 @@
         "time": "2026-09-15 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260914-9675836",
         "title": "政府探讨更好满足单身者住房需求 包括与家人合购较大组屋",
-        "seq": 231
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2148,7 @@
         "time": "2026-09-15 23:54",
         "link": "https://www.zaobao.com.sg/news/sea/story20260914-9676155",
         "title": "泰柬海界争端调解开启 泰边境村民忧冲突再起",
-        "seq": 232
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2094,6 +2157,6 @@
         "time": "2026-09-15 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260914-9676134",
         "title": "疑脚卡新山中央车站电动扶梯 年长者受伤倒地惊动出行公众",
-        "seq": 233
+        "seq": 240
     }
 ]
