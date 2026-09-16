@@ -2017,12 +2017,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:41",
+        "time": "2026-09-16 22:41",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260916-9684523",
+        "title": "Deliveroo退出外卖市场 85%消费者忧收费涨",
+        "seq": 225
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:46",
+        "time": "2026-09-16 22:46",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260916-9687757",
+        "title": "日本男足轻取香港迎亚运开门红 中国逆转朝鲜取“死亡之组”首胜",
+        "seq": 226
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:50",
         "time": "2026-09-16 22:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260915-9681282",
         "title": "美战争部：对伊战争耗费巨大 并导致弹药短缺",
-        "seq": 225
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2049,34 @@
         "time": "2026-09-16 22:51",
         "link": "https://www.zaobao.com.sg/news/sports/story20260915-9681725",
         "title": "今年5月发生车祸 英格兰前国脚斯特林认危险驾驶罪",
-        "seq": 226
+        "seq": 228
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:53",
+        "time": "2026-09-16 22:53",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260916-9687774",
+        "title": "对冲基金8月加码做空消费股 Alphabet遭市场看跌",
+        "seq": 229
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:53",
+        "time": "2026-09-16 22:53",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260916-9687796",
+        "title": "严峻竞争前景下 优创康智声明仍将专注维持美国市场份额",
+        "seq": 230
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:54",
+        "time": "2026-09-16 22:54",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260916-9687572",
+        "title": "试点学校：小班制不能一刀切 根据学习需求和教学活动而定",
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2085,7 @@
         "time": "2026-09-16 22:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260915-9681785",
         "title": "最高法院驳回邮寄选票行政令 特朗普斥责裁决“糟糕透顶”",
-        "seq": 227
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2094,7 @@
         "time": "2026-09-16 23:06",
         "link": "https://www.zaobao.com.sg/news/china/story20260915-9681848",
         "title": "贝森特称本周末与何立峰会面",
-        "seq": 228
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2103,7 @@
         "time": "2026-09-16 23:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260915-9681802",
         "title": "美财长贝森特将会见中国副总理何立峰 为习特会做准备",
-        "seq": 229
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2112,7 @@
         "time": "2026-09-16 23:15",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260915-9681075",
         "title": "美国论文指我国公务员凭内幕购房获利 多名本地学者否认参与研究",
-        "seq": 230
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2121,7 @@
         "time": "2026-09-16 23:29",
         "link": "https://www.zaobao.com.sg/news/china/story20260915-9681171",
         "title": "中国回应AI“放缓论”倡多边主义 学者指中美AI合作需剥离战略竞争",
-        "seq": 231
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2130,7 @@
         "time": "2026-09-16 23:31",
         "link": "https://www.zaobao.com.sg/finance/china/story20260915-9681574",
         "title": "科技潮助推中国8月工业生产回升 消费投资仍低迷",
-        "seq": 232
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2139,7 @@
         "time": "2026-09-16 23:43",
         "link": "https://www.zaobao.com.sg/news/world/story20260915-9681924",
         "title": "英美荷联手揭露伊朗间谍软件 目标锁定异议人士",
-        "seq": 233
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2148,7 @@
         "time": "2026-09-16 23:46",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260915-9681951",
         "title": "Grab斥资15亿美元 收购先买后付平台Atome多数股权",
-        "seq": 234
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2157,7 @@
         "time": "2026-09-16 23:49",
         "link": "https://www.zaobao.com.sg/news/china/story20260915-9681420",
         "title": "北京香山论坛登场 日本政府相关人士未获邀参加",
-        "seq": 235
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2166,7 @@
         "time": "2026-09-16 23:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260915-9681669",
         "title": "首个职场身心健康中心进驻中央商业区 为上班族提供艺术心理治疗服务",
-        "seq": 236
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2175,7 @@
         "time": "2026-09-16 23:55",
         "link": "https://www.zaobao.com.sg/news/sea/story20260915-9681992",
         "title": "民调：逾六成马国人视稳定工作和房子为人生成功标准",
-        "seq": 237
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2139,6 +2184,6 @@
         "time": "2026-09-16 23:58",
         "link": "https://www.zaobao.com.sg/news/china/story20260915-9681626",
         "title": "徐芳达吁新中在更多地区扩展合作 共建更宜居和有韧性城市",
-        "seq": 238
+        "seq": 243
     }
 ]
