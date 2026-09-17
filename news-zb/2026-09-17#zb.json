@@ -1963,12 +1963,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:48",
+        "time": "2026-09-17 22:48",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260917-9693649",
+        "title": "狮城水手战平巴吞联 亚冠二级联赛首战收获一分",
+        "seq": 219
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:50",
+        "time": "2026-09-17 22:50",
+        "link": "https://www.zaobao.com.sg/news/world/story20260917-9694197",
+        "title": "南非发生连环谋杀案 两个月发现第九具女性尸体",
+        "seq": 220
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:53",
         "time": "2026-09-17 22:53",
         "link": "https://www.zaobao.com.sg/finance/world/story20260916-9687774",
         "title": "对冲基金8月加码做空消费股 Alphabet遭市场看跌",
-        "seq": 219
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1977,7 +1995,7 @@
         "time": "2026-09-17 22:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260916-9687796",
         "title": "严峻竞争前景下 优创康智声明仍将专注维持美国市场份额",
-        "seq": 220
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2004,16 @@
         "time": "2026-09-17 22:54",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260916-9687572",
         "title": "试点学校：小班制不能一刀切 根据学习需求和教学活动而定",
-        "seq": 221
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:58",
+        "time": "2026-09-17 22:58",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260917-9694203",
+        "title": "瑞联集团总裁沈振伦辞职 或重回房地产咨询领域",
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2022,7 @@
         "time": "2026-09-17 23:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260916-9687715",
         "title": "餐饮业协会颁奖礼 新设“最佳无菜单料理与吧台料理体验奖”",
-        "seq": 222
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2031,7 @@
         "time": "2026-09-17 23:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260916-9687967",
         "title": "AI为日本便利店甜点开发注入新奇创意",
-        "seq": 223
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2040,7 @@
         "time": "2026-09-17 23:25",
         "link": "https://www.zaobao.com.sg/news/world/story20260916-9688010",
         "title": "民调：约两成英国成年人用AI获取新闻 最常用ChatGPT",
-        "seq": 224
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2049,7 @@
         "time": "2026-09-17 23:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260916-9687924",
         "title": "侧记：谈美伊战火，这场香山论坛全体会议火花四溅",
-        "seq": 225
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2058,7 @@
         "time": "2026-09-17 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260916-9687233",
         "title": "沙特谴责胡塞武装袭击圣城麦加越“红线” 美官员密会胡塞斡旋也门局势",
-        "seq": 226
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2067,7 @@
         "time": "2026-09-17 23:53",
         "link": "https://www.zaobao.com.sg/news/china/story20260916-9687605",
         "title": "王毅称不希望地区紧张向也门红海外溢 学者：“习特二会”前施压伊朗",
-        "seq": 227
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2049,6 +2076,6 @@
         "time": "2026-09-17 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260916-9688091",
         "title": "报告：AI加剧职场性别差距 女性岗位受冲击较大",
-        "seq": 228
+        "seq": 231
     }
 ]
