@@ -2017,12 +2017,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:00",
+        "time": "2026-09-17 23:00",
+        "link": "https://www.zaobao.com.sg/news/china/story20260917-9694202",
+        "title": "新津上半年贸易额同比增4% 徐芳达：双方可深化合作创造新机遇",
+        "seq": 225
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:03",
         "time": "2026-09-17 23:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260916-9687715",
         "title": "餐饮业协会颁奖礼 新设“最佳无菜单料理与吧台料理体验奖”",
-        "seq": 225
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2040,7 @@
         "time": "2026-09-17 23:08",
         "link": "https://www.zaobao.com.sg/news/world/story20260916-9687967",
         "title": "AI为日本便利店甜点开发注入新奇创意",
-        "seq": 226
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2049,7 @@
         "time": "2026-09-17 23:25",
         "link": "https://www.zaobao.com.sg/news/world/story20260916-9688010",
         "title": "民调：约两成英国成年人用AI获取新闻 最常用ChatGPT",
-        "seq": 227
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2058,7 @@
         "time": "2026-09-17 23:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260916-9687924",
         "title": "侧记：谈美伊战火，这场香山论坛全体会议火花四溅",
-        "seq": 228
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2067,7 @@
         "time": "2026-09-17 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260916-9687233",
         "title": "沙特谴责胡塞武装袭击圣城麦加越“红线” 美官员密会胡塞斡旋也门局势",
-        "seq": 229
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2076,7 @@
         "time": "2026-09-17 23:53",
         "link": "https://www.zaobao.com.sg/news/china/story20260916-9687605",
         "title": "王毅称不希望地区紧张向也门红海外溢 学者：“习特二会”前施压伊朗",
-        "seq": 230
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2076,6 +2085,6 @@
         "time": "2026-09-17 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20260916-9688091",
         "title": "报告：AI加剧职场性别差距 女性岗位受冲击较大",
-        "seq": 231
+        "seq": 232
     }
 ]
