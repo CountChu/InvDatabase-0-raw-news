@@ -2368,12 +2368,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:16",
+        "time": "2026-09-18 23:16",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260918-9700235",
+        "title": "金价一度上涨至4398美元 创一周新高",
+        "seq": 264
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:29",
         "time": "2026-09-18 23:29",
         "link": "https://www.zaobao.com.sg/news/world/story20260917-9694312",
         "title": "意大利警破获跨国儿童色情网络 逮捕17人",
-        "seq": 264
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2391,7 @@
         "time": "2026-09-18 23:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260917-9693830",
         "title": "跨领域协作为病患排忧解难 苏心怡与陈礼国医生获全国医学卓越奖",
-        "seq": 265
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2400,7 @@
         "time": "2026-09-18 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260917-9694380",
         "title": "莫奈两幅从未公开画作下月巴黎拍卖 最高估价3000万欧元",
-        "seq": 266
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2400,6 +2409,6 @@
         "time": "2026-09-18 23:51",
         "link": "https://www.zaobao.com.sg/news/sea/story20260917-9693579",
         "title": "森州原任严端反击 希盟指责欺君 巫统进退两难",
-        "seq": 267
+        "seq": 268
     }
 ]
