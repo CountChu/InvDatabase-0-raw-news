@@ -2314,12 +2314,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:45",
+        "time": "2026-09-18 22:45",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260918-9700047",
+        "title": "麦波申大树倒下阻归途 客工无私施援温暖网民心",
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:48",
         "time": "2026-09-18 22:48",
         "link": "https://www.zaobao.com.sg/news/sports/story20260917-9693649",
         "title": "狮城水手战平巴吞联 亚冠二级联赛首战收获一分",
-        "seq": 258
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2337,16 @@
         "time": "2026-09-18 22:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260917-9694197",
         "title": "南非发生连环谋杀案 两个月发现第九具女性尸体",
-        "seq": 259
+        "seq": 260
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:53",
+        "time": "2026-09-18 22:53",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260918-9700171",
+        "title": "mm2全亚暂缓尝债令获得延长 将召开债权人会议",
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2355,7 @@
         "time": "2026-09-18 22:58",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260917-9694203",
         "title": "瑞联集团总裁沈振伦辞职 或重回房地产咨询领域",
-        "seq": 260
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2364,7 @@
         "time": "2026-09-18 23:00",
         "link": "https://www.zaobao.com.sg/news/china/story20260917-9694202",
         "title": "新津上半年贸易额同比增4% 徐芳达吁深化合作创造新机遇",
-        "seq": 261
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2373,7 @@
         "time": "2026-09-18 23:29",
         "link": "https://www.zaobao.com.sg/news/world/story20260917-9694312",
         "title": "意大利警破获跨国儿童色情网络 逮捕17人",
-        "seq": 262
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2382,7 @@
         "time": "2026-09-18 23:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260917-9693830",
         "title": "跨领域协作为病患排忧解难 苏心怡与陈礼国医生获全国医学卓越奖",
-        "seq": 263
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2391,7 @@
         "time": "2026-09-18 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260917-9694380",
         "title": "莫奈两幅从未公开画作下月巴黎拍卖 最高估价3000万欧元",
-        "seq": 264
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2382,6 +2400,6 @@
         "time": "2026-09-18 23:51",
         "link": "https://www.zaobao.com.sg/news/sea/story20260917-9693579",
         "title": "森州原任严端反击 希盟指责欺君 巫统进退两难",
-        "seq": 265
+        "seq": 267
     }
 ]
