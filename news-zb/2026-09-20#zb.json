@@ -1495,12 +1495,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:03",
+        "time": "2026-09-20 21:03",
+        "link": "https://www.zaobao.com.sg/news/world/story20260920-9706629",
+        "title": "与AI爆恋情 日本关注玩AI“上瘾”问题",
+        "seq": 167
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:05",
+        "time": "2026-09-20 21:05",
+        "link": "https://www.zaobao.com.sg/news/china/story20260920-9705684",
+        "title": "AIT处长：美国希望成为台湾能源安全首选伙伴",
+        "seq": 168
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "21:07",
         "time": "2026-09-20 21:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260919-9703177",
         "title": "中秋佳节心灯共映 广惠肇留医院亮孔明灯创新加坡纪录",
-        "seq": 167
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1527,25 @@
         "time": "2026-09-20 21:07",
         "link": "https://www.zaobao.com.sg/finance/world/story20260918-9699764",
         "title": "周五美市盘前涨跌互现 聚焦CoreWeave举债扩张引关注",
-        "seq": 168
+        "seq": 170
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:08",
+        "time": "2026-09-20 21:08",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260920-9705990",
+        "title": "新加坡男子潜水失踪 家属不再搜寻：让他回归深爱大海",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:11",
+        "time": "2026-09-20 21:11",
+        "link": "https://www.zaobao.com.sg/news/world/story20260920-9706857",
+        "title": "约旦河西岸暴力冲突升级 两起袭击事件致两人死亡",
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1554,7 @@
         "time": "2026-09-20 21:20",
         "link": "https://www.zaobao.com.sg/news/china/story20260919-9703149",
         "title": "今年首8个月 中国铁路发送旅客33.2亿人次",
-        "seq": 169
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1563,7 @@
         "time": "2026-09-20 21:37",
         "link": "https://www.zaobao.com.sg/news/sports/story20260919-9702399",
         "title": "亚运新项目台科搏为东南亚强项 占据六成决赛席位",
-        "seq": 170
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1572,7 @@
         "time": "2026-09-20 21:39",
         "link": "https://www.zaobao.com.sg/news/sea/story20260919-9703119",
         "title": "环球小姐爆主办权纠纷 新加坡等六东南亚佳丽或失总决赛资格",
-        "seq": 171
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1581,7 @@
         "time": "2026-09-20 21:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260919-9703334",
         "title": "沙特机场储油区起火升黑烟 200多趟航班延误",
-        "seq": 172
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1590,7 @@
         "time": "2026-09-20 21:44",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260918-9699770",
         "title": "印尼煤炭大亨安迪 收购彦资源三成股份",
-        "seq": 173
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1599,7 @@
         "time": "2026-09-20 21:50",
         "link": "https://www.zaobao.com.sg/news/world/story20260919-9703376",
         "title": "法国债务规模创30年新高 信用评级遭下调",
-        "seq": 174
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1608,7 @@
         "time": "2026-09-20 21:54",
         "link": "https://www.zaobao.com.sg/news/sports/story20260919-9703260",
         "title": "东京亮灯迎亚运 马术赛程因台风顺延一天",
-        "seq": 175
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1617,7 @@
         "time": "2026-09-20 22:00",
         "link": "https://www.zaobao.com.sg/news/china/story20260919-9703129",
         "title": "高雄蓝绿正面交锋 柯志恩“三山”起跑赖瑞隆下战帖",
-        "seq": 176
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1626,7 @@
         "time": "2026-09-20 22:08",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260918-9699919",
         "title": "首席执行官遭当局问话 多元科技股价暴跌38.71%",
-        "seq": 177
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1635,7 @@
         "time": "2026-09-20 22:20",
         "link": "https://www.zaobao.com.sg/news/world/story20260919-9703487",
         "title": "叙利亚东部军事设施爆炸造成11人死亡",
-        "seq": 178
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1644,7 @@
         "time": "2026-09-20 22:43",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260919-9703311",
         "title": "灯谜舞狮剪纸大合唱 牛车水中秋节日气氛浓",
-        "seq": 179
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1653,7 @@
         "time": "2026-09-20 22:50",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260919-9703562",
         "title": "国立癌症中心程序失误 邀请函公开患者电邮邮址",
-        "seq": 180
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1662,7 @@
         "time": "2026-09-20 22:52",
         "link": "https://www.zaobao.com.sg/news/sports/story20260919-9703466",
         "title": "热刺空砍英超赛季首球 主场不敌维拉开季五轮难求一胜",
-        "seq": 181
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1671,7 @@
         "time": "2026-09-20 22:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260918-9700171",
         "title": "mm2全亚暂缓尝债令获得延长 将召开债权人会议",
-        "seq": 182
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1680,7 @@
         "time": "2026-09-20 22:54",
         "link": "https://www.zaobao.com.sg/news/world/story20260919-9703237",
         "title": "特朗普：习近平访美是“莫大荣幸” 双方将达成很多协议",
-        "seq": 183
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1689,7 @@
         "time": "2026-09-20 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260919-9703592",
         "title": "美法院或否决部分内容 TikTok与司法部4亿美元和解面临变数",
-        "seq": 184
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1698,7 @@
         "time": "2026-09-20 23:16",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260918-9700235",
         "title": "金价一度上涨至4398美元 创一周新高",
-        "seq": 185
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1707,7 @@
         "time": "2026-09-20 23:26",
         "link": "https://www.zaobao.com.sg/news/sea/story20260919-9703666",
         "title": "柬埔寨将投资3000万美元在五年内减少电子垃圾",
-        "seq": 186
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1716,7 @@
         "time": "2026-09-20 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260919-9703532",
         "title": "李资政提灯同赏初九明月 德义居民畅玩趣味中秋",
-        "seq": 187
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1725,7 @@
         "time": "2026-09-20 23:51",
         "link": "https://www.zaobao.com.sg/news/sports/story20260919-9703401",
         "title": "【图集】璀璨灯光歌舞 掀开幕夜高潮",
-        "seq": 188
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1698,6 +1734,6 @@
         "time": "2026-09-20 23:55",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260918-9700303",
         "title": "飞凡前审计师对财报“无法表示意见” 独立顾问：部分适当",
-        "seq": 189
+        "seq": 193
     }
 ]
