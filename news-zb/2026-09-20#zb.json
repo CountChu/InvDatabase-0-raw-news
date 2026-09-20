@@ -1810,12 +1810,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:22",
+        "time": "2026-09-20 23:22",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260920-9707116",
+        "title": "抓住阿申纳丢分良机 曼市力克桑德兰坐稳英超榜首",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:24",
+        "time": "2026-09-20 23:24",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260920-9707139",
+        "title": "慈善机构轻安村慈善晚会待筹28万元 呼吁公众继续慷慨解囊",
+        "seq": 203
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:26",
         "time": "2026-09-20 23:26",
         "link": "https://www.zaobao.com.sg/news/sea/story20260919-9703666",
         "title": "柬埔寨将投资3000万美元在五年内减少电子垃圾",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1842,7 @@
         "time": "2026-09-20 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260919-9703532",
         "title": "李资政提灯同赏初九明月 德义居民畅玩趣味中秋",
-        "seq": 203
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1851,7 @@
         "time": "2026-09-20 23:51",
         "link": "https://www.zaobao.com.sg/news/sports/story20260919-9703401",
         "title": "【图集】璀璨灯光歌舞 掀开幕夜高潮",
-        "seq": 204
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1842,6 +1860,6 @@
         "time": "2026-09-20 23:55",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260918-9700303",
         "title": "飞凡前审计师对财报“无法表示意见” 独立顾问：部分适当",
-        "seq": 205
+        "seq": 207
     }
 ]
