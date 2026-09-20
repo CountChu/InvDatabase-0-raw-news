@@ -1774,12 +1774,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:00",
+        "time": "2026-09-20 23:00",
+        "link": "https://www.zaobao.com.sg/news/china/story20260920-9707151",
+        "title": "中美经贸磋商在美国纽约举行",
+        "seq": 198
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:09",
         "time": "2026-09-20 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260919-9703592",
         "title": "美法院或否决部分内容 TikTok与司法部4亿美元和解面临变数",
-        "seq": 198
+        "seq": 199
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:09",
+        "time": "2026-09-20 23:09",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260920-9707153",
+        "title": "泰国多地强降雨致山体滑坡",
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1806,7 @@
         "time": "2026-09-20 23:16",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260918-9700235",
         "title": "金价一度上涨至4398美元 创一周新高",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1815,7 @@
         "time": "2026-09-20 23:26",
         "link": "https://www.zaobao.com.sg/news/sea/story20260919-9703666",
         "title": "柬埔寨将投资3000万美元在五年内减少电子垃圾",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-09-20 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260919-9703532",
         "title": "李资政提灯同赏初九明月 德义居民畅玩趣味中秋",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1833,7 @@
         "time": "2026-09-20 23:51",
         "link": "https://www.zaobao.com.sg/news/sports/story20260919-9703401",
         "title": "【图集】璀璨灯光歌舞 掀开幕夜高潮",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,6 +1842,6 @@
         "time": "2026-09-20 23:55",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260918-9700303",
         "title": "飞凡前审计师对财报“无法表示意见” 独立顾问：部分适当",
-        "seq": 203
+        "seq": 205
     }
 ]
