@@ -1981,12 +1981,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:02",
+        "time": "2026-09-21 22:02",
+        "link": "https://www.zaobao.com.sg/news/china/story20260921-9712577",
+        "title": "海南文昌打造世界级航天旅游目的地 航天旅游平台组建提速",
+        "seq": 221
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:07",
+        "time": "2026-09-21 22:07",
+        "link": "https://www.zaobao.com.sg/news/world/story20260921-9712505",
+        "title": "强台风“杜鹃”袭日  豪雨引发水灾泥石流",
+        "seq": 222
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:14",
+        "time": "2026-09-21 22:14",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260921-9712651",
+        "title": "新加坡男女乒团小组出线 16强分别对伊朗和香港",
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:15",
         "time": "2026-09-21 22:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9706333",
         "title": "朝鲜一天两射短程弹道导弹 间隔三小时发射方式罕见",
-        "seq": 221
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2022,7 @@
         "time": "2026-09-21 22:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9705855",
         "title": "胡塞首次袭击沙特首都利雅得 美警告中东冲突或迅速升级",
-        "seq": 222
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2031,7 @@
         "time": "2026-09-21 22:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260920-9706947",
         "title": "200片鱼鳞寄中秋祝福 鱼形灯笼游海军部旧渔村",
-        "seq": 223
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2040,7 @@
         "time": "2026-09-21 22:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9707051",
         "title": "意大利拟限制外籍学生比例 禁止在校内戴面纱",
-        "seq": 224
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2049,7 @@
         "time": "2026-09-21 23:00",
         "link": "https://www.zaobao.com.sg/news/china/story20260920-9707151",
         "title": "中美经贸磋商在美国纽约举行",
-        "seq": 225
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2058,7 @@
         "time": "2026-09-21 23:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20260920-9707153",
         "title": "泰国多地强降雨致山体滑坡",
-        "seq": 226
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2067,7 @@
         "time": "2026-09-21 23:22",
         "link": "https://www.zaobao.com.sg/news/sports/story20260920-9707116",
         "title": "抓住阿申纳丢分良机 曼市力克桑德兰坐稳英超榜首",
-        "seq": 227
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2076,7 @@
         "time": "2026-09-21 23:24",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260920-9707139",
         "title": "慈善机构轻安村慈善晚会待筹28万元 呼吁公众继续慷慨解囊",
-        "seq": 228
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2085,7 @@
         "time": "2026-09-21 23:43",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260920-9706836",
         "title": "洗钱案首场奢侈品拍卖结束 落槌总额近112万元",
-        "seq": 229
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2094,7 @@
         "time": "2026-09-21 23:46",
         "link": "https://www.zaobao.com.sg/news/china/story20260920-9706662",
         "title": "习特会前中美举行新一轮经贸磋商 料总体稳定下推进贸易投资等议题",
-        "seq": 230
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2103,7 @@
         "time": "2026-09-21 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9707223",
         "title": "法国上万人游行抗议 反对执法人员“杀人执照”",
-        "seq": 231
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2085,6 +2112,6 @@
         "time": "2026-09-21 23:48",
         "link": "https://www.zaobao.com.sg/news/sports/story20260920-9707192",
         "title": "阿利森神扑伊萨克建功 红军吞樱桃英超五轮不败",
-        "seq": 232
+        "seq": 235
     }
 ]
