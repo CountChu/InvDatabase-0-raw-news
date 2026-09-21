@@ -2233,12 +2233,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:30",
+        "time": "2026-09-21 23:30",
+        "link": "https://www.zaobao.com.sg/news/world/story20260921-9713036",
+        "title": "威尼斯考虑将游客入城费提高至44新元",
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:34",
+        "time": "2026-09-21 23:34",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260921-9713044",
+        "title": "私教机构须让土著持股三成 马国教育部撤销",
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:36",
+        "time": "2026-09-21 23:36",
+        "link": "https://www.zaobao.com.sg/news/china/story20260921-9713065",
+        "title": "中化集团原副总经理冯志斌涉受贿滥用职权被判监19年",
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:43",
         "time": "2026-09-21 23:43",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260920-9706836",
         "title": "洗钱案首场奢侈品拍卖结束 落槌总额近112万元",
-        "seq": 249
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2274,7 @@
         "time": "2026-09-21 23:46",
         "link": "https://www.zaobao.com.sg/news/china/story20260920-9706662",
         "title": "习特会前中美举行新一轮经贸磋商 料总体稳定下推进贸易投资等议题",
-        "seq": 250
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2283,7 @@
         "time": "2026-09-21 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9707223",
         "title": "法国上万人游行抗议 反对执法人员“杀人执照”",
-        "seq": 251
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2265,6 +2292,6 @@
         "time": "2026-09-21 23:48",
         "link": "https://www.zaobao.com.sg/news/sports/story20260920-9707192",
         "title": "阿利森神扑伊萨克建功 红军吞樱桃英超五轮不败",
-        "seq": 252
+        "seq": 255
     }
 ]
