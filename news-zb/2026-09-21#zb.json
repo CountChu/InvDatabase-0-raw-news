@@ -1774,12 +1774,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "20:47",
+        "time": "2026-09-21 20:47",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260921-9711812",
+        "title": "单日破两亚洲纪录重夺接力金牌 中国游泳奖牌榜傲视群雄",
+        "seq": 198
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "20:52",
+        "time": "2026-09-21 20:52",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260921-9711806",
+        "title": "亚细安中国资本连接滞后经贸 须提升可投资性吸引中国资金",
+        "seq": 199
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "20:57",
         "time": "2026-09-21 20:57",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9706756",
         "title": "俄国会选举最后一天 莫斯科遭大规模无人机袭击",
-        "seq": 198
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1806,7 @@
         "time": "2026-09-21 21:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9706629",
         "title": "与AI爆恋情 日本关注玩AI“上瘾”问题",
-        "seq": 199
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1815,7 @@
         "time": "2026-09-21 21:05",
         "link": "https://www.zaobao.com.sg/news/china/story20260920-9705684",
         "title": "AIT处长：美国希望成为台湾能源安全首选伙伴",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-09-21 21:08",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260920-9705990",
         "title": "新加坡男子潜水失踪 家属不再搜寻：让他回归深爱大海",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1833,7 @@
         "time": "2026-09-21 21:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9706857",
         "title": "约旦河西岸暴力冲突升级 两起袭击事件致两人死亡",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1842,7 @@
         "time": "2026-09-21 21:22",
         "link": "https://www.zaobao.com.sg/news/china/story20260920-9706718",
         "title": "四川盐边县发生泥石流 致两人死亡三人失联",
-        "seq": 203
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1851,7 @@
         "time": "2026-09-21 21:23",
         "link": "https://www.zaobao.com.sg/news/sea/story20260920-9706910",
         "title": "民行党消息：陆兆福坚持一人扛责 其他部长留任",
-        "seq": 204
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1860,7 @@
         "time": "2026-09-21 21:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260920-9705743",
         "title": "调查：四分一上班族睡觉会打鼾 甚至有呼吸暂停风险",
-        "seq": 205
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1869,7 @@
         "time": "2026-09-21 21:53",
         "link": "https://www.zaobao.com.sg/news/china/story20260920-9706700",
         "title": "董建华国葬举行公祭仪式 中共七常委胡锦涛温家宝等送花圈",
-        "seq": 206
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1878,7 @@
         "time": "2026-09-21 21:59",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9706984",
         "title": "特朗普：拟建“凯旋门”将改建为综合军事设施",
-        "seq": 207
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1887,7 @@
         "time": "2026-09-21 22:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9706333",
         "title": "朝鲜一天两射短程弹道导弹 间隔三小时发射方式罕见",
-        "seq": 208
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1896,7 @@
         "time": "2026-09-21 22:32",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9705855",
         "title": "胡塞首次袭击沙特首都利雅得 美警告中东冲突或迅速升级",
-        "seq": 209
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1905,7 @@
         "time": "2026-09-21 22:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260920-9706947",
         "title": "200片鱼鳞寄中秋祝福 鱼形灯笼游海军部旧渔村",
-        "seq": 210
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1914,7 @@
         "time": "2026-09-21 22:48",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9707051",
         "title": "意大利拟限制外籍学生比例 禁止在校内戴面纱",
-        "seq": 211
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1923,7 @@
         "time": "2026-09-21 23:00",
         "link": "https://www.zaobao.com.sg/news/china/story20260920-9707151",
         "title": "中美经贸磋商在美国纽约举行",
-        "seq": 212
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1932,7 @@
         "time": "2026-09-21 23:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20260920-9707153",
         "title": "泰国多地强降雨致山体滑坡",
-        "seq": 213
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1941,7 @@
         "time": "2026-09-21 23:22",
         "link": "https://www.zaobao.com.sg/news/sports/story20260920-9707116",
         "title": "抓住阿申纳丢分良机 曼市力克桑德兰坐稳英超榜首",
-        "seq": 214
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1950,7 @@
         "time": "2026-09-21 23:24",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260920-9707139",
         "title": "慈善机构轻安村慈善晚会待筹28万元 呼吁公众继续慷慨解囊",
-        "seq": 215
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1959,7 @@
         "time": "2026-09-21 23:43",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260920-9706836",
         "title": "洗钱案首场奢侈品拍卖结束 落槌总额近112万元",
-        "seq": 216
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1968,7 @@
         "time": "2026-09-21 23:46",
         "link": "https://www.zaobao.com.sg/news/china/story20260920-9706662",
         "title": "习特会前中美举行新一轮经贸磋商 料总体稳定下推进贸易投资等议题",
-        "seq": 217
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1977,7 @@
         "time": "2026-09-21 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260920-9707223",
         "title": "法国上万人游行抗议 反对执法人员“杀人执照”",
-        "seq": 218
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1968,6 +1986,6 @@
         "time": "2026-09-21 23:48",
         "link": "https://www.zaobao.com.sg/news/sports/story20260920-9707192",
         "title": "阿利森神扑伊萨克建功 红军吞樱桃英超五轮不败",
-        "seq": 219
+        "seq": 221
     }
 ]
