@@ -2314,12 +2314,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:14",
+        "time": "2026-09-22 23:14",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260922-9718884",
+        "title": "新加坡乒乓球女团不敌韩国止步八强 井浚泓：能赢香港我已非常满意",
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:16",
         "time": "2026-09-22 23:16",
         "link": "https://www.zaobao.com.sg/news/sea/story20260921-9712612",
         "title": "森宫廷宪政双危机 分析员：联邦或宣布紧急状态",
-        "seq": 258
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2337,7 @@
         "time": "2026-09-22 23:30",
         "link": "https://www.zaobao.com.sg/news/world/story20260921-9713036",
         "title": "威尼斯考虑将游客入城费提高至44新元",
-        "seq": 259
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2346,7 @@
         "time": "2026-09-22 23:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20260921-9713044",
         "title": "私教机构须让土著持股三成 马国教育部撤销",
-        "seq": 260
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2346,6 +2355,6 @@
         "time": "2026-09-22 23:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260921-9713065",
         "title": "中化集团原副总经理冯志斌涉受贿滥用职权被判监19年",
-        "seq": 261
+        "seq": 262
     }
 ]
