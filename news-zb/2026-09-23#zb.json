@@ -2305,12 +2305,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:30",
+        "time": "2026-09-23 22:30",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260923-9724922",
+        "title": "网传注册局函件 国盟疑遭撤销注册",
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:34",
         "time": "2026-09-23 22:34",
         "link": "https://www.zaobao.com.sg/news/china/story20260922-9716613",
         "title": "台湾问题成中美“建设性战略稳定”压力测试",
-        "seq": 257
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2328,34 @@
         "time": "2026-09-23 22:34",
         "link": "https://www.zaobao.com.sg/news/china/story20260922-9718505",
         "title": "习特二会：中美各守“最坏可接受结果” 争取可量化成果",
-        "seq": 258
+        "seq": 259
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:36",
+        "time": "2026-09-23 22:36",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260923-9724145",
+        "title": "莫高窟文物与真迹东南亚首展 一比一复刻洞窟领略敦煌壮丽",
+        "seq": 260
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:37",
+        "time": "2026-09-23 22:37",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260923-9721652",
+        "title": "新科研扩建创业设施 助精深科技初创企业开拓全球市场",
+        "seq": 261
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:38",
+        "time": "2026-09-23 22:38",
+        "link": "https://www.zaobao.com.sg/news/sea/story20260923-9724653",
+        "title": "严批大臣 部署警力 联邦加强介入森州宪政危机",
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2364,7 @@
         "time": "2026-09-23 22:41",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260922-9718526",
         "title": "萧振祥：APEC可借鉴亚细安经验 提升交通系统安全与韧性",
-        "seq": 259
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2373,7 @@
         "time": "2026-09-23 22:53",
         "link": "https://www.zaobao.com.sg/news/china/story20260922-9718246",
         "title": "藏甘青三地“一把手”联动调整  学者指西部仍是检验省级干部重要场域",
-        "seq": 260
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2382,7 @@
         "time": "2026-09-23 23:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20260922-9718884",
         "title": "新加坡乒乓球女团不敌韩国止步八强 井浚泓：能赢香港我已非常满意",
-        "seq": 261
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2391,7 @@
         "time": "2026-09-23 23:39",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260922-9718147",
         "title": "颜金勇：继数码经济之后 亚细安讨论绿色经济框架协定",
-        "seq": 262
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2400,7 @@
         "time": "2026-09-23 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260922-9719098",
         "title": "特朗普在联合国呼吁所有国家退出国际刑事法院",
-        "seq": 263
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2409,7 @@
         "time": "2026-09-23 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260922-9718886",
         "title": "慈善总监等三部门发声明 澄清社运人士吴家和组织加沙人道救援与注册事项",
-        "seq": 264
+        "seq": 268
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2418,7 @@
         "time": "2026-09-23 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260922-9718886",
         "title": "慈善总监等三部门 澄清社运人士吴家和组织加沙人道救援与注册事项",
-        "seq": 265
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2391,6 +2427,6 @@
         "time": "2026-09-23 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260922-9719119",
         "title": "特朗普：若不达成协议 可能将伊朗“打入地狱”",
-        "seq": 266
+        "seq": 270
     }
 ]
