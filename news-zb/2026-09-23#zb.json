@@ -2395,12 +2395,57 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:04",
+        "time": "2026-09-23 23:04",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260923-9724830",
+        "title": "有望成环球上市板首例 Carro传已递交新美IPO文件",
+        "seq": 267
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:09",
+        "time": "2026-09-23 23:09",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260923-9724440",
+        "title": "英兰妮：房地产界可扮演积极角色 打造更多亲家庭空间",
+        "seq": 268
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:11",
+        "time": "2026-09-23 23:11",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260923-9723938",
+        "title": "WTA新加坡网球赛：玛雅速胜闯八强 葛蓝乔安娜谢淑薇双打爆冷晋级",
+        "seq": 269
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:14",
         "time": "2026-09-23 23:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20260922-9718884",
         "title": "新加坡乒乓球女团不敌韩国止步八强 井浚泓：能赢香港我已非常满意",
-        "seq": 267
+        "seq": 270
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:14",
+        "time": "2026-09-23 23:14",
+        "link": "https://www.zaobao.com.sg/news/world/story20260923-9725044",
+        "title": "伊总统联大演讲：伊朗是恐怖主义受害者 不会“屈膝投降”",
+        "seq": 271
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:19",
+        "time": "2026-09-23 23:19",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260923-9724930",
+        "title": "新交所美股交易开局遇冷 想分一杯羹并非易事",
+        "seq": 272
     },
     {
         "media": "聯合早報",
@@ -2409,7 +2454,7 @@
         "time": "2026-09-23 23:39",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260922-9718147",
         "title": "颜金勇：继数码经济之后 亚细安讨论绿色经济框架协定",
-        "seq": 268
+        "seq": 273
     },
     {
         "media": "聯合早報",
@@ -2418,7 +2463,7 @@
         "time": "2026-09-23 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20260922-9719098",
         "title": "特朗普在联合国呼吁所有国家退出国际刑事法院",
-        "seq": 269
+        "seq": 274
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2472,7 @@
         "time": "2026-09-23 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260922-9718886",
         "title": "慈善总监等三部门发声明 澄清社运人士吴家和组织加沙人道救援与注册事项",
-        "seq": 270
+        "seq": 275
     },
     {
         "media": "聯合早報",
@@ -2436,7 +2481,7 @@
         "time": "2026-09-23 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260922-9718886",
         "title": "慈善总监等三部门 澄清社运人士吴家和组织加沙人道救援与注册事项",
-        "seq": 271
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2445,6 +2490,6 @@
         "time": "2026-09-23 23:51",
         "link": "https://www.zaobao.com.sg/news/world/story20260922-9719119",
         "title": "特朗普：若不达成协议 可能将伊朗“打入地狱”",
-        "seq": 272
+        "seq": 277
     }
 ]
