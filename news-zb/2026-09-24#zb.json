@@ -2270,11 +2270,29 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "22:40",
+        "time": "2026-09-24 22:40",
+        "link": "https://www.zaobao.com.sg/news/world/story20260924-9731648",
+        "title": "曾防特朗普动武吞并加拿大 卡尼：防范极端风险是责任",
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "22:49",
         "time": "2026-09-24 22:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260923-9724957",
         "title": "研究：厄尔尼诺现象可能导致额外45万人死于高温",
-        "seq": 253
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:49",
+        "time": "2026-09-24 22:49",
+        "link": "https://www.zaobao.com.sg/news/china/story20260924-9731696",
+        "title": "特朗普：将与习近平讨论安全、贸易、科技、AI等紧迫议题",
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2301,7 @@
         "time": "2026-09-24 22:56",
         "link": "https://www.zaobao.com.sg/news/china/story20260923-9724389",
         "title": "习近平赴美展开国事访问 特朗普罕见亲自接机　",
-        "seq": 254
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2310,7 @@
         "time": "2026-09-24 23:04",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260923-9724830",
         "title": "有望成环球上市板首例 Carro传已递交新美IPO文件",
-        "seq": 255
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2319,7 @@
         "time": "2026-09-24 23:09",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260923-9724440",
         "title": "英兰妮：房地产界可扮演积极角色 打造更多亲家庭空间",
-        "seq": 256
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2328,7 @@
         "time": "2026-09-24 23:11",
         "link": "https://www.zaobao.com.sg/news/sports/story20260923-9723938",
         "title": "WTA新加坡网球赛：玛雅速胜闯八强 葛蓝乔安娜谢淑薇双打爆冷晋级",
-        "seq": 257
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2337,7 @@
         "time": "2026-09-24 23:14",
         "link": "https://www.zaobao.com.sg/news/world/story20260923-9725044",
         "title": "伊总统联大演讲：伊朗是恐怖主义受害者 不会“屈膝投降”",
-        "seq": 258
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2346,7 @@
         "time": "2026-09-24 23:19",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260923-9724930",
         "title": "新交所美股SDR交易低迷 在美股交易分一杯羹不易",
-        "seq": 259
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2355,7 @@
         "time": "2026-09-24 23:23",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260923-9725024",
         "title": "好超市创办人陈锦荣进军越南 开设当地首家BHC炸鸡餐厅",
-        "seq": 260
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2364,7 @@
         "time": "2026-09-24 23:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260923-9724792",
         "title": "樟宜机场试行机场外值机托运 T5建成后全面推出新服务",
-        "seq": 261
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2373,7 @@
         "time": "2026-09-24 23:26",
         "link": "https://www.zaobao.com.sg/news/world/story20260923-9725159",
         "title": "泽连斯基：乌克兰准备推动黑海休战协议",
-        "seq": 262
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2382,7 @@
         "time": "2026-09-24 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20260923-9723787",
         "title": "李在明特朗普纽约“惊喜会谈” 重申推动朝美对话意愿",
-        "seq": 263
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2391,7 @@
         "time": "2026-09-24 23:39",
         "link": "https://www.zaobao.com.sg/news/sports/story20260923-9724963",
         "title": "珊蒂放眼当历史第一人 力争亚运卫冕女子200米跑",
-        "seq": 264
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2400,7 @@
         "time": "2026-09-24 23:43",
         "link": "https://www.zaobao.com.sg/news/sea/story20260923-9725017",
         "title": "判决书：雪校园命案嫌犯确实杀人 因精神病判谋杀罪不成立",
-        "seq": 265
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2409,7 @@
         "time": "2026-09-24 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260923-9724631",
         "title": "高市吁删除《联合国宪章》中“前敌国条款” 摆脱北京施压",
-        "seq": 266
+        "seq": 268
     },
     {
         "media": "聯合早報",
@@ -2400,7 +2418,7 @@
         "time": "2026-09-24 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20260923-9725220",
         "title": "鲁比奥：特朗普将在APEC和G20会议再与中方进行交流",
-        "seq": 267
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2409,7 +2427,7 @@
         "time": "2026-09-24 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260923-9725006",
         "title": "陈圣辉率团访华 探讨扩大与河南青年交流及经贸合作",
-        "seq": 268
+        "seq": 270
     },
     {
         "media": "聯合早報",
@@ -2418,6 +2436,6 @@
         "time": "2026-09-24 23:52",
         "link": "https://www.zaobao.com.sg/news/china/story20260923-9725179",
         "title": "中国地方大员本周密集调整 河南安徽党政主官同日换人",
-        "seq": 269
+        "seq": 271
     }
 ]
