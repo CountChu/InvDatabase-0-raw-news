@@ -2512,12 +2512,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:03",
+        "time": "2026-09-25 23:03",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260925-9738369",
+        "title": "莱佛士教育获原则批准 可挂牌最多5.39亿股新股",
+        "seq": 280
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:04",
         "time": "2026-09-25 23:04",
         "link": "https://www.zaobao.com.sg/news/world/story20260924-9731729",
         "title": "乌克兰男子在波兰修道院砍人 致一牧师死亡",
-        "seq": 280
+        "seq": 281
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:04",
+        "time": "2026-09-25 23:04",
+        "link": "https://www.zaobao.com.sg/news/world/story20260925-9738493",
+        "title": "俄军空袭乌克兰首都致五死近30伤",
+        "seq": 282
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:13",
+        "time": "2026-09-25 23:13",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260925-9738397",
+        "title": "首届国际足联亚细安杯开打 雄狮0比2不敌印尼",
+        "seq": 283
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:19",
+        "time": "2026-09-25 23:19",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260925-9738307",
+        "title": "传承华商精神 12名大学生获首届中华总商会实习生奖",
+        "seq": 284
     },
     {
         "media": "聯合早報",
@@ -2526,7 +2562,7 @@
         "time": "2026-09-25 23:22",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731810",
         "title": "习近平：中美须守住不冲突底线 确保AI发展受控于人",
-        "seq": 281
+        "seq": 285
     },
     {
         "media": "聯合早報",
@@ -2535,7 +2571,7 @@
         "time": "2026-09-25 23:28",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260924-9731477",
         "title": "乌节路食代馆完成翻新9月28日开业 九成新摊位",
-        "seq": 282
+        "seq": 286
     },
     {
         "media": "聯合早報",
@@ -2544,7 +2580,7 @@
         "time": "2026-09-25 23:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731885",
         "title": "【图集】特朗普白宫隆重迎接习近平",
-        "seq": 283
+        "seq": 287
     },
     {
         "media": "聯合早報",
@@ -2553,7 +2589,7 @@
         "time": "2026-09-25 23:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260924-9731018",
         "title": "王欣瑜挺进新加坡网球公开赛八强 汤千慧徐一璠爆冷掀翻头号女双种子",
-        "seq": 284
+        "seq": 288
     },
     {
         "media": "聯合早報",
@@ -2562,7 +2598,7 @@
         "time": "2026-09-25 23:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731897",
         "title": "【图集】特朗普玫瑰园阅兵欢迎习近平 B2轰炸机四架F22战机飞越白宫",
-        "seq": 285
+        "seq": 289
     },
     {
         "media": "聯合早報",
@@ -2571,7 +2607,7 @@
         "time": "2026-09-25 23:43",
         "link": "https://www.zaobao.com.sg/news/sea/story20260923-9725017",
         "title": "判决书：雪校园命案嫌犯确实杀人 因精神病判谋杀罪不成立",
-        "seq": 286
+        "seq": 290
     },
     {
         "media": "聯合早報",
@@ -2580,7 +2616,7 @@
         "time": "2026-09-25 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260924-9731804",
         "title": "《联合早报》新加坡文化节移师北京 以美食文化展现狮城风貌",
-        "seq": 287
+        "seq": 291
     },
     {
         "media": "聯合早報",
@@ -2589,7 +2625,7 @@
         "time": "2026-09-25 23:57",
         "link": "https://www.zaobao.com.sg/news/sports/story20260924-9731876",
         "title": "李瑛粧亚运首秀再破女子1万米全国纪录",
-        "seq": 288
+        "seq": 292
     },
     {
         "media": "聯合早報",
@@ -2598,7 +2634,7 @@
         "time": "2026-09-25 23:58",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731074",
         "title": "中国特使翟隽：中新两国治国理政理念有许多相通之处",
-        "seq": 289
+        "seq": 293
     },
     {
         "media": "聯合早報",
@@ -2607,6 +2643,6 @@
         "time": "2026-09-25 23:59",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9730911",
         "title": "大陆海警活动趋增 台湾全面升级东沙巡防执法",
-        "seq": 290
+        "seq": 294
     }
 ]
