@@ -2575,12 +2575,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:28",
+        "time": "2026-09-25 23:28",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260925-9738422",
+        "title": "珊蒂再收女子100米亚运银牌 只差全国纪录0.01秒",
+        "seq": 287
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:30",
+        "time": "2026-09-25 23:30",
+        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738560",
+        "title": "习近平称与特朗普拓展建设性战略稳定关系内涵：基于相互尊重公平平等",
+        "seq": 288
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:33",
         "time": "2026-09-25 23:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731885",
         "title": "【图集】特朗普白宫隆重迎接习近平",
-        "seq": 287
+        "seq": 289
     },
     {
         "media": "聯合早報",
@@ -2589,7 +2607,7 @@
         "time": "2026-09-25 23:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260924-9731018",
         "title": "王欣瑜挺进新加坡网球公开赛八强 汤千慧徐一璠爆冷掀翻头号女双种子",
-        "seq": 288
+        "seq": 290
     },
     {
         "media": "聯合早報",
@@ -2598,7 +2616,25 @@
         "time": "2026-09-25 23:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731897",
         "title": "【图集】特朗普玫瑰园阅兵欢迎习近平 B2轰炸机四架F22战机飞越白宫",
-        "seq": 289
+        "seq": 291
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:36",
+        "time": "2026-09-25 23:36",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260925-9738446",
+        "title": "头号种子米拉意外落马 莱拉闯WTA新加坡网球赛四强",
+        "seq": 292
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:37",
+        "time": "2026-09-25 23:37",
+        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738570",
+        "title": "习近平预期今年和特朗普还有两次会面 欢迎特朗普夫妇访华",
+        "seq": 293
     },
     {
         "media": "聯合早報",
@@ -2607,7 +2643,7 @@
         "time": "2026-09-25 23:43",
         "link": "https://www.zaobao.com.sg/news/sea/story20260923-9725017",
         "title": "判决书：雪校园命案嫌犯确实杀人 因精神病判谋杀罪不成立",
-        "seq": 290
+        "seq": 294
     },
     {
         "media": "聯合早報",
@@ -2616,7 +2652,7 @@
         "time": "2026-09-25 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260924-9731804",
         "title": "《联合早报》新加坡文化节移师北京 以美食文化展现狮城风貌",
-        "seq": 291
+        "seq": 295
     },
     {
         "media": "聯合早報",
@@ -2625,7 +2661,7 @@
         "time": "2026-09-25 23:57",
         "link": "https://www.zaobao.com.sg/news/sports/story20260924-9731876",
         "title": "李瑛粧亚运首秀再破女子1万米全国纪录",
-        "seq": 292
+        "seq": 296
     },
     {
         "media": "聯合早報",
@@ -2634,7 +2670,7 @@
         "time": "2026-09-25 23:58",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731074",
         "title": "中国特使翟隽：中新两国治国理政理念有许多相通之处",
-        "seq": 293
+        "seq": 297
     },
     {
         "media": "聯合早報",
@@ -2643,6 +2679,6 @@
         "time": "2026-09-25 23:59",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9730911",
         "title": "大陆海警活动趋增 台湾全面升级东沙巡防执法",
-        "seq": 294
+        "seq": 298
     }
 ]
