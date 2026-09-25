@@ -2342,11 +2342,38 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "22:03",
+        "time": "2026-09-25 22:03",
+        "link": "https://www.zaobao.com.sg/news/china/story20260925-9737287",
+        "title": "美国专家：五年后人们或不再讨论美中对抗 智能体可能取而代之",
+        "seq": 261
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:05",
+        "time": "2026-09-25 22:05",
+        "link": "https://www.zaobao.com.sg/news/china/story20260925-9737346",
+        "title": "接连公布落马官员政绩工程　中国官方释放严查信号",
+        "seq": 262
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:06",
+        "time": "2026-09-25 22:06",
+        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738262",
+        "title": "美贸易代表：美中就部分非敏感商品达成协议 下周一公布细节",
+        "seq": 263
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "22:11",
         "time": "2026-09-25 22:11",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731587",
         "title": "习近平伉俪抵达白宫 特朗普伉俪南门廊迎接",
-        "seq": 261
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2382,16 @@
         "time": "2026-09-25 22:13",
         "link": "https://www.zaobao.com.sg/finance/world/story20260924-9731464",
         "title": "胜狮货柜据传又面对四起集体诉讼 公司半年净利同比跌56%",
-        "seq": 262
+        "seq": 265
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:14",
+        "time": "2026-09-25 22:14",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260925-9738156",
+        "title": "微软重启Copilot产品 退出个人聊天机器人竞赛",
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2400,7 @@
         "time": "2026-09-25 22:15",
         "link": "https://www.zaobao.com.sg/news/world/story20260924-9730601",
         "title": "特朗普亲为习近平接机 罕见高规格引发国内争议",
-        "seq": 263
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2409,16 @@
         "time": "2026-09-25 22:17",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260924-9731045",
         "title": "半导体业推人才培育计划 未来三年让4000名学生投身行业",
-        "seq": 264
+        "seq": 268
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:17",
+        "time": "2026-09-25 22:17",
+        "link": "https://www.zaobao.com.sg/news/world/story20260925-9738295",
+        "title": "被指用AI写小说 作家被法国顶级文学奖踢出入围名单",
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2427,7 @@
         "time": "2026-09-25 22:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260924-9731439",
         "title": "被控行贿前胜科海事总裁与子公司前高管 获判无罪释放",
-        "seq": 265
+        "seq": 270
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2436,7 @@
         "time": "2026-09-25 22:38",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260924-9731570",
         "title": "瑞穗指控Radiant World涉1.2亿元铁矿石融资欺诈 法院委任毕马威接管",
-        "seq": 266
+        "seq": 271
     },
     {
         "media": "聯合早報",
@@ -2400,7 +2445,7 @@
         "time": "2026-09-25 22:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260924-9731648",
         "title": "曾防特朗普动武吞并加拿大 卡尼：防范极端风险是责任",
-        "seq": 267
+        "seq": 272
     },
     {
         "media": "聯合早報",
@@ -2409,7 +2454,7 @@
         "time": "2026-09-25 22:49",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731696",
         "title": "特朗普：将与习近平讨论安全、贸易、科技、AI等紧迫议题",
-        "seq": 268
+        "seq": 273
     },
     {
         "media": "聯合早報",
@@ -2418,7 +2463,7 @@
         "time": "2026-09-25 23:04",
         "link": "https://www.zaobao.com.sg/news/world/story20260924-9731729",
         "title": "乌克兰男子在波兰修道院砍人 致一牧师死亡",
-        "seq": 269
+        "seq": 274
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2472,7 @@
         "time": "2026-09-25 23:22",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731810",
         "title": "习近平：中美须守住不冲突底线 确保AI发展受控于人",
-        "seq": 270
+        "seq": 275
     },
     {
         "media": "聯合早報",
@@ -2436,7 +2481,7 @@
         "time": "2026-09-25 23:28",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260924-9731477",
         "title": "乌节路食代馆完成翻新9月28日开业 九成新摊位",
-        "seq": 271
+        "seq": 276
     },
     {
         "media": "聯合早報",
@@ -2445,7 +2490,7 @@
         "time": "2026-09-25 23:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731885",
         "title": "【图集】特朗普白宫隆重迎接习近平",
-        "seq": 272
+        "seq": 277
     },
     {
         "media": "聯合早報",
@@ -2454,7 +2499,7 @@
         "time": "2026-09-25 23:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20260924-9731018",
         "title": "王欣瑜挺进新加坡网球公开赛八强 汤千慧徐一璠爆冷掀翻头号女双种子",
-        "seq": 273
+        "seq": 278
     },
     {
         "media": "聯合早報",
@@ -2463,7 +2508,7 @@
         "time": "2026-09-25 23:36",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731897",
         "title": "【图集】特朗普玫瑰园阅兵欢迎习近平 B2轰炸机四架F22战机飞越白宫",
-        "seq": 274
+        "seq": 279
     },
     {
         "media": "聯合早報",
@@ -2472,7 +2517,7 @@
         "time": "2026-09-25 23:43",
         "link": "https://www.zaobao.com.sg/news/sea/story20260923-9725017",
         "title": "判决书：雪校园命案嫌犯确实杀人 因精神病判谋杀罪不成立",
-        "seq": 275
+        "seq": 280
     },
     {
         "media": "聯合早報",
@@ -2481,7 +2526,7 @@
         "time": "2026-09-25 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260924-9731804",
         "title": "《联合早报》新加坡文化节移师北京 以美食文化展现狮城风貌",
-        "seq": 276
+        "seq": 281
     },
     {
         "media": "聯合早報",
@@ -2490,7 +2535,7 @@
         "time": "2026-09-25 23:57",
         "link": "https://www.zaobao.com.sg/news/sports/story20260924-9731876",
         "title": "李瑛粧亚运首秀再破女子1万米全国纪录",
-        "seq": 277
+        "seq": 282
     },
     {
         "media": "聯合早報",
@@ -2499,7 +2544,7 @@
         "time": "2026-09-25 23:58",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9731074",
         "title": "中国特使翟隽：中新两国治国理政理念有许多相通之处",
-        "seq": 278
+        "seq": 283
     },
     {
         "media": "聯合早報",
@@ -2508,6 +2553,6 @@
         "time": "2026-09-25 23:59",
         "link": "https://www.zaobao.com.sg/news/china/story20260924-9730911",
         "title": "大陆海警活动趋增 台湾全面升级东沙巡防执法",
-        "seq": 279
+        "seq": 284
     }
 ]
