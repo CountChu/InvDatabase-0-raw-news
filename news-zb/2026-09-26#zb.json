@@ -604,12 +604,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:37",
+        "time": "2026-09-26 23:37",
+        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738570",
+        "title": "【视频】习近平和特朗普均称两人今年还有两次会面",
+        "seq": 68
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:42",
         "time": "2026-09-26 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260925-9738575",
         "title": "安理会谴责胡塞武装袭击沙特 吁立即停止攻击",
-        "seq": 68
+        "seq": 69
     },
     {
         "media": "聯合早報",
@@ -618,7 +627,7 @@
         "time": "2026-09-26 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260925-9738417",
         "title": "来自九个宗教团体 逾120人齐聚海南会馆庆中秋",
-        "seq": 69
+        "seq": 70
     },
     {
         "media": "聯合早報",
@@ -627,15 +636,6 @@
         "time": "2026-09-26 23:50",
         "link": "https://www.zaobao.com.sg/news/china/story20260925-9738608",
         "title": "习近平感谢特朗普最高礼遇：此访非常成功我们非常满意",
-        "seq": 70
-    },
-    {
-        "media": "聯合早報",
-        "category": "中国",
-        "timeText": "23:56",
-        "time": "2026-09-26 23:56",
-        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738619",
-        "title": "习近平特朗普夫妇共同参观美国国家档案馆",
         "seq": 71
     },
     {
@@ -644,7 +644,16 @@
         "timeText": "23:56",
         "time": "2026-09-26 23:56",
         "link": "https://www.zaobao.com.sg/news/china/story20260925-9738619",
-        "title": "习近平特朗普共同参观美国国家档案馆",
+        "title": "习近平特朗普夫妇共同参观美国国家档案馆",
         "seq": 72
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:56",
+        "time": "2026-09-26 23:56",
+        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738619",
+        "title": "习近平特朗普共同参观美国国家档案馆",
+        "seq": 73
     }
 ]
