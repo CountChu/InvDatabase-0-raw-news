@@ -568,12 +568,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:30",
+        "time": "2026-09-26 23:30",
+        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738560",
+        "title": "中美拓展建设性战略稳定关系内涵：基于尊重公平对等",
+        "seq": 64
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:36",
         "time": "2026-09-26 23:36",
         "link": "https://www.zaobao.com.sg/news/sports/story20260925-9738446",
         "title": "头号种子米拉意外落马 莱拉闯WTA新加坡网球赛四强",
-        "seq": 64
+        "seq": 65
     },
     {
         "media": "聯合早報",
@@ -582,7 +591,16 @@
         "time": "2026-09-26 23:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260925-9738570",
         "title": "习近平预期今年和特朗普还有两次会面 欢迎特朗普夫妇访华",
-        "seq": 65
+        "seq": 66
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:37",
+        "time": "2026-09-26 23:37",
+        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738570",
+        "title": "【视频】习近平料今年和特朗普还有两次会面 欢迎特朗普夫妇访华",
+        "seq": 67
     },
     {
         "media": "聯合早報",
@@ -591,7 +609,7 @@
         "time": "2026-09-26 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260925-9738575",
         "title": "安理会谴责胡塞武装袭击沙特 吁立即停止攻击",
-        "seq": 66
+        "seq": 68
     },
     {
         "media": "聯合早報",
@@ -600,7 +618,7 @@
         "time": "2026-09-26 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260925-9738417",
         "title": "来自九个宗教团体 逾120人齐聚海南会馆庆中秋",
-        "seq": 67
+        "seq": 69
     },
     {
         "media": "聯合早報",
@@ -609,7 +627,7 @@
         "time": "2026-09-26 23:50",
         "link": "https://www.zaobao.com.sg/news/china/story20260925-9738608",
         "title": "习近平感谢特朗普最高礼遇：此访非常成功我们非常满意",
-        "seq": 68
+        "seq": 70
     },
     {
         "media": "聯合早報",
@@ -618,7 +636,7 @@
         "time": "2026-09-26 23:56",
         "link": "https://www.zaobao.com.sg/news/china/story20260925-9738619",
         "title": "习近平特朗普夫妇共同参观美国国家档案馆",
-        "seq": 69
+        "seq": 71
     },
     {
         "media": "聯合早報",
@@ -627,6 +645,6 @@
         "time": "2026-09-26 23:56",
         "link": "https://www.zaobao.com.sg/news/china/story20260925-9738619",
         "title": "习近平特朗普共同参观美国国家档案馆",
-        "seq": 70
+        "seq": 72
     }
 ]
