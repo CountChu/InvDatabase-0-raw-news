@@ -1801,20 +1801,20 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:23",
+        "time": "2026-09-26 23:23",
+        "link": "https://www.zaobao.com.sg/news/china/story20260926-9741841",
+        "title": "“习特二会”明确建设性战略稳定关系 学者：中美进一步管理战略竞争",
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:28",
         "time": "2026-09-26 23:28",
         "link": "https://www.zaobao.com.sg/news/sports/story20260925-9738422",
         "title": "珊蒂再收女子100米亚运银牌 只差全国纪录0.01秒",
-        "seq": 201
-    },
-    {
-        "media": "聯合早報",
-        "category": "中国",
-        "timeText": "23:30",
-        "time": "2026-09-26 23:30",
-        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738560",
-        "title": "习近平称与特朗普拓展建设性战略稳定关系内涵：基于相互尊重公平平等",
         "seq": 202
     },
     {
@@ -1823,7 +1823,7 @@
         "timeText": "23:30",
         "time": "2026-09-26 23:30",
         "link": "https://www.zaobao.com.sg/news/china/story20260925-9738560",
-        "title": "中美同意拓展建设性战略稳定关系内涵：基于尊重公平对等",
+        "title": "习近平称与特朗普拓展建设性战略稳定关系内涵：基于相互尊重公平平等",
         "seq": 203
     },
     {
@@ -1832,8 +1832,17 @@
         "timeText": "23:30",
         "time": "2026-09-26 23:30",
         "link": "https://www.zaobao.com.sg/news/china/story20260925-9738560",
-        "title": "中美拓展建设性战略稳定关系内涵：基于尊重公平对等",
+        "title": "中美同意拓展建设性战略稳定关系内涵：基于尊重公平对等",
         "seq": 204
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:30",
+        "time": "2026-09-26 23:30",
+        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738560",
+        "title": "中美拓展建设性战略稳定关系内涵：基于尊重公平对等",
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1842,24 +1851,15 @@
         "time": "2026-09-26 23:36",
         "link": "https://www.zaobao.com.sg/news/sports/story20260925-9738446",
         "title": "头号种子米拉意外落马 莱拉闯WTA新加坡网球赛四强",
-        "seq": 205
-    },
-    {
-        "media": "聯合早報",
-        "category": "中国",
-        "timeText": "23:37",
-        "time": "2026-09-26 23:37",
-        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738570",
-        "title": "习近平预期今年和特朗普还有两次会面 欢迎特朗普夫妇访华",
         "seq": 206
     },
     {
         "media": "聯合早報",
-        "category": "中国",
-        "timeText": "23:37",
-        "time": "2026-09-26 23:37",
-        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738570",
-        "title": "【视频】习近平料今年和特朗普还有两次会面 欢迎特朗普夫妇访华",
+        "category": "国际",
+        "timeText": "23:36",
+        "time": "2026-09-26 23:36",
+        "link": "https://www.zaobao.com.sg/news/world/story20260926-9742049",
+        "title": "特朗普与罗德里格斯谈委内瑞拉选举",
         "seq": 207
     },
     {
@@ -1868,8 +1868,26 @@
         "timeText": "23:37",
         "time": "2026-09-26 23:37",
         "link": "https://www.zaobao.com.sg/news/china/story20260925-9738570",
-        "title": "【视频】习近平和特朗普均称两人今年还有两次会面",
+        "title": "习近平预期今年和特朗普还有两次会面 欢迎特朗普夫妇访华",
         "seq": 208
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:37",
+        "time": "2026-09-26 23:37",
+        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738570",
+        "title": "【视频】习近平料今年和特朗普还有两次会面 欢迎特朗普夫妇访华",
+        "seq": 209
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:37",
+        "time": "2026-09-26 23:37",
+        "link": "https://www.zaobao.com.sg/news/china/story20260925-9738570",
+        "title": "【视频】习近平和特朗普均称两人今年还有两次会面",
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1896,7 @@
         "time": "2026-09-26 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20260925-9738575",
         "title": "安理会谴责胡塞武装袭击沙特 吁立即停止攻击",
-        "seq": 209
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1905,7 @@
         "time": "2026-09-26 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260925-9738417",
         "title": "来自九个宗教团体 逾120人齐聚海南会馆庆中秋",
-        "seq": 210
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1914,7 @@
         "time": "2026-09-26 23:50",
         "link": "https://www.zaobao.com.sg/news/china/story20260925-9738608",
         "title": "习近平感谢特朗普最高礼遇：此访非常成功我们非常满意",
-        "seq": 211
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1923,7 @@
         "time": "2026-09-26 23:56",
         "link": "https://www.zaobao.com.sg/news/china/story20260925-9738619",
         "title": "习近平特朗普夫妇共同参观美国国家档案馆",
-        "seq": 212
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1914,6 +1932,6 @@
         "time": "2026-09-26 23:56",
         "link": "https://www.zaobao.com.sg/news/china/story20260925-9738619",
         "title": "习近平特朗普共同参观美国国家档案馆",
-        "seq": 213
+        "seq": 215
     }
 ]
