@@ -1873,12 +1873,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:05",
+        "time": "2026-09-27 23:05",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9745278",
+        "title": "维文：中美关系暂处“休战” 须持续对话化解分歧",
+        "seq": 209
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:08",
         "time": "2026-09-27 23:08",
         "link": "https://www.zaobao.com.sg/news/sea/story20260926-9741980",
         "title": "柬埔寨10省遭洪灾 逾2万5000户受影响",
-        "seq": 209
+        "seq": 210
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:09",
+        "time": "2026-09-27 23:09",
+        "link": "https://www.zaobao.com.sg/news/world/story20260927-9745680",
+        "title": "教宗良十四世：安乐死不能视为“正常”",
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1905,7 @@
         "time": "2026-09-27 23:19",
         "link": "https://www.zaobao.com.sg/news/sports/story20260926-9741620",
         "title": "塔季扬娜炮轰遭WTA“逼迫”退赛 莱拉与塔利亚会师新加坡网球赛女单决赛",
-        "seq": 210
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1914,7 @@
         "time": "2026-09-27 23:23",
         "link": "https://www.zaobao.com.sg/news/china/story20260926-9741841",
         "title": "“习特二会”明确建设性战略稳定关系 学者：中美进一步管理战略竞争",
-        "seq": 211
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1905,6 +1923,6 @@
         "time": "2026-09-27 23:36",
         "link": "https://www.zaobao.com.sg/news/world/story20260926-9742049",
         "title": "特朗普与罗德里格斯谈委内瑞拉选举",
-        "seq": 212
+        "seq": 214
     }
 ]
