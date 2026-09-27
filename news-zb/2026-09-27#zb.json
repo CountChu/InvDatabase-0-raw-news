@@ -1531,12 +1531,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:22",
+        "time": "2026-09-27 21:22",
+        "link": "https://www.zaobao.com.sg/news/world/story20260927-9745324",
+        "title": "以色列财长促吞并加沙地带及黎巴嫩南部部分地区",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "21:24",
         "time": "2026-09-27 21:24",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260926-9741336",
         "title": "人协今年为总统挑战筹25万元 三年筹款目标75万元",
-        "seq": 171
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1554,7 @@
         "time": "2026-09-27 21:25",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260925-9737806",
         "title": "胜捷企业拟收购香港北角商住楼 总价约5940万元",
-        "seq": 172
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1563,16 @@
         "time": "2026-09-27 21:29",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260925-9737765",
         "title": "英康保险聘宏利新加坡前总裁接任杨承霑总裁职务",
-        "seq": 173
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:29",
+        "time": "2026-09-27 21:29",
+        "link": "https://www.zaobao.com.sg/news/china/story20260927-9745106",
+        "title": "中国深层煤层气勘探获突破 鄂尔多斯盆地探明千亿方气田",
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1581,7 @@
         "time": "2026-09-27 21:32",
         "link": "https://www.zaobao.com.sg/news/sports/story20260926-9741611",
         "title": "险胜日本女篮夺金 韩国成亚运篮球最大赢家",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,16 @@
         "time": "2026-09-27 21:33",
         "link": "https://www.zaobao.com.sg/news/china/story20260926-9741777",
         "title": "山西煤矿爆炸后煤炭减产1亿吨 卢东亮表示将加速扭转下滑趋势",
-        "seq": 175
+        "seq": 177
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:35",
+        "time": "2026-09-27 21:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20260927-9744947",
+        "title": "特朗普回拒伊朗方案  德黑兰：重开霍尔木兹海峡条件绝不妥协",
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1608,7 @@
         "time": "2026-09-27 21:40",
         "link": "https://www.zaobao.com.sg/news/world/story20260926-9741173",
         "title": "中美启动“超级智能”对话  美议员拟立法限制中国光模块",
-        "seq": 176
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1617,7 @@
         "time": "2026-09-27 21:47",
         "link": "https://www.zaobao.com.sg/news/world/story20260926-9741792",
         "title": "教宗良十四世巴黎主持露天弥撒 约70万人参加",
-        "seq": 177
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1626,7 @@
         "time": "2026-09-27 22:00",
         "link": "https://www.zaobao.com.sg/news/china/story20260926-9741696",
         "title": "习近平谈中美二战共同抗日 高市早苗：日美如今是互信盟友",
-        "seq": 178
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1635,7 @@
         "time": "2026-09-27 22:14",
         "link": "https://www.zaobao.com.sg/finance/world/story20260925-9738156",
         "title": "微软重启Copilot产品 退出个人聊天机器人竞赛",
-        "seq": 179
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1644,7 @@
         "time": "2026-09-27 22:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260926-9740859",
         "title": "老年供养比例10年自4.7人降至2.8人 学者：家庭看护负担未必加重",
-        "seq": 180
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1653,7 @@
         "time": "2026-09-27 22:30",
         "link": "https://www.zaobao.com.sg/news/sea/story20260926-9741866",
         "title": "印尼渡轮沉没事死亡人数升至64人",
-        "seq": 181
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1662,7 @@
         "time": "2026-09-27 22:35",
         "link": "https://www.zaobao.com.sg/news/sports/story20260926-9741806",
         "title": "0.1秒险胜维斯塔潘 拉塞尔阿塞拜疆摘冠追近F1队友",
-        "seq": 182
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1671,7 @@
         "time": "2026-09-27 22:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260926-9741565",
         "title": "特朗普拒绝伊朗停火七天建议  恫言11月选举后恢复打伊",
-        "seq": 183
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1680,7 @@
         "time": "2026-09-27 22:42",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260925-9738058",
         "title": "消息：德国化工巨头巴斯夫提议合并赢创工业 双方在新加坡均有设厂",
-        "seq": 184
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1689,7 @@
         "time": "2026-09-27 22:44",
         "link": "https://www.zaobao.com.sg/news/world/story20260926-9741923",
         "title": "哈里王子：子女在英国新学校“很开心”",
-        "seq": 185
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1698,7 @@
         "time": "2026-09-27 22:54",
         "link": "https://www.zaobao.com.sg/news/sports/story20260926-9741891",
         "title": "慕尼黑获选代表德国时隔54年 再次角逐夏季奥运主办权",
-        "seq": 186
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1707,7 @@
         "time": "2026-09-27 23:03",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260925-9738369",
         "title": "莱佛士教育获原则批准 可挂牌最多5.39亿股新股",
-        "seq": 187
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1716,7 @@
         "time": "2026-09-27 23:08",
         "link": "https://www.zaobao.com.sg/news/sea/story20260926-9741980",
         "title": "柬埔寨10省遭洪灾 逾2万5000户受影响",
-        "seq": 188
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1725,7 @@
         "time": "2026-09-27 23:19",
         "link": "https://www.zaobao.com.sg/news/sports/story20260926-9741620",
         "title": "塔季扬娜炮轰遭WTA“逼迫”退赛 莱拉与塔利亚会师新加坡网球赛女单决赛",
-        "seq": 189
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1734,7 @@
         "time": "2026-09-27 23:23",
         "link": "https://www.zaobao.com.sg/news/china/story20260926-9741841",
         "title": "“习特二会”明确建设性战略稳定关系 学者：中美进一步管理战略竞争",
-        "seq": 190
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1716,6 +1743,6 @@
         "time": "2026-09-27 23:36",
         "link": "https://www.zaobao.com.sg/news/world/story20260926-9742049",
         "title": "特朗普与罗德里格斯谈委内瑞拉选举",
-        "seq": 191
+        "seq": 194
     }
 ]
