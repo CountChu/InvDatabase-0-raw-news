@@ -2125,12 +2125,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:04",
+        "time": "2026-09-28 23:04",
+        "link": "https://www.zaobao.com.sg/news/world/story20260928-9751559",
+        "title": "特朗普将宣布艾奥瓦州150亿美元钢铁厂项目",
+        "seq": 237
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:05",
         "time": "2026-09-28 23:05",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9745278",
         "title": "维文：中美关系暂处“休战” 须持续对话化解分歧",
-        "seq": 237
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2148,25 @@
         "time": "2026-09-28 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9745680",
         "title": "教宗良十四世：安乐死不能视为“正常”",
-        "seq": 238
+        "seq": 239
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:13",
+        "time": "2026-09-28 23:13",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260928-9751489",
+        "title": "颜金勇：新日可深化三领域合作 把区域挑战转为机遇",
+        "seq": 240
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:15",
+        "time": "2026-09-28 23:15",
+        "link": "https://www.zaobao.com.sg/finance/world/story20260928-9751468",
+        "title": "英伟达股票回购计划 扩大1500亿美元创纪录",
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2175,7 @@
         "time": "2026-09-28 23:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9744746",
         "title": "维文：AI发展难刹车 全球须速建立共同规则和防护机制",
-        "seq": 239
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2184,7 @@
         "time": "2026-09-28 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9745753",
         "title": "特朗普：本周料与伊朗展开更多谈判",
-        "seq": 240
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2193,7 @@
         "time": "2026-09-28 23:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260927-9745158",
         "title": "世界技能大赛上海闭幕 中国41金创参赛最好成绩",
-        "seq": 241
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2175,6 +2202,6 @@
         "time": "2026-09-28 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9744105",
         "title": "回理会推出三措施 助回教家庭落实遗产规划",
-        "seq": 242
+        "seq": 245
     }
 ]
