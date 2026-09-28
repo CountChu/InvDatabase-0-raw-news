@@ -1549,12 +1549,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "19:41",
+        "time": "2026-09-28 19:41",
+        "link": "https://www.zaobao.com.sg/news/world/story20260928-9750774",
+        "title": "教宗良十四世谈停战：谈判各方须勇于妥协以争取和平",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "20:04",
         "time": "2026-09-28 20:04",
         "link": "https://www.zaobao.com.sg/news/china/story20260927-9744449",
         "title": "中美同意建立AI对话机制 官媒：面对AI挑战须并肩作战",
-        "seq": 173
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1572,7 @@
         "time": "2026-09-28 20:06",
         "link": "https://www.zaobao.com.sg/news/china/story20260927-9744545",
         "title": "美媒称郑丽文访陆前提交谈话稿  国民党：正常幕僚操作",
-        "seq": 174
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1581,7 @@
         "time": "2026-09-28 20:10",
         "link": "https://www.zaobao.com.sg/finance/world/story20260927-9745000",
         "title": "意大利奢侈品牌阿玛尼拟售15%股权 或引入多名投资者",
-        "seq": 175
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1590,7 @@
         "time": "2026-09-28 20:11",
         "link": "https://www.zaobao.com.sg/news/china/story20260927-9745147",
         "title": "日媒：大陆调查船五度在钓鱼岛附近作业 或着眼“台湾有事”",
-        "seq": 176
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1599,7 @@
         "time": "2026-09-28 20:29",
         "link": "https://www.zaobao.com.sg/finance/world/story20260927-9745059",
         "title": "厄尔尼诺恐冲击新兴市场 美资管公司普徕仕为旗下资产加强防御",
-        "seq": 177
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1608,7 @@
         "time": "2026-09-28 20:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9744996",
         "title": "SIMBA发生数据外泄事件 逾2.3万名客户资料受影响",
-        "seq": 178
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1617,7 @@
         "time": "2026-09-28 20:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9744807",
         "title": "政策咨询讨论不能无休止 徐芳达：政府须适时作决定",
-        "seq": 179
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1626,7 @@
         "time": "2026-09-28 20:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9745178",
         "title": "美国强劲秋季风暴席卷东北部多地 数万户断电一人死亡",
-        "seq": 180
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1635,7 @@
         "time": "2026-09-28 20:54",
         "link": "https://www.zaobao.com.sg/news/sports/story20260927-9745146",
         "title": "姆巴佩左膝受伤缺阵两周 有望赶上皇马下场西甲联赛",
-        "seq": 181
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1644,7 @@
         "time": "2026-09-28 21:03",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9745195",
         "title": "韩国三军人清理巡逻路遭地雷炸伤 韩军与联合国军展开调查",
-        "seq": 182
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1653,7 @@
         "time": "2026-09-28 21:05",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9745239",
         "title": "刚果（金）东部沉船事故造成至少12人死亡",
-        "seq": 183
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1662,7 @@
         "time": "2026-09-28 21:10",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9745033",
         "title": "文莱王储比拉赫访新 将与黄循财总理主持年轻领袖计划活动",
-        "seq": 184
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1671,7 @@
         "time": "2026-09-28 21:22",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9745324",
         "title": "以色列财长促吞并加沙地带及黎巴嫩南部部分地区",
-        "seq": 185
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1671,15 +1680,6 @@
         "time": "2026-09-28 21:29",
         "link": "https://www.zaobao.com.sg/news/china/story20260927-9745106",
         "title": "中国深层煤层气勘探获突破 鄂尔多斯盆地探明千亿方气田",
-        "seq": 186
-    },
-    {
-        "media": "聯合早報",
-        "category": "国际",
-        "timeText": "21:35",
-        "time": "2026-09-28 21:35",
-        "link": "https://www.zaobao.com.sg/news/world/story20260927-9744947",
-        "title": "特朗普回拒伊朗方案  德黑兰：重开霍尔木兹海峡条件绝不妥协",
         "seq": 187
     },
     {
@@ -1688,8 +1688,17 @@
         "timeText": "21:35",
         "time": "2026-09-28 21:35",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9744947",
-        "title": "特朗普回拒伊朗方案 德黑兰：重开霍尔木兹海峡条件绝不妥协",
+        "title": "特朗普回拒伊朗方案  德黑兰：重开霍尔木兹海峡条件绝不妥协",
         "seq": 188
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:35",
+        "time": "2026-09-28 21:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20260927-9744947",
+        "title": "特朗普回拒伊朗方案 德黑兰：重开霍尔木兹海峡条件绝不妥协",
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1707,7 @@
         "time": "2026-09-28 21:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9721778",
         "title": "脱下白袍从政 赛义德哈伦：政策不能只从临床视角制定",
-        "seq": 189
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1716,7 @@
         "time": "2026-09-28 21:50",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9744724",
         "title": "芽笼士乃设调解工作组 助居民及早化解纠纷",
-        "seq": 190
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1725,7 @@
         "time": "2026-09-28 21:53",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9744787",
         "title": "黄姜饭义卖会今年目标 为总统挑战筹款15万元",
-        "seq": 191
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1734,7 @@
         "time": "2026-09-28 21:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20260927-9745179",
         "title": "中国胜日本摘亚运乒乓男双金牌 王曼昱胜孙颖莎称霸女单",
-        "seq": 192
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1743,7 @@
         "time": "2026-09-28 22:02",
         "link": "https://www.zaobao.com.sg/news/sea/story20260927-9745078",
         "title": "曼谷洪灾持续水位居高不下 逾5万户家庭受影响",
-        "seq": 193
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1752,7 @@
         "time": "2026-09-28 22:06",
         "link": "https://www.zaobao.com.sg/news/china/story20260927-9744729",
         "title": "国民党立委：美中对台仍存战略分歧",
-        "seq": 194
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1761,7 @@
         "time": "2026-09-28 22:06",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9745464",
         "title": "瑞士公投否决收紧中立政策提案",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1770,7 @@
         "time": "2026-09-28 22:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9744783",
         "title": "中三女生习武不让须眉 滨海湾花园耍大旗竞技",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1779,7 @@
         "time": "2026-09-28 22:36",
         "link": "https://www.zaobao.com.sg/news/sports/story20260927-9744254",
         "title": "莱拉直落两局击败塔利亚 夺新加坡网球公开赛女单冠军",
-        "seq": 197
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1788,7 @@
         "time": "2026-09-28 22:39",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9745347",
         "title": "中美峰会后高市与特朗普通话 重申同盟关系",
-        "seq": 198
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1797,7 @@
         "time": "2026-09-28 22:44",
         "link": "https://www.zaobao.com.sg/news/china/story20260927-9745498",
         "title": "中国多地政府公布主政官员个人手机号 党刊忧沦“新形式主义”",
-        "seq": 199
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1806,7 @@
         "time": "2026-09-28 22:44",
         "link": "https://www.zaobao.com.sg/news/sports/story20260927-9745441",
         "title": "梁振伟：我国亚运代表团成绩亮眼 年轻运动员表现超预期",
-        "seq": 200
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1815,7 @@
         "time": "2026-09-28 22:45",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9745588",
         "title": "南非又发现一具女尸 两个多月发现女受害者增至11人",
-        "seq": 201
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1824,7 @@
         "time": "2026-09-28 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260927-9745307",
         "title": "洗钱案首场充公珠宝拍卖结束 落槌总额逾501万元",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,7 @@
         "time": "2026-09-28 22:52",
         "link": "https://www.zaobao.com.sg/news/sports/story20260927-9745480",
         "title": "中国网球公开赛开打 乔科维奇郑钦文等名将领衔",
-        "seq": 203
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1842,7 @@
         "time": "2026-09-28 23:05",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9745278",
         "title": "维文：中美关系暂处“休战” 须持续对话化解分歧",
-        "seq": 204
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1851,7 @@
         "time": "2026-09-28 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9745680",
         "title": "教宗良十四世：安乐死不能视为“正常”",
-        "seq": 205
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1860,7 @@
         "time": "2026-09-28 23:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9744746",
         "title": "维文：AI发展难刹车 全球须速建立共同规则和防护机制",
-        "seq": 206
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1869,7 @@
         "time": "2026-09-28 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9745753",
         "title": "特朗普：本周料与伊朗展开更多谈判",
-        "seq": 207
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1878,7 @@
         "time": "2026-09-28 23:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260927-9745158",
         "title": "世界技能大赛上海闭幕 中国41金创参赛最好成绩",
-        "seq": 208
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1878,6 +1887,6 @@
         "time": "2026-09-28 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9744105",
         "title": "回理会推出三措施 助回教家庭落实遗产规划",
-        "seq": 209
+        "seq": 210
     }
 ]
