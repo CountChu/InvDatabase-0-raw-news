@@ -2170,12 +2170,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:30",
+        "time": "2026-09-28 23:30",
+        "link": "https://www.zaobao.com.sg/news/world/story20260928-9751659",
+        "title": "英国首相将召开紧急会议 应对美军驻地疑遭恐袭事件",
+        "seq": 242
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:34",
         "time": "2026-09-28 23:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9744746",
         "title": "维文：AI发展难刹车 全球须速建立共同规则和防护机制",
-        "seq": 242
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2193,7 @@
         "time": "2026-09-28 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20260927-9745753",
         "title": "特朗普：本周料与伊朗展开更多谈判",
-        "seq": 243
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2202,7 @@
         "time": "2026-09-28 23:39",
         "link": "https://www.zaobao.com.sg/news/china/story20260927-9745158",
         "title": "世界技能大赛上海闭幕 中国41金创参赛最好成绩",
-        "seq": 244
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2202,6 +2211,6 @@
         "time": "2026-09-28 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260927-9744105",
         "title": "回理会推出三措施 助回教家庭落实遗产规划",
-        "seq": 245
+        "seq": 246
     }
 ]
