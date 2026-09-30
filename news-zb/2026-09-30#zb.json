@@ -2242,12 +2242,75 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:03",
+        "time": "2026-09-30 23:03",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260930-9763249",
+        "title": "日本男足马拉松点球战险胜 和韩国连续三届亚运会争冠",
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:05",
+        "time": "2026-09-30 23:05",
+        "link": "https://www.zaobao.com.sg/news/china/story20260930-9763436",
+        "title": "国民党立法院党团提修正《刑法》 为四类犯罪增列鞭刑",
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:07",
+        "time": "2026-09-30 23:07",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260930-9762931",
+        "title": "人工智能转型赋予人力资源新使命 符策翔：从业者深耕业务一线",
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:10",
+        "time": "2026-09-30 23:10",
+        "link": "https://www.zaobao.com.sg/news/sports/story20260930-9763479",
+        "title": "乔天王中网开门红 两盘力克葡萄牙名将博尔热斯",
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:11",
+        "time": "2026-09-30 23:11",
+        "link": "https://www.zaobao.com.sg/news/world/story20260930-9763232",
+        "title": "消息：美伊对最新和解方案的执行顺序存在分歧",
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:12",
+        "time": "2026-09-30 23:12",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20260930-9762949",
+        "title": "留不住爱女留住希望 三对父母成立儿童脑癌慈善基金会",
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:14",
+        "time": "2026-09-30 23:14",
+        "link": "https://www.zaobao.com.sg/news/world/story20260930-9763723",
+        "title": "莫迪特朗普通话：印度寻求与美国达成临时协议",
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:16",
         "time": "2026-09-30 23:16",
         "link": "https://www.zaobao.com.sg/news/world/story20260929-9757579",
         "title": "欧盟拟升级与叙利亚伙伴关系 卡拉斯促进一步改革",
-        "seq": 250
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2319,16 @@
         "time": "2026-09-30 23:16",
         "link": "https://www.zaobao.com.sg/news/world/story20260929-9757579",
         "title": "欧盟拟升级与叙利亚伙伴关系 卡拉斯吁进一步改革",
-        "seq": 251
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:16",
+        "time": "2026-09-30 23:16",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20260930-9763543",
+        "title": "谢美丽控股暂缓无力偿债程序 法院下令缴付逾65万元担保款",
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2337,7 @@
         "time": "2026-09-30 23:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260929-9757031",
         "title": "附加股发行纠纷 史丹福置地胜诉大华银行须赔偿188万元",
-        "seq": 252
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2346,7 @@
         "time": "2026-09-30 23:35",
         "link": "https://www.zaobao.com.sg/news/china/story20260929-9757749",
         "title": "美证交会前主席：中国模型对美AI企业构成重大挑战",
-        "seq": 253
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2355,7 @@
         "time": "2026-09-30 23:38",
         "link": "https://www.zaobao.com.sg/news/sports/story20260929-9757598",
         "title": "中国守住亚运羽球霸主地位 韩国印尼破金荒骆建佑创历史",
-        "seq": 254
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2292,6 +2364,6 @@
         "time": "2026-09-30 23:47",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260929-9757389",
         "title": "【速读包】公交车资为何连续六年上涨？",
-        "seq": 255
+        "seq": 263
     }
 ]
