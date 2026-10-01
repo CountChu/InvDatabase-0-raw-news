@@ -2081,11 +2081,20 @@
     {
         "media": "聯合早報",
         "category": "中国",
+        "timeText": "23:03",
+        "time": "2026-10-01 23:03",
+        "link": "https://www.zaobao.com.sg/news/china/story20261001-9770323",
+        "title": "英媒：美国官员判断北京2028年前武力夺取台湾可能性降低",
+        "seq": 232
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
         "timeText": "23:05",
         "time": "2026-10-01 23:05",
         "link": "https://www.zaobao.com.sg/news/china/story20260930-9763436",
         "title": "国民党立法院党团提修正《刑法》 为四类犯罪增列鞭刑",
-        "seq": 232
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2103,7 @@
         "time": "2026-10-01 23:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260930-9762931",
         "title": "人工智能转型赋予人力资源新使命 符策翔：从业者深耕业务一线",
-        "seq": 233
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2112,7 @@
         "time": "2026-10-01 23:10",
         "link": "https://www.zaobao.com.sg/news/sports/story20260930-9763479",
         "title": "乔天王中网开门红 两盘力克葡萄牙名将博尔热斯",
-        "seq": 234
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2121,16 @@
         "time": "2026-10-01 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20260930-9763232",
         "title": "消息：美伊对最新和解方案的执行顺序存在分歧",
-        "seq": 235
+        "seq": 236
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:11",
+        "time": "2026-10-01 23:11",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261001-9770556",
+        "title": "狮城帆将卢军汉汪祉怡位居第四 奖牌轮冲击领奖台",
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2139,7 @@
         "time": "2026-10-01 23:12",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260930-9762949",
         "title": "留不住爱女留住希望 三对父母成立儿童脑癌慈善基金会",
-        "seq": 236
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2148,7 @@
         "time": "2026-10-01 23:14",
         "link": "https://www.zaobao.com.sg/news/world/story20260930-9763723",
         "title": "莫迪特朗普通话：印度寻求与美国达成临时协议",
-        "seq": 237
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2157,7 @@
         "time": "2026-10-01 23:16",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260930-9763543",
         "title": "谢美丽控股暂缓无力偿债程序 法院下令缴付逾65万元担保款",
-        "seq": 238
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2166,7 @@
         "time": "2026-10-01 23:19",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20260930-9763774",
         "title": "胜捷企业通过合资公司以2500万澳元 收购阿德莱德六幅地块",
-        "seq": 239
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2175,7 @@
         "time": "2026-10-01 23:22",
         "link": "https://www.zaobao.com.sg/news/china/story20260930-9763827",
         "title": "中共军委原参谋长李作成等退休将领出席国庆招待会",
-        "seq": 240
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2184,7 @@
         "time": "2026-10-01 23:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260930-9763465",
         "title": "加强宗教场所安全保障委员会成立 年底提呈建议",
-        "seq": 241
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2193,7 @@
         "time": "2026-10-01 23:36",
         "link": "https://www.zaobao.com.sg/news/sports/story20260930-9763755",
         "title": "汪祉怡暂居第二吴启哲第四 新加坡帆船力争奖牌",
-        "seq": 242
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2184,6 +2202,6 @@
         "time": "2026-10-01 23:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260930-9763874",
         "title": "俄罗斯警告欧洲：援乌武器军工厂是潜在打击目标",
-        "seq": 243
+        "seq": 245
     }
 ]
