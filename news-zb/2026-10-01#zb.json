@@ -2179,12 +2179,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:22",
+        "time": "2026-10-01 23:22",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261001-9770221",
+        "title": "首届国际足联亚细安杯小组赛 马国六球胜雄狮但无缘决赛",
+        "seq": 243
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:34",
         "time": "2026-10-01 23:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20260930-9763465",
         "title": "加强宗教场所安全保障委员会成立 年底提呈建议",
-        "seq": 243
+        "seq": 244
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:34",
+        "time": "2026-10-01 23:34",
+        "link": "https://www.zaobao.com.sg/news/china/story20261001-9770698",
+        "title": "中国驻日使馆回应村田晃大首次公审 促日方严惩凶犯",
+        "seq": 245
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2026-10-01 23:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20261001-9770647",
+        "title": "学贷月供飙升 数百万美国人面临生活重压",
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2193,7 +2220,7 @@
         "time": "2026-10-01 23:36",
         "link": "https://www.zaobao.com.sg/news/sports/story20260930-9763755",
         "title": "汪祉怡暂居第二吴启哲第四 新加坡帆船力争奖牌",
-        "seq": 244
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2202,6 +2229,6 @@
         "time": "2026-10-01 23:37",
         "link": "https://www.zaobao.com.sg/news/world/story20260930-9763874",
         "title": "俄罗斯警告欧洲：援乌武器军工厂是潜在打击目标",
-        "seq": 245
+        "seq": 248
     }
 ]
