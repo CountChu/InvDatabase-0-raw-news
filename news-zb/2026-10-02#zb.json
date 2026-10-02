@@ -1720,12 +1720,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:00",
+        "time": "2026-10-02 21:00",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261002-9775278",
+        "title": "新加坡制造业连续14月扩张 AI需求持续推动电子业",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "21:01",
         "time": "2026-10-02 21:01",
         "link": "https://www.zaobao.com.sg/news/china/story20261002-9775863",
         "title": "中国学者张海鹏：应适时召开国际会议重新讨论琉球问题",
-        "seq": 192
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1743,7 @@
         "time": "2026-10-02 21:07",
         "link": "https://www.zaobao.com.sg/news/world/story20261001-9769970",
         "title": "特朗普单方面宣布韩国投资阿拉斯加LNG韩方：尚未拍板",
-        "seq": 193
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1752,7 @@
         "time": "2026-10-02 21:12",
         "link": "https://www.zaobao.com.sg/news/china/story20261001-9770210",
         "title": "九名中国游客在埃及南部一起车祸中受伤",
-        "seq": 194
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1761,7 @@
         "time": "2026-10-02 21:12",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261001-9769938",
         "title": "合乐屋控股4580万元出售并回租位于里峇峇利路两处房地产",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1770,7 @@
         "time": "2026-10-02 21:13",
         "link": "https://www.zaobao.com.sg/news/world/story20261001-9770197",
         "title": "东京附近千叶县发生5.1级地震",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1779,7 @@
         "time": "2026-10-02 21:16",
         "link": "https://www.zaobao.com.sg/news/sea/story20261002-9776170",
         "title": "普拉博沃委任26富豪将军宗教领袖为总统顾问",
-        "seq": 197
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1788,34 @@
         "time": "2026-10-02 21:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261002-9775497",
         "title": "杨莉明：前沿AI技术日益强大 各方须筑多道防线",
-        "seq": 198
+        "seq": 199
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:20",
+        "time": "2026-10-02 21:20",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261002-9772709",
+        "title": "公务员相亲平台不配对同机构员工 Singpass验证真实年龄与婚姻状态",
+        "seq": 200
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:23",
+        "time": "2026-10-02 21:23",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261002-9776114",
+        "title": "泰航运营因洪水陷入混乱 首席执行官遭解雇",
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:26",
+        "time": "2026-10-02 21:26",
+        "link": "https://www.zaobao.com.sg/news/china/story20261002-9775499",
+        "title": "下午察：高市早苗还有机会在深圳会晤习近平吗？",
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1824,7 @@
         "time": "2026-10-02 21:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261001-9766480",
         "title": "樟宜机场深夜航班越来越多 预计今年末季同比增17%",
-        "seq": 199
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1833,7 @@
         "time": "2026-10-02 21:30",
         "link": "https://www.zaobao.com.sg/news/world/story20261001-9770236",
         "title": "AI界领袖私下质疑阿莫代伊对AI风险警告过于极端",
-        "seq": 200
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1842,7 @@
         "time": "2026-10-02 21:49",
         "link": "https://www.zaobao.com.sg/news/world/story20261001-9770336",
         "title": "美国迈阿密项目尚未动工已售出17亿美元公寓",
-        "seq": 201
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1851,7 @@
         "time": "2026-10-02 21:55",
         "link": "https://www.zaobao.com.sg/news/china/story20261001-9768456",
         "title": "下午察：东航空姐之跪",
-        "seq": 202
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1860,7 @@
         "time": "2026-10-02 21:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261001-9770010",
         "title": "凭热情与同理心服务 餐厅助理经理获“卓越金星奖”",
-        "seq": 203
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1869,7 @@
         "time": "2026-10-02 22:11",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261001-9770262",
         "title": "王瑞杰：新加坡须成为全球“亚洲枢纽”与服务亚洲企业的科技中心",
-        "seq": 204
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1878,7 @@
         "time": "2026-10-02 22:12",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261001-9762370",
         "title": "近半东南亚民众认为AI有助减碳 三成忧增碳足迹",
-        "seq": 205
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1887,7 @@
         "time": "2026-10-02 22:18",
         "link": "https://www.zaobao.com.sg/news/world/story20261001-9770198",
         "title": "日本收紧外国人居留条件 审批重点重视收入",
-        "seq": 206
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1896,7 @@
         "time": "2026-10-02 22:20",
         "link": "https://www.zaobao.com.sg/news/world/story20261001-9770429",
         "title": "乌克兰预算告急 欧盟称已找到办法填补资金缺口",
-        "seq": 207
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1905,7 @@
         "time": "2026-10-02 22:27",
         "link": "https://www.zaobao.com.sg/finance/world/story20261001-9770324",
         "title": "移动支付服务商Airtel Money拟集资5.29亿英镑 料成英国近五年最大IPO",
-        "seq": 208
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1914,7 @@
         "time": "2026-10-02 22:33",
         "link": "https://www.zaobao.com.sg/news/china/story20261001-9770527",
         "title": "华为与赛力斯达成新五年合作 联合组建问界业务专属团队",
-        "seq": 209
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1923,7 @@
         "time": "2026-10-02 22:42",
         "link": "https://www.zaobao.com.sg/finance/china/story20261001-9769734",
         "title": "中国多地倡“节俭过国庆” 官媒赞把“过紧日子”落到行动",
-        "seq": 210
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1932,7 @@
         "time": "2026-10-02 22:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20261001-9769981",
         "title": "攀岩决赛我国排名靠后 两女将：我们需要更多经验",
-        "seq": 211
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1941,7 @@
         "time": "2026-10-02 22:57",
         "link": "https://www.zaobao.com.sg/news/world/story20261001-9770555",
         "title": "美豁免人权条件 拨给埃及逾3亿美元军援",
-        "seq": 212
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1950,7 @@
         "time": "2026-10-02 23:03",
         "link": "https://www.zaobao.com.sg/news/china/story20261001-9770323",
         "title": "英媒：美国官员判断北京2028年前武力夺取台湾可能性降低",
-        "seq": 213
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1959,7 @@
         "time": "2026-10-02 23:11",
         "link": "https://www.zaobao.com.sg/news/sports/story20261001-9770556",
         "title": "狮城帆将卢军汉汪祉怡位居第四 奖牌轮冲击领奖台",
-        "seq": 214
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1968,7 @@
         "time": "2026-10-02 23:22",
         "link": "https://www.zaobao.com.sg/news/sports/story20261001-9770221",
         "title": "首届国际足联亚细安杯小组赛 马国六球胜雄狮但无缘决赛",
-        "seq": 215
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1977,7 @@
         "time": "2026-10-02 23:34",
         "link": "https://www.zaobao.com.sg/news/china/story20261001-9770698",
         "title": "中国驻日使馆回应村田晃大首次公审 促日方严惩凶犯",
-        "seq": 216
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1986,7 @@
         "time": "2026-10-02 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20261001-9770647",
         "title": "学贷堪比房贷 数百万美国人不堪重负",
-        "seq": 217
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1959,6 +1995,6 @@
         "time": "2026-10-02 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261001-9770025",
         "title": "用老歌与旧时光抚慰失智症患者 裕廊社区医院携手南艺推艺术与怀旧疗法",
-        "seq": 218
+        "seq": 222
     }
 ]
