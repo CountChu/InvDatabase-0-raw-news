@@ -1981,12 +1981,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:22",
+        "time": "2026-10-02 22:22",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261002-9776314",
+        "title": "新加坡首宗走私丧尸烟弹案下判 39岁男子监三年鞭五下",
+        "seq": 221
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:25",
+        "time": "2026-10-02 22:25",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261002-9775975",
+        "title": "称裁决存重大错误 曼市就英超财务违规正式上诉",
+        "seq": 222
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:27",
         "time": "2026-10-02 22:27",
         "link": "https://www.zaobao.com.sg/finance/world/story20261001-9770324",
         "title": "移动支付服务商Airtel Money拟集资5.29亿英镑 料成英国近五年最大IPO",
-        "seq": 221
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:28",
+        "time": "2026-10-02 22:28",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261002-9776354",
+        "title": "日本女足点球大战再胜朝鲜 拿下亚运三连冠",
+        "seq": 224
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:30",
+        "time": "2026-10-02 22:30",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261002-9725073",
+        "title": "泰柬边境冲突停火九个月 逾2万居民仍滞留盼归家",
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2031,43 @@
         "time": "2026-10-02 22:33",
         "link": "https://www.zaobao.com.sg/news/china/story20261001-9770527",
         "title": "华为与赛力斯达成新五年合作 联合组建问界业务专属团队",
-        "seq": 222
+        "seq": 226
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:33",
+        "time": "2026-10-02 22:33",
+        "link": "https://www.zaobao.com.sg/news/world/story20261002-9776107",
+        "title": "日本发布经济增长战略 拟投资百万亿日元发展AI",
+        "seq": 227
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:35",
+        "time": "2026-10-02 22:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20261002-9756350",
+        "title": "报告：AI将重塑美国职场 1100万人或须转行",
+        "seq": 228
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:36",
+        "time": "2026-10-02 22:36",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261002-9775936",
+        "title": "越堤族盼新柔地铁早日通车 邻里商家忧生意雪上加霜",
+        "seq": 229
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:37",
+        "time": "2026-10-02 22:37",
+        "link": "https://www.zaobao.com.sg/news/world/story20261002-9773770",
+        "title": "宝宝怎么睡可能关系生死 美疾控吁调整睡眠方式",
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2076,7 @@
         "time": "2026-10-02 22:42",
         "link": "https://www.zaobao.com.sg/finance/china/story20261001-9769734",
         "title": "中国多地倡“节俭过国庆” 官媒赞把“过紧日子”落到行动",
-        "seq": 223
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2085,7 @@
         "time": "2026-10-02 22:49",
         "link": "https://www.zaobao.com.sg/news/sports/story20261001-9769981",
         "title": "攀岩决赛我国排名靠后 两女将：我们需要更多经验",
-        "seq": 224
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2094,7 @@
         "time": "2026-10-02 22:57",
         "link": "https://www.zaobao.com.sg/news/world/story20261001-9770555",
         "title": "美豁免人权条件 拨给埃及逾3亿美元军援",
-        "seq": 225
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2103,7 @@
         "time": "2026-10-02 23:03",
         "link": "https://www.zaobao.com.sg/news/china/story20261001-9770323",
         "title": "英媒：美国官员判断北京2028年前武力夺取台湾可能性降低",
-        "seq": 226
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2112,7 @@
         "time": "2026-10-02 23:11",
         "link": "https://www.zaobao.com.sg/news/sports/story20261001-9770556",
         "title": "狮城帆将卢军汉汪祉怡位居第四 奖牌轮冲击领奖台",
-        "seq": 227
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2121,7 @@
         "time": "2026-10-02 23:22",
         "link": "https://www.zaobao.com.sg/news/sports/story20261001-9770221",
         "title": "首届国际足联亚细安杯小组赛 马国六球胜雄狮但无缘决赛",
-        "seq": 228
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2130,7 @@
         "time": "2026-10-02 23:34",
         "link": "https://www.zaobao.com.sg/news/china/story20261001-9770698",
         "title": "中国驻日使馆回应村田晃大首次公审 促日方严惩凶犯",
-        "seq": 229
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2139,7 @@
         "time": "2026-10-02 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20261001-9770647",
         "title": "学贷堪比房贷 数百万美国人不堪重负",
-        "seq": 230
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2076,6 +2148,6 @@
         "time": "2026-10-02 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261001-9770025",
         "title": "用老歌与旧时光抚慰失智症患者 裕廊社区医院携手南艺推艺术与怀旧疗法",
-        "seq": 231
+        "seq": 239
     }
 ]
