@@ -1820,11 +1820,38 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "23:04",
+        "time": "2026-10-03 23:04",
+        "link": "https://www.zaobao.com.sg/news/world/story20261003-9779981",
+        "title": "最新民调：总统卢拉与主要对手的优势缩小",
+        "seq": 203
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:06",
+        "time": "2026-10-03 23:06",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261003-9779628",
+        "title": "颜欣慧短池世界杯巴库站夺金 两天连破两项全国纪录 ",
+        "seq": 204
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "23:09",
         "time": "2026-10-03 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20261002-9773512",
         "title": "瑞士冰川五年消融近五分之一",
-        "seq": 203
+        "seq": 205
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:13",
+        "time": "2026-10-03 23:13",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261003-9780006",
+        "title": "浮萍蔓延染绿比利时古城水道",
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1860,7 @@
         "time": "2026-10-03 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261002-9776459",
         "title": "“中国公安”来电指涉洗钱 受害者交6000元给陌生男子",
-        "seq": 204
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1842,6 +1869,6 @@
         "time": "2026-10-03 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20261002-9773933",
         "title": "研究：儿童屏幕时间越长 发展表现或越差",
-        "seq": 205
+        "seq": 208
     }
 ]
