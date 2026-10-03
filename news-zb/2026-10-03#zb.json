@@ -1747,12 +1747,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:44",
+        "time": "2026-10-03 22:44",
+        "link": "https://www.zaobao.com.sg/news/world/story20261003-9779897",
+        "title": "中东战事推高油价 美国电动车需求呈复苏迹象",
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:48",
         "time": "2026-10-03 22:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261002-9776415",
         "title": "假冒邵氏影院发问卷还称送20元 院方促公众提防诈骗",
-        "seq": 195
+        "seq": 196
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:48",
+        "time": "2026-10-03 22:48",
+        "link": "https://www.zaobao.com.sg/news/world/story20261003-9779909",
+        "title": "OpenAI前员工：AI应采用“核电厂等级”安全管控",
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:50",
+        "time": "2026-10-03 22:50",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261003-9779899",
+        "title": "实龙岗花园一带排屋失火 两人自行撤离无人受伤",
+        "seq": 198
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:53",
+        "time": "2026-10-03 22:53",
+        "link": "https://www.zaobao.com.sg/news/china/story20261003-9779958",
+        "title": "中尼科学家组建科考队 开展地质灾害应急科考",
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1797,7 @@
         "time": "2026-10-03 22:54",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261002-9776436",
         "title": "特斯拉电动汽车销量超出预期",
-        "seq": 196
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1806,16 @@
         "time": "2026-10-03 22:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20261002-9776505",
         "title": "WTT中国大满贯：黎明映冯耀恩止步单打资格赛",
-        "seq": 197
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:56",
+        "time": "2026-10-03 22:56",
+        "link": "https://www.zaobao.com.sg/news/china/story20261003-9779173",
+        "title": "台海巡署以水炮驱离大陆渔船 引台湾强硬执法讨论",
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1824,7 @@
         "time": "2026-10-03 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20261002-9773512",
         "title": "瑞士冰川五年消融近五分之一",
-        "seq": 198
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1833,7 @@
         "time": "2026-10-03 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261002-9776459",
         "title": "“中国公安”来电指涉洗钱 受害者交6000元给陌生男子",
-        "seq": 199
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1797,6 +1842,6 @@
         "time": "2026-10-03 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20261002-9773933",
         "title": "研究：儿童屏幕时间越长 发展表现或越差",
-        "seq": 200
+        "seq": 205
     }
 ]
