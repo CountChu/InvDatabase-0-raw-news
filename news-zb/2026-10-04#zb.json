@@ -1720,12 +1720,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:01",
+        "time": "2026-10-04 23:01",
+        "link": "https://www.zaobao.com.sg/news/china/story20261004-9783220",
+        "title": "沈伯洋竞总成立逾12万人到场 赖清德驳“牵制蒋万安”之说",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:01",
+        "time": "2026-10-04 23:01",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783371",
+        "title": "新加坡泳将张正伟 短池世界杯50米蝶泳摘银",
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:04",
         "time": "2026-10-04 23:04",
         "link": "https://www.zaobao.com.sg/news/world/story20261003-9779981",
         "title": "最新民调：总统卢拉与主要对手的优势缩小",
-        "seq": 192
+        "seq": 194
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:05",
+        "time": "2026-10-04 23:05",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783265",
+        "title": "力克头号种子兹维列夫 乔天王书写中网32连胜新历史",
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1761,7 @@
         "time": "2026-10-04 23:06",
         "link": "https://www.zaobao.com.sg/news/sports/story20261003-9779628",
         "title": "颜欣慧短池世界杯巴库站夺金 两天连破两项全国纪录 ",
-        "seq": 193
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1770,16 @@
         "time": "2026-10-04 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20261003-9780006",
         "title": "浮萍蔓延染绿比利时古城水道",
-        "seq": 194
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:14",
+        "time": "2026-10-04 23:14",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261004-9783111",
+        "title": "残障者未来照护规划扩大 拟2030年覆盖所有成人残障服务触点",
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1752,6 +1788,6 @@
         "time": "2026-10-04 23:21",
         "link": "https://www.zaobao.com.sg/news/sports/story20261003-9779906",
         "title": "兹维列夫中网轻取中国新星 八强会师乔天王",
-        "seq": 195
+        "seq": 199
     }
 ]
