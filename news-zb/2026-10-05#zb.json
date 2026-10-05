@@ -1639,12 +1639,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "21:20",
+        "time": "2026-10-05 21:20",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261005-9788606",
+        "title": "阿根廷巨星梅西 国家队告别战将披特别版球衣",
+        "seq": 183
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:36",
+        "time": "2026-10-05 21:36",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261005-9788650",
+        "title": "永平校园命案：验尸证实死者遭钝物击中头部致死",
+        "seq": 184
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "21:37",
         "time": "2026-10-05 21:37",
         "link": "https://www.zaobao.com.sg/news/world/story20261004-9783180",
         "title": "法国学生示威浪潮持续 多达500所高中周一将部分或全面停课",
-        "seq": 183
+        "seq": 185
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:39",
+        "time": "2026-10-05 21:39",
+        "link": "https://www.zaobao.com.sg/news/world/story20261005-9786660",
+        "title": "丹麦国家登记系统遭黑客入侵 880万人资料外泄",
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1680,7 @@
         "time": "2026-10-05 21:50",
         "link": "https://www.zaobao.com.sg/news/world/story20261004-9782964",
         "title": "胡塞武装称袭击利雅得石油设施 沙特联军斥“谋求虚幻胜利”",
-        "seq": 184
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1689,7 @@
         "time": "2026-10-05 22:00",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261004-9782743",
         "title": "三度战胜癌症 意大利视障舞蹈冠军本地推广“盲舞”",
-        "seq": 185
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1698,7 @@
         "time": "2026-10-05 22:05",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261004-9781076",
         "title": "【红蚂蚁】公共交通“玩具总动员” 娱己也娱人",
-        "seq": 186
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1707,7 @@
         "time": "2026-10-05 22:09",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9782953",
         "title": "【图集】爱知—名古屋亚运会收官 回顾闭幕礼精彩瞬间",
-        "seq": 187
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1716,7 @@
         "time": "2026-10-05 22:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261004-9782264",
         "title": "公务员被指利用未公开信息购屋 议员国会质询如何维护民众信任",
-        "seq": 188
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1725,7 @@
         "time": "2026-10-05 22:18",
         "link": "https://www.zaobao.com.sg/news/world/story20261004-9783057",
         "title": "冲绳美军涉抢劫杀人被捕 高市强烈抗议促美方严整军纪",
-        "seq": 189
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1734,7 @@
         "time": "2026-10-05 22:18",
         "link": "https://www.zaobao.com.sg/news/sea/story20261003-9779156",
         "title": "拖欠马政府2亿令吉代收款  数码服务外包公司遭暂停陆路收费服务",
-        "seq": 190
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1743,7 @@
         "time": "2026-10-05 22:20",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9782762",
         "title": "日本主场双破本国纪录 中国连续12届亚运奖牌榜登顶",
-        "seq": 191
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1752,7 @@
         "time": "2026-10-05 22:23",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9782914",
         "title": "亚运组织混乱 专家：恐重创日本再申奥希望",
-        "seq": 192
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1761,7 @@
         "time": "2026-10-05 22:35",
         "link": "https://www.zaobao.com.sg/news/china/story20261004-9783380",
         "title": "菲律宾指中方在南中国海两争议海域骚扰菲政府飞机及船只",
-        "seq": 193
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1770,7 @@
         "time": "2026-10-05 22:37",
         "link": "https://www.zaobao.com.sg/news/world/story20261004-9783322",
         "title": "西班牙休达清拆海滩移民营 为国王王后访问做准备",
-        "seq": 194
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1779,7 @@
         "time": "2026-10-05 22:38",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9782820",
         "title": "侧记：亚运会落幕前 深刻体会当体育记者的意义",
-        "seq": 195
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1788,7 @@
         "time": "2026-10-05 22:43",
         "link": "https://www.zaobao.com.sg/news/china/story20261004-9783181",
         "title": "星巴克新疆开店中美交锋 学者：特朗普压制对华鹰派双边关系趋稳",
-        "seq": 196
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1797,7 @@
         "time": "2026-10-05 22:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783326",
         "title": "不敌罗马尼亚组合 冯耀恩／曾尖无缘中国大满贯混双16强",
-        "seq": 197
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1806,7 @@
         "time": "2026-10-05 22:51",
         "link": "https://www.zaobao.com.sg/news/world/story20261004-9783404",
         "title": "朝鲜试射导弹称采用AI技术 韩国防部：导弹仍在可拦截范围",
-        "seq": 198
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1815,7 @@
         "time": "2026-10-05 22:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783331",
         "title": "亚运夺金免兵役后激动失态 部分韩国U23国脚发文道歉",
-        "seq": 199
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1824,7 @@
         "time": "2026-10-05 23:01",
         "link": "https://www.zaobao.com.sg/news/china/story20261004-9783220",
         "title": "沈伯洋竞总成立逾12万人到场 赖清德驳“牵制蒋万安”之说",
-        "seq": 200
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1833,7 @@
         "time": "2026-10-05 23:01",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783371",
         "title": "新加坡泳将张正伟 短池世界杯50米蝶泳摘银",
-        "seq": 201
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1842,7 @@
         "time": "2026-10-05 23:05",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783265",
         "title": "力克头号种子兹维列夫 乔天王书写中网32连胜新历史",
-        "seq": 202
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1851,7 @@
         "time": "2026-10-05 23:14",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261004-9783111",
         "title": "残障者未来照护规划扩大 拟2030年覆盖所有成人残障服务触点",
-        "seq": 203
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1860,7 @@
         "time": "2026-10-05 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20261004-9783493",
         "title": "迪拜航空恐袭事件：澳警方调查副机长与澳洲有何关联",
-        "seq": 204
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1869,7 @@
         "time": "2026-10-05 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261004-9783438",
         "title": "陈振声与卡塔尔防长会面 讨论安全局势和双边合作",
-        "seq": 205
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1851,6 +1878,6 @@
         "time": "2026-10-05 23:58",
         "link": "https://www.zaobao.com.sg/news/china/story20261004-9783377",
         "title": "国民党启动新北和台中大型造势活动 为李四川、江启臣助阵",
-        "seq": 206
+        "seq": 209
     }
 ]
