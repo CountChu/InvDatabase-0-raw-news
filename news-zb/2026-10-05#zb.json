@@ -1936,12 +1936,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:47",
+        "time": "2026-10-05 22:47",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261005-9788860",
+        "title": "梅德韦杰夫击球砸中观众被判负 乔科维奇挺进中网男单决赛",
+        "seq": 216
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:51",
         "time": "2026-10-05 22:51",
         "link": "https://www.zaobao.com.sg/news/world/story20261004-9783404",
         "title": "朝鲜试射导弹称采用AI技术 韩国防部：导弹仍在可拦截范围",
-        "seq": 216
+        "seq": 217
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:53",
+        "time": "2026-10-05 22:53",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261005-9789066",
+        "title": "印尼热点减少仍存复燃隐患 环保组织警示仍须加紧防范",
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1968,7 @@
         "time": "2026-10-05 22:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783331",
         "title": "亚运夺金免兵役后激动失态 部分韩国U23国脚发文道歉",
-        "seq": 217
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1977,7 @@
         "time": "2026-10-05 23:01",
         "link": "https://www.zaobao.com.sg/news/china/story20261004-9783220",
         "title": "沈伯洋竞总成立逾12万人到场 赖清德驳“牵制蒋万安”之说",
-        "seq": 218
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1986,7 @@
         "time": "2026-10-05 23:01",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783371",
         "title": "新加坡泳将张正伟 短池世界杯50米蝶泳摘银",
-        "seq": 219
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1977,7 +1995,7 @@
         "time": "2026-10-05 23:05",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783265",
         "title": "力克头号种子兹维列夫 乔天王书写中网32连胜新历史",
-        "seq": 220
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2004,7 @@
         "time": "2026-10-05 23:14",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261004-9783111",
         "title": "残障者未来照护规划扩大 拟2030年覆盖所有成人残障服务触点",
-        "seq": 221
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2013,7 @@
         "time": "2026-10-05 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20261004-9783493",
         "title": "迪拜航空恐袭事件：澳警方调查副机长与澳洲有何关联",
-        "seq": 222
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2022,7 @@
         "time": "2026-10-05 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261004-9783438",
         "title": "陈振声与卡塔尔防长会面 讨论安全局势和双边合作",
-        "seq": 223
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2013,6 +2031,6 @@
         "time": "2026-10-05 23:58",
         "link": "https://www.zaobao.com.sg/news/china/story20261004-9783377",
         "title": "国民党启动新北和台中大型造势活动 为李四川、江启臣助阵",
-        "seq": 224
+        "seq": 226
     }
 ]
