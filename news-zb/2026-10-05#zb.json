@@ -1828,12 +1828,57 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:22",
+        "time": "2026-10-05 22:22",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261005-9788434",
+        "title": "公益金10年来定期捐款比率大增 新主席：仍须推动可持续乐捐文化",
+        "seq": 204
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:23",
         "time": "2026-10-05 22:23",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9782914",
         "title": "亚运组织混乱 专家：恐重创日本再申奥希望",
-        "seq": 204
+        "seq": 205
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:23",
+        "time": "2026-10-05 22:23",
+        "link": "https://www.zaobao.com.sg/news/world/story20261005-9788958",
+        "title": "乌克兰部署AI机器人炮塔 拦截俄新型无人机",
+        "seq": 206
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:24",
+        "time": "2026-10-05 22:24",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261005-9788867",
+        "title": "天然煤矿集团单日回购600万股价值360万元 历来单日回购额之最",
+        "seq": 207
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:27",
+        "time": "2026-10-05 22:27",
+        "link": "https://www.zaobao.com.sg/news/world/story20261005-9788757",
+        "title": "高市国会演讲 坚称急需强化军事 管控周边安全",
+        "seq": 208
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:33",
+        "time": "2026-10-05 22:33",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261005-9788458",
+        "title": "印尼建军周年 普拉博沃促军方加强和平时期训练",
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1887,16 @@
         "time": "2026-10-05 22:35",
         "link": "https://www.zaobao.com.sg/news/china/story20261004-9783380",
         "title": "菲律宾指中方在南中国海两争议海域骚扰菲政府飞机及船只",
-        "seq": 205
+        "seq": 210
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:35",
+        "time": "2026-10-05 22:35",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261005-9788836",
+        "title": "WTT中国大满贯：舒麟茜一日单双两线作战皆取胜",
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1905,7 @@
         "time": "2026-10-05 22:37",
         "link": "https://www.zaobao.com.sg/news/world/story20261004-9783322",
         "title": "西班牙休达清拆海滩移民营 为国王王后访问做准备",
-        "seq": 206
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1914,7 @@
         "time": "2026-10-05 22:38",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9782820",
         "title": "侧记：亚运会落幕前 深刻体会当体育记者的意义",
-        "seq": 207
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1923,7 @@
         "time": "2026-10-05 22:43",
         "link": "https://www.zaobao.com.sg/news/china/story20261004-9783181",
         "title": "星巴克新疆开店中美交锋 学者：特朗普压制对华鹰派双边关系趋稳",
-        "seq": 208
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1932,7 @@
         "time": "2026-10-05 22:45",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783326",
         "title": "不敌罗马尼亚组合 冯耀恩／曾尖无缘中国大满贯混双16强",
-        "seq": 209
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1941,7 @@
         "time": "2026-10-05 22:51",
         "link": "https://www.zaobao.com.sg/news/world/story20261004-9783404",
         "title": "朝鲜试射导弹称采用AI技术 韩国防部：导弹仍在可拦截范围",
-        "seq": 210
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1950,7 @@
         "time": "2026-10-05 22:55",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783331",
         "title": "亚运夺金免兵役后激动失态 部分韩国U23国脚发文道歉",
-        "seq": 211
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1959,7 @@
         "time": "2026-10-05 23:01",
         "link": "https://www.zaobao.com.sg/news/china/story20261004-9783220",
         "title": "沈伯洋竞总成立逾12万人到场 赖清德驳“牵制蒋万安”之说",
-        "seq": 212
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1968,7 @@
         "time": "2026-10-05 23:01",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783371",
         "title": "新加坡泳将张正伟 短池世界杯50米蝶泳摘银",
-        "seq": 213
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1977,7 @@
         "time": "2026-10-05 23:05",
         "link": "https://www.zaobao.com.sg/news/sports/story20261004-9783265",
         "title": "力克头号种子兹维列夫 乔天王书写中网32连胜新历史",
-        "seq": 214
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1986,7 @@
         "time": "2026-10-05 23:14",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261004-9783111",
         "title": "残障者未来照护规划扩大 拟2030年覆盖所有成人残障服务触点",
-        "seq": 215
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1995,7 @@
         "time": "2026-10-05 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20261004-9783493",
         "title": "迪拜航空恐袭事件：澳警方调查副机长与澳洲有何关联",
-        "seq": 216
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1950,7 +2004,7 @@
         "time": "2026-10-05 23:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261004-9783438",
         "title": "陈振声与卡塔尔防长会面 讨论安全局势和双边合作",
-        "seq": 217
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1959,6 +2013,6 @@
         "time": "2026-10-05 23:58",
         "link": "https://www.zaobao.com.sg/news/china/story20261004-9783377",
         "title": "国民党启动新北和台中大型造势活动 为李四川、江启臣助阵",
-        "seq": 218
+        "seq": 224
     }
 ]
