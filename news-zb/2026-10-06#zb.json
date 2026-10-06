@@ -2269,12 +2269,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:29",
+        "time": "2026-10-06 23:29",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261006-9795251",
+        "title": "沙巴海域5级地震 暂无伤亡",
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:33",
         "time": "2026-10-06 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20261005-9786669",
         "title": "污水处理新方案：化学改性砂可高效去除微塑料",
-        "seq": 253
+        "seq": 254
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:33",
+        "time": "2026-10-06 23:33",
+        "link": "https://www.zaobao.com.sg/news/china/story20261006-9794406",
+        "title": "法德拟推快速切断市场准入 中欧或陷“打打停停”贸易冲突",
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:34",
+        "time": "2026-10-06 23:34",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261006-9795206",
+        "title": "拓展黄金交易生态系统引担忧 新港代表：黄金流动性充足",
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:38",
+        "time": "2026-10-06 23:38",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261006-9794467",
+        "title": "混合实境工具模拟眩晕患者 助力理疗师接诊前反复练习增信心",
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2283,6 +2319,6 @@
         "time": "2026-10-06 23:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261005-9788963",
         "title": "公益金2025财年拨出逾8000万元 再创新高",
-        "seq": 254
+        "seq": 258
     }
 ]
