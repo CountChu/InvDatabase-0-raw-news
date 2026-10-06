@@ -2242,12 +2242,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:07",
+        "time": "2026-10-06 23:07",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261006-9794384",
+        "title": "体恤餐饮业面对人手租金等压力 政府与相关方合力支持",
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:08",
         "time": "2026-10-06 23:08",
         "link": "https://www.zaobao.com.sg/news/world/story20261005-9786891",
         "title": "澳洲监管机构：热门游戏平台儿童保护存在明显缺口",
-        "seq": 250
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:08",
+        "time": "2026-10-06 23:08",
+        "link": "https://www.zaobao.com.sg/news/world/story20261006-9795182",
+        "title": "法国总理：绝不容忍校园抗议活动的暴力行为",
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2274,7 @@
         "time": "2026-10-06 23:33",
         "link": "https://www.zaobao.com.sg/news/world/story20261005-9786669",
         "title": "污水处理新方案：化学改性砂可高效去除微塑料",
-        "seq": 251
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2265,6 +2283,6 @@
         "time": "2026-10-06 23:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261005-9788963",
         "title": "公益金2025财年拨出逾8000万元 再创新高",
-        "seq": 252
+        "seq": 254
     }
 ]
