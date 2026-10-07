@@ -2287,12 +2287,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:31",
+        "time": "2026-10-07 23:31",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261007-9800497",
+        "title": "少年创筹款平台 义工推动残障者骑行 双双获总统表彰",
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:33",
         "time": "2026-10-07 23:33",
         "link": "https://www.zaobao.com.sg/news/china/story20261006-9794406",
         "title": "法德拟推快速切断市场准入 中欧或陷“打打停停”贸易冲突",
-        "seq": 255
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2310,16 @@
         "time": "2026-10-07 23:34",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261006-9795206",
         "title": "拓展黄金交易生态系统引担忧 新港代表：黄金流动性充足",
-        "seq": 256
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2026-10-07 23:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20261007-9801416",
+        "title": "波兰发生校园持刀袭击事件 10人受伤",
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2328,25 @@
         "time": "2026-10-07 23:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261006-9794467",
         "title": "混合实境工具模拟眩晕患者 助力理疗师接诊前反复练习增信心",
-        "seq": 257
+        "seq": 259
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:38",
+        "time": "2026-10-07 23:38",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261007-9801090",
+        "title": "黄循财总理贺沙伦赛出任老挝总理 邀访新深化双边关系",
+        "seq": 260
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:39",
+        "time": "2026-10-07 23:39",
+        "link": "https://www.zaobao.com.sg/news/world/story20261007-9801439",
+        "title": "联合国：自也门战火重燃 超过20万人流离失所",
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2355,7 @@
         "time": "2026-10-07 23:44",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261006-9795085",
         "title": "王乙康：关爱组屋求救按钮失灵 完整报告出炉后健卫部将评估",
-        "seq": 258
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2364,7 @@
         "time": "2026-10-07 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20261006-9794904",
         "title": "沙特胡塞战斗升级 土耳其巴基斯坦承诺派兵支援",
-        "seq": 259
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2337,6 +2373,6 @@
         "time": "2026-10-07 23:59",
         "link": "https://www.zaobao.com.sg/news/sea/story20261006-9795331",
         "title": "老挝警方查获马国私人飞机走私500包冰毒",
-        "seq": 260
+        "seq": 264
     }
 ]
