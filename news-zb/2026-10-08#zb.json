@@ -2342,11 +2342,29 @@
     {
         "media": "聯合早報",
         "category": "新加坡",
+        "timeText": "23:13",
+        "time": "2026-10-08 23:13",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261008-9806847",
+        "title": "让文字描述变实物 新加坡理工生研发AI平台夺冠",
+        "seq": 261
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:26",
+        "time": "2026-10-08 23:26",
+        "link": "https://www.zaobao.com.sg/news/world/story20261008-9807378",
+        "title": "委内瑞拉前总统马杜罗和妻子 被加控密谋实施酷刑罪",
+        "seq": 262
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
         "timeText": "23:31",
         "time": "2026-10-08 23:31",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261007-9800497",
         "title": "少年创筹款平台 义工推动残障者骑行 双双获总统表彰",
-        "seq": 261
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2373,16 @@
         "time": "2026-10-08 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20261007-9801416",
         "title": "波兰发生校园持刀袭击事件 10人受伤",
-        "seq": 262
+        "seq": 264
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:35",
+        "time": "2026-10-08 23:35",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261008-9807234",
+        "title": "沃尔夫押注年轻力量 马赛地寄望冲击F1总冠军",
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2391,7 @@
         "time": "2026-10-08 23:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261007-9801090",
         "title": "黄循财总理贺沙伦赛出任老挝总理 邀访新深化双边关系",
-        "seq": 263
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2400,7 @@
         "time": "2026-10-08 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20261007-9801439",
         "title": "联合国：自也门战火重燃 超过20万人流离失所",
-        "seq": 264
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2409,7 @@
         "time": "2026-10-08 23:42",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261007-9793696",
         "title": "狮城旅游被无毒蛇咬 2岁女童送院治疗",
-        "seq": 265
+        "seq": 268
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2418,7 @@
         "time": "2026-10-08 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20261007-9801465",
         "title": "沙特已对迪拜航空事故展开航空安全调查",
-        "seq": 266
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2400,6 +2427,6 @@
         "time": "2026-10-08 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261007-9801480",
         "title": "哥斯达黎加前副总统格林斯潘 领跑联合国秘书长竞选",
-        "seq": 267
+        "seq": 270
     }
 ]
