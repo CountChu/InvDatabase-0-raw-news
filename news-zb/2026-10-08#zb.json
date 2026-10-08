@@ -2251,12 +2251,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:03",
+        "time": "2026-10-08 23:03",
+        "link": "https://www.zaobao.com.sg/news/china/story20261008-9805726",
+        "title": "下午察：中国反诈纪录片热播之后",
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:04",
+        "time": "2026-10-08 23:04",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261008-9807309",
+        "title": "国际刑事法院裁定 菲前总统杜特尔特具备受审能力",
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:05",
         "time": "2026-10-08 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20261007-9801307",
         "title": "韩国将收紧运动员兵役豁免政策",
-        "seq": 251
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:06",
+        "time": "2026-10-08 23:06",
+        "link": "https://www.zaobao.com.sg/finance/world/story20261008-9807150",
+        "title": "美元逼近18个月高位 债券收益率再度上升拖累欧元走低",
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2292,7 @@
         "time": "2026-10-08 23:08",
         "link": "https://www.zaobao.com.sg/news/sports/story20261007-9801153",
         "title": "冯耀恩郭勇晋级中国大满贯男双八强",
-        "seq": 252
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2301,7 @@
         "time": "2026-10-08 23:10",
         "link": "https://www.zaobao.com.sg/news/sea/story20261007-9800897",
         "title": "缅总统时隔11年访马 分析：敏昂莱寻求与周边国家关系正常化",
-        "seq": 253
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2310,34 @@
         "time": "2026-10-08 23:11",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261007-9799247",
         "title": "陈杰豪：数据中心不求容量越多越好 重在创造更大价值",
-        "seq": 254
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:12",
+        "time": "2026-10-08 23:12",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261008-9806835",
+        "title": "本周末F1赛事与演唱会 料不受烟霾影响",
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:13",
+        "time": "2026-10-08 23:13",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261008-9806847",
+        "title": "让文字描述转化为实体成品 工院生研发AI平台夺冠",
+        "seq": 259
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:13",
+        "time": "2026-10-08 23:13",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261008-9804402",
+        "title": "主场0比1不敌河内公安 狮城水手虾皮杯遇开门黑",
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2346,7 @@
         "time": "2026-10-08 23:31",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261007-9800497",
         "title": "少年创筹款平台 义工推动残障者骑行 双双获总统表彰",
-        "seq": 255
+        "seq": 261
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2355,7 @@
         "time": "2026-10-08 23:35",
         "link": "https://www.zaobao.com.sg/news/world/story20261007-9801416",
         "title": "波兰发生校园持刀袭击事件 10人受伤",
-        "seq": 256
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2364,7 @@
         "time": "2026-10-08 23:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261007-9801090",
         "title": "黄循财总理贺沙伦赛出任老挝总理 邀访新深化双边关系",
-        "seq": 257
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2373,7 @@
         "time": "2026-10-08 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20261007-9801439",
         "title": "联合国：自也门战火重燃 超过20万人流离失所",
-        "seq": 258
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2328,7 +2382,7 @@
         "time": "2026-10-08 23:42",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261007-9793696",
         "title": "狮城旅游被无毒蛇咬 2岁女童送院治疗",
-        "seq": 259
+        "seq": 265
     },
     {
         "media": "聯合早報",
@@ -2337,7 +2391,7 @@
         "time": "2026-10-08 23:47",
         "link": "https://www.zaobao.com.sg/news/world/story20261007-9801465",
         "title": "沙特已对迪拜航空事故展开航空安全调查",
-        "seq": 260
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2346,6 +2400,6 @@
         "time": "2026-10-08 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261007-9801480",
         "title": "哥斯达黎加前副总统格林斯潘 领跑联合国秘书长竞选",
-        "seq": 261
+        "seq": 267
     }
 ]
