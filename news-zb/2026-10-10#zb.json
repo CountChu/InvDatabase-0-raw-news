@@ -1693,12 +1693,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:00",
+        "time": "2026-10-10 22:00",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261010-9816635",
+        "title": "空气污染指数若破300或停课和延后考试 李智陞：会提前通知家长",
+        "seq": 189
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:02",
         "time": "2026-10-10 22:02",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261009-9812930",
         "title": "撕成两半钞票如何拯救新加坡财库？走入GIC秘库探究竟",
-        "seq": 189
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1716,7 @@
         "time": "2026-10-10 22:04",
         "link": "https://www.zaobao.com.sg/news/sports/story20261009-9812635",
         "title": "维斯塔潘力压上届冠军拉塞尔 夺新加坡首届F1冲刺赛杆位",
-        "seq": 190
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1725,7 @@
         "time": "2026-10-10 22:05",
         "link": "https://www.zaobao.com.sg/news/china/story20261009-9812646",
         "title": "日本27名跨党派国会议员访台 参加台湾双十活动",
-        "seq": 191
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1734,7 @@
         "time": "2026-10-10 22:11",
         "link": "https://www.zaobao.com.sg/news/world/story20261010-9816846",
         "title": "波兰再发生校园持刀袭击事件 致三人受伤",
-        "seq": 192
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1743,7 @@
         "time": "2026-10-10 22:12",
         "link": "https://www.zaobao.com.sg/news/sea/story20261009-9812546",
         "title": "泰国出台历来最严控枪令 合法枪店叫苦",
-        "seq": 193
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1752,7 @@
         "time": "2026-10-10 22:14",
         "link": "https://www.zaobao.com.sg/news/china/story20261009-9813146",
         "title": "欧盟称与中国达成谅解 中国混动车对欧出口有望减半",
-        "seq": 194
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1761,7 @@
         "time": "2026-10-10 22:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20261009-9812787",
         "title": "闯中国网球公开赛四强 郑钦文获最佳生日礼物",
-        "seq": 195
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1770,7 @@
         "time": "2026-10-10 22:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20261010-9816759",
         "title": "专程飞来狮城看F1 柬埔寨车迷：每一分票价都值得",
-        "seq": 196
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1779,7 @@
         "time": "2026-10-10 22:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261009-9811741",
         "title": "武吉巴督回教堂迎大翻新 耗资940万元料2028年竣工",
-        "seq": 197
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1788,7 @@
         "time": "2026-10-10 22:19",
         "link": "https://www.zaobao.com.sg/news/china/story20261010-9815881",
         "title": "赖清德双十演说乐见陆美对话 吁正确理解历史发展",
-        "seq": 198
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1797,16 @@
         "time": "2026-10-10 22:21",
         "link": "https://www.zaobao.com.sg/news/world/story20261010-9816878",
         "title": "沙特利雅得机场又传巨响 多家航司取消航班",
-        "seq": 199
+        "seq": 200
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:21",
+        "time": "2026-10-10 22:21",
+        "link": "https://www.zaobao.com.sg/news/world/story20261010-9816878",
+        "title": "沙特利雅得机场又传巨响 五人重伤多家航司取消航班",
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1815,7 @@
         "time": "2026-10-10 22:25",
         "link": "https://www.zaobao.com.sg/news/world/story20261009-9813192",
         "title": "印度选民名册争议引发示威 新德里部署六万警力戒备",
-        "seq": 200
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1824,7 @@
         "time": "2026-10-10 22:27",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261009-9810419",
         "title": "男子被指在楼梯口性侵智障青年 因身体姿势存疑获判无罪",
-        "seq": 201
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1833,7 @@
         "time": "2026-10-10 22:29",
         "link": "https://www.zaobao.com.sg/finance/world/story20261009-9813174",
         "title": "伦敦迎一年来最大上市 Airtel Money首日跌破发行价",
-        "seq": 202
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1842,7 @@
         "time": "2026-10-10 22:31",
         "link": "https://www.zaobao.com.sg/news/sports/story20261010-9816832",
         "title": "吉马良斯替补立大功 助炮兵逆转胜利兹避免再遇耻辱",
-        "seq": 203
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1851,7 @@
         "time": "2026-10-10 22:37",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261009-9812618",
         "title": "国家博物馆新加坡历史展厅星期六重开",
-        "seq": 204
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1860,7 @@
         "time": "2026-10-10 22:37",
         "link": "https://www.zaobao.com.sg/news/sports/story20261010-9816852",
         "title": "维斯塔潘F1生涯 单日取两突破 新加坡首开胜迹又摘正赛首杆",
-        "seq": 205
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1869,7 @@
         "time": "2026-10-10 22:39",
         "link": "https://www.zaobao.com.sg/news/world/story20261010-9816719",
         "title": "美俄达协议允许俄供应柴油 乌克兰批美方给普京送礼",
-        "seq": 206
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1878,7 @@
         "time": "2026-10-10 22:50",
         "link": "https://www.zaobao.com.sg/news/china/story20261010-9816961",
         "title": "中国外交部：暂无中国公民在巴拿马地震中伤亡",
-        "seq": 207
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1887,7 @@
         "time": "2026-10-10 23:03",
         "link": "https://www.zaobao.com.sg/news/world/story20261009-9813316",
         "title": "特朗普再图撤换美联储理事库克 下令成立调查委员会",
-        "seq": 208
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1896,7 @@
         "time": "2026-10-10 23:10",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261009-9813276",
         "title": "谢美丽控股遭质询信息披露问题 涉及子公司拖欠公积金",
-        "seq": 209
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1905,7 @@
         "time": "2026-10-10 23:15",
         "link": "https://www.zaobao.com.sg/news/sea/story20261009-9812907",
         "title": "安华：柔新经济特区吸引414亿新元投资 将加强税务优惠",
-        "seq": 210
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1914,25 @@
         "time": "2026-10-10 23:16",
         "link": "https://www.zaobao.com.sg/news/world/story20261010-9817006",
         "title": "飓风“伊萨亚斯”登陆美国东南部 造成两人死亡约80万户断电",
-        "seq": 211
+        "seq": 213
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:22",
+        "time": "2026-10-10 23:22",
+        "link": "https://www.zaobao.com.sg/news/china/story20261010-9816711",
+        "title": "大陆船只现身台湾东部及巴丹群岛附近  学者：大战略中的小行动",
+        "seq": 214
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:23",
+        "time": "2026-10-10 23:23",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261010-9816903",
+        "title": "王曼昱蒯曼再胜张本美和早田希娜 夺WTT中国大满贯女双冠军",
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1941,7 @@
         "time": "2026-10-10 23:32",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261009-9812668",
         "title": "烟霾加剧PSI写今年新高 幼儿园乐龄机构调整运作护健康",
-        "seq": 212
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1950,7 @@
         "time": "2026-10-10 23:32",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261009-9812668",
         "title": "烟霾加剧PSI走高 幼儿园乐龄机构暂停户外活动防霾",
-        "seq": 213
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1959,7 @@
         "time": "2026-10-10 23:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20261009-9813328",
         "title": "安华提呈5100亿预算案 分析：派糖回应民生东马诉求维稳",
-        "seq": 214
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1968,7 @@
         "time": "2026-10-10 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20261009-9813448",
         "title": "国际刑事法院强烈谴责美国制裁 吁成员国捍卫国际法治",
-        "seq": 215
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1941,6 +1977,6 @@
         "time": "2026-10-10 23:53",
         "link": "https://www.zaobao.com.sg/news/world/story20261009-9813472",
         "title": "伊朗革命卫队：将不限于在霍尔木兹海峡打击违规船只",
-        "seq": 216
+        "seq": 220
     }
 ]
