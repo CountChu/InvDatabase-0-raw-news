@@ -1810,12 +1810,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:20",
+        "time": "2026-10-11 23:20",
+        "link": "https://www.zaobao.com.sg/news/world/story20261011-9820377",
+        "title": "特朗普：俄乌同意“能源停火” 乌克兰否认",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:22",
         "time": "2026-10-11 23:22",
         "link": "https://www.zaobao.com.sg/news/china/story20261010-9816711",
         "title": "大陆船只现身台湾东部及巴丹群岛附近  学者：大战略中的小行动",
-        "seq": 202
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1833,7 @@
         "time": "2026-10-11 23:23",
         "link": "https://www.zaobao.com.sg/news/sports/story20261010-9816903",
         "title": "王曼昱蒯曼再胜张本美和早田希娜 夺WTT中国大满贯女双冠军",
-        "seq": 203
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1842,25 @@
         "time": "2026-10-11 23:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20261009-9813328",
         "title": "安华提呈5100亿预算案 分析：派糖回应民生东马诉求维稳",
-        "seq": 204
+        "seq": 205
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:39",
+        "time": "2026-10-11 23:39",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261011-9820271",
+        "title": "空污料持续 新加坡时隔11年再启动烟霾津贴计划",
+        "seq": 206
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:39",
+        "time": "2026-10-11 23:39",
+        "link": "https://www.zaobao.com.sg/news/world/story20261011-9820613",
+        "title": "苏丹边境金矿遭空袭 数十名矿工恐丧命",
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1842,6 +1869,6 @@
         "time": "2026-10-11 23:56",
         "link": "https://www.zaobao.com.sg/news/china/story20261010-9817107",
         "title": "台民企晋陞太空拟2028年在北海道再发射火箭",
-        "seq": 205
+        "seq": 208
     }
 ]
