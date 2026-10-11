@@ -1640,11 +1640,29 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "22:20",
+        "time": "2026-10-11 22:20",
+        "link": "https://www.zaobao.com.sg/news/world/story20261011-9820023",
+        "title": "利雅得国际机场遇袭致12死 胡塞武装称沙特各机场已成战区",
+        "seq": 183
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "22:21",
         "time": "2026-10-11 22:21",
         "link": "https://www.zaobao.com.sg/news/world/story20261010-9816878",
         "title": "沙特利雅得机场又传巨响 五人重伤多家航司取消航班",
-        "seq": 183
+        "seq": 184
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:23",
+        "time": "2026-10-11 22:23",
+        "link": "https://www.zaobao.com.sg/news/world/story20261011-9820408",
+        "title": "泽连斯基：俄若同意全面停火60天 乌克兰可举行选举",
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1671,7 @@
         "time": "2026-10-11 22:29",
         "link": "https://www.zaobao.com.sg/finance/world/story20261009-9813174",
         "title": "伦敦迎一年来最大上市 Airtel Money首日跌破发行价",
-        "seq": 184
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1680,16 @@
         "time": "2026-10-11 22:31",
         "link": "https://www.zaobao.com.sg/news/sports/story20261010-9816832",
         "title": "吉马良斯替补立大功 助炮兵逆转胜利兹避免再遇耻辱",
-        "seq": 185
+        "seq": 187
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:33",
+        "time": "2026-10-11 22:33",
+        "link": "https://www.zaobao.com.sg/news/china/story20261011-9819986",
+        "title": "华为陷刹车踏板支架断裂争议后 中国官方整治“速成车”",
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1698,7 @@
         "time": "2026-10-11 22:37",
         "link": "https://www.zaobao.com.sg/news/sports/story20261010-9816852",
         "title": "维斯塔潘F1生涯 单日取两突破 新加坡首开胜迹又摘正赛首杆",
-        "seq": 186
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1707,16 @@
         "time": "2026-10-11 22:37",
         "link": "https://www.zaobao.com.sg/news/sports/story20261010-9816852",
         "title": "F1生涯一日两突破 维斯塔潘新加坡冲刺赛称王再夺杆位",
-        "seq": 187
+        "seq": 190
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:37",
+        "time": "2026-10-11 22:37",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261011-9819681",
+        "title": "印尼外长向马国说明灭火情况 盼天气尽快好转",
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1725,7 @@
         "time": "2026-10-11 22:39",
         "link": "https://www.zaobao.com.sg/news/world/story20261010-9816719",
         "title": "美俄达协议允许俄供应柴油 乌克兰批美方给普京送礼",
-        "seq": 188
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1734,7 @@
         "time": "2026-10-11 22:50",
         "link": "https://www.zaobao.com.sg/news/china/story20261010-9816961",
         "title": "中国外交部：暂无中国公民在巴拿马地震中伤亡",
-        "seq": 189
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1743,7 @@
         "time": "2026-10-11 23:10",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261009-9813276",
         "title": "谢美丽控股遭质询信息披露问题 涉及子公司拖欠公积金",
-        "seq": 190
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1752,7 @@
         "time": "2026-10-11 23:15",
         "link": "https://www.zaobao.com.sg/news/sea/story20261009-9812907",
         "title": "安华：柔新经济特区吸引414亿新元投资 将加强税务优惠",
-        "seq": 191
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1761,7 @@
         "time": "2026-10-11 23:16",
         "link": "https://www.zaobao.com.sg/news/world/story20261010-9817006",
         "title": "飓风“伊萨亚斯”登陆美国东南部 造成两人死亡约80万户断电",
-        "seq": 192
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1770,7 @@
         "time": "2026-10-11 23:22",
         "link": "https://www.zaobao.com.sg/news/china/story20261010-9816711",
         "title": "大陆船只现身台湾东部及巴丹群岛附近  学者：大战略中的小行动",
-        "seq": 193
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1779,7 @@
         "time": "2026-10-11 23:23",
         "link": "https://www.zaobao.com.sg/news/sports/story20261010-9816903",
         "title": "王曼昱蒯曼再胜张本美和早田希娜 夺WTT中国大满贯女双冠军",
-        "seq": 194
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1788,7 @@
         "time": "2026-10-11 23:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20261009-9813328",
         "title": "安华提呈5100亿预算案 分析：派糖回应民生东马诉求维稳",
-        "seq": 195
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1761,6 +1797,6 @@
         "time": "2026-10-11 23:56",
         "link": "https://www.zaobao.com.sg/news/china/story20261010-9817107",
         "title": "台民企晋陞太空拟2028年在北海道再发射火箭",
-        "seq": 196
+        "seq": 200
     }
 ]
