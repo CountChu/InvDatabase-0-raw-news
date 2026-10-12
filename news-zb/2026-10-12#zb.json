@@ -2044,12 +2044,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:01",
+        "time": "2026-10-12 23:01",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261012-9823444",
+        "title": "新加坡与文莱签谅解备忘录 加强关键物资供应链韧性",
+        "seq": 228
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:01",
+        "time": "2026-10-12 23:01",
+        "link": "https://www.zaobao.com.sg/news/china/story20261012-9825661",
+        "title": "解放军在六处海域密集演训 大陆专家：为台海军事斗争多海联动作准备",
+        "seq": 229
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:02",
         "time": "2026-10-12 23:02",
         "link": "https://www.zaobao.com.sg/news/world/story20261011-9820479",
         "title": "沙特首都利雅得再传两声爆炸 防空系统拦截导弹",
-        "seq": 228
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2076,16 @@
         "time": "2026-10-12 23:10",
         "link": "https://www.zaobao.com.sg/news/sports/story20261011-9820361",
         "title": "郑钦文中网登顶女单创历史 “主场封后一直是梦想”",
-        "seq": 229
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:11",
+        "time": "2026-10-12 23:11",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261012-9825585",
+        "title": "尚达曼会见泰王 邀来新国事访问",
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2094,7 @@
         "time": "2026-10-12 23:13",
         "link": "https://www.zaobao.com.sg/finance/world/story20261011-9820548",
         "title": "泰国交易所修订卖空及高频交易规则",
-        "seq": 230
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2103,7 @@
         "time": "2026-10-12 23:20",
         "link": "https://www.zaobao.com.sg/news/world/story20261011-9820377",
         "title": "特朗普：俄乌同意“能源停火” 乌克兰否认",
-        "seq": 231
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2112,7 @@
         "time": "2026-10-12 23:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261011-9820271",
         "title": "空污料持续 新加坡时隔11年再启动烟霾津贴计划",
-        "seq": 232
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2121,7 @@
         "time": "2026-10-12 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20261011-9820613",
         "title": "苏丹边境金矿遭空袭 数十名矿工恐丧命",
-        "seq": 233
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2103,6 +2130,6 @@
         "time": "2026-10-12 23:53",
         "link": "https://www.zaobao.com.sg/news/sports/story20261011-9819966",
         "title": "【图集】滨海湾赛道极速狂飙 F1围场内外嗨不停",
-        "seq": 234
+        "seq": 237
     }
 ]
