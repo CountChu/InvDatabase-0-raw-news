@@ -1999,12 +1999,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:41",
+        "time": "2026-10-12 22:41",
+        "link": "https://www.zaobao.com.sg/news/china/story20261012-9825399",
+        "title": "台湾军方拟留用技术成熟抗高压飞行军官 并延役至58岁",
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:44",
         "time": "2026-10-12 22:44",
         "link": "https://www.zaobao.com.sg/news/sports/story20261011-9820210",
         "title": "WTT中国大满贯 松岛辉空称王 王曼昱封后",
-        "seq": 223
+        "seq": 224
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:49",
+        "time": "2026-10-12 22:49",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261012-9825621",
+        "title": "黄循财总理忧AI冲击初级岗位 促企业重视培训学生勿走捷径",
+        "seq": 225
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:53",
+        "time": "2026-10-12 22:53",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261012-9825785",
+        "title": "阿尔卡拉斯意外止步上海大师赛32强 兹维列夫首登年终第一",
+        "seq": 226
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:59",
+        "time": "2026-10-12 22:59",
+        "link": "https://www.zaobao.com.sg/news/world/story20261012-9825706",
+        "title": "沙特胡塞武装冲突急剧升温 德黑兰愿助促进对话",
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2049,7 @@
         "time": "2026-10-12 23:02",
         "link": "https://www.zaobao.com.sg/news/world/story20261011-9820479",
         "title": "沙特首都利雅得再传两声爆炸 防空系统拦截导弹",
-        "seq": 224
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2058,7 @@
         "time": "2026-10-12 23:10",
         "link": "https://www.zaobao.com.sg/news/sports/story20261011-9820361",
         "title": "郑钦文中网登顶女单创历史 “主场封后一直是梦想”",
-        "seq": 225
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2067,7 @@
         "time": "2026-10-12 23:13",
         "link": "https://www.zaobao.com.sg/finance/world/story20261011-9820548",
         "title": "泰国交易所修订卖空及高频交易规则",
-        "seq": 226
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2076,7 @@
         "time": "2026-10-12 23:20",
         "link": "https://www.zaobao.com.sg/news/world/story20261011-9820377",
         "title": "特朗普：俄乌同意“能源停火” 乌克兰否认",
-        "seq": 227
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2085,7 @@
         "time": "2026-10-12 23:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261011-9820271",
         "title": "空污料持续 新加坡时隔11年再启动烟霾津贴计划",
-        "seq": 228
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2094,7 @@
         "time": "2026-10-12 23:39",
         "link": "https://www.zaobao.com.sg/news/world/story20261011-9820613",
         "title": "苏丹边境金矿遭空袭 数十名矿工恐丧命",
-        "seq": 229
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2067,6 +2103,6 @@
         "time": "2026-10-12 23:53",
         "link": "https://www.zaobao.com.sg/news/sports/story20261011-9819966",
         "title": "【图集】滨海湾赛道极速狂飙 F1围场内外嗨不停",
-        "seq": 230
+        "seq": 234
     }
 ]
