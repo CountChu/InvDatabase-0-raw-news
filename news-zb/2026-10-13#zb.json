@@ -2188,12 +2188,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:04",
+        "time": "2026-10-13 23:04",
+        "link": "https://www.zaobao.com.sg/news/world/story20261013-9832168",
+        "title": "泽连斯基：基辅遭俄弹道导弹袭击前 未获盟友预警",
+        "seq": 244
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:11",
         "time": "2026-10-13 23:11",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261012-9825585",
         "title": "尚达曼总统会见泰王 邀来新国事访问",
-        "seq": 244
+        "seq": 245
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:11",
+        "time": "2026-10-13 23:11",
+        "link": "https://www.zaobao.com.sg/news/world/story20261013-9832220",
+        "title": "胡塞武装媒体：沙特空袭萨那石油设施 联军此前警告撤离",
+        "seq": 246
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:12",
+        "time": "2026-10-13 23:12",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261013-9831993",
+        "title": "中国金花武网绽放 郭涵煜和施晗逆转种子球员晋级",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:16",
+        "time": "2026-10-13 23:16",
+        "link": "https://www.zaobao.com.sg/news/china/story20261013-9831890",
+        "title": "五天三名中管干部被判刑 中国官方或加快审判进度为五中全会造势",
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2202,7 +2238,7 @@
         "time": "2026-10-13 23:21",
         "link": "https://www.zaobao.com.sg/news/china/story20261012-9825674",
         "title": "中国官方“数据找人”鼓励参保 分析指现行制度与灵活就业现实不匹配",
-        "seq": 245
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2211,7 +2247,7 @@
         "time": "2026-10-13 23:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261012-9823695",
         "title": "我国新版网络安全策略即将推出",
-        "seq": 246
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2220,6 +2256,6 @@
         "time": "2026-10-13 23:36",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261012-9826065",
         "title": "胜科工业南非官司取得最终胜利 当年7000万元脱售股权交易有效",
-        "seq": 247
+        "seq": 251
     }
 ]
