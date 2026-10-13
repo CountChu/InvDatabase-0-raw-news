@@ -2089,12 +2089,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:40",
+        "time": "2026-10-13 22:40",
+        "link": "https://www.zaobao.com.sg/news/world/story20261013-9831350",
+        "title": "胡塞武装警告美国勿介入也门战争 否则将遭“痛苦反击”",
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:41",
         "time": "2026-10-13 22:41",
         "link": "https://www.zaobao.com.sg/news/china/story20261012-9825399",
         "title": "台湾军方拟留用技术成熟抗高压飞行军官 并延役至58岁",
-        "seq": 233
+        "seq": 234
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:44",
+        "time": "2026-10-13 22:44",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261013-9831898",
+        "title": "涉飞机上偷银行卡 两中国籍男子抵新后被捕",
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2121,7 @@
         "time": "2026-10-13 22:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261012-9825621",
         "title": "黄循财总理忧AI冲击初级岗位 促企业重视培训学生勿走捷径",
-        "seq": 234
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2130,16 @@
         "time": "2026-10-13 22:49",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261012-9825621",
         "title": "黄循财总理忧AI冲击初级岗位 促重视培训勿走捷径",
-        "seq": 235
+        "seq": 237
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:49",
+        "time": "2026-10-13 22:49",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261013-9831521",
+        "title": "义安公司去年捐4320万元创历来最高 SOTA获250万元善款",
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2148,16 @@
         "time": "2026-10-13 22:53",
         "link": "https://www.zaobao.com.sg/news/sports/story20261012-9825785",
         "title": "阿尔卡拉斯意外止步上海大师赛32强 兹维列夫首登年终第一",
-        "seq": 236
+        "seq": 239
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:58",
+        "time": "2026-10-13 22:58",
+        "link": "https://www.zaobao.com.sg/news/world/story20261013-9832131",
+        "title": "卡塔尔上半年收入锐减42% 战争冲击天然气出口",
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2166,7 @@
         "time": "2026-10-13 22:59",
         "link": "https://www.zaobao.com.sg/news/world/story20261012-9825706",
         "title": "沙特胡塞武装冲突急剧升温 德黑兰愿助促进对话",
-        "seq": 237
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2175,7 @@
         "time": "2026-10-13 23:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261012-9823444",
         "title": "新加坡与文莱签谅解备忘录 加强关键物资供应链韧性",
-        "seq": 238
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2184,7 @@
         "time": "2026-10-13 23:01",
         "link": "https://www.zaobao.com.sg/news/china/story20261012-9825661",
         "title": "解放军在六处海域密集演训 大陆专家：为台海军事斗争多海联动作准备",
-        "seq": 239
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2193,7 @@
         "time": "2026-10-13 23:11",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261012-9825585",
         "title": "尚达曼总统会见泰王 邀来新国事访问",
-        "seq": 240
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2202,7 @@
         "time": "2026-10-13 23:21",
         "link": "https://www.zaobao.com.sg/news/china/story20261012-9825674",
         "title": "中国官方“数据找人”鼓励参保 分析指现行制度与灵活就业现实不匹配",
-        "seq": 241
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2211,7 @@
         "time": "2026-10-13 23:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261012-9823695",
         "title": "我国新版网络安全策略即将推出",
-        "seq": 242
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2184,6 +2220,6 @@
         "time": "2026-10-13 23:36",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261012-9826065",
         "title": "胜科工业南非官司取得最终胜利 当年7000万元脱售股权交易有效",
-        "seq": 243
+        "seq": 247
     }
 ]
