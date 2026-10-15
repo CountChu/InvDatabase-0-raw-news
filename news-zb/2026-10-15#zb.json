@@ -2080,12 +2080,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:42",
+        "time": "2026-10-15 22:42",
+        "link": "https://www.zaobao.com.sg/news/world/story20261015-9844638",
+        "title": "沙特称胡塞武装对利雅得机场袭击致17死逾300伤",
+        "seq": 232
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "22:48",
         "time": "2026-10-15 22:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261014-9836850",
         "title": "海外冲突或引发社会对立 黄循财总理吁深化跨宗教交流",
-        "seq": 232
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:48",
+        "time": "2026-10-15 22:48",
+        "link": "https://www.zaobao.com.sg/news/world/story20261015-9844683",
+        "title": "强降雨致土耳其最大城市三人死",
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2112,7 @@
         "time": "2026-10-15 22:57",
         "link": "https://www.zaobao.com.sg/news/china/story20261014-9838412",
         "title": "四川雷波教师与“耻辱”二字合影 当地教体局局长调离",
-        "seq": 233
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2121,7 @@
         "time": "2026-10-15 22:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261014-9838302",
         "title": "追究跨境烟霾污染 傅海燕：正评估数据 保留各种选项",
-        "seq": 234
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2130,7 @@
         "time": "2026-10-15 23:03",
         "link": "https://www.zaobao.com.sg/news/sports/story20261014-9838269",
         "title": "武网迎来超级星期三 前两号种子均出局",
-        "seq": 235
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2139,7 @@
         "time": "2026-10-15 23:04",
         "link": "https://www.zaobao.com.sg/news/world/story20261014-9837641",
         "title": "胡塞武装袭击沙特阿美总部 誓继续瞄准石油设施与机场",
-        "seq": 236
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2148,7 @@
         "time": "2026-10-15 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20261014-9838414",
         "title": "泽连斯基访英 伯纳姆望帮忙修复美乌关系",
-        "seq": 237
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2157,7 @@
         "time": "2026-10-15 23:12",
         "link": "https://www.zaobao.com.sg/news/china/story20261014-9838467",
         "title": "伍浩被双开 曾任中国发改委秘书长",
-        "seq": 238
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2166,7 @@
         "time": "2026-10-15 23:14",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261014-9838341",
         "title": "Sir Money Change执照遭吊销 不得再提供跨境汇款及货币兑换服务",
-        "seq": 239
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2175,7 @@
         "time": "2026-10-15 23:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261014-9838276",
         "title": "人力部探讨试行灵活工作量方案 拟资助雇主重新设计职务",
-        "seq": 240
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2184,7 @@
         "time": "2026-10-15 23:45",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261014-9838502",
         "title": "ｍｍ2全亚及子公司 仍拖欠21万9000元公积金",
-        "seq": 241
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2175,6 +2193,6 @@
         "time": "2026-10-15 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20261014-9838546",
         "title": "国际机构报告：AI代理从腾讯云沙盒“越狱”入侵高德系统",
-        "seq": 242
+        "seq": 244
     }
 ]
