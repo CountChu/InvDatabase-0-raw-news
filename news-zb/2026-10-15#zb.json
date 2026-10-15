@@ -1945,12 +1945,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:05",
+        "time": "2026-10-15 22:05",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261015-9843565",
+        "title": "台湾科企大众投控柔新特区设厂 拟打造横跨新马营运平台",
+        "seq": 217
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:08",
+        "time": "2026-10-15 22:08",
+        "link": "https://www.zaobao.com.sg/news/china/story20261015-9844572",
+        "title": "中国三部门联合调查尊界V800刹车踏板支架断裂问题",
+        "seq": 218
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:09",
         "time": "2026-10-15 22:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20261014-9837435",
         "title": "马国因烟霾估计日损高达1570万元　律师：难提告印尼",
-        "seq": 217
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1977,7 @@
         "time": "2026-10-15 22:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20261014-9837435",
         "title": "马国因烟霾估计日损高达1570万新元 律师：难提告印尼",
-        "seq": 218
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1986,7 @@
         "time": "2026-10-15 22:10",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261014-9838134",
         "title": "国浩房地产马国子公司自愿清盘 不影响每股有形资产",
-        "seq": 219
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1977,7 +1995,34 @@
         "time": "2026-10-15 22:12",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261014-9832192",
         "title": "接“国际刑警”电话险失3万元 大华银行助67岁德士叔保积蓄",
-        "seq": 220
+        "seq": 222
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:14",
+        "time": "2026-10-15 22:14",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261015-9843852",
+        "title": "防霾用品需求增货源有限 N95口罩售价涨近两成",
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:14",
+        "time": "2026-10-15 22:14",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261015-9844300",
+        "title": "纳吉接获居家服刑细则 获准与家人同住引争议",
+        "seq": 224
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:16",
+        "time": "2026-10-15 22:16",
+        "link": "https://www.zaobao.com.sg/news/china/story20261015-9843930",
+        "title": "欧盟拟扩大对华贸易限制 中欧贸易摩擦恐升级",
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2031,7 @@
         "time": "2026-10-15 22:32",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261014-9838267",
         "title": "健卫部：除了N95口罩 KN95等三类口罩也可防烟霾",
-        "seq": 221
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2040,7 @@
         "time": "2026-10-15 22:32",
         "link": "https://www.zaobao.com.sg/news/china/story20261014-9837708",
         "title": "辽宁舰时隔四月再赴西太平洋训练 或与解放军六处海域演训相关",
-        "seq": 222
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2049,7 @@
         "time": "2026-10-15 22:34",
         "link": "https://www.zaobao.com.sg/news/world/story20261014-9836825",
         "title": "新鸭绿江大桥建成12年终于通车 中朝或就经济分歧达成妥协",
-        "seq": 223
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2058,7 @@
         "time": "2026-10-15 22:38",
         "link": "https://www.zaobao.com.sg/news/china/story20261014-9837549",
         "title": "美学者：中国崛起威胁美国世界第一信念 中美合作预计有限",
-        "seq": 224
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2067,7 @@
         "time": "2026-10-15 22:38",
         "link": "https://www.zaobao.com.sg/news/sea/story20261014-9838285",
         "title": "多家美企有意投资马国稀土业 减少对华依赖",
-        "seq": 225
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2076,7 @@
         "time": "2026-10-15 22:41",
         "link": "https://www.zaobao.com.sg/news/sea/story20261014-9838330",
         "title": "包括34名中国公民 森州警方瓦解诈骗团伙捕40人",
-        "seq": 226
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2085,7 @@
         "time": "2026-10-15 22:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261014-9836850",
         "title": "海外冲突或引发社会对立 黄循财总理吁深化跨宗教交流",
-        "seq": 227
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2094,7 @@
         "time": "2026-10-15 22:57",
         "link": "https://www.zaobao.com.sg/news/china/story20261014-9838412",
         "title": "四川雷波教师与“耻辱”二字合影 当地教体局局长调离",
-        "seq": 228
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2103,7 @@
         "time": "2026-10-15 22:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261014-9838302",
         "title": "追究跨境烟霾污染 傅海燕：正评估数据 保留各种选项",
-        "seq": 229
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2112,7 @@
         "time": "2026-10-15 23:03",
         "link": "https://www.zaobao.com.sg/news/sports/story20261014-9838269",
         "title": "武网迎来超级星期三 前两号种子均出局",
-        "seq": 230
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2121,7 @@
         "time": "2026-10-15 23:04",
         "link": "https://www.zaobao.com.sg/news/world/story20261014-9837641",
         "title": "胡塞武装袭击沙特阿美总部 誓继续瞄准石油设施与机场",
-        "seq": 231
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2130,7 @@
         "time": "2026-10-15 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20261014-9838414",
         "title": "泽连斯基访英 伯纳姆望帮忙修复美乌关系",
-        "seq": 232
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2139,7 @@
         "time": "2026-10-15 23:12",
         "link": "https://www.zaobao.com.sg/news/china/story20261014-9838467",
         "title": "伍浩被双开 曾任中国发改委秘书长",
-        "seq": 233
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2148,7 @@
         "time": "2026-10-15 23:14",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261014-9838341",
         "title": "Sir Money Change执照遭吊销 不得再提供跨境汇款及货币兑换服务",
-        "seq": 234
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2157,7 @@
         "time": "2026-10-15 23:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261014-9838276",
         "title": "人力部探讨试行灵活工作量方案 拟资助雇主重新设计职务",
-        "seq": 235
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2166,7 @@
         "time": "2026-10-15 23:45",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261014-9838502",
         "title": "ｍｍ2全亚及子公司 仍拖欠21万9000元公积金",
-        "seq": 236
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2130,6 +2175,6 @@
         "time": "2026-10-15 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20261014-9838546",
         "title": "国际机构报告：AI代理从腾讯云沙盒“越狱”入侵高德系统",
-        "seq": 237
+        "seq": 242
     }
 ]
