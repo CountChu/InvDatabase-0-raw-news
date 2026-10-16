@@ -1468,12 +1468,84 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "19:20",
+        "time": "2026-10-16 19:20",
+        "link": "https://www.zaobao.com.sg/news/world/story20261016-9848722",
+        "title": "伊朗战争推高油轮需求 二手船比新船更抢手",
+        "seq": 164
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "19:21",
+        "time": "2026-10-16 19:21",
+        "link": "https://www.zaobao.com.sg/news/china/story20261016-9849595",
+        "title": "习近平考察中国AI算力重镇乌兰察布：搞好算力中心建设",
+        "seq": 165
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "19:23",
+        "time": "2026-10-16 19:23",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261016-9848110",
+        "title": "从mm2到谢美丽再到老火汤 企业陷入债务困境 为何都拖欠公积金？",
+        "seq": 166
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "19:26",
+        "time": "2026-10-16 19:26",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261016-9830098",
+        "title": "24届金字品牌奖评审：参赛企业善用知识产权 提升品牌竞争优势",
+        "seq": 167
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "19:27",
+        "time": "2026-10-16 19:27",
+        "link": "https://www.zaobao.com.sg/news/china/story20261016-9849679",
+        "title": "中国回应无核化：现阶段参加裁军谈判不公平不合理也不可能",
+        "seq": 168
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "19:28",
+        "time": "2026-10-16 19:28",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261016-9849538",
+        "title": "马国承诺助缅甸重返亚细安 五点共识受考验",
+        "seq": 169
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "19:30",
+        "time": "2026-10-16 19:30",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261016-9849532",
+        "title": "日本食品控股预计上半财年扭亏为盈",
+        "seq": 170
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "19:38",
+        "time": "2026-10-16 19:38",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261016-9849427",
+        "title": "新交所监管公司：正与挂牌种植园企业接洽 了解是否涉及烟霾",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "19:41",
         "time": "2026-10-16 19:41",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261015-9843531",
         "title": "消息人士：亚狮达拟重启毛广岛一炼油装置",
-        "seq": 164
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1554,7 @@
         "time": "2026-10-16 19:49",
         "link": "https://www.zaobao.com.sg/news/sea/story20261015-9843803",
         "title": "民调：莎拉仍获多数菲律宾人信任和支持",
-        "seq": 165
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1563,7 @@
         "time": "2026-10-16 20:00",
         "link": "https://www.zaobao.com.sg/news/sports/story20261015-9843536",
         "title": "游泳世界杯三站摘金 颜欣慧刷新女子1500米亚洲短池纪录",
-        "seq": 166
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1572,7 @@
         "time": "2026-10-16 20:07",
         "link": "https://www.zaobao.com.sg/news/world/story20261015-9840596",
         "title": "美军首款高超音速武器部署延误逾三年",
-        "seq": 167
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1581,7 @@
         "time": "2026-10-16 20:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261015-9842554",
         "title": "西部空污指数居高 小贩中心人流减少",
-        "seq": 168
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1590,7 @@
         "time": "2026-10-16 20:19",
         "link": "https://www.zaobao.com.sg/news/china/story20261015-9844038",
         "title": "大陆国台办批蔡康永 台陆委会：杀鸡儆猴",
-        "seq": 169
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1599,7 @@
         "time": "2026-10-16 20:22",
         "link": "https://www.zaobao.com.sg/news/sea/story20261015-9843978",
         "title": "泰国千多人示威 抗议世行及IMF政策“重企轻民”",
-        "seq": 170
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1608,7 @@
         "time": "2026-10-16 20:26",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261015-9840644",
         "title": "OpenAI支持透明通报AI安全事故 具体时限由各国制定",
-        "seq": 171
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1617,7 @@
         "time": "2026-10-16 20:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20261015-9843731",
         "title": "马国去年至今批准建设27个数据中心",
-        "seq": 172
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1626,7 @@
         "time": "2026-10-16 20:33",
         "link": "https://www.zaobao.com.sg/news/china/story20261015-9843198",
         "title": "下午察：雅思取消风波背后的留学焦虑",
-        "seq": 173
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1635,7 @@
         "time": "2026-10-16 20:33",
         "link": "https://www.zaobao.com.sg/news/sea/story20261015-9844092",
         "title": "印尼总统批准接受外国援助应对野火 东南亚烟霾危机何时结束？",
-        "seq": 174
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1644,7 @@
         "time": "2026-10-16 20:49",
         "link": "https://www.zaobao.com.sg/news/world/story20261015-9844026",
         "title": "乌克兰结束能源停火 恢复打击俄炼油厂",
-        "seq": 175
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1653,7 @@
         "time": "2026-10-16 20:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261015-9842585",
         "title": "霍尔木兹海峡局势紧张 四天内至少10艘船遇袭",
-        "seq": 176
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1662,7 @@
         "time": "2026-10-16 21:00",
         "link": "https://www.zaobao.com.sg/news/world/story20261015-9844214",
         "title": "斯里兰卡人象冲突两败俱伤",
-        "seq": 177
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1671,7 @@
         "time": "2026-10-16 21:11",
         "link": "https://www.zaobao.com.sg/finance/world/story20261015-9843223",
         "title": "周四美市盘前科技股承压 台积电强劲业绩难挡市场忧虑",
-        "seq": 178
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1680,7 @@
         "time": "2026-10-16 21:14",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261015-9550206",
         "title": "台湾美睫公司赢官司却未获赔偿 须付同行3190元讼费",
-        "seq": 179
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1689,7 @@
         "time": "2026-10-16 21:15",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261015-9842774",
         "title": "维文：科技巨头影响力日增 传统外交须突破国界",
-        "seq": 180
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1698,7 @@
         "time": "2026-10-16 21:47",
         "link": "https://www.zaobao.com.sg/news/world/story20261015-9843355",
         "title": "【美国中期选举】担心特朗普干预选举 民主党招募100名观察员",
-        "seq": 181
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1707,7 @@
         "time": "2026-10-16 21:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261015-9843940",
         "title": "不忍伴侣余生绑定洗肾机 妻子产二胎后捐肾救夫",
-        "seq": 182
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1716,7 @@
         "time": "2026-10-16 21:56",
         "link": "https://www.zaobao.com.sg/news/world/story20261015-9844474",
         "title": "黎巴嫩查获数百公斤炸药 真主党承认拟用于袭击以军",
-        "seq": 183
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1725,7 @@
         "time": "2026-10-16 22:05",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261015-9843565",
         "title": "台湾科企大众投控柔新特区设厂 拟打造横跨新马营运平台",
-        "seq": 184
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1734,7 @@
         "time": "2026-10-16 22:08",
         "link": "https://www.zaobao.com.sg/news/china/story20261015-9844572",
         "title": "中国三部门联合调查尊界V800刹车踏板支架断裂问题",
-        "seq": 185
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1743,7 @@
         "time": "2026-10-16 22:14",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261015-9843852",
         "title": "防霾用品需求增货源有限 N95口罩售价涨近两成",
-        "seq": 186
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1752,7 @@
         "time": "2026-10-16 22:14",
         "link": "https://www.zaobao.com.sg/news/sea/story20261015-9844300",
         "title": "纳吉接获居家服刑细则 获准与家人同住引争议",
-        "seq": 187
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1761,7 @@
         "time": "2026-10-16 22:16",
         "link": "https://www.zaobao.com.sg/news/china/story20261015-9843930",
         "title": "欧盟拟扩大对华贸易限制 中欧贸易摩擦恐升级",
-        "seq": 188
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1770,7 @@
         "time": "2026-10-16 22:42",
         "link": "https://www.zaobao.com.sg/news/world/story20261015-9844638",
         "title": "沙特称胡塞武装对利雅得机场袭击致17死逾300伤",
-        "seq": 189
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1779,7 @@
         "time": "2026-10-16 22:48",
         "link": "https://www.zaobao.com.sg/news/world/story20261015-9844683",
         "title": "强降雨致土耳其最大城市三人死",
-        "seq": 190
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1788,7 @@
         "time": "2026-10-16 23:04",
         "link": "https://www.zaobao.com.sg/news/world/story20261015-9844743",
         "title": "哈里夫妇迁回英国后首次共同公开亮相",
-        "seq": 191
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1797,7 @@
         "time": "2026-10-16 23:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20261015-9844109",
         "title": "客场1比0胜香港大埔队 狮城水手迎本季亚冠二级联首胜",
-        "seq": 192
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1806,7 @@
         "time": "2026-10-16 23:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261015-9844336",
         "title": "调查：仅三分一慈善机构 自认人员管理能力成熟",
-        "seq": 193
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1815,7 @@
         "time": "2026-10-16 23:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261015-9844611",
         "title": "新航乘客高空滋事 客机折返旧金山",
-        "seq": 194
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1824,7 @@
         "time": "2026-10-16 23:21",
         "link": "https://www.zaobao.com.sg/news/china/story20261015-9844604",
         "title": "美国金融家：中美可合作开发AI药物试验平台",
-        "seq": 195
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1833,7 @@
         "time": "2026-10-16 23:24",
         "link": "https://www.zaobao.com.sg/news/sports/story20261015-9844725",
         "title": "武网八强出炉 前10种子仅剩叶连娜与伊加",
-        "seq": 196
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1842,7 @@
         "time": "2026-10-16 23:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261015-9816089",
         "title": "组屋公共空间禁止球类游戏 家长叹育儿难",
-        "seq": 197
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1851,7 @@
         "time": "2026-10-16 23:36",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261015-9843788",
         "title": "NKF拟加强援助捐肾者 减轻经济负担助患者早日换肾",
-        "seq": 198
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1860,7 @@
         "time": "2026-10-16 23:40",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261015-9844455",
         "title": "新加坡与英国展开药品生产规范互认协议",
-        "seq": 199
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1869,7 @@
         "time": "2026-10-16 23:44",
         "link": "https://www.zaobao.com.sg/news/world/story20261015-9844857",
         "title": "美国军事基地枪击案死囚将伏法 特朗普叫停直播处决",
-        "seq": 200
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1806,6 +1878,6 @@
         "time": "2026-10-16 23:47",
         "link": "https://www.zaobao.com.sg/news/sports/story20261015-9843777",
         "title": "黄德炎之子黄乔丹签约越南冠军队 迈向职业排球之路",
-        "seq": 201
+        "seq": 209
     }
 ]
