@@ -1729,12 +1729,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:04",
+        "time": "2026-10-18 23:04",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261018-9857105",
+        "title": "亚残运会正式开幕 新加坡擎旗手洪凯明：盼为国争光",
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:05",
+        "time": "2026-10-18 23:05",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261018-9857190",
+        "title": "淡滨尼组屋停水近三小时未恢复 居民：无法洗澡没水喝",
+        "seq": 194
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:08",
+        "time": "2026-10-18 23:08",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261018-9857140",
+        "title": "黄循财总理抵达卡塔尔 展开中东正式访问",
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:11",
         "time": "2026-10-18 23:11",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261016-9850678",
         "title": "吉宝在胡志明市一宗仲裁程序已暂停 涉及3.3亿元额外土地使用费",
-        "seq": 193
+        "seq": 196
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:12",
+        "time": "2026-10-18 23:12",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261018-9857122",
+        "title": "烟霾难挡虔诚信仰 大批信众到东海岸恭送九皇爷",
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1779,16 @@
         "time": "2026-10-18 23:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20261017-9852198",
         "title": "上海网球大师赛爆双冷门 兹维列夫与梅德韦杰夫止步四强",
-        "seq": 194
+        "seq": 198
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:15",
+        "time": "2026-10-18 23:15",
+        "link": "https://www.zaobao.com.sg/news/world/story20261018-9857216",
+        "title": "胡塞武装：沙特空袭也门北部致9死17伤",
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1797,7 @@
         "time": "2026-10-18 23:19",
         "link": "https://www.zaobao.com.sg/finance/world/story20261016-9850658",
         "title": "升息预期走高推涨债务风险 CoreWeave股价大跌逾7%",
-        "seq": 195
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1806,7 @@
         "time": "2026-10-18 23:19",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261016-9850435",
         "title": "万国公司拟收购加冷地段建私宅 土地总成本约10.1亿元",
-        "seq": 196
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1815,7 @@
         "time": "2026-10-18 23:24",
         "link": "https://www.zaobao.com.sg/news/sports/story20261017-9852197",
         "title": "亚残运会提前打响 我国硬地滚球与乒乓健儿获开门红",
-        "seq": 197
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1824,7 @@
         "time": "2026-10-18 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261017-9853882",
         "title": "因烟霾取消户外订位食客增多 餐饮业者叹生意下滑四成",
-        "seq": 198
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1788,6 +1833,6 @@
         "time": "2026-10-18 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20261017-9854097",
         "title": "受超强厄尔尼诺现象影响 热带海洋生物现身加州近海",
-        "seq": 199
+        "seq": 204
     }
 ]
