@@ -1549,12 +1549,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:42",
+        "time": "2026-10-18 21:42",
+        "link": "https://www.zaobao.com.sg/news/world/story20261018-9856960",
+        "title": "阿尔巴尼亚反政府示威持续六天 总理拒下台",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:52",
+        "time": "2026-10-18 21:52",
+        "link": "https://www.zaobao.com.sg/news/world/story20261018-9857008",
+        "title": "特朗普归咎移民引发法国骚乱 促巴黎收紧移民政策",
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:01",
         "time": "2026-10-18 22:01",
         "link": "https://www.zaobao.com.sg/news/china/story20261017-9853920",
         "title": "潘功胜：支持IMF加强监测发达经济体财政风险",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1581,7 @@
         "time": "2026-10-18 22:08",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261017-9853701",
         "title": "图管局通过侦探游戏 引导公众识别假信息与AI虚假内容",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,7 @@
         "time": "2026-10-18 22:13",
         "link": "https://www.zaobao.com.sg/finance/china/story20261016-9850585",
         "title": "中国官方促车企加强测试验证 守牢安全底线不夸大宣传",
-        "seq": 175
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1599,7 @@
         "time": "2026-10-18 22:19",
         "link": "https://www.zaobao.com.sg/news/world/story20261017-9853866",
         "title": "不满对华日均逆差超10亿欧元 欧盟拟推新规强硬限制中国商品进口",
-        "seq": 176
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1608,7 @@
         "time": "2026-10-18 22:24",
         "link": "https://www.zaobao.com.sg/news/world/story20261017-9853957",
         "title": "Anthropic联合创始人：AI迅速发展可大幅增进美国经济产出",
-        "seq": 177
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1617,7 @@
         "time": "2026-10-18 22:33",
         "link": "https://www.zaobao.com.sg/news/sea/story20261016-9849105",
         "title": "印尼野火持续肆虐 四消防员殉职逾27万人染呼吸道疾病",
-        "seq": 178
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1626,7 @@
         "time": "2026-10-18 22:47",
         "link": "https://www.zaobao.com.sg/news/sports/story20261017-9853833",
         "title": "内托双响马丁内斯伤退 切尔西破埃弗顿英超不败金身",
-        "seq": 179
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1635,7 @@
         "time": "2026-10-18 22:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261017-9853523",
         "title": "IMF警告战争带来财政与能源粮食安全风险",
-        "seq": 180
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1644,7 @@
         "time": "2026-10-18 22:56",
         "link": "https://www.zaobao.com.sg/news/china/story20261017-9853365",
         "title": "中纪委强调只要涉腐就没有“平安着陆”　分析：黄奇帆案或在敲打退休干部",
-        "seq": 181
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1653,7 @@
         "time": "2026-10-18 22:59",
         "link": "https://www.zaobao.com.sg/news/world/story20261017-9854035",
         "title": "太阳能发太猛 电网也“吃不消”？斯里兰卡全国停电六小时",
-        "seq": 182
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1662,7 @@
         "time": "2026-10-18 23:11",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261016-9850678",
         "title": "吉宝在胡志明市一宗仲裁程序已暂停 涉及3.3亿元额外土地使用费",
-        "seq": 183
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1671,7 @@
         "time": "2026-10-18 23:14",
         "link": "https://www.zaobao.com.sg/news/sports/story20261017-9852198",
         "title": "上海网球大师赛爆双冷门 兹维列夫与梅德韦杰夫止步四强",
-        "seq": 184
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1680,7 @@
         "time": "2026-10-18 23:19",
         "link": "https://www.zaobao.com.sg/finance/world/story20261016-9850658",
         "title": "升息预期走高推涨债务风险 CoreWeave股价大跌逾7%",
-        "seq": 185
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1689,7 @@
         "time": "2026-10-18 23:19",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261016-9850435",
         "title": "万国公司拟收购加冷地段建私宅 土地总成本约10.1亿元",
-        "seq": 186
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1698,7 @@
         "time": "2026-10-18 23:24",
         "link": "https://www.zaobao.com.sg/news/sports/story20261017-9852197",
         "title": "亚残运会提前打响 我国硬地滚球与乒乓健儿获开门红",
-        "seq": 187
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1707,7 @@
         "time": "2026-10-18 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261017-9853882",
         "title": "因烟霾取消户外订位食客增多 餐饮业者叹生意下滑四成",
-        "seq": 188
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1698,6 +1716,6 @@
         "time": "2026-10-18 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20261017-9854097",
         "title": "受超强厄尔尼诺现象影响 热带海洋生物现身加州近海",
-        "seq": 189
+        "seq": 191
     }
 ]
