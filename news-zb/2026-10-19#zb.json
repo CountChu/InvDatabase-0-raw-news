@@ -506,11 +506,20 @@
     {
         "media": "聯合早報",
         "category": "新加坡",
+        "timeText": "23:05",
+        "time": "2026-10-19 23:05",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261018-9857190",
+        "title": "淡滨尼组屋停水近四小时 居民措手不及一度无法洗澡没水喝",
+        "seq": 57
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
         "timeText": "23:08",
         "time": "2026-10-19 23:08",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261018-9857140",
         "title": "黄循财总理抵达卡塔尔 展开中东正式访问",
-        "seq": 57
+        "seq": 58
     },
     {
         "media": "聯合早報",
@@ -519,7 +528,7 @@
         "time": "2026-10-19 23:12",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261018-9857122",
         "title": "烟霾难挡虔诚信仰 大批信众到东海岸恭送九皇爷",
-        "seq": 58
+        "seq": 59
     },
     {
         "media": "聯合早報",
@@ -528,7 +537,7 @@
         "time": "2026-10-19 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20261018-9857216",
         "title": "胡塞武装：沙特空袭也门北部致9死17伤",
-        "seq": 59
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -537,7 +546,7 @@
         "time": "2026-10-19 23:21",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261018-9711006",
         "title": "社区和体育设施计划调整 新托儿中心不再享额外楼面奖励",
-        "seq": 60
+        "seq": 61
     },
     {
         "media": "聯合早報",
@@ -546,7 +555,7 @@
         "time": "2026-10-19 23:30",
         "link": "https://www.zaobao.com.sg/news/sports/story20261018-9857109",
         "title": "玛雅逆转索纳伊扬威武网 福基纳上海大师赛登顶",
-        "seq": 61
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -555,7 +564,7 @@
         "time": "2026-10-19 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20261018-9857271",
         "title": "特朗普表态支持内坦亚胡连任以色列总理",
-        "seq": 62
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -564,6 +573,6 @@
         "time": "2026-10-19 23:52",
         "link": "https://www.zaobao.com.sg/news/world/story20261018-9857042",
         "title": "法国爆发全国大规模示威 逾2000人被捕经济损失惨重",
-        "seq": 63
+        "seq": 64
     }
 ]
