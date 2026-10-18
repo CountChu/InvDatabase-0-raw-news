@@ -1810,12 +1810,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:21",
+        "time": "2026-10-18 23:21",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261018-9711006",
+        "title": "社区和体育设施计划调整 新托儿中心不再享额外楼面奖励 非营利艺术用途获认可",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:24",
         "time": "2026-10-18 23:24",
         "link": "https://www.zaobao.com.sg/news/sports/story20261017-9852197",
         "title": "亚残运会提前打响 我国硬地滚球与乒乓健儿获开门红",
-        "seq": 202
+        "seq": 203
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:30",
+        "time": "2026-10-18 23:30",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261018-9857109",
+        "title": "玛雅逆转索纳伊扬威武网 福基纳上海大师赛登顶",
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1842,7 @@
         "time": "2026-10-18 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261017-9853882",
         "title": "因烟霾取消户外订位食客增多 餐饮业者叹生意下滑四成",
-        "seq": 203
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1833,6 +1851,6 @@
         "time": "2026-10-18 23:57",
         "link": "https://www.zaobao.com.sg/news/world/story20261017-9854097",
         "title": "受超强厄尔尼诺现象影响 热带海洋生物现身加州近海",
-        "seq": 204
+        "seq": 206
     }
 ]
