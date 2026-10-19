@@ -2161,12 +2161,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:22",
+        "time": "2026-10-19 23:22",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261019-9862511",
+        "title": "有股东向营养屋国际控诉 称被要求停止罢免总裁牛黎明",
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:23",
+        "time": "2026-10-19 23:23",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261019-9862513",
+        "title": "涉焚林杀红毛猩猩 印尼查狮城企业益资源",
+        "seq": 242
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:25",
+        "time": "2026-10-19 23:25",
+        "link": "https://www.zaobao.com.sg/news/world/story20261019-9862616",
+        "title": "胡塞武装袭击后 沙特“沙漠达沃斯”将被推迟",
+        "seq": 243
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:30",
         "time": "2026-10-19 23:30",
         "link": "https://www.zaobao.com.sg/news/sports/story20261018-9857109",
         "title": "玛雅逆转索纳伊扬威武网 福基纳上海大师赛登顶",
-        "seq": 241
+        "seq": 244
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:30",
+        "time": "2026-10-19 23:30",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261019-9862176",
+        "title": "七涉烟霾公司未回应 环境局追查企业联系",
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2211,7 @@
         "time": "2026-10-19 23:40",
         "link": "https://www.zaobao.com.sg/news/world/story20261018-9857271",
         "title": "特朗普表态支持内坦亚胡连任以色列总理",
-        "seq": 242
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2184,6 +2220,6 @@
         "time": "2026-10-19 23:52",
         "link": "https://www.zaobao.com.sg/news/world/story20261018-9857042",
         "title": "法国爆发全国大规模示威 逾2000人被捕经济损失惨重",
-        "seq": 243
+        "seq": 247
     }
 ]
