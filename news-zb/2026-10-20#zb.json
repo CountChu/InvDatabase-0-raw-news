@@ -1954,12 +1954,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:10",
+        "time": "2026-10-20 22:10",
+        "link": "https://www.zaobao.com.sg/news/china/story20261020-9867649",
+        "title": "香港选委会选举提名截止 多数界别现超额报名",
+        "seq": 218
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:12",
         "time": "2026-10-20 22:12",
         "link": "https://www.zaobao.com.sg/news/world/story20261019-9862048",
         "title": "胡塞武装袭击也门政府军营地 超50人死亡",
-        "seq": 218
+        "seq": 219
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:16",
+        "time": "2026-10-20 22:16",
+        "link": "https://www.zaobao.com.sg/news/world/story20261020-9867891",
+        "title": "鲁比奥：美印贸易协议接近达成",
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1968,7 +1986,7 @@
         "time": "2026-10-20 22:21",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261019-9862319",
         "title": "世凯联控股500万元两年期债券获全额认购",
-        "seq": 219
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1977,7 +1995,7 @@
         "time": "2026-10-20 22:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20261019-9862464",
         "title": "缅甸政府：被拘留的翁山淑枝收到英国王室包裹",
-        "seq": 220
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2004,7 @@
         "time": "2026-10-20 22:35",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261019-9862455",
         "title": "美岭街组屋传火警 两人吸入浓烟送院",
-        "seq": 221
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2013,7 @@
         "time": "2026-10-20 22:44",
         "link": "https://www.zaobao.com.sg/news/china/story20261019-9861242",
         "title": "出口与工业生产带动中国第三季经济增4.5% 分析预计今年全年达标",
-        "seq": 222
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2022,7 @@
         "time": "2026-10-20 22:44",
         "link": "https://www.zaobao.com.sg/news/world/story20261019-9861559",
         "title": "法国示威为何愈演愈烈？马克龙被指卸任前“撂挑子”？",
-        "seq": 223
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2031,7 @@
         "time": "2026-10-20 22:46",
         "link": "https://www.zaobao.com.sg/news/sports/story20261019-9862364",
         "title": "西蒙斯复出之路再遇重挫 跟腱撕裂预计NBA赛季报销",
-        "seq": 224
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2040,7 @@
         "time": "2026-10-20 22:52",
         "link": "https://www.zaobao.com.sg/news/china/story20261019-9862242",
         "title": "卢秀燕任蒋万安竞总主委 蒋：2028支持国民党最强人选",
-        "seq": 225
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2049,7 @@
         "time": "2026-10-20 22:57",
         "link": "https://www.zaobao.com.sg/news/world/story20261019-9862486",
         "title": "伊朗外长指责美国造成霍尔木兹海峡紧张局势",
-        "seq": 226
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2058,7 @@
         "time": "2026-10-20 22:58",
         "link": "https://www.zaobao.com.sg/news/china/story20261019-9862285",
         "title": "卢秀燕、蒋万安并肩作战 蓝营2028布局受关注",
-        "seq": 227
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2067,7 @@
         "time": "2026-10-20 23:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261019-9861440",
         "title": "承办企业活动复杂又耗人力 精品抹茶店让AI代劳",
-        "seq": 228
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2076,7 @@
         "time": "2026-10-20 23:08",
         "link": "https://www.zaobao.com.sg/news/sports/story20261019-9862372",
         "title": "曼市边锋塞梅尼奥伤缺达八周 哈兰德出战欧冠存疑",
-        "seq": 229
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2085,7 @@
         "time": "2026-10-20 23:17",
         "link": "https://www.zaobao.com.sg/news/world/story20261019-9862036",
         "title": "研究：全球近半造礁珊瑚物种面临灭绝",
-        "seq": 230
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2094,7 @@
         "time": "2026-10-20 23:19",
         "link": "https://www.zaobao.com.sg/news/world/story20261019-9862587",
         "title": "乌克兰首次使用无人机营救受伤士兵",
-        "seq": 231
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2103,7 @@
         "time": "2026-10-20 23:22",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261019-9862511",
         "title": "有股东向营养屋国际控诉 称被要求停止罢免总裁牛黎明",
-        "seq": 232
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2112,7 @@
         "time": "2026-10-20 23:23",
         "link": "https://www.zaobao.com.sg/news/sea/story20261019-9862513",
         "title": "涉焚林杀红毛猩猩 印尼查狮城企业益资源",
-        "seq": 233
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2121,7 @@
         "time": "2026-10-20 23:25",
         "link": "https://www.zaobao.com.sg/news/world/story20261019-9862616",
         "title": "胡塞武装袭击后 沙特“沙漠达沃斯”将被推迟",
-        "seq": 234
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2130,7 @@
         "time": "2026-10-20 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261019-9862176",
         "title": "七涉烟霾公司未回应 环境局追查企业联系",
-        "seq": 235
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2139,7 @@
         "time": "2026-10-20 23:43",
         "link": "https://www.zaobao.com.sg/news/china/story20261019-9862117",
         "title": "省级党代会时间开启 为中共二十一大人事布局提供观察窗口",
-        "seq": 236
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2130,6 +2148,6 @@
         "time": "2026-10-20 23:59",
         "link": "https://www.zaobao.com.sg/news/sports/story20261019-9862558",
         "title": "法国多地骚乱 马赛和里尔球会官方商店遭洗劫",
-        "seq": 237
+        "seq": 239
     }
 ]
