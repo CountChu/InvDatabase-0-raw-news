@@ -2242,12 +2242,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:28",
+        "time": "2026-10-20 23:28",
+        "link": "https://www.zaobao.com.sg/news/world/story20261020-9868203",
+        "title": "哈里王子盼与英王及家人和解 称不愿再纠缠过去",
+        "seq": 250
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:29",
+        "time": "2026-10-20 23:29",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261020-9868166",
+        "title": "淡滨尼新路段惊险车祸 马赛地失控铲倒整排栏杆",
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:30",
         "time": "2026-10-20 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261019-9862176",
         "title": "七涉烟霾公司未回应 环境局追查企业联系",
-        "seq": 250
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:30",
+        "time": "2026-10-20 23:30",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261020-9868143",
+        "title": "受管制武器和弹药夹藏在货物中企图走私入境 19岁男子受查",
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2283,7 @@
         "time": "2026-10-20 23:43",
         "link": "https://www.zaobao.com.sg/news/china/story20261019-9862117",
         "title": "省级党代会时间开启 为中共二十一大人事布局提供观察窗口",
-        "seq": 251
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2265,6 +2292,6 @@
         "time": "2026-10-20 23:59",
         "link": "https://www.zaobao.com.sg/news/sports/story20261019-9862558",
         "title": "法国多地骚乱 马赛和里尔球会官方商店遭洗劫",
-        "seq": 252
+        "seq": 255
     }
 ]
