@@ -2278,11 +2278,11 @@
     },
     {
         "media": "聯合早報",
-        "category": "新加坡",
-        "timeText": "23:29",
-        "time": "2026-10-21 23:29",
-        "link": "https://www.zaobao.com.sg/news/singapore/story20261020-9868166",
-        "title": "淡滨尼新路段惊险车祸 马赛地失控铲倒整排栏杆",
+        "category": "中国",
+        "timeText": "23:28",
+        "time": "2026-10-21 23:28",
+        "link": "https://www.zaobao.com.sg/news/china/story20261021-9873670",
+        "title": "中国官员提“个人是养老第一责任人” 引发民间社保缴费与未来养老焦虑",
         "seq": 254
     },
     {
@@ -2291,8 +2291,17 @@
         "timeText": "23:29",
         "time": "2026-10-21 23:29",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261020-9868166",
-        "title": "19岁女驾驶失控 马赛地淡滨尼铲倒整排栏杆",
+        "title": "淡滨尼新路段惊险车祸 马赛地失控铲倒整排栏杆",
         "seq": 255
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:29",
+        "time": "2026-10-21 23:29",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261020-9868166",
+        "title": "19岁女驾驶失控 马赛地淡滨尼铲倒整排栏杆",
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2310,25 @@
         "time": "2026-10-21 23:30",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261020-9868143",
         "title": "受管制武器弹药夹藏货物中图走私入境 19岁男子受查",
-        "seq": 256
+        "seq": 257
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:34",
+        "time": "2026-10-21 23:34",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261021-9874362",
+        "title": "马国再发生校园袭击 16岁男生直播攻击师生后被捕",
+        "seq": 258
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:35",
+        "time": "2026-10-21 23:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20261021-9874384",
+        "title": "袭船事件从霍尔木兹海峡蔓延至伊拉克附近海域",
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2310,6 +2337,6 @@
         "time": "2026-10-21 23:41",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261020-9867049",
         "title": "人力部：一小时PM2.5浓度超过250 应禁止体弱员工户外工作",
-        "seq": 257
+        "seq": 260
     }
 ]
