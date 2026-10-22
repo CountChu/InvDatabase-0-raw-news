@@ -478,12 +478,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:02",
+        "time": "2026-10-23 23:02",
+        "link": "https://www.zaobao.com.sg/news/china/story20261022-9880322",
+        "title": "西藏那曲市巴青县发生7级地震 为中国今年最强",
+        "seq": 54
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:06",
         "time": "2026-10-23 23:06",
         "link": "https://www.zaobao.com.sg/finance/world/story20261022-9880253",
         "title": "高利率抑制交易活动 黑石第三季可派发收益跌9.2%",
-        "seq": 54
+        "seq": 55
     },
     {
         "media": "聯合早報",
@@ -492,7 +501,7 @@
         "time": "2026-10-23 23:13",
         "link": "https://www.zaobao.com.sg/news/china/story20261022-9879932",
         "title": "习近平长征90周年谈全面从严治党  分析：借历史叙事为五中全会铺垫",
-        "seq": 55
+        "seq": 56
     },
     {
         "media": "聯合早報",
@@ -501,7 +510,7 @@
         "time": "2026-10-23 23:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261022-9880319",
         "title": "政府科技局展开第二阶段转型 38人被裁退",
-        "seq": 56
+        "seq": 57
     },
     {
         "media": "聯合早報",
@@ -510,7 +519,7 @@
         "time": "2026-10-23 23:42",
         "link": "https://www.zaobao.com.sg/news/china/story20261022-9880491",
         "title": "台风蔷琵还未登陆台湾 已造成1死42伤",
-        "seq": 57
+        "seq": 58
     },
     {
         "media": "聯合早報",
@@ -519,7 +528,7 @@
         "time": "2026-10-23 23:45",
         "link": "https://www.zaobao.com.sg/news/sea/story20261022-9880067",
         "title": "印尼拟停止向“不尊重”印尼的国家供能",
-        "seq": 58
+        "seq": 59
     },
     {
         "media": "聯合早報",
@@ -528,7 +537,7 @@
         "time": "2026-10-23 23:52",
         "link": "https://www.zaobao.com.sg/news/world/story20261022-9880430",
         "title": "【美国中期选举】哈佛民调：美国青年对未来及特朗普失去信心",
-        "seq": 59
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -537,6 +546,6 @@
         "time": "2026-10-23 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20261022-9880507",
         "title": "法国骚乱逾2700人被捕 217人速裁入狱",
-        "seq": 60
+        "seq": 61
     }
 ]
