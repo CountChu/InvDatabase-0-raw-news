@@ -1657,12 +1657,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:00",
+        "time": "2026-10-25 23:00",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261025-9893308",
+        "title": "狮子之家推出陪唱卡拉OK机器人 多种科技助力乐龄生活",
+        "seq": 185
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:01",
+        "time": "2026-10-25 23:01",
+        "link": "https://www.zaobao.com.sg/news/china/story20261025-9893654",
+        "title": "现身沈伯洋竞选活动惹议 蔡康永：从未支持台独",
+        "seq": 186
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:02",
         "time": "2026-10-25 23:02",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261023-9886266",
         "title": "掌舵逾30年经验获肯定 三盅两件总裁黄维德将兼任执行主席",
-        "seq": 185
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1689,7 @@
         "time": "2026-10-25 23:03",
         "link": "https://www.zaobao.com.sg/news/sports/story20261024-9889724",
         "title": "杰克逊梅开二度 率维拉送曼市英超首败",
-        "seq": 186
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1698,16 @@
         "time": "2026-10-25 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20261024-9889869",
         "title": "欧洲多国示威演变成暴力 欧洲议员促查社媒算法",
-        "seq": 187
+        "seq": 189
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:09",
+        "time": "2026-10-25 23:09",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261025-9893282",
+        "title": "不满议席遭大砍及国阵临时宣布候选人 马华魏家祥怒斥：不要玩我",
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1716,25 @@
         "time": "2026-10-25 23:11",
         "link": "https://www.zaobao.com.sg/news/world/story20261024-9889896",
         "title": "80岁首次拥有智能手机 卢拉追赶巴西网络世代步伐",
-        "seq": 188
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:12",
+        "time": "2026-10-25 23:12",
+        "link": "https://www.zaobao.com.sg/news/world/story20261025-9893641",
+        "title": "教宗良十四世术后恢复公开活动 呼吁停止也门战火",
+        "seq": 192
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:17",
+        "time": "2026-10-25 23:17",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261025-9892769",
+        "title": "印尼减供出口新加坡天然气 经济师：提升能源独立性更显紧迫",
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1743,7 @@
         "time": "2026-10-25 23:25",
         "link": "https://www.zaobao.com.sg/news/sports/story20261024-9889867",
         "title": "郭勇冯耀恩闯男双半决赛 新加坡锁定乒乓亚锦赛奖牌",
-        "seq": 189
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1752,7 @@
         "time": "2026-10-25 23:41",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261024-9889779",
         "title": "新移民青年舞出归属感 第六届新加坡微电影大赛作品《不懂》斩获三奖",
-        "seq": 190
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1761,7 @@
         "time": "2026-10-25 23:51",
         "link": "https://www.zaobao.com.sg/news/sea/story20261024-9889970",
         "title": "国阵造势大会公布候选人 马华不满议席锐减集体离席",
-        "seq": 191
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1725,6 +1770,6 @@
         "time": "2026-10-25 23:59",
         "link": "https://www.zaobao.com.sg/news/world/story20261024-9889992",
         "title": "战争冲击加剧 伊朗总统：许多民众难以为继温饱",
-        "seq": 192
+        "seq": 197
     }
 ]
