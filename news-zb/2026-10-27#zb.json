@@ -1468,12 +1468,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "20:09",
+        "time": "2026-10-27 20:09",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261027-9904147",
+        "title": "揪出两年脚伤病根 我国羽球一姐杨佳敏将养伤半年",
+        "seq": 164
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "20:10",
+        "time": "2026-10-27 20:10",
+        "link": "https://www.zaobao.com.sg/news/china/story20261027-9901161",
+        "title": "地方人事调整频密 中共 “70后”升迁牵动二十一大布局",
+        "seq": 165
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "20:11",
         "time": "2026-10-27 20:11",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261026-9882531",
         "title": "中国富商指四前雇员挪走7300万元 被反诉追讨3900万元",
-        "seq": 164
+        "seq": 166
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "20:14",
+        "time": "2026-10-27 20:14",
+        "link": "https://www.zaobao.com.sg/news/china/story20261027-9902969",
+        "title": "香港议员本月起加薪1.6% 月薪超11万港元",
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1509,16 @@
         "time": "2026-10-27 20:15",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261026-9898223",
         "title": "福源金属制造完成收购大士工业房地产",
-        "seq": 165
+        "seq": 168
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "20:15",
+        "time": "2026-10-27 20:15",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261027-9904271",
+        "title": "涉非法经营网络借贷 17人在峇厘岛落网包括两名新加坡人",
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1527,7 @@
         "time": "2026-10-27 20:19",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261026-9898098",
         "title": "前总理公署部长孟理齐加入海湾亚洲控股顾问委员会",
-        "seq": 166
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1536,7 @@
         "time": "2026-10-27 20:20",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261026-9898029",
         "title": "Info-Tech第三季营收增18％至1530万元",
-        "seq": 167
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1545,7 @@
         "time": "2026-10-27 20:21",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261026-9897685",
         "title": "亚细安电网备忘录有望下月签署 高金洪：能源安全是共同核心利益",
-        "seq": 168
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1554,7 @@
         "time": "2026-10-27 20:36",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261026-9898395",
         "title": "速美建筑获三项总额逾1亿元新合同 订单总额超8亿元",
-        "seq": 169
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1563,7 @@
         "time": "2026-10-27 20:37",
         "link": "https://www.zaobao.com.sg/news/sea/story20261026-9881775",
         "title": "特稿：马国反罗兴亚情绪升温 凸显居民与难民矛盾",
-        "seq": 170
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1572,7 @@
         "time": "2026-10-27 20:44",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9898450",
         "title": "消息称俄军人手短缺 扩大非洲招兵范围",
-        "seq": 171
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1581,7 @@
         "time": "2026-10-27 20:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261026-9897484",
         "title": "【红蚂蚁】新加坡被印尼“断气” 鸡蛋真的不能放同一篮子",
-        "seq": 172
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1590,7 @@
         "time": "2026-10-27 20:57",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261026-9898457",
         "title": "扬子江海事签约脱售六艘新造油轮 总额达3.94亿元",
-        "seq": 173
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1599,7 @@
         "time": "2026-10-27 21:09",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9898431",
         "title": "罕见亮出自行火炮 朝鲜警告韩国：若领土遭侵犯将行使自卫权",
-        "seq": 174
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1608,7 @@
         "time": "2026-10-27 21:13",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9898649",
         "title": "欧盟：中国电商平台Temu承诺将加强打击非法商品销售",
-        "seq": 175
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1617,7 @@
         "time": "2026-10-27 21:18",
         "link": "https://www.zaobao.com.sg/news/sea/story20261026-9898569",
         "title": "越南建首座晶圆厂困难重重 恐难达2027年试产目标",
-        "seq": 176
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1626,7 @@
         "time": "2026-10-27 21:19",
         "link": "https://www.zaobao.com.sg/finance/world/story20261026-9898690",
         "title": "Anthropic据报周一交上市申请 或破SpaceX史诗级纪录",
-        "seq": 177
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1635,7 @@
         "time": "2026-10-27 21:29",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261026-9898727",
         "title": "消息：胜科印度子公司拟上市筹资近5亿元 最早12月启动",
-        "seq": 178
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1644,7 @@
         "time": "2026-10-27 21:39",
         "link": "https://www.zaobao.com.sg/news/china/story20261026-9898265",
         "title": "下午察：马驹桥里的中国，“如此生活30年”",
-        "seq": 179
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1653,7 @@
         "time": "2026-10-27 21:56",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261026-9898241",
         "title": "新科大设共创实验室 首年拟培训2000人应用AI",
-        "seq": 180
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1662,7 @@
         "time": "2026-10-27 21:56",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261026-9898626",
         "title": "奕丰第三季净利同比升4.5% 派发股息每股3.2分",
-        "seq": 181
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1671,7 @@
         "time": "2026-10-27 21:56",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261026-9898626",
         "title": "奕丰第三季净利同比升24.5% 派发股息每股3.2分",
-        "seq": 182
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1644,7 +1680,7 @@
         "time": "2026-10-27 21:58",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9898872",
         "title": "企业接连遭黑客攻击 日本拟制定紧急网络安全政策",
-        "seq": 183
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1653,7 +1689,7 @@
         "time": "2026-10-27 22:00",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261026-9898917",
         "title": "九家来自新港印马公司 获2026年新兴企业奖",
-        "seq": 184
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1662,7 +1698,7 @@
         "time": "2026-10-27 22:06",
         "link": "https://www.zaobao.com.sg/news/sports/story20261026-9898645",
         "title": "再夺女子25米气手枪个人与团体金牌 郑琇忆哈萨克大奖赛大丰收",
-        "seq": 185
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1671,7 +1707,7 @@
         "time": "2026-10-27 22:07",
         "link": "https://www.zaobao.com.sg/news/sea/story20261026-9896826",
         "title": "菲律宾外交部重申一中政策 否认与台合作护海缆",
-        "seq": 186
+        "seq": 190
     },
     {
         "media": "聯合早報",
@@ -1680,7 +1716,7 @@
         "time": "2026-10-27 22:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261026-9898048",
         "title": "理工生关怀癌患 高中生制塑料砖 两学生获青年成就金奖",
-        "seq": 187
+        "seq": 191
     },
     {
         "media": "聯合早報",
@@ -1689,7 +1725,7 @@
         "time": "2026-10-27 22:21",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9899004",
         "title": "埃及议会批准向沙特提供军事支持",
-        "seq": 188
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1698,7 +1734,7 @@
         "time": "2026-10-27 22:29",
         "link": "https://www.zaobao.com.sg/news/china/story20261026-9898389",
         "title": "暗批沈伯洋为选举换人设 蒋万安自称不诡辩不包装不表演",
-        "seq": 189
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1743,7 @@
         "time": "2026-10-27 22:33",
         "link": "https://www.zaobao.com.sg/news/china/story20261026-9898511",
         "title": "蔡康永表态“未支持台独”后 现身蒋万安竞选活动",
-        "seq": 190
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1752,7 @@
         "time": "2026-10-27 22:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20261026-9898868",
         "title": "新加坡亚残运会代表团凯旋 梁振伟赞运动员表现超越自我",
-        "seq": 191
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1761,7 @@
         "time": "2026-10-27 22:35",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9898792",
         "title": "日本舆论关心金正恩闪电访华 是否意在美朝峰会",
-        "seq": 192
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1770,7 @@
         "time": "2026-10-27 22:38",
         "link": "https://www.zaobao.com.sg/finance/world/story20261026-9899002",
         "title": "Anthropic提交IPO招股书 披露上半年营收激增1300%",
-        "seq": 193
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1779,7 @@
         "time": "2026-10-27 22:43",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261026-9899021",
         "title": "刚升餐厅经理且婚期已定 25岁女子等车遭酒驾撞亡 家属斥“太不公”",
-        "seq": 194
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1788,7 @@
         "time": "2026-10-27 22:44",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9899135",
         "title": "以色列大选前夕 内坦亚胡借特朗普支持争取选票",
-        "seq": 195
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1797,7 @@
         "time": "2026-10-27 23:01",
         "link": "https://www.zaobao.com.sg/news/sea/story20261026-9898826",
         "title": "据报缅甸军政府伪造贸易凭证  秘购伊朗航空燃油",
-        "seq": 196
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1806,7 @@
         "time": "2026-10-27 23:02",
         "link": "https://www.zaobao.com.sg/news/china/story20261026-9899208",
         "title": "秦始皇兵马俑上现女性指纹 或有女性参与制作",
-        "seq": 197
+        "seq": 201
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1815,7 @@
         "time": "2026-10-27 23:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20261025-9893282",
         "title": "不满议席遭大砍及国阵临时宣布候选人 马华魏家祥怒斥：不要玩我",
-        "seq": 198
+        "seq": 202
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1824,7 @@
         "time": "2026-10-27 23:18",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9899226",
         "title": "巴西总统卢拉连任引发市场震荡 股市开盘暴跌近17%",
-        "seq": 199
+        "seq": 203
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1833,7 @@
         "time": "2026-10-27 23:21",
         "link": "https://www.zaobao.com.sg/news/sea/story20261026-9898496",
         "title": "首办英语经济论坛推介四州愿景 伊党力卸守旧包袱展治国雄心",
-        "seq": 200
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1842,7 @@
         "time": "2026-10-27 23:24",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9897228",
         "title": "内坦亚胡的“终局之战”？一文看懂以色列大选",
-        "seq": 201
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1851,7 @@
         "time": "2026-10-27 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9899285",
         "title": "流亡回国的委反对派领袖马查多 准备好与临时总统会面",
-        "seq": 202
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1860,7 @@
         "time": "2026-10-27 23:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261026-9898768",
         "title": "政治观察员：萧振祥刘洁敏未入行动党中委 资浅没获力荐属正常",
-        "seq": 203
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1833,6 +1869,6 @@
         "time": "2026-10-27 23:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261026-9899054",
         "title": "华文媒体集团获“w3大赛”一金六银 参赛以来最佳成绩",
-        "seq": 204
+        "seq": 208
     }
 ]
