@@ -1918,12 +1918,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:04",
+        "time": "2026-10-27 22:04",
+        "link": "https://www.zaobao.com.sg/news/china/story20261027-9903785",
+        "title": "民调：近四成台湾民众看好民进党九合一选举拿下至少11县市",
+        "seq": 214
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:06",
         "time": "2026-10-27 22:06",
         "link": "https://www.zaobao.com.sg/news/sports/story20261026-9898645",
         "title": "再夺女子25米气手枪个人与团体金牌 郑琇忆哈萨克大奖赛大丰收",
-        "seq": 214
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1941,52 @@
         "time": "2026-10-27 22:07",
         "link": "https://www.zaobao.com.sg/news/sea/story20261026-9896826",
         "title": "菲律宾外交部重申一中政策 否认与台合作护海缆",
-        "seq": 215
+        "seq": 216
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:08",
+        "time": "2026-10-27 22:08",
+        "link": "https://www.zaobao.com.sg/news/world/story20261027-9904853",
+        "title": "去年温室气体浓度再创新高 气候影响料延续数百年",
+        "seq": 217
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:09",
+        "time": "2026-10-27 22:09",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261027-9903663",
+        "title": "黄玮玲获2026年新加坡女性引领影响力荣誉奖",
+        "seq": 218
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:12",
+        "time": "2026-10-27 22:12",
+        "link": "https://www.zaobao.com.sg/news/world/story20261027-9904563",
+        "title": "巴西大选结果尘埃落定 弗拉维奥放弃挑战股市大跌",
+        "seq": 219
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:15",
+        "time": "2026-10-27 22:15",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261027-9904246",
+        "title": "UI宝德REIT每单位派息3.71分 略高于上市前预测",
+        "seq": 220
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:17",
+        "time": "2026-10-27 22:17",
+        "link": "https://www.zaobao.com.sg/news/china/story20261027-9903738",
+        "title": "下午察：姆巴佩如何伤害了中国人的民族感情？",
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1995,7 @@
         "time": "2026-10-27 22:18",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261026-9898048",
         "title": "理工生关怀癌患 高中生制塑料砖 两学生获青年成就金奖",
-        "seq": 216
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1950,7 +2004,7 @@
         "time": "2026-10-27 22:21",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9899004",
         "title": "埃及议会批准向沙特提供军事支持",
-        "seq": 217
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1959,7 +2013,7 @@
         "time": "2026-10-27 22:29",
         "link": "https://www.zaobao.com.sg/news/china/story20261026-9898389",
         "title": "暗批沈伯洋为选举换人设 蒋万安自称不诡辩不包装不表演",
-        "seq": 218
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2022,7 @@
         "time": "2026-10-27 22:33",
         "link": "https://www.zaobao.com.sg/news/china/story20261026-9898511",
         "title": "蔡康永表态“未支持台独”后 现身蒋万安竞选活动",
-        "seq": 219
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2031,7 @@
         "time": "2026-10-27 22:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20261026-9898868",
         "title": "新加坡亚残运会代表团凯旋 梁振伟赞运动员表现超越自我",
-        "seq": 220
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2040,7 @@
         "time": "2026-10-27 22:35",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9898792",
         "title": "日本舆论关心金正恩闪电访华 是否意在美朝峰会",
-        "seq": 221
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2049,7 @@
         "time": "2026-10-27 22:38",
         "link": "https://www.zaobao.com.sg/finance/world/story20261026-9899002",
         "title": "Anthropic提交IPO招股书 披露上半年营收激增1300%",
-        "seq": 222
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2058,7 @@
         "time": "2026-10-27 22:43",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261026-9899021",
         "title": "刚升餐厅经理且婚期已定 25岁女子等车遭酒驾撞亡 家属斥“太不公”",
-        "seq": 223
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2067,7 @@
         "time": "2026-10-27 22:44",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9899135",
         "title": "以色列大选前夕 内坦亚胡借特朗普支持争取选票",
-        "seq": 224
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2076,7 @@
         "time": "2026-10-27 23:01",
         "link": "https://www.zaobao.com.sg/news/sea/story20261026-9898826",
         "title": "据报缅甸军政府伪造贸易凭证  秘购伊朗航空燃油",
-        "seq": 225
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2085,7 @@
         "time": "2026-10-27 23:02",
         "link": "https://www.zaobao.com.sg/news/china/story20261026-9899208",
         "title": "秦始皇兵马俑上现女性指纹 或有女性参与制作",
-        "seq": 226
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2094,7 @@
         "time": "2026-10-27 23:09",
         "link": "https://www.zaobao.com.sg/news/sea/story20261025-9893282",
         "title": "不满议席遭大砍及国阵临时宣布候选人 马华魏家祥怒斥：不要玩我",
-        "seq": 227
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2103,7 @@
         "time": "2026-10-27 23:18",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9899226",
         "title": "巴西总统卢拉连任引发市场震荡 股市开盘暴跌近17%",
-        "seq": 228
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2112,7 @@
         "time": "2026-10-27 23:21",
         "link": "https://www.zaobao.com.sg/news/sea/story20261026-9898496",
         "title": "首办英语经济论坛推介四州愿景 伊党力卸守旧包袱展治国雄心",
-        "seq": 229
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2121,7 @@
         "time": "2026-10-27 23:24",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9897228",
         "title": "内坦亚胡的“终局之战”？一文看懂以色列大选",
-        "seq": 230
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2130,7 @@
         "time": "2026-10-27 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20261026-9899285",
         "title": "流亡回国的委反对派领袖马查多 准备好与临时总统会面",
-        "seq": 231
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2139,7 @@
         "time": "2026-10-27 23:39",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261026-9898768",
         "title": "政治观察员：萧振祥刘洁敏未入行动党中委 资浅没获力荐属正常",
-        "seq": 232
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2094,6 +2148,6 @@
         "time": "2026-10-27 23:58",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261026-9899054",
         "title": "华文媒体集团获“w3大赛”一金六银 参赛以来最佳成绩",
-        "seq": 233
+        "seq": 239
     }
 ]
