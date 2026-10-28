@@ -2017,12 +2017,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:59",
+        "time": "2026-10-28 22:59",
+        "link": "https://www.zaobao.com.sg/news/world/story20261028-9911404",
+        "title": "欧洲基准天然气价格触及100欧元 逼近四年新高",
+        "seq": 225
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "23:02",
         "time": "2026-10-28 23:02",
         "link": "https://www.zaobao.com.sg/news/sea/story20261027-9905011",
         "title": "泰国破逾百起洋垃圾走私案 截获近万吨废弃物",
-        "seq": 225
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2040,16 @@
         "time": "2026-10-28 23:05",
         "link": "https://www.zaobao.com.sg/news/china/story20261027-9904382",
         "title": "德国总统时隔八年访华 分析：保持高层对话为激烈产业竞争装上“安全阀”",
-        "seq": 226
+        "seq": 227
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:05",
+        "time": "2026-10-28 23:05",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261028-9911223",
+        "title": "马华选择让步 国阵甲州选举候选人争议落幕",
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2058,7 @@
         "time": "2026-10-28 23:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20261027-9904709",
         "title": "马国进入东北季风期  强降雨驱散烟霾但恐发水灾",
-        "seq": 227
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2067,7 @@
         "time": "2026-10-28 23:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20261027-9904709",
         "title": "马国进入东北季风期 强降雨驱散烟霾但恐发水灾",
-        "seq": 228
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2076,16 @@
         "time": "2026-10-28 23:08",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261027-9903771",
         "title": "本地首推基层医疗及早介入慈怀疗护 未来四年惠及1200人",
-        "seq": 229
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:16",
+        "time": "2026-10-28 23:16",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261028-9911346",
+        "title": "元续科技配售新股上市 每股售价0.54元",
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2094,16 @@
         "time": "2026-10-28 23:17",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261027-9905045",
         "title": "正齐先进材料IPO认购反应热烈 集资超过2亿元",
-        "seq": 230
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:17",
+        "time": "2026-10-28 23:17",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261028-9910892",
+        "title": "本地鲜蔬入驻自动贩卖机 售价比超市更便宜",
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2112,7 @@
         "time": "2026-10-28 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20261027-9905140",
         "title": "荷兰拟裁减2万5000公务员 盼借AI每年省高达35亿欧元",
-        "seq": 231
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2121,7 @@
         "time": "2026-10-28 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20261027-9905140",
         "title": "荷兰拟裁减2.5万公务员 盼借AI每年省高达35亿欧元",
-        "seq": 232
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2130,7 @@
         "time": "2026-10-28 23:35",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261027-9901497",
         "title": "沈颖：日本东南亚须加深理解 充分释放合作潜力",
-        "seq": 233
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2139,7 @@
         "time": "2026-10-28 23:40",
         "link": "https://www.zaobao.com.sg/news/sea/story20261027-9904858",
         "title": "印马人工造雨遭遇“无云可催”困境 难撼林火危机",
-        "seq": 234
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2148,7 @@
         "time": "2026-10-28 23:44",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261027-9904991",
         "title": "两教育部幼儿园53人肠胃炎 食品供应商Deli Hub Catering被令停业",
-        "seq": 235
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2157,7 @@
         "time": "2026-10-28 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20261027-9905180",
         "title": "非洲最近爆发的伊波拉疫情 已超过1万起确诊病例",
-        "seq": 236
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2130,6 +2166,6 @@
         "time": "2026-10-28 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20261027-9905180",
         "title": "非洲最近暴发的伊波拉疫情 已超过1万起确诊病例",
-        "seq": 237
+        "seq": 241
     }
 ]
