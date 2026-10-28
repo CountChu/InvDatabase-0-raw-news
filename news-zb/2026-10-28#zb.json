@@ -1846,12 +1846,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:00",
+        "time": "2026-10-28 22:00",
+        "link": "https://www.zaobao.com.sg/news/world/story20261028-9910522",
+        "title": "以色列大选两阵营均未过半 阿拉伯裔政党或成关键",
+        "seq": 206
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:04",
         "time": "2026-10-28 22:04",
         "link": "https://www.zaobao.com.sg/news/china/story20261027-9903785",
         "title": "民调：近四成台湾民众看好民进党九合一选举拿下至少11县市",
-        "seq": 206
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1869,7 @@
         "time": "2026-10-28 22:08",
         "link": "https://www.zaobao.com.sg/news/world/story20261027-9904853",
         "title": "去年温室气体浓度再创新高 气候影响料延续数百年",
-        "seq": 207
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1878,7 @@
         "time": "2026-10-28 22:09",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261027-9903663",
         "title": "黄玮玲获2026年新加坡女性引领影响力荣誉奖",
-        "seq": 208
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1887,16 @@
         "time": "2026-10-28 22:12",
         "link": "https://www.zaobao.com.sg/news/world/story20261027-9904563",
         "title": "巴西大选结果尘埃落定 弗拉维奥放弃挑战股市大跌",
-        "seq": 209
+        "seq": 210
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:13",
+        "time": "2026-10-28 22:13",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261028-9910554",
+        "title": "结合考古与民间故事 “风味之器”展探索美食历史足迹",
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1905,16 @@
         "time": "2026-10-28 22:15",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261027-9904246",
         "title": "UI宝德REIT每单位派息3.71分 略高于上市前预测",
-        "seq": 210
+        "seq": 212
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:15",
+        "time": "2026-10-28 22:15",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261028-9911132",
+        "title": "陈振声出席亚细安防长会议 支持亚细安－美国防务合作框架",
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1923,16 @@
         "time": "2026-10-28 22:17",
         "link": "https://www.zaobao.com.sg/news/china/story20261027-9903738",
         "title": "下午察：姆巴佩如何伤害了中国人的民族感情？",
-        "seq": 211
+        "seq": 214
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:19",
+        "time": "2026-10-28 22:19",
+        "link": "https://www.zaobao.com.sg/news/china/story20261028-9911366",
+        "title": "巴基斯坦成全球首个对台关闭领空国家 台外交部谴责",
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1941,7 @@
         "time": "2026-10-28 22:28",
         "link": "https://www.zaobao.com.sg/news/sea/story20261027-9904409",
         "title": "国阵甲州候选人争议 国阵马华各说各话",
-        "seq": 212
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1950,7 @@
         "time": "2026-10-28 22:31",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261027-9904864",
         "title": "盗用银行卡买高价显卡 返店扫货遭扣三名涉案男子落网",
-        "seq": 213
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1959,7 @@
         "time": "2026-10-28 22:50",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261027-9904890",
         "title": "丰树工业信托第二季每单位派息跌6.6%至2.97分",
-        "seq": 214
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1968,7 @@
         "time": "2026-10-28 22:55",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261027-9904987",
         "title": "罗厘运蔬菜暗藏逾800条漏税烟 33岁司机被捕",
-        "seq": 215
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1977,7 @@
         "time": "2026-10-28 23:02",
         "link": "https://www.zaobao.com.sg/news/sea/story20261027-9905011",
         "title": "泰国破逾百起洋垃圾走私案 截获近万吨废弃物",
-        "seq": 216
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1986,7 @@
         "time": "2026-10-28 23:05",
         "link": "https://www.zaobao.com.sg/news/china/story20261027-9904382",
         "title": "德国总统时隔八年访华 分析：保持高层对话为激烈产业竞争装上“安全阀”",
-        "seq": 217
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1995,7 @@
         "time": "2026-10-28 23:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20261027-9904709",
         "title": "马国进入东北季风期  强降雨驱散烟霾但恐发水灾",
-        "seq": 218
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2004,7 @@
         "time": "2026-10-28 23:06",
         "link": "https://www.zaobao.com.sg/news/sea/story20261027-9904709",
         "title": "马国进入东北季风期 强降雨驱散烟霾但恐发水灾",
-        "seq": 219
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2013,7 @@
         "time": "2026-10-28 23:08",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261027-9903771",
         "title": "本地首推基层医疗及早介入慈怀疗护 未来四年惠及1200人",
-        "seq": 220
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2022,7 @@
         "time": "2026-10-28 23:17",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261027-9905045",
         "title": "正齐先进材料IPO认购反应热烈 集资超过2亿元",
-        "seq": 221
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2031,7 @@
         "time": "2026-10-28 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20261027-9905140",
         "title": "荷兰拟裁减2万5000公务员 盼借AI每年省高达35亿欧元",
-        "seq": 222
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2040,7 @@
         "time": "2026-10-28 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20261027-9905140",
         "title": "荷兰拟裁减2.5万公务员 盼借AI每年省高达35亿欧元",
-        "seq": 223
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2049,7 @@
         "time": "2026-10-28 23:35",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261027-9901497",
         "title": "沈颖：日本东南亚须加深理解 充分释放合作潜力",
-        "seq": 224
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2058,7 @@
         "time": "2026-10-28 23:40",
         "link": "https://www.zaobao.com.sg/news/sea/story20261027-9904858",
         "title": "印马人工造雨遭遇“无云可催”困境 难撼林火危机",
-        "seq": 225
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2067,7 @@
         "time": "2026-10-28 23:44",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261027-9904991",
         "title": "两教育部幼儿园53人肠胃炎 食品供应商Deli Hub Catering被令停业",
-        "seq": 226
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2076,7 @@
         "time": "2026-10-28 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20261027-9905180",
         "title": "非洲最近爆发的伊波拉疫情 已超过1万起确诊病例",
-        "seq": 227
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2049,6 +2085,6 @@
         "time": "2026-10-28 23:48",
         "link": "https://www.zaobao.com.sg/news/world/story20261027-9905180",
         "title": "非洲最近暴发的伊波拉疫情 已超过1万起确诊病例",
-        "seq": 228
+        "seq": 232
     }
 ]
