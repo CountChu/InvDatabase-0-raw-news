@@ -2215,12 +2215,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:25",
+        "time": "2026-10-29 22:25",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261029-9917662",
+        "title": "菲防长吁亚细安及伙伴加强防务合作 维护国际法",
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "22:27",
         "time": "2026-10-29 22:27",
         "link": "https://www.zaobao.com.sg/news/sports/story20261028-9911252",
         "title": "悼念列车相撞事故遇难者 西班牙国王杯展延首轮全部赛事",
-        "seq": 247
+        "seq": 248
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:27",
+        "time": "2026-10-29 22:27",
+        "link": "https://www.zaobao.com.sg/news/china/story20261029-9917721",
+        "title": "五中全会公报：中共二十一大明年下半年在北京召开",
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:28",
+        "time": "2026-10-29 22:28",
+        "link": "https://www.zaobao.com.sg/news/world/story20261029-9917567",
+        "title": "卡塔尔否认干预以色列大选 批内坦亚胡阵营无端指控",
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2256,25 @@
         "time": "2026-10-29 22:30",
         "link": "https://www.zaobao.com.sg/finance/china/story20261028-9911066",
         "title": "台积电据报寻求无稀土设备规避断供风险 国台办：报道悖离事实",
-        "seq": 248
+        "seq": 251
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:31",
+        "time": "2026-10-29 22:31",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261029-9915462",
+        "title": "默沙东21价肺炎球菌疫苗获批 本地成年人可接种",
+        "seq": 252
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:38",
+        "time": "2026-10-29 22:38",
+        "link": "https://www.zaobao.com.sg/news/china/story20261029-9917765",
+        "title": "下午察：中国“神龙”露真容？",
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2283,7 @@
         "time": "2026-10-29 22:59",
         "link": "https://www.zaobao.com.sg/news/world/story20261028-9911404",
         "title": "欧洲基准天然气价格触及100欧元 逼近四年新高",
-        "seq": 249
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2292,7 @@
         "time": "2026-10-29 23:05",
         "link": "https://www.zaobao.com.sg/news/sea/story20261028-9911223",
         "title": "马华选择让步 国阵甲州选举候选人争议落幕",
-        "seq": 250
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2301,7 @@
         "time": "2026-10-29 23:16",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261028-9911346",
         "title": "元续科技配售新股上市 每股售价0.54元",
-        "seq": 251
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2310,7 @@
         "time": "2026-10-29 23:17",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261028-9910892",
         "title": "本地鲜蔬入驻自动贩卖机 售价比超市更便宜",
-        "seq": 252
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2319,7 @@
         "time": "2026-10-29 23:46",
         "link": "https://www.zaobao.com.sg/news/world/story20261028-9911607",
         "title": "西班牙列车事故因控制中心误令放行酿祸 首相宣布全国哀悼三天",
-        "seq": 253
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2283,6 +2328,6 @@
         "time": "2026-10-29 23:49",
         "link": "https://www.zaobao.com.sg/news/world/story20261028-9911651",
         "title": "俄罗斯7月以来首次批准运粮船驶离黑海亚速海",
-        "seq": 254
+        "seq": 259
     }
 ]
