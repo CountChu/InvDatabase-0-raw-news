@@ -1576,12 +1576,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:20",
+        "time": "2026-10-31 23:20",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261031-9927348",
+        "title": "越南11月1日起下调零售电价2% 减轻民生与企业负担",
+        "seq": 176
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:25",
         "time": "2026-10-31 23:25",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261030-9923781",
         "title": "“乐龄伙伴”计划鼓励中老年人当义工 拟招募约1.65万人提供70万义工机会",
-        "seq": 176
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1599,7 @@
         "time": "2026-10-31 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20261030-9921810",
         "title": "美国拟近30年来首次调整婴儿配方奶粉营养标准",
-        "seq": 177
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1608,25 @@
         "time": "2026-10-31 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261030-9924061",
         "title": "大和房屋物流信托拟1.1亿元脱售仙台资产 置换收购广岛物流中心",
-        "seq": 178
+        "seq": 179
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:35",
+        "time": "2026-10-31 23:35",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261031-9927032",
+        "title": "马丁内斯染红送罚球 切尔西两球完胜曼联重回胜轨",
+        "seq": 180
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:36",
+        "time": "2026-10-31 23:36",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261031-9927202",
+        "title": "七家本地注册公司愿聘请审查员评估是否涉及跨境烟霾",
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1608,6 +1635,6 @@
         "time": "2026-10-31 23:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261030-9923602",
         "title": "维文：新巴可合作促进两国贸易投资往来",
-        "seq": 179
+        "seq": 182
     }
 ]
