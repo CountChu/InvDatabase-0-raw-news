@@ -1693,12 +1693,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:10",
+        "time": "2026-11-01 23:10",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261101-9930450",
+        "title": "全国短池游泳锦标赛 新加坡两小将破全国纪录",
+        "seq": 189
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:11",
+        "time": "2026-11-01 23:11",
+        "link": "https://www.zaobao.com.sg/news/china/story20261101-9930192",
+        "title": "中国公布首次登陆月球方案 分析：中美太空竞争料加剧",
+        "seq": 190
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:16",
         "time": "2026-11-01 23:16",
         "link": "https://www.zaobao.com.sg/news/china/story20261031-9927176",
         "title": "朱鹤新主持外汇局党组会议 学者：递补被跳过不等于出事",
-        "seq": 189
+        "seq": 191
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:17",
+        "time": "2026-11-01 23:17",
+        "link": "https://www.zaobao.com.sg/news/world/story20261101-9930759",
+        "title": "伊朗与卡塔尔调解员连续第三天会谈 寻求结束美伊战争",
+        "seq": 192
     },
     {
         "media": "聯合早報",
@@ -1707,7 +1734,7 @@
         "time": "2026-11-01 23:20",
         "link": "https://www.zaobao.com.sg/news/sea/story20261031-9927348",
         "title": "越南11月1日起下调零售电价2% 减轻民生与企业负担",
-        "seq": 190
+        "seq": 193
     },
     {
         "media": "聯合早報",
@@ -1716,7 +1743,7 @@
         "time": "2026-11-01 23:20",
         "link": "https://www.zaobao.com.sg/news/sea/story20261031-9927348",
         "title": "越南11月1日起下调零售电价2% 减轻家庭与企业负担",
-        "seq": 191
+        "seq": 194
     },
     {
         "media": "聯合早報",
@@ -1725,7 +1752,7 @@
         "time": "2026-11-01 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261030-9924061",
         "title": "大和房屋物流信托拟1.1亿元脱售仙台资产 置换收购广岛物流中心",
-        "seq": 192
+        "seq": 195
     },
     {
         "media": "聯合早報",
@@ -1734,7 +1761,7 @@
         "time": "2026-11-01 23:35",
         "link": "https://www.zaobao.com.sg/news/sports/story20261031-9927032",
         "title": "马丁内斯染红送罚球 切尔西两球完胜曼联重回胜轨",
-        "seq": 193
+        "seq": 196
     },
     {
         "media": "聯合早報",
@@ -1743,7 +1770,7 @@
         "time": "2026-11-01 23:36",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261031-9927202",
         "title": "七家本地注册公司愿聘请审查员评估是否涉及跨境烟霾",
-        "seq": 194
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1752,7 +1779,7 @@
         "time": "2026-11-01 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20261031-9927395",
         "title": "少子化冲击传统庆典 日本民众为毛孩穿和服祈福",
-        "seq": 195
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1788,7 @@
         "time": "2026-11-01 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261031-9927351",
         "title": "黄循财总理：新加坡不抹杀差异 鼓励不同文化相互交流",
-        "seq": 196
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1770,6 +1797,6 @@
         "time": "2026-11-01 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261031-9927351",
         "title": "黄循财总理：新加坡不抹除差异 鼓励不同文化相互交流",
-        "seq": 197
+        "seq": 200
     }
 ]
