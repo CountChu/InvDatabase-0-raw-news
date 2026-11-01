@@ -1505,11 +1505,74 @@
     {
         "media": "聯合早報",
         "category": "新加坡",
+        "timeText": "22:00",
+        "time": "2026-11-01 22:00",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261101-9773785",
+        "title": "去年8800名青年参与职业体验 八成对未来职业方向更明确",
+        "seq": 168
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:00",
+        "time": "2026-11-01 22:00",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261101-9773520",
+        "title": "翡珑山新殡馆大楼二度延后竣工 预计2027年启用",
+        "seq": 169
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:01",
+        "time": "2026-11-01 22:01",
+        "link": "https://www.zaobao.com.sg/news/world/story20261101-9916760",
+        "title": "彭博社：政府利用AI削减公务员规模阻力重重",
+        "seq": 170
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:05",
+        "time": "2026-11-01 22:05",
+        "link": "https://www.zaobao.com.sg/news/china/story20261101-9930483",
+        "title": "央视曝光违规销售熏硫白芷 青岛成都两地立案调查",
+        "seq": 171
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:05",
+        "time": "2026-11-01 22:05",
+        "link": "https://www.zaobao.com.sg/news/world/story20261101-9917018",
+        "title": "美国招生政策改变 哈佛亚裔新生占比创新高",
+        "seq": 172
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:06",
+        "time": "2026-11-01 22:06",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261101-9930357",
+        "title": "雅马哈忧中东局势退出卡塔尔MotoGP 车手要求安全保障",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
         "timeText": "22:15",
         "time": "2026-11-01 22:15",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261031-9927033",
         "title": "交通工友联合会为会员提供心理辅导 车厂设24小时热食贩卖机",
-        "seq": 168
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:18",
+        "time": "2026-11-01 22:18",
+        "link": "https://www.zaobao.com.sg/news/world/story20261101-9930564",
+        "title": "担忧老旧桥梁状态 伦敦桥提前进行安全检讨",
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1581,7 @@
         "time": "2026-11-01 22:22",
         "link": "https://www.zaobao.com.sg/news/world/story20261031-9927139",
         "title": "抵御美关税压力与经济胁迫 加拿大与欧盟结盟拟成为“联席成员”",
-        "seq": 169
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1590,7 @@
         "time": "2026-11-01 22:25",
         "link": "https://www.zaobao.com.sg/news/world/story20261031-9927140",
         "title": "俄占城镇奥列什基撤离居民抵达乌克兰",
-        "seq": 170
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1599,7 @@
         "time": "2026-11-01 22:33",
         "link": "https://www.zaobao.com.sg/news/world/story20261031-9926798",
         "title": "美联邦法官禁止特朗普政府施压威胁州选举官员",
-        "seq": 171
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1608,7 @@
         "time": "2026-11-01 22:40",
         "link": "https://www.zaobao.com.sg/news/world/story20261031-9927074",
         "title": "鲁比奥主持G20外长会议 呼吁各国共同应对地缘政治与经济危机",
-        "seq": 172
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1617,7 @@
         "time": "2026-11-01 22:51",
         "link": "https://www.zaobao.com.sg/news/china/story20261031-9927111",
         "title": "台北市长选举首场电视辩论会：蒋万安九问强攻 沈伯洋闪避交锋",
-        "seq": 173
+        "seq": 180
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1626,7 @@
         "time": "2026-11-01 22:57",
         "link": "https://www.zaobao.com.sg/news/world/story20261031-9927274",
         "title": "孟加拉骨痛热症疫情延续 10月死亡人数创新高",
-        "seq": 174
+        "seq": 181
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1635,7 @@
         "time": "2026-11-01 23:16",
         "link": "https://www.zaobao.com.sg/news/china/story20261031-9927176",
         "title": "朱鹤新主持外汇局党组会议 学者：递补被跳过不等于出事",
-        "seq": 175
+        "seq": 182
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1644,7 @@
         "time": "2026-11-01 23:20",
         "link": "https://www.zaobao.com.sg/news/sea/story20261031-9927348",
         "title": "越南11月1日起下调零售电价2% 减轻民生与企业负担",
-        "seq": 176
+        "seq": 183
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1653,7 @@
         "time": "2026-11-01 23:20",
         "link": "https://www.zaobao.com.sg/news/sea/story20261031-9927348",
         "title": "越南11月1日起下调零售电价2% 减轻家庭与企业负担",
-        "seq": 177
+        "seq": 184
     },
     {
         "media": "聯合早報",
@@ -1599,7 +1662,7 @@
         "time": "2026-11-01 23:32",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261030-9924061",
         "title": "大和房屋物流信托拟1.1亿元脱售仙台资产 置换收购广岛物流中心",
-        "seq": 178
+        "seq": 185
     },
     {
         "media": "聯合早報",
@@ -1608,7 +1671,7 @@
         "time": "2026-11-01 23:35",
         "link": "https://www.zaobao.com.sg/news/sports/story20261031-9927032",
         "title": "马丁内斯染红送罚球 切尔西两球完胜曼联重回胜轨",
-        "seq": 179
+        "seq": 186
     },
     {
         "media": "聯合早報",
@@ -1617,7 +1680,7 @@
         "time": "2026-11-01 23:36",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261031-9927202",
         "title": "七家本地注册公司愿聘请审查员评估是否涉及跨境烟霾",
-        "seq": 180
+        "seq": 187
     },
     {
         "media": "聯合早報",
@@ -1626,7 +1689,7 @@
         "time": "2026-11-01 23:50",
         "link": "https://www.zaobao.com.sg/news/world/story20261031-9927395",
         "title": "少子化冲击传统庆典 日本民众为毛孩穿和服祈福",
-        "seq": 181
+        "seq": 188
     },
     {
         "media": "聯合早報",
@@ -1635,7 +1698,7 @@
         "time": "2026-11-01 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261031-9927351",
         "title": "黄循财总理：新加坡不抹杀差异 鼓励不同文化相互交流",
-        "seq": 182
+        "seq": 189
     },
     {
         "media": "聯合早報",
@@ -1644,6 +1707,6 @@
         "time": "2026-11-01 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261031-9927351",
         "title": "黄循财总理：新加坡不抹除差异 鼓励不同文化相互交流",
-        "seq": 183
+        "seq": 190
     }
 ]
