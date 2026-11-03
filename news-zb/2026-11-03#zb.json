@@ -2044,12 +2044,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:26",
+        "time": "2026-11-03 22:26",
+        "link": "https://www.zaobao.com.sg/news/world/story20261103-9941910",
+        "title": "特朗普称美伊或达成协议 伊朗外长指双方通过调解方频密磋商",
+        "seq": 228
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:27",
         "time": "2026-11-03 22:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20261101-9930067",
         "title": "马国拨3000万令吉助转型 媒体业者严格限制裁员",
-        "seq": 228
+        "seq": 229
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:32",
+        "time": "2026-11-03 22:32",
+        "link": "https://www.zaobao.com.sg/news/world/story20261103-9942180",
+        "title": "【美国中期选举】曾助特朗普重返白宫 拉丁裔选民为何转向民主党？",
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2076,16 @@
         "time": "2026-11-03 22:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20261102-9935929",
         "title": "时隔两年再现昭披耶河 泰皇家御舟周五盛大巡游",
-        "seq": 229
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:35",
+        "time": "2026-11-03 22:35",
+        "link": "https://www.zaobao.com.sg/news/world/story20261103-9940223",
+        "title": "苹果首款折叠手机迅速售罄 供应何时恢复仍不明朗",
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2094,7 @@
         "time": "2026-11-03 22:38",
         "link": "https://www.zaobao.com.sg/news/china/story20261102-9936135",
         "title": "王毅同沙特国家安全顾问艾班会谈",
-        "seq": 230
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2103,7 @@
         "time": "2026-11-03 22:41",
         "link": "https://www.zaobao.com.sg/news/china/story20261102-9935885",
         "title": "日媒：陆科考船在台海异常活动 疑为收集海底电缆信息",
-        "seq": 231
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2112,7 @@
         "time": "2026-11-03 22:49",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9935372",
         "title": "【美国中期选举】罕见承认中期选举告急 特朗普誓当“否决先生”",
-        "seq": 232
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2121,7 @@
         "time": "2026-11-03 22:55",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9933821",
         "title": "波兰政坛内斗恐瘫痪央行 加剧投资者忧虑",
-        "seq": 233
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2130,7 @@
         "time": "2026-11-03 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9935584",
         "title": "【美国中期选举】阿拉斯加“真假沙利文”之争 联邦法官驳回诉讼司法部将上诉",
-        "seq": 234
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2139,7 @@
         "time": "2026-11-03 23:19",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9933982",
         "title": "韩国医疗旅游需求激增 首尔指定19家外国患者友善酒店",
-        "seq": 235
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2148,7 @@
         "time": "2026-11-03 23:34",
         "link": "https://www.zaobao.com.sg/news/china/story20261102-9935462",
         "title": "中国加码两项货币政策工具救市 分析：托底稳预期但难复制强劲反弹",
-        "seq": 236
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2157,7 @@
         "time": "2026-11-03 23:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261102-9936063",
         "title": "逾3000人获款待业卓越服务奖 两人摘最高荣誉",
-        "seq": 237
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2139,6 +2166,6 @@
         "time": "2026-11-03 23:44",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9934457",
         "title": "欧洲寻求减少太空领域对美依赖 加强与阿联酋合作",
-        "seq": 238
+        "seq": 241
     }
 ]
