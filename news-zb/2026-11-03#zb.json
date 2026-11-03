@@ -2098,12 +2098,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:40",
+        "time": "2026-11-03 22:40",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261103-9942124",
+        "title": "CSE环球第三季获4.3亿元新订单",
+        "seq": 234
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:41",
         "time": "2026-11-03 22:41",
         "link": "https://www.zaobao.com.sg/news/china/story20261102-9935885",
         "title": "日媒：陆科考船在台海异常活动 疑为收集海底电缆信息",
-        "seq": 234
+        "seq": 235
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:41",
+        "time": "2026-11-03 22:41",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261103-9941739",
+        "title": "安华警示马国或成网络攻击目标",
+        "seq": 236
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:43",
+        "time": "2026-11-03 22:43",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9942095",
+        "title": "政府科技局首阶段被裁者 11人已寻获新工作",
+        "seq": 237
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:47",
+        "time": "2026-11-03 22:47",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261103-9941791",
+        "title": "印尼海滩惊现22米巨型鲸尸",
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2148,16 @@
         "time": "2026-11-03 22:49",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9935372",
         "title": "【美国中期选举】罕见承认中期选举告急 特朗普誓当“否决先生”",
-        "seq": 235
+        "seq": 239
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:50",
+        "time": "2026-11-03 22:50",
+        "link": "https://www.zaobao.com.sg/news/world/story20261103-9941781",
+        "title": "【美国中期选举】选举前夕  民主党强打经济政策主张",
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2166,16 @@
         "time": "2026-11-03 22:55",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9933821",
         "title": "波兰政坛内斗恐瘫痪央行 加剧投资者忧虑",
-        "seq": 236
+        "seq": 241
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:56",
+        "time": "2026-11-03 22:56",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261103-9941891",
+        "title": "冰球世锦赛 挪威芬兰丹麦瑞典拒绝与俄罗斯交手　",
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2184,7 @@
         "time": "2026-11-03 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9935584",
         "title": "【美国中期选举】阿拉斯加“真假沙利文”之争 联邦法官驳回诉讼司法部将上诉",
-        "seq": 237
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2193,7 @@
         "time": "2026-11-03 23:19",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9933982",
         "title": "韩国医疗旅游需求激增 首尔指定19家外国患者友善酒店",
-        "seq": 238
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2202,7 @@
         "time": "2026-11-03 23:34",
         "link": "https://www.zaobao.com.sg/news/china/story20261102-9935462",
         "title": "中国加码两项货币政策工具救市 分析：托底稳预期但难复制强劲反弹",
-        "seq": 239
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2211,7 @@
         "time": "2026-11-03 23:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261102-9936063",
         "title": "逾3000人获款待业卓越服务奖 两人摘最高荣誉",
-        "seq": 240
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2166,6 +2220,6 @@
         "time": "2026-11-03 23:44",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9934457",
         "title": "欧洲寻求减少太空领域对美依赖 加强与阿联酋合作",
-        "seq": 241
+        "seq": 247
     }
 ]
