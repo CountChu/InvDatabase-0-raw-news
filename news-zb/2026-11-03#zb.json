@@ -1945,12 +1945,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:02",
+        "time": "2026-11-03 22:02",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261103-9941795",
+        "title": "新一代AI数据中心如何散热供电 直流电和冷却液不可少",
+        "seq": 217
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:04",
+        "time": "2026-11-03 22:04",
+        "link": "https://www.zaobao.com.sg/news/world/story20261103-9940730",
+        "title": "英男徒步横跨四大洲 历时28年终返回英国老家",
+        "seq": 218
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "22:08",
         "time": "2026-11-03 22:08",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9935762",
         "title": "伊朗提出霍尔木兹海峡重开新方案  要美国先满足条件",
-        "seq": 217
+        "seq": 219
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:09",
+        "time": "2026-11-03 22:09",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9941923",
+        "title": "疑因烟霾引发病症 综合诊疗所日均求诊增25％急诊部增20％",
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1986,16 @@
         "time": "2026-11-03 22:11",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261102-9935661",
         "title": "文化通行证带动本地书热卖 受访出版社销量增逾三倍",
-        "seq": 218
+        "seq": 221
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:11",
+        "time": "2026-11-03 22:11",
+        "link": "https://www.zaobao.com.sg/news/china/story20261103-9942141",
+        "title": "王毅：菲律宾少数政客一再攻击抹黑中国",
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2004,7 @@
         "time": "2026-11-03 22:14",
         "link": "https://www.zaobao.com.sg/news/china/story20261102-9935538",
         "title": "湖南新任党政领导赴韶山瞻仰参观",
-        "seq": 219
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2013,7 @@
         "time": "2026-11-03 22:15",
         "link": "https://www.zaobao.com.sg/news/china/story20261102-9936050",
         "title": "李佳琦直播间首卖算力 半小时卖出2万亿“Token”",
-        "seq": 220
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2022,16 @@
         "time": "2026-11-03 22:15",
         "link": "https://www.zaobao.com.sg/news/sea/story20261102-9935706",
         "title": "警惕“丧尸烟弹”泛滥 印尼警方与药监局建议全面禁止电子烟",
-        "seq": 221
+        "seq": 225
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:16",
+        "time": "2026-11-03 22:16",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9941319",
+        "title": "亚太倡议整合人畜环境数据 助各国及早发现传染病风险",
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2040,7 @@
         "time": "2026-11-03 22:21",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261102-9935101",
         "title": "全科医生数码转诊专科预约 等候时间从近一个月缩至平均1.81天",
-        "seq": 222
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2049,7 @@
         "time": "2026-11-03 22:27",
         "link": "https://www.zaobao.com.sg/news/sea/story20261101-9930067",
         "title": "马国拨3000万令吉助转型 媒体业者严格限制裁员",
-        "seq": 223
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2058,7 @@
         "time": "2026-11-03 22:34",
         "link": "https://www.zaobao.com.sg/news/sea/story20261102-9935929",
         "title": "时隔两年再现昭披耶河 泰皇家御舟周五盛大巡游",
-        "seq": 224
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2067,7 @@
         "time": "2026-11-03 22:38",
         "link": "https://www.zaobao.com.sg/news/china/story20261102-9936135",
         "title": "王毅同沙特国家安全顾问艾班会谈",
-        "seq": 225
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2076,7 @@
         "time": "2026-11-03 22:41",
         "link": "https://www.zaobao.com.sg/news/china/story20261102-9935885",
         "title": "日媒：陆科考船在台海异常活动 疑为收集海底电缆信息",
-        "seq": 226
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2085,7 @@
         "time": "2026-11-03 22:49",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9935372",
         "title": "【美国中期选举】罕见承认中期选举告急 特朗普誓当“否决先生”",
-        "seq": 227
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2094,7 @@
         "time": "2026-11-03 22:55",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9933821",
         "title": "波兰政坛内斗恐瘫痪央行 加剧投资者忧虑",
-        "seq": 228
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2103,7 @@
         "time": "2026-11-03 23:05",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9935584",
         "title": "【美国中期选举】阿拉斯加“真假沙利文”之争 联邦法官驳回诉讼司法部将上诉",
-        "seq": 229
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2112,7 @@
         "time": "2026-11-03 23:19",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9933982",
         "title": "韩国医疗旅游需求激增 首尔指定19家外国患者友善酒店",
-        "seq": 230
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2121,7 @@
         "time": "2026-11-03 23:34",
         "link": "https://www.zaobao.com.sg/news/china/story20261102-9935462",
         "title": "中国加码两项货币政策工具救市 分析：托底稳预期但难复制强劲反弹",
-        "seq": 231
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2130,7 @@
         "time": "2026-11-03 23:38",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261102-9936063",
         "title": "逾3000人获款待业卓越服务奖 两人摘最高荣誉",
-        "seq": 232
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2094,6 +2139,6 @@
         "time": "2026-11-03 23:44",
         "link": "https://www.zaobao.com.sg/news/world/story20261102-9934457",
         "title": "欧洲寻求减少太空领域对美依赖 加强与阿联酋合作",
-        "seq": 233
+        "seq": 238
     }
 ]
