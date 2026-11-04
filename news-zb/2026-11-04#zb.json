@@ -2332,12 +2332,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:01",
+        "time": "2026-11-04 23:01",
+        "link": "https://www.zaobao.com.sg/news/china/story20261104-9947933",
+        "title": "英国收紧移民政策 移英港人申请永居门槛提高",
+        "seq": 260
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:02",
         "time": "2026-11-04 23:02",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9942024",
         "title": "潮州八邑会馆办人工智能讲座 助年长者跨越数码鸿沟",
-        "seq": 260
+        "seq": 261
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:06",
+        "time": "2026-11-04 23:06",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261104-9948013",
+        "title": "业者：建筑业本轮上行周期可达五年",
+        "seq": 262
     },
     {
         "media": "聯合早報",
@@ -2346,7 +2364,7 @@
         "time": "2026-11-04 23:07",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261103-9942233",
         "title": "遭黑客攻击后 币安丢失部分市场份额",
-        "seq": 261
+        "seq": 263
     },
     {
         "media": "聯合早報",
@@ -2355,7 +2373,7 @@
         "time": "2026-11-04 23:08",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9942275",
         "title": "【美国中期选举】直击各地选民投票现场（图集）",
-        "seq": 262
+        "seq": 264
     },
     {
         "media": "聯合早報",
@@ -2364,7 +2382,16 @@
         "time": "2026-11-04 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9942302",
         "title": "【美国中期选举】特朗普选前最后喊话：美国如今炙手可热 各国重新尊重我们",
-        "seq": 263
+        "seq": 265
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:10",
+        "time": "2026-11-04 23:10",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261104-9948465",
+        "title": "我国修法扫除对境外企业执法障碍 多管道应对霾害",
+        "seq": 266
     },
     {
         "media": "聯合早報",
@@ -2373,7 +2400,25 @@
         "time": "2026-11-04 23:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9941954",
         "title": "每年平均四名全职服役人员自杀身亡 自杀率低于全国男性",
-        "seq": 264
+        "seq": 267
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:14",
+        "time": "2026-11-04 23:14",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261104-9948557",
+        "title": "国浩与关联公司交易总额超过必须披露门槛",
+        "seq": 268
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:17",
+        "time": "2026-11-04 23:17",
+        "link": "https://www.zaobao.com.sg/news/world/story20261104-9947377",
+        "title": "美国中期选举红蓝翻转 特朗普称“接受败局” 民主党誓追查贪腐",
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2382,7 +2427,7 @@
         "time": "2026-11-04 23:26",
         "link": "https://www.zaobao.com.sg/finance/china/story20261103-9941733",
         "title": "中国加强AI就业替代风险预警 学者：减缓取代和创造间“时间差”冲击",
-        "seq": 265
+        "seq": 270
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2436,7 @@
         "time": "2026-11-04 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9942400",
         "title": "【美国中期选举】美国选民有什么心里话？",
-        "seq": 266
+        "seq": 271
     },
     {
         "media": "聯合早報",
@@ -2400,7 +2445,7 @@
         "time": "2026-11-04 23:41",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9942229",
         "title": "中高龄员工被裁后再就业不易 人力部探讨加强支援",
-        "seq": 267
+        "seq": 272
     },
     {
         "media": "聯合早報",
@@ -2409,6 +2454,6 @@
         "time": "2026-11-04 23:43",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9941729",
         "title": "研究：多器官受损长冠病患者三年好转率低",
-        "seq": 268
+        "seq": 273
     }
 ]
