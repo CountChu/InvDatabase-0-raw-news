@@ -1882,12 +1882,57 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:23",
+        "time": "2026-11-04 21:23",
+        "link": "https://www.zaobao.com.sg/news/world/story20261104-9947975",
+        "title": "美国中期选举共和党大败 日本忧特朗普打中俄牌",
+        "seq": 210
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "21:25",
+        "time": "2026-11-04 21:25",
+        "link": "https://www.zaobao.com.sg/news/world/story20261104-9948217",
+        "title": "以色列议会选举结果正式公布 两大阵营均未获多数席位",
+        "seq": 211
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:26",
+        "time": "2026-11-04 21:26",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261104-9948014",
+        "title": "新印空军首次联合战机巡逻 防范跨国恐怖主义威胁",
+        "seq": 212
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "21:30",
+        "time": "2026-11-04 21:30",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261104-9947470",
+        "title": "残障体育颁奖礼 叶品秀七度封后 杜维崧连续五年称王",
+        "seq": 213
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:33",
+        "time": "2026-11-04 21:33",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261104-9948111",
+        "title": "发展数码基础设施 谷歌加码投资马国150亿美元",
+        "seq": 214
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "21:34",
         "time": "2026-11-04 21:34",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9941712",
         "title": "回教法庭将获权决定 离婚父母能否带子女移居海外",
-        "seq": 210
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1941,25 @@
         "time": "2026-11-04 21:34",
         "link": "https://www.zaobao.com.sg/news/china/story20261103-9941578",
         "title": "香港第三季GDP增5.2% 创五年来前三季最快增速",
-        "seq": 211
+        "seq": 216
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:35",
+        "time": "2026-11-04 21:35",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261104-9946482",
+        "title": "从参巴酱魔鬼鱼到酸种面包吐司 巴拉湾海滩百乐玩大排档应有尽有",
+        "seq": 217
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:36",
+        "time": "2026-11-04 21:36",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261104-9947693",
+        "title": "东北季风带来连夜豪雨 马国雪丹两州水灾",
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1968,7 @@
         "time": "2026-11-04 21:40",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9941416",
         "title": "本地拟打造6G医疗系统 用机器人为护士腾时间提供人性化服务",
-        "seq": 212
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1977,7 @@
         "time": "2026-11-04 21:44",
         "link": "https://www.zaobao.com.sg/news/sea/story20261103-9941012",
         "title": "狮城服役人员与两名马国人新山飙车 认罪各罚3500令吉",
-        "seq": 213
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1986,7 @@
         "time": "2026-11-04 21:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9941934",
         "title": "涉走私逾190条香烟及500多包漏税烟 两马国男子被捕",
-        "seq": 214
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1995,7 @@
         "time": "2026-11-04 21:58",
         "link": "https://www.zaobao.com.sg/news/sea/story20261103-9939699",
         "title": "马国人越来越晚婚 近半单身者因经济压力不结婚",
-        "seq": 215
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1941,7 +2004,7 @@
         "time": "2026-11-04 22:02",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261103-9941795",
         "title": "新一代AI数据中心如何散热供电 直流电和冷却液不可少",
-        "seq": 216
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1950,7 +2013,7 @@
         "time": "2026-11-04 22:04",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9940730",
         "title": "英男徒步横跨四大洲 历时28年终返回英国老家",
-        "seq": 217
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1959,7 +2022,7 @@
         "time": "2026-11-04 22:09",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9941923",
         "title": "疑因烟霾引发病症 综合诊疗所日均求诊增25％急诊部增20％",
-        "seq": 218
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2031,7 @@
         "time": "2026-11-04 22:11",
         "link": "https://www.zaobao.com.sg/news/china/story20261103-9942141",
         "title": "王毅批菲政客将对华交流政治化  吁菲加强约束",
-        "seq": 219
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2040,7 @@
         "time": "2026-11-04 22:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9941319",
         "title": "亚太倡议整合人畜环境数据 助各国及早发现传染病风险",
-        "seq": 220
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2049,7 @@
         "time": "2026-11-04 22:26",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9941910",
         "title": "特朗普称美伊或达成协议 伊朗外长指双方通过调解方频密磋商",
-        "seq": 221
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2058,7 @@
         "time": "2026-11-04 22:32",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9942180",
         "title": "【美国中期选举】曾助特朗普重返白宫 拉丁裔选民为何转向民主党？",
-        "seq": 222
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2067,7 @@
         "time": "2026-11-04 22:35",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9940223",
         "title": "苹果首款折叠手机迅速售罄 供应何时恢复仍不明朗",
-        "seq": 223
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2076,7 @@
         "time": "2026-11-04 22:40",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261103-9942124",
         "title": "CSE环球第三季获4.3亿元新订单",
-        "seq": 224
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2085,7 @@
         "time": "2026-11-04 22:41",
         "link": "https://www.zaobao.com.sg/news/sea/story20261103-9941739",
         "title": "安华警示马国或成网络攻击目标",
-        "seq": 225
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2094,7 @@
         "time": "2026-11-04 22:43",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9942095",
         "title": "政府科技局首阶段被裁者 11人已寻获新工作",
-        "seq": 226
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2103,7 @@
         "time": "2026-11-04 22:47",
         "link": "https://www.zaobao.com.sg/news/sea/story20261103-9941791",
         "title": "印尼海滩惊现22米巨型鲸尸",
-        "seq": 227
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2112,7 @@
         "time": "2026-11-04 22:50",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9941781",
         "title": "【美国中期选举】选举前夕 民主党强打经济政策主张",
-        "seq": 228
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2121,7 @@
         "time": "2026-11-04 22:56",
         "link": "https://www.zaobao.com.sg/news/sports/story20261103-9941891",
         "title": "冰球世锦赛 挪威芬兰丹麦瑞典拒绝与俄罗斯交手　",
-        "seq": 229
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2130,7 @@
         "time": "2026-11-04 23:02",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9942024",
         "title": "潮州八邑会馆办人工智能讲座 助年长者跨越数码鸿沟",
-        "seq": 230
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2139,7 @@
         "time": "2026-11-04 23:07",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261103-9942233",
         "title": "遭黑客攻击后 币安丢失部分市场份额",
-        "seq": 231
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2148,7 @@
         "time": "2026-11-04 23:08",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9942275",
         "title": "【美国中期选举】直击各地选民投票现场（图集）",
-        "seq": 232
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2157,7 @@
         "time": "2026-11-04 23:09",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9942302",
         "title": "【美国中期选举】特朗普选前最后喊话：美国如今炙手可热 各国重新尊重我们",
-        "seq": 233
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2166,7 @@
         "time": "2026-11-04 23:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9941954",
         "title": "每年平均四名全职服役人员自杀身亡 自杀率低于全国男性",
-        "seq": 234
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2175,7 @@
         "time": "2026-11-04 23:26",
         "link": "https://www.zaobao.com.sg/finance/china/story20261103-9941733",
         "title": "中国加强AI就业替代风险预警 学者：减缓取代和创造间“时间差”冲击",
-        "seq": 235
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2184,7 @@
         "time": "2026-11-04 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9942400",
         "title": "【美国中期选举】美国选民有什么心里话？",
-        "seq": 236
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2193,7 @@
         "time": "2026-11-04 23:41",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261103-9942229",
         "title": "中高龄员工被裁后再就业不易 人力部探讨加强支援",
-        "seq": 237
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2139,6 +2202,6 @@
         "time": "2026-11-04 23:43",
         "link": "https://www.zaobao.com.sg/news/world/story20261103-9941729",
         "title": "研究：多器官受损长冠病患者三年好转率低",
-        "seq": 238
+        "seq": 245
     }
 ]
