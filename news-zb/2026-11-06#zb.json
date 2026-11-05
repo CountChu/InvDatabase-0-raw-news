@@ -451,12 +451,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:50",
+        "time": "2026-11-06 22:50",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261105-9954171",
+        "title": "黄总理：科技须融入决策助解政策难题 不只是落实工具而是伙伴",
+        "seq": 51
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "22:51",
         "time": "2026-11-06 22:51",
         "link": "https://www.zaobao.com.sg/finance/world/story20261105-9953871",
         "title": "中期选举后美股走高 AI投资回报疑虑未消",
-        "seq": 51
+        "seq": 52
     },
     {
         "media": "聯合早報",
@@ -465,7 +474,7 @@
         "time": "2026-11-06 22:52",
         "link": "https://www.zaobao.com.sg/news/world/story20261105-9955019",
         "title": "法国名画二战遭纳粹掠夺 巴黎法院令归还原主后人",
-        "seq": 52
+        "seq": 53
     },
     {
         "media": "聯合早報",
@@ -474,7 +483,7 @@
         "time": "2026-11-06 22:58",
         "link": "https://www.zaobao.com.sg/news/sea/story20261105-9954617",
         "title": "泰国外长：五点共识无实质进展 亚细安须调整应对缅甸危机方式",
-        "seq": 53
+        "seq": 54
     },
     {
         "media": "聯合早報",
@@ -483,7 +492,7 @@
         "time": "2026-11-06 23:01",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261105-9955169",
         "title": "太子集团新加坡籍女干部在樟宜机场落网",
-        "seq": 54
+        "seq": 55
     },
     {
         "media": "聯合早報",
@@ -492,7 +501,7 @@
         "time": "2026-11-06 23:03",
         "link": "https://www.zaobao.com.sg/news/china/story20261105-9954663",
         "title": "中朝近期互动增加 学者：不排除“特金会” 但料不会在APEC前",
-        "seq": 55
+        "seq": 56
     },
     {
         "media": "聯合早報",
@@ -501,7 +510,7 @@
         "time": "2026-11-06 23:06",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261105-9955120",
         "title": "针对币安被盗 金管局提醒公众不宜交易加密货币",
-        "seq": 56
+        "seq": 57
     },
     {
         "media": "聯合早報",
@@ -510,7 +519,7 @@
         "time": "2026-11-06 23:09",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261105-9955148",
         "title": "IHH医疗拟裁员380名员工 涉及新加坡等地区",
-        "seq": 57
+        "seq": 58
     },
     {
         "media": "聯合早報",
@@ -519,7 +528,7 @@
         "time": "2026-11-06 23:13",
         "link": "https://www.zaobao.com.sg/finance/world/story20261105-9955194",
         "title": "苹果公司加入债券发行热潮 计划筹集70亿美元",
-        "seq": 58
+        "seq": 59
     },
     {
         "media": "聯合早報",
@@ -528,7 +537,7 @@
         "time": "2026-11-06 23:20",
         "link": "https://www.zaobao.com.sg/finance/world/story20261105-9954838",
         "title": "英国央行加息25个基点 警告通胀升温并预计继续收紧政策",
-        "seq": 59
+        "seq": 60
     },
     {
         "media": "聯合早報",
@@ -537,7 +546,7 @@
         "time": "2026-11-06 23:20",
         "link": "https://www.zaobao.com.sg/news/sea/story20261105-9954983",
         "title": "日惹议会肖像一度遭撤下 印尼副总统吉布兰面临弹劾声浪",
-        "seq": 60
+        "seq": 61
     },
     {
         "media": "聯合早報",
@@ -546,7 +555,7 @@
         "time": "2026-11-06 23:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261105-9954681",
         "title": "人口老化加剧出行等挑战 陆交局拟进一步优化出行体验",
-        "seq": 61
+        "seq": 62
     },
     {
         "media": "聯合早報",
@@ -555,7 +564,7 @@
         "time": "2026-11-06 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20261105-9955291",
         "title": "伊朗外长与中东多国外长通话",
-        "seq": 62
+        "seq": 63
     },
     {
         "media": "聯合早報",
@@ -564,6 +573,6 @@
         "time": "2026-11-06 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20261105-9954717",
         "title": "特朗普承认伊战是中期选举惨败原因  波斯湾国家忧伊朗比美以更危险",
-        "seq": 63
+        "seq": 64
     }
 ]
