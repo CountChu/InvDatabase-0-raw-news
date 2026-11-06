@@ -2233,12 +2233,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:09",
+        "time": "2026-11-06 23:09",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261106-9961329",
+        "title": "前议员李玉胜逝世 黄总理：新加坡失去一位尽忠职守公职人员",
+        "seq": 249
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:13",
         "time": "2026-11-06 23:13",
         "link": "https://www.zaobao.com.sg/finance/world/story20261105-9955194",
         "title": "苹果公司加入债券发行热潮 计划筹集70亿美元",
-        "seq": 249
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2256,7 @@
         "time": "2026-11-06 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20261106-9961350",
         "title": "英国喜剧演员布兰德强奸罪成 警方料更多受害者现身",
-        "seq": 250
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2265,7 @@
         "time": "2026-11-06 23:20",
         "link": "https://www.zaobao.com.sg/finance/world/story20261105-9954838",
         "title": "英国央行加息25个基点 警告通胀升温并预计继续收紧政策",
-        "seq": 251
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2274,16 @@
         "time": "2026-11-06 23:20",
         "link": "https://www.zaobao.com.sg/news/sea/story20261105-9954983",
         "title": "日惹议会肖像一度遭撤下 印尼副总统吉布兰面临弹劾声浪",
-        "seq": 252
+        "seq": 253
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:27",
+        "time": "2026-11-06 23:27",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261106-9961378",
+        "title": "祖德·贝林厄姆弟弟乔布 首次入选英格兰国家队",
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2292,16 @@
         "time": "2026-11-06 23:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261105-9954681",
         "title": "人口老化加剧出行等挑战 陆交局拟进一步优化出行体验",
-        "seq": 253
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:33",
+        "time": "2026-11-06 23:33",
+        "link": "https://www.zaobao.com.sg/news/china/story20261106-9961461",
+        "title": "高市“台湾有事论”将满一年 北京：日本仍原地打转、回避问题",
+        "seq": 256
     },
     {
         "media": "聯合早報",
@@ -2283,7 +2310,7 @@
         "time": "2026-11-06 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20261105-9955291",
         "title": "伊朗外长与中东多国外长通话",
-        "seq": 254
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2292,7 +2319,7 @@
         "time": "2026-11-06 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20261105-9954717",
         "title": "特朗普承认伊战是中期选举惨败原因  波斯湾国家忧伊朗比美以更危险",
-        "seq": 255
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2301,6 +2328,6 @@
         "time": "2026-11-06 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20261105-9954717",
         "title": "特朗普承认伊战是中期选举惨败原因 波斯湾国家忧伊朗比美以更危险",
-        "seq": 256
+        "seq": 259
     }
 ]
