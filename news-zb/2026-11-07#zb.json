@@ -1027,12 +1027,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "20:43",
+        "time": "2026-11-07 20:43",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261107-9964178",
+        "title": "【红蚂蚁】生活太无聊？ 银发族也“机不离手”",
+        "seq": 115
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "20:47",
         "time": "2026-11-07 20:47",
         "link": "https://www.zaobao.com.sg/news/sea/story20261106-9960607",
         "title": "窃听丑闻揭示普拉博沃与佐科盟约走向决裂",
-        "seq": 115
+        "seq": 116
     },
     {
         "media": "聯合早報",
@@ -1041,7 +1050,16 @@
         "time": "2026-11-07 20:53",
         "link": "https://www.zaobao.com.sg/news/china/story20261106-9960823",
         "title": "江西原省长叶建春等九人人大代表资格终止",
-        "seq": 116
+        "seq": 117
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "20:53",
+        "time": "2026-11-07 20:53",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261107-9964393",
+        "title": "数百人闯荷兰微软数据中心工地 欧洲15国掀反AI扩张抗议浪潮",
+        "seq": 118
     },
     {
         "media": "聯合早報",
@@ -1050,7 +1068,16 @@
         "time": "2026-11-07 20:56",
         "link": "https://www.zaobao.com.sg/finance/world/story20261106-9960794",
         "title": "抛售潮蔓延至贵金属市场 金价承压跌0.84%",
-        "seq": 117
+        "seq": 119
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "20:59",
+        "time": "2026-11-07 20:59",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261107-9964248",
+        "title": "环法新加坡绕圈赛星期天开骑 新生代双星笑谈“宿敌”造势",
+        "seq": 120
     },
     {
         "media": "聯合早報",
@@ -1059,7 +1086,7 @@
         "time": "2026-11-07 21:14",
         "link": "https://www.zaobao.com.sg/news/world/story20261106-9960911",
         "title": "英爱多家媒体机构接获炸弹威胁 爱尔兰新闻机构紧急疏散",
-        "seq": 118
+        "seq": 121
     },
     {
         "media": "聯合早報",
@@ -1068,7 +1095,7 @@
         "time": "2026-11-07 21:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261106-9959343",
         "title": "余东旋街大树折断坠地 一车道受阻",
-        "seq": 119
+        "seq": 122
     },
     {
         "media": "聯合早報",
@@ -1077,7 +1104,7 @@
         "time": "2026-11-07 21:21",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261106-9959261",
         "title": "科技股暴跌洗刷全球富豪榜 谁大赚钱谁又身价大缩水？",
-        "seq": 120
+        "seq": 123
     },
     {
         "media": "聯合早報",
@@ -1086,7 +1113,7 @@
         "time": "2026-11-07 21:23",
         "link": "https://www.zaobao.com.sg/news/china/story20261106-9960502",
         "title": "台行政院长拒副署施行在野党通过的《老人福利法》修正案",
-        "seq": 121
+        "seq": 124
     },
     {
         "media": "聯合早報",
@@ -1095,7 +1122,7 @@
         "time": "2026-11-07 21:34",
         "link": "https://www.zaobao.com.sg/news/world/story20261106-9960989",
         "title": "比利时国王拒绝接受首相辞呈 要求立即恢复预算谈判",
-        "seq": 122
+        "seq": 125
     },
     {
         "media": "聯合早報",
@@ -1104,7 +1131,7 @@
         "time": "2026-11-07 21:35",
         "link": "https://www.zaobao.com.sg/news/china/story20261106-9960788",
         "title": "澳门国安首案前立法会议员区锦新被判监禁12年半",
-        "seq": 123
+        "seq": 126
     },
     {
         "media": "聯合早報",
@@ -1113,7 +1140,7 @@
         "time": "2026-11-07 21:38",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261106-9960381",
         "title": "投资逾3.7亿元 美国Equinix启用本地第六座数据中心",
-        "seq": 124
+        "seq": 127
     },
     {
         "media": "聯合早報",
@@ -1122,7 +1149,7 @@
         "time": "2026-11-07 21:43",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261106-9960890",
         "title": "【红蚂蚁】能源民族主义兴起 “不靠别人”才是解方？",
-        "seq": 125
+        "seq": 128
     },
     {
         "media": "聯合早報",
@@ -1131,7 +1158,7 @@
         "time": "2026-11-07 21:49",
         "link": "https://www.zaobao.com.sg/finance/world/story20261106-9960756",
         "title": "科技股抛售潮使对冲基金收益归零 引发去风险与裁员行动",
-        "seq": 126
+        "seq": 129
     },
     {
         "media": "聯合早報",
@@ -1140,7 +1167,7 @@
         "time": "2026-11-07 21:52",
         "link": "https://www.zaobao.com.sg/news/world/story20261106-9960212",
         "title": "民主党拟推翻特朗普部分关税 加拿大成首个目标 ",
-        "seq": 127
+        "seq": 130
     },
     {
         "media": "聯合早報",
@@ -1149,7 +1176,7 @@
         "time": "2026-11-07 22:03",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261106-9960350",
         "title": "自主研制射频发射器 研究员深耕35年获国防科技奖",
-        "seq": 128
+        "seq": 131
     },
     {
         "media": "聯合早報",
@@ -1158,7 +1185,7 @@
         "time": "2026-11-07 22:08",
         "link": "https://www.zaobao.com.sg/news/china/story20261106-9960821",
         "title": "中国通过首部反跨境腐败法 强化境外追逃追赃与企业合规",
-        "seq": 129
+        "seq": 132
     },
     {
         "media": "聯合早報",
@@ -1167,7 +1194,7 @@
         "time": "2026-11-07 22:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261106-9954487",
         "title": "《每日新闻》增设自强奋进奖 首名华族得主戒毒重生回馈社会",
-        "seq": 130
+        "seq": 133
     },
     {
         "media": "聯合早報",
@@ -1176,7 +1203,7 @@
         "time": "2026-11-07 22:21",
         "link": "https://www.zaobao.com.sg/news/world/story20261106-9961152",
         "title": "伦敦地铁司机拟展开八天罢工 抗议新工作安排",
-        "seq": 131
+        "seq": 134
     },
     {
         "media": "聯合早報",
@@ -1185,7 +1212,7 @@
         "time": "2026-11-07 22:27",
         "link": "https://www.zaobao.com.sg/news/world/story20261106-9960842",
         "title": "高市强推降消费税法案获众院通过 参院闯关存变数",
-        "seq": 132
+        "seq": 135
     },
     {
         "media": "聯合早報",
@@ -1194,7 +1221,7 @@
         "time": "2026-11-07 22:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261106-9961143",
         "title": "涉柬埔寨电话诈骗新加坡人 另一成员落网",
-        "seq": 133
+        "seq": 136
     },
     {
         "media": "聯合早報",
@@ -1203,7 +1230,7 @@
         "time": "2026-11-07 22:33",
         "link": "https://www.zaobao.com.sg/news/world/story20261106-9960771",
         "title": "原表明接受中期选举结果 特朗普改口批选举舞弊",
-        "seq": 134
+        "seq": 137
     },
     {
         "media": "聯合早報",
@@ -1212,7 +1239,7 @@
         "time": "2026-11-07 22:37",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261106-9960028",
         "title": "美国中期选举引发全球AI板块暴跌 分析师：科技股基本面未变",
-        "seq": 135
+        "seq": 138
     },
     {
         "media": "聯合早報",
@@ -1221,7 +1248,7 @@
         "time": "2026-11-07 22:39",
         "link": "https://www.zaobao.com.sg/news/world/story20261106-9961219",
         "title": "法国示威者控警方过度使用武力 拟起诉内政部长",
-        "seq": 136
+        "seq": 139
     },
     {
         "media": "聯合早報",
@@ -1230,7 +1257,7 @@
         "time": "2026-11-07 22:49",
         "link": "https://www.zaobao.com.sg/news/china/story20261106-9961315",
         "title": "高虹安被指选后率团赴海外庆功 新竹市政府斥造谣抹黑",
-        "seq": 137
+        "seq": 140
     },
     {
         "media": "聯合早報",
@@ -1239,7 +1266,7 @@
         "time": "2026-11-07 22:50",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261106-9958438",
         "title": "法国地铁业者RATP借鉴韩埃经验 携新捷运提升裕廊线服务",
-        "seq": 138
+        "seq": 141
     },
     {
         "media": "聯合早報",
@@ -1248,7 +1275,7 @@
         "time": "2026-11-07 23:00",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261106-9959822",
         "title": "为听障回教徒组织手语课 宗教师获回理会青年希望奖",
-        "seq": 139
+        "seq": 142
     },
     {
         "media": "聯合早報",
@@ -1257,7 +1284,7 @@
         "time": "2026-11-07 23:09",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261106-9961329",
         "title": "前议员李玉胜逝世 黄总理：新加坡失去一位尽忠职守公职人员",
-        "seq": 140
+        "seq": 143
     },
     {
         "media": "聯合早報",
@@ -1266,7 +1293,7 @@
         "time": "2026-11-07 23:13",
         "link": "https://www.zaobao.com.sg/news/world/story20261106-9961350",
         "title": "英国喜剧演员布兰德强奸罪成 警方料更多受害者现身",
-        "seq": 141
+        "seq": 144
     },
     {
         "media": "聯合早報",
@@ -1275,7 +1302,7 @@
         "time": "2026-11-07 23:27",
         "link": "https://www.zaobao.com.sg/news/sports/story20261106-9961378",
         "title": "祖德·贝林厄姆弟弟乔布 首次入选英格兰国家队",
-        "seq": 142
+        "seq": 145
     },
     {
         "media": "聯合早報",
@@ -1284,7 +1311,7 @@
         "time": "2026-11-07 23:33",
         "link": "https://www.zaobao.com.sg/news/china/story20261106-9961461",
         "title": "高市“台湾有事论”将满一年 北京：日本仍原地打转、回避问题",
-        "seq": 143
+        "seq": 146
     },
     {
         "media": "聯合早報",
@@ -1293,6 +1320,6 @@
         "time": "2026-11-07 23:40",
         "link": "https://www.zaobao.com.sg/news/china/story20261106-9961342",
         "title": "中国解放军四少将被终止全国人大代表资格",
-        "seq": 144
+        "seq": 147
     }
 ]
