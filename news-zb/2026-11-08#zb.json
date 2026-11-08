@@ -1549,12 +1549,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:08",
+        "time": "2026-11-08 23:08",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261108-9967835",
+        "title": "SAM控股2027财年首季亏583万元 营收涨10%至451万元",
+        "seq": 173
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:11",
+        "time": "2026-11-08 23:11",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261108-9967821",
+        "title": "上演扭转18分奇迹 英博反超蓉城首夺中超冠军",
+        "seq": 174
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:16",
         "time": "2026-11-08 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261107-9962953",
         "title": "【早知】当黑客盯上超市冰箱 网袭如何威胁你我日常？",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1581,7 @@
         "time": "2026-11-08 23:24",
         "link": "https://www.zaobao.com.sg/news/world/story20261107-9964740",
         "title": "卷入银行倒闭丑闻 巴拉圭被弹劾前总统接受检方问话",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,7 +1590,7 @@
         "time": "2026-11-08 23:39",
         "link": "https://www.zaobao.com.sg/news/china/story20261107-9964528",
         "title": "AI短剧“降智”争议下《持械入宋》中国爆红播放量破120亿",
-        "seq": 175
+        "seq": 177
     },
     {
         "media": "聯合早報",
@@ -1581,7 +1599,7 @@
         "time": "2026-11-08 23:40",
         "link": "https://www.zaobao.com.sg/news/sports/story20261107-9964759",
         "title": "获争议判罚庇佑 利兹英超一球胜热刺终结五场不胜",
-        "seq": 176
+        "seq": 178
     },
     {
         "media": "聯合早報",
@@ -1590,7 +1608,7 @@
         "time": "2026-11-08 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20261107-9964769",
         "title": "波兰第二大城克拉科夫发生枪击案 至少五死10伤",
-        "seq": 177
+        "seq": 179
     },
     {
         "media": "聯合早報",
@@ -1599,6 +1617,6 @@
         "time": "2026-11-08 23:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261107-9964646",
         "title": "纽顿地铁站旁建匹克球与板式网球场 最快明年首季开放",
-        "seq": 178
+        "seq": 180
     }
 ]
