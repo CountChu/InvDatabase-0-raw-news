@@ -1729,20 +1729,20 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:00",
+        "time": "2026-11-09 23:00",
+        "link": "https://www.zaobao.com.sg/news/world/story20261109-9971826",
+        "title": "法国宣布12月提前调高最低工资 涨幅仍低于工会要求",
+        "seq": 193
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:08",
         "time": "2026-11-09 23:08",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261108-9967835",
         "title": "SAM控股2027财年首季亏583万元 营收涨10%至451万元",
-        "seq": 193
-    },
-    {
-        "media": "聯合早報",
-        "category": "体育",
-        "timeText": "23:11",
-        "time": "2026-11-09 23:11",
-        "link": "https://www.zaobao.com.sg/news/sports/story20261108-9967821",
-        "title": "上演扭转18分奇迹 英博反超蓉城首夺中超冠军",
         "seq": 194
     },
     {
@@ -1751,8 +1751,35 @@
         "timeText": "23:11",
         "time": "2026-11-09 23:11",
         "link": "https://www.zaobao.com.sg/news/sports/story20261108-9967821",
-        "title": "上演扭转18分奇迹 大连英博反超成都蓉城首夺中超冠军",
+        "title": "上演扭转18分奇迹 英博反超蓉城首夺中超冠军",
         "seq": 195
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:11",
+        "time": "2026-11-09 23:11",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261108-9967821",
+        "title": "上演扭转18分奇迹 大连英博反超成都蓉城首夺中超冠军",
+        "seq": 196
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:13",
+        "time": "2026-11-09 23:13",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261109-9971849",
+        "title": "首次出任一线队主教练 皇马传奇劳尔执掌西乙奥维耶多",
+        "seq": 197
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:16",
+        "time": "2026-11-09 23:16",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261109-9971872",
+        "title": "千万多多开彩 近1220万元头奖两注平分",
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1788,7 @@
         "time": "2026-11-09 23:52",
         "link": "https://www.zaobao.com.sg/news/world/story20261108-9967833",
         "title": "法国：欧洲将派代表参加美俄乌三方会谈",
-        "seq": 196
+        "seq": 199
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1797,7 @@
         "time": "2026-11-09 23:55",
         "link": "https://www.zaobao.com.sg/news/world/story20261108-9967986",
         "title": "特朗普：中期选举是美国历史上的“巨大倒退”",
-        "seq": 197
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1779,6 +1806,6 @@
         "time": "2026-11-09 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20261108-9968000",
         "title": "埃及两列火车相撞 造成四死88伤",
-        "seq": 198
+        "seq": 201
     }
 ]
