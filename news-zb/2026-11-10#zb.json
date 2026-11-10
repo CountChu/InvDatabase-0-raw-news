@@ -2053,12 +2053,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:17",
+        "time": "2026-11-10 23:17",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261110-9977515",
+        "title": "三大核心业务强劲扩张 冬海集团第三季净利增34.0%至5亿零250万美元",
+        "seq": 229
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:20",
         "time": "2026-11-10 23:20",
         "link": "https://www.zaobao.com.sg/news/world/story20261109-9971848",
         "title": "牛津大学博物馆归还39具人类遗骸 印度那加族远赴英国参与交接",
-        "seq": 229
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2076,7 @@
         "time": "2026-11-10 23:27",
         "link": "https://www.zaobao.com.sg/news/world/story20261109-9971859",
         "title": "秘鲁外长就俄罗斯招募秘鲁人赴乌作战一事交涉",
-        "seq": 230
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2085,7 @@
         "time": "2026-11-10 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20261109-9971866",
         "title": "卡拉斯：没看到俄罗斯参与和平谈判的诚意",
-        "seq": 231
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2094,7 @@
         "time": "2026-11-10 23:37",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261109-9971850",
         "title": "资金耗尽乘客滞留柬埔寨 奥德赛号游轮抵新后遭扣押",
-        "seq": 232
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2094,6 +2103,6 @@
         "time": "2026-11-10 23:43",
         "link": "https://www.zaobao.com.sg/news/world/story20261109-9971905",
         "title": "为鼓励亚马逊森林砍伐率下降 挪威捐款给巴西亚马逊基金",
-        "seq": 233
+        "seq": 234
     }
 ]
