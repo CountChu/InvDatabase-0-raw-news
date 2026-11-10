@@ -1990,12 +1990,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:48",
+        "time": "2026-11-10 22:48",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261110-9977686",
+        "title": "胜捷企业西澳酒店动土兴建 2027年底将竣工",
+        "seq": 222
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:53",
         "time": "2026-11-10 22:53",
         "link": "https://www.zaobao.com.sg/news/sea/story20261108-9967631",
         "title": "印马猛建数据中心 抢占资源制造污染引发民怨",
-        "seq": 222
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2013,16 @@
         "time": "2026-11-10 22:54",
         "link": "https://www.zaobao.com.sg/finance/world/story20261109-9971809",
         "title": "桃色风波后英伟达周一开盘跌7.29％ 美市三大指数上涨",
-        "seq": 223
+        "seq": 224
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:55",
+        "time": "2026-11-10 22:55",
+        "link": "https://www.zaobao.com.sg/news/world/story20261110-9977758",
+        "title": "鲁比奥：鉴于伊朗经济困境 没必要恢复军事行动",
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2031,7 @@
         "time": "2026-11-10 23:00",
         "link": "https://www.zaobao.com.sg/news/world/story20261109-9971826",
         "title": "法国宣布12月提前调高最低工资 涨幅仍低于工会要求",
-        "seq": 224
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2040,7 @@
         "time": "2026-11-10 23:13",
         "link": "https://www.zaobao.com.sg/news/sports/story20261109-9971849",
         "title": "首次出任一线队主教练 皇马传奇劳尔执掌西乙奥维耶多",
-        "seq": 225
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2049,7 @@
         "time": "2026-11-10 23:16",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261109-9971872",
         "title": "今年第五次千万多多开彩 近1220万元头奖两注平分",
-        "seq": 226
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2058,7 @@
         "time": "2026-11-10 23:20",
         "link": "https://www.zaobao.com.sg/news/world/story20261109-9971848",
         "title": "牛津大学博物馆归还39具人类遗骸 印度那加族远赴英国参与交接",
-        "seq": 227
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2067,7 @@
         "time": "2026-11-10 23:27",
         "link": "https://www.zaobao.com.sg/news/world/story20261109-9971859",
         "title": "秘鲁外长就俄罗斯招募秘鲁人赴乌作战一事交涉",
-        "seq": 228
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2076,7 @@
         "time": "2026-11-10 23:34",
         "link": "https://www.zaobao.com.sg/news/world/story20261109-9971866",
         "title": "卡拉斯：没看到俄罗斯参与和平谈判的诚意",
-        "seq": 229
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2085,7 @@
         "time": "2026-11-10 23:37",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261109-9971850",
         "title": "资金耗尽乘客滞留柬埔寨 奥德赛号游轮抵新后遭扣押",
-        "seq": 230
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2076,6 +2094,6 @@
         "time": "2026-11-10 23:43",
         "link": "https://www.zaobao.com.sg/news/world/story20261109-9971905",
         "title": "为鼓励亚马逊森林砍伐率下降 挪威捐款给巴西亚马逊基金",
-        "seq": 231
+        "seq": 233
     }
 ]
