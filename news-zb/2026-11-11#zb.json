@@ -2089,12 +2089,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:00",
+        "time": "2026-11-11 23:00",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261111-9983589",
+        "title": "残障选手带球接力 SingaCup足球赛破新加坡纪录",
+        "seq": 233
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:03",
+        "time": "2026-11-11 23:03",
+        "link": "https://www.zaobao.com.sg/news/china/story20261111-9982250",
+        "title": "中日元首APEC会谈协调遇阻 学者料将礼节性接触但难改关系基本面",
+        "seq": 234
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:11",
+        "time": "2026-11-11 23:11",
+        "link": "https://www.zaobao.com.sg/news/china/story20261111-9983698",
+        "title": "王毅与鲁比奥通话：中美关系稳定势头来之不易",
+        "seq": 235
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:16",
+        "time": "2026-11-11 23:16",
+        "link": "https://www.zaobao.com.sg/news/world/story20261111-9983690",
+        "title": "欧盟拟立新法保护消费者 违规企业将罚年营业额6%",
+        "seq": 236
+    },
+    {
+        "media": "聯合早報",
         "category": "财经",
         "timeText": "23:17",
         "time": "2026-11-11 23:17",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261110-9977515",
         "title": "三大核心业务强劲扩张 冬海集团第三季净利增34.0%至5亿零250万美元",
-        "seq": 233
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2103,7 +2139,7 @@
         "time": "2026-11-11 23:21",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261110-9977662",
         "title": "陈清汉高级律师连任律师公会会长",
-        "seq": 234
+        "seq": 238
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2148,7 @@
         "time": "2026-11-11 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20261110-9977797",
         "title": "赫格塞斯抨击对其弹劾是“一场闹剧”",
-        "seq": 235
+        "seq": 239
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2157,7 @@
         "time": "2026-11-11 23:27",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261110-9977848",
         "title": "UMS控股第三季净利倍增至2110万元 建议派发每股1.0分中期股息",
-        "seq": 236
+        "seq": 240
     },
     {
         "media": "聯合早報",
@@ -2130,7 +2166,7 @@
         "time": "2026-11-11 23:30",
         "link": "https://www.zaobao.com.sg/news/china/story20261110-9977615",
         "title": "新加坡与江苏签署23项合作文件 深化医疗与AI等领域合作",
-        "seq": 237
+        "seq": 241
     },
     {
         "media": "聯合早報",
@@ -2139,7 +2175,7 @@
         "time": "2026-11-11 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20261110-9977815",
         "title": "默茨：所有欧盟成员国都必须在预算上支持乌克兰",
-        "seq": 238
+        "seq": 242
     },
     {
         "media": "聯合早報",
@@ -2148,7 +2184,7 @@
         "time": "2026-11-11 23:43",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261110-9977401",
         "title": "新美合办国际空海潜三域机器人挑战赛 10国22队以机器人“应对暴风雨”",
-        "seq": 239
+        "seq": 243
     },
     {
         "media": "聯合早報",
@@ -2157,7 +2193,7 @@
         "time": "2026-11-11 23:45",
         "link": "https://www.zaobao.com.sg/finance/world/story20261110-9977903",
         "title": "Grab、软银与砂拉越石油公司拟投18.5亿美元 发展马国AI基础设施",
-        "seq": 240
+        "seq": 244
     },
     {
         "media": "聯合早報",
@@ -2166,7 +2202,7 @@
         "time": "2026-11-11 23:48",
         "link": "https://www.zaobao.com.sg/news/sea/story20261110-9977857",
         "title": "菲律宾检方：力争在今年结束莎拉的弹劾审判",
-        "seq": 241
+        "seq": 245
     },
     {
         "media": "聯合早報",
@@ -2175,7 +2211,7 @@
         "time": "2026-11-11 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261110-9977184",
         "title": "193家企业获包容残障就业标志奖 较2024年增75%",
-        "seq": 242
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2184,7 +2220,7 @@
         "time": "2026-11-11 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261110-9977072",
         "title": "皇胜酿酒首三季净利增2.3%",
-        "seq": 243
+        "seq": 247
     },
     {
         "media": "聯合早報",
@@ -2193,6 +2229,6 @@
         "time": "2026-11-11 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20261110-9977832",
         "title": "日本铁路公司JR东日本2028年启用免接触检票闸机",
-        "seq": 244
+        "seq": 248
     }
 ]
