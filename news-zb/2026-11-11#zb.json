@@ -1909,12 +1909,48 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:04",
+        "time": "2026-11-11 22:04",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261111-9983158",
+        "title": "胜捷企业第三季营收增41％至9521万元 维持下半年收入指引",
+        "seq": 213
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:05",
+        "time": "2026-11-11 22:05",
+        "link": "https://www.zaobao.com.sg/news/china/story20261111-9982180",
+        "title": "下午察：比亚迪EV前后轮辋装反陷“低级错误”争议",
+        "seq": 214
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "22:06",
         "time": "2026-11-11 22:06",
         "link": "https://www.zaobao.com.sg/news/china/story20261110-9977623",
         "title": "阿里巴巴旗下平头哥申请赴港上市 拟分拆晶片业务",
-        "seq": 213
+        "seq": 215
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:11",
+        "time": "2026-11-11 22:11",
+        "link": "https://www.zaobao.com.sg/news/china/story20261111-9983160",
+        "title": "“65后”陈永奇履新江西代省长 预计整肃前两任省长腐败稳定政局",
+        "seq": 216
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "22:11",
+        "time": "2026-11-11 22:11",
+        "link": "https://www.zaobao.com.sg/news/world/story20261111-9982346",
+        "title": "黄仁勋陷间谍疑云 美两党鹰派推动收紧对华晶片出口",
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1959,7 @@
         "time": "2026-11-11 22:16",
         "link": "https://www.zaobao.com.sg/news/world/story20261110-9977257",
         "title": "特朗普称美伊战争出现结束势头",
-        "seq": 214
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1932,7 +1968,7 @@
         "time": "2026-11-11 22:16",
         "link": "https://www.zaobao.com.sg/news/sports/story20261110-9977534",
         "title": "国际汽联主席：卡塔尔与阿布扎比F1大奖赛将如期举行",
-        "seq": 215
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1941,7 +1977,7 @@
         "time": "2026-11-11 22:22",
         "link": "https://www.zaobao.com.sg/news/sea/story20261110-9977573",
         "title": "学历风波引发弹劾压力 印尼副总统吉布兰表达辞职意愿",
-        "seq": 216
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1950,7 +1986,7 @@
         "time": "2026-11-11 22:26",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261110-9977532",
         "title": "宝德新加坡上半年净利跌10％至3151万元 派息增至2分",
-        "seq": 217
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1959,7 +1995,7 @@
         "time": "2026-11-11 22:28",
         "link": "https://www.zaobao.com.sg/news/sports/story20261110-9977661",
         "title": "上个月突然晕倒 拜仁主帅孔帕尼已重回训练基地",
-        "seq": 218
+        "seq": 222
     },
     {
         "media": "聯合早報",
@@ -1968,7 +2004,7 @@
         "time": "2026-11-11 22:31",
         "link": "https://www.zaobao.com.sg/news/sea/story20261110-9977535",
         "title": "马国东北季风酿悲剧 六人溺死三人遭雷击",
-        "seq": 219
+        "seq": 223
     },
     {
         "media": "聯合早報",
@@ -1977,7 +2013,7 @@
         "time": "2026-11-11 22:33",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261110-9974209",
         "title": "马西岭二战地下油库遗址 政府启动实地勘查研究",
-        "seq": 220
+        "seq": 224
     },
     {
         "media": "聯合早報",
@@ -1986,7 +2022,7 @@
         "time": "2026-11-11 22:48",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261110-9977686",
         "title": "胜捷企业西澳酒店动土兴建 2027年底将竣工",
-        "seq": 221
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2031,7 @@
         "time": "2026-11-11 22:55",
         "link": "https://www.zaobao.com.sg/news/world/story20261110-9977758",
         "title": "鲁比奥：鉴于伊朗经济困境 没必要恢复军事行动",
-        "seq": 222
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2040,7 @@
         "time": "2026-11-11 23:17",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261110-9977515",
         "title": "三大核心业务强劲扩张 冬海集团第三季净利增34.0%至5亿零250万美元",
-        "seq": 223
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2049,7 @@
         "time": "2026-11-11 23:21",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261110-9977662",
         "title": "陈清汉高级律师连任律师公会会长",
-        "seq": 224
+        "seq": 228
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2058,7 @@
         "time": "2026-11-11 23:22",
         "link": "https://www.zaobao.com.sg/news/world/story20261110-9977797",
         "title": "赫格塞斯抨击对其弹劾是“一场闹剧”",
-        "seq": 225
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2067,7 @@
         "time": "2026-11-11 23:27",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261110-9977848",
         "title": "UMS控股第三季净利倍增至2110万元 建议派发每股1.0分中期股息",
-        "seq": 226
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2076,7 @@
         "time": "2026-11-11 23:30",
         "link": "https://www.zaobao.com.sg/news/china/story20261110-9977615",
         "title": "新加坡与江苏签署23项合作文件 深化医疗与AI等领域合作",
-        "seq": 227
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2085,7 @@
         "time": "2026-11-11 23:32",
         "link": "https://www.zaobao.com.sg/news/world/story20261110-9977815",
         "title": "默茨：所有欧盟成员国都必须在预算上支持乌克兰",
-        "seq": 228
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2058,7 +2094,7 @@
         "time": "2026-11-11 23:43",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261110-9977401",
         "title": "新美合办国际空海潜三域机器人挑战赛 10国22队以机器人“应对暴风雨”",
-        "seq": 229
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2067,7 +2103,7 @@
         "time": "2026-11-11 23:45",
         "link": "https://www.zaobao.com.sg/finance/world/story20261110-9977903",
         "title": "Grab、软银与砂拉越石油公司拟投18.5亿美元 发展马国AI基础设施",
-        "seq": 230
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2112,7 @@
         "time": "2026-11-11 23:48",
         "link": "https://www.zaobao.com.sg/news/sea/story20261110-9977857",
         "title": "菲律宾检方：力争在今年结束莎拉的弹劾审判",
-        "seq": 231
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2121,7 @@
         "time": "2026-11-11 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261110-9977184",
         "title": "193家企业获包容残障就业标志奖 较2024年增75%",
-        "seq": 232
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2130,7 @@
         "time": "2026-11-11 23:53",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261110-9977072",
         "title": "皇胜酿酒首三季净利增2.3%",
-        "seq": 233
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2103,6 +2139,6 @@
         "time": "2026-11-11 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20261110-9977832",
         "title": "日本铁路公司JR东日本2028年启用免接触检票闸机",
-        "seq": 234
+        "seq": 238
     }
 ]
