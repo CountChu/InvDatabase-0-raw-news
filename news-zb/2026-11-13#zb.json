@@ -2198,11 +2198,20 @@
     {
         "media": "聯合早報",
         "category": "财经",
+        "timeText": "23:01",
+        "time": "2026-11-13 23:01",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261113-9995452",
+        "title": "展望新欧合作下一个25年 张志贤：聚焦AI与能源转型新机遇",
+        "seq": 245
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
         "timeText": "23:05",
         "time": "2026-11-13 23:05",
         "link": "https://www.zaobao.com.sg/finance/world/story20261112-9989732",
         "title": "临危受命成英伟达临时首席执行官 克雷斯是何方神圣？",
-        "seq": 245
+        "seq": 246
     },
     {
         "media": "聯合早報",
@@ -2211,7 +2220,16 @@
         "time": "2026-11-13 23:11",
         "link": "https://www.zaobao.com.sg/news/sea/story20261112-9987262",
         "title": "印尼副总统吉布兰请辞 普拉博沃赞以国家利益为重",
-        "seq": 246
+        "seq": 247
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:17",
+        "time": "2026-11-13 23:17",
+        "link": "https://www.zaobao.com.sg/news/world/story20261113-9995927",
+        "title": "美财长：数月来支持限制Megaspeed公司",
+        "seq": 248
     },
     {
         "media": "聯合早報",
@@ -2220,7 +2238,7 @@
         "time": "2026-11-13 23:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261112-9988900",
         "title": "三个月内数次上门骚扰一单位 12名青少年被调查",
-        "seq": 247
+        "seq": 249
     },
     {
         "media": "聯合早報",
@@ -2229,7 +2247,7 @@
         "time": "2026-11-13 23:20",
         "link": "https://www.zaobao.com.sg/news/world/story20261112-9989892",
         "title": "美商务部长被指屡阻晶片转运中国 特朗普表态支持",
-        "seq": 248
+        "seq": 250
     },
     {
         "media": "聯合早報",
@@ -2238,7 +2256,7 @@
         "time": "2026-11-13 23:20",
         "link": "https://www.zaobao.com.sg/news/world/story20261112-9989892",
         "title": "美商务部长被指屡阻打击晶片转运中国 特朗普表态支持",
-        "seq": 249
+        "seq": 251
     },
     {
         "media": "聯合早報",
@@ -2247,7 +2265,7 @@
         "time": "2026-11-13 23:23",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261112-9986163",
         "title": "从技能培训到关怀弱势 东北社理会未来三年四方面助民",
-        "seq": 250
+        "seq": 252
     },
     {
         "media": "聯合早報",
@@ -2256,7 +2274,7 @@
         "time": "2026-11-13 23:28",
         "link": "https://www.zaobao.com.sg/news/world/story20261112-9989932",
         "title": "法国巴黎珠宝店发生抢劫 四蒙面劫匪劫走逾百万欧元珠宝",
-        "seq": 251
+        "seq": 253
     },
     {
         "media": "聯合早報",
@@ -2265,7 +2283,7 @@
         "time": "2026-11-13 23:32",
         "link": "https://www.zaobao.com.sg/finance/world/story20261112-9989902",
         "title": "受黄仁勋辞职消息拖累 多只美国科技股遭抛售",
-        "seq": 252
+        "seq": 254
     },
     {
         "media": "聯合早報",
@@ -2274,7 +2292,7 @@
         "time": "2026-11-13 23:46",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261112-9989593",
         "title": "“协立嘉年华”首次走入社区 逾70项活动推动包容共融",
-        "seq": 253
+        "seq": 255
     },
     {
         "media": "聯合早報",
@@ -2283,6 +2301,6 @@
         "time": "2026-11-13 23:55",
         "link": "https://www.zaobao.com.sg/finance/world/story20261112-9989625",
         "title": "黄仁勋辞职英伟达暴跌 分析：AI硬件供应链协作或放缓",
-        "seq": 254
+        "seq": 256
     }
 ]
