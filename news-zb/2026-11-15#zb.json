@@ -1460,11 +1460,29 @@
     {
         "media": "聯合早報",
         "category": "新加坡",
+        "timeText": "21:48",
+        "time": "2026-11-15 21:48",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261115-10001738",
+        "title": "14乐团逾800乐手聚怡丰城 接力10小时演奏65首乐曲",
+        "seq": 163
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:53",
+        "time": "2026-11-15 21:53",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261115-10001232",
+        "title": "甲州首长宣誓就职 民行党力挺安华做满任期",
+        "seq": 164
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
         "timeText": "22:07",
         "time": "2026-11-15 22:07",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261114-9999096",
         "title": "杨莉明访美会晤美副国务卿 双方讨论超速国际事件",
-        "seq": 163
+        "seq": 165
     },
     {
         "media": "聯合早報",
@@ -1473,7 +1491,7 @@
         "time": "2026-11-15 22:16",
         "link": "https://www.zaobao.com.sg/news/sea/story20261114-9999276",
         "title": "普拉博沃：印尼采矿准证至少七成收益须归国家",
-        "seq": 164
+        "seq": 166
     },
     {
         "media": "聯合早報",
@@ -1482,7 +1500,7 @@
         "time": "2026-11-15 22:19",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261114-9998789",
         "title": "乐龄画笔留住本地美食本色 高架石柱飘蝶豆花香",
-        "seq": 165
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1491,7 +1509,7 @@
         "time": "2026-11-15 22:42",
         "link": "https://www.zaobao.com.sg/finance/world/story20261114-9998250",
         "title": "黄仁勋是如何跌下神坛的？丑闻风波时间线梳理",
-        "seq": 166
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1518,7 @@
         "time": "2026-11-15 22:55",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261113-9995829",
         "title": "mm2全亚上半财年净亏1.07亿元 亏损金额扩大173%",
-        "seq": 167
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1527,7 @@
         "time": "2026-11-15 22:56",
         "link": "https://www.zaobao.com.sg/news/world/story20261114-9999437",
         "title": "联合国官员促伊美尽快允许化肥船通过霍尔木兹海峡",
-        "seq": 168
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1536,7 @@
         "time": "2026-11-15 22:59",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261113-9995841",
         "title": "星狮地产下半年净利倍增 拟派发每股5分股息",
-        "seq": 169
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1545,7 @@
         "time": "2026-11-15 23:01",
         "link": "https://www.zaobao.com.sg/finance/singapore/story20261113-9995452",
         "title": "展望新欧合作下一个25年 张志贤：聚焦AI与能源转型新机遇",
-        "seq": 170
+        "seq": 172
     },
     {
         "media": "聯合早報",
@@ -1536,7 +1554,7 @@
         "time": "2026-11-15 23:04",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261114-9997900",
         "title": "HCSA社区服务30周年庆 “奉献之墙”展览望筹35万元支持边缘群体",
-        "seq": 171
+        "seq": 173
     },
     {
         "media": "聯合早報",
@@ -1545,7 +1563,7 @@
         "time": "2026-11-15 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20261114-9998815",
         "title": "亚细安外长重申深化合作 不放松对缅甸立场",
-        "seq": 172
+        "seq": 174
     },
     {
         "media": "聯合早報",
@@ -1554,7 +1572,7 @@
         "time": "2026-11-15 23:38",
         "link": "https://www.zaobao.com.sg/news/world/story20261114-9999524",
         "title": "借上合组织会议契机 巴基斯坦部长三年来首次访印",
-        "seq": 173
+        "seq": 175
     },
     {
         "media": "聯合早報",
@@ -1563,7 +1581,7 @@
         "time": "2026-11-15 23:50",
         "link": "https://www.zaobao.com.sg/news/china/story20261114-9999398",
         "title": "黄仁勋事件为“习特会”添科技阴影 学者：料不改中美求稳大局",
-        "seq": 174
+        "seq": 176
     },
     {
         "media": "聯合早報",
@@ -1572,6 +1590,6 @@
         "time": "2026-11-15 23:56",
         "link": "https://www.zaobao.com.sg/news/world/story20261114-9999546",
         "title": "意大利表态支持德国加入新世代战机计划",
-        "seq": 175
+        "seq": 177
     }
 ]
