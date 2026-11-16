@@ -2062,12 +2062,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:04",
+        "time": "2026-11-16 23:04",
+        "link": "https://www.zaobao.com.sg/news/world/story20261116-10008838",
+        "title": "特朗普：可能在中国与金正恩会晤",
+        "seq": 230
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:12",
+        "time": "2026-11-16 23:12",
+        "link": "https://www.zaobao.com.sg/news/world/story20261116-10008852",
+        "title": "特朗普称不介意黄仁勋重掌英伟达：他已吸取深刻教训",
+        "seq": 231
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:14",
+        "time": "2026-11-16 23:14",
+        "link": "https://www.zaobao.com.sg/finance/world/story20261116-10008713",
+        "title": "黑石旗下REIT以64亿元 收购亚马逊数据中心多数股权",
+        "seq": 232
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:17",
         "time": "2026-11-16 23:17",
         "link": "https://www.zaobao.com.sg/news/china/story20261115-10002742",
         "title": "外界忧中美俄上演“雅尔塔2.0” 学者称三国难划分势力范围",
-        "seq": 230
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2076,7 +2103,7 @@
         "time": "2026-11-16 23:28",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261115-10002640",
         "title": "黄总理与巴西总统卢拉会晤 盼两国在创新和永续领域深化合作",
-        "seq": 231
+        "seq": 234
     },
     {
         "media": "聯合早報",
@@ -2085,7 +2112,7 @@
         "time": "2026-11-16 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002896",
         "title": "爱沙尼亚挫败俄指使纵火案 12月起全面关闭俄边境",
-        "seq": 232
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2094,7 +2121,7 @@
         "time": "2026-11-16 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002918",
         "title": "伊朗称一艘载有200万桶石油的超级油轮在波斯湾沉没",
-        "seq": 233
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2103,6 +2130,6 @@
         "time": "2026-11-16 23:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261115-10002790",
         "title": "涉非法网络赌博 23名男女被警方调查",
-        "seq": 234
+        "seq": 237
     }
 ]
