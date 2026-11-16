@@ -1973,11 +1973,20 @@
     {
         "media": "聯合早報",
         "category": "国际",
+        "timeText": "22:43",
+        "time": "2026-11-16 22:43",
+        "link": "https://www.zaobao.com.sg/news/world/story20261116-10008765",
+        "title": "美商务部发布新规 防止经第三方访问先进AI晶片",
+        "seq": 220
+    },
+    {
+        "media": "聯合早報",
+        "category": "国际",
         "timeText": "22:46",
         "time": "2026-11-16 22:46",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002759",
         "title": "特朗普首谈全美航班停飞事件：都怪拜登政府",
-        "seq": 220
+        "seq": 221
     },
     {
         "media": "聯合早報",
@@ -1986,7 +1995,34 @@
         "time": "2026-11-16 22:50",
         "link": "https://www.zaobao.com.sg/news/china/story20261115-10002528",
         "title": "九合一催战鼓 蒋万安万人游行对阵沈伯洋水陆会师",
-        "seq": 221
+        "seq": 222
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:50",
+        "time": "2026-11-16 22:50",
+        "link": "https://www.zaobao.com.sg/news/china/story20261116-10008321",
+        "title": "中国多所高校密集严查“翻墙” 分析：加强意识形态主阵地思想监管",
+        "seq": 223
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "22:52",
+        "time": "2026-11-16 22:52",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261116-10008431",
+        "title": "阿努廷敦促柬埔寨避免将双边分歧诉诸国际舞台",
+        "seq": 224
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "22:53",
+        "time": "2026-11-16 22:53",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261116-10008429",
+        "title": "82岁老妇写百页人生故事 向孩子诉说离家苦衷",
+        "seq": 225
     },
     {
         "media": "聯合早報",
@@ -1995,7 +2031,7 @@
         "time": "2026-11-16 22:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002617",
         "title": "日本收紧移民政策 掀日语考证潮",
-        "seq": 222
+        "seq": 226
     },
     {
         "media": "聯合早報",
@@ -2004,7 +2040,7 @@
         "time": "2026-11-16 22:54",
         "link": "https://www.zaobao.com.sg/news/sports/story20261115-10002681",
         "title": "被视为因凡蒂诺最大挑战者 温格决定不竞选国际足联主席",
-        "seq": 223
+        "seq": 227
     },
     {
         "media": "聯合早報",
@@ -2013,7 +2049,16 @@
         "time": "2026-11-16 22:59",
         "link": "https://www.zaobao.com.sg/news/sea/story20261115-10002781",
         "title": "KLIA天气恶劣 中国客机改降登州",
-        "seq": 224
+        "seq": 228
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:59",
+        "time": "2026-11-16 22:59",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261116-10008690",
+        "title": "骆建佑郑加恒和我国男双 出击香港羽毛球赛争佳绩",
+        "seq": 229
     },
     {
         "media": "聯合早報",
@@ -2022,7 +2067,7 @@
         "time": "2026-11-16 23:17",
         "link": "https://www.zaobao.com.sg/news/china/story20261115-10002742",
         "title": "外界忧中美俄上演“雅尔塔2.0” 学者称三国难划分势力范围",
-        "seq": 225
+        "seq": 230
     },
     {
         "media": "聯合早報",
@@ -2031,7 +2076,7 @@
         "time": "2026-11-16 23:28",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261115-10002640",
         "title": "黄总理与巴西总统卢拉会晤 盼两国在创新和永续领域深化合作",
-        "seq": 226
+        "seq": 231
     },
     {
         "media": "聯合早報",
@@ -2040,7 +2085,7 @@
         "time": "2026-11-16 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002896",
         "title": "爱沙尼亚挫败俄指使纵火案 12月起全面关闭俄边境",
-        "seq": 227
+        "seq": 232
     },
     {
         "media": "聯合早報",
@@ -2049,7 +2094,7 @@
         "time": "2026-11-16 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002918",
         "title": "伊朗称一艘载有200万桶石油的超级油轮在波斯湾沉没",
-        "seq": 228
+        "seq": 233
     },
     {
         "media": "聯合早報",
@@ -2058,6 +2103,6 @@
         "time": "2026-11-16 23:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261115-10002790",
         "title": "涉非法网络赌博 23名男女被警方调查",
-        "seq": 229
+        "seq": 234
     }
 ]
