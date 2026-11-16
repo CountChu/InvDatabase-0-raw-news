@@ -1747,12 +1747,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "21:21",
+        "time": "2026-11-16 21:21",
+        "link": "https://www.zaobao.com.sg/news/china/story20261116-10008110",
+        "title": "下午察：中国无人机航母入列在即？",
+        "seq": 195
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "21:22",
         "time": "2026-11-16 21:22",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002593",
         "title": "三艘商船黑海遭无人机击中 罗马尼亚两度升空战机",
-        "seq": 195
+        "seq": 196
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "21:25",
+        "time": "2026-11-16 21:25",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261116-10008255",
+        "title": "本地交锋前大赞日本 巴拉圭主帅：他们是世界前10级别",
+        "seq": 197
     },
     {
         "media": "聯合早報",
@@ -1761,7 +1779,7 @@
         "time": "2026-11-16 21:27",
         "link": "https://www.zaobao.com.sg/news/sports/story20261115-10002121",
         "title": "欧国联收官火星撞地球 英格兰或拦不住西班牙连胜势头",
-        "seq": 196
+        "seq": 198
     },
     {
         "media": "聯合早報",
@@ -1770,7 +1788,16 @@
         "time": "2026-11-16 21:29",
         "link": "https://www.zaobao.com.sg/news/sports/story20261115-10002568",
         "title": "大魔王安洗莹缺席熊本大师赛 山口茜进账本季第四冠",
-        "seq": 197
+        "seq": 199
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "21:30",
+        "time": "2026-11-16 21:30",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261116-9934946",
+        "title": "报告：中国加强征税或削弱新加坡豪宅买气 第三季交易额跌31%",
+        "seq": 200
     },
     {
         "media": "聯合早報",
@@ -1779,7 +1806,34 @@
         "time": "2026-11-16 21:33",
         "link": "https://www.zaobao.com.sg/news/sea/story20261115-10002632",
         "title": "马国探讨强制WhatsApp验证身份以遏制网络诈骗",
-        "seq": 198
+        "seq": 201
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "21:33",
+        "time": "2026-11-16 21:33",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261116-10008534",
+        "title": "为宪政危机解套 森议员挑战撤职违宪案有望和解",
+        "seq": 202
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:36",
+        "time": "2026-11-16 21:36",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261116-10008271",
+        "title": "国大李光前自然博物馆联手美国大学 推出淡水巨鱼特展",
+        "seq": 203
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "21:37",
+        "time": "2026-11-16 21:37",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261116-10007947",
+        "title": "如切路试行“涩谷式”全向通行首日 行人赞便民驾车者忧交通堵塞",
+        "seq": 204
     },
     {
         "media": "聯合早報",
@@ -1788,7 +1842,7 @@
         "time": "2026-11-16 21:48",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261115-10001738",
         "title": "14乐团逾800乐手聚怡丰城 接力10小时演奏65首乐曲",
-        "seq": 199
+        "seq": 205
     },
     {
         "media": "聯合早報",
@@ -1797,7 +1851,7 @@
         "time": "2026-11-16 21:53",
         "link": "https://www.zaobao.com.sg/news/sea/story20261115-10001232",
         "title": "甲州首长宣誓就职 民行党力挺安华做满任期",
-        "seq": 200
+        "seq": 206
     },
     {
         "media": "聯合早報",
@@ -1806,7 +1860,7 @@
         "time": "2026-11-16 22:05",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261115-10001908",
         "title": "宏茂桥民众联络所辟“社区客厅” 为居民提供社交休闲空间",
-        "seq": 201
+        "seq": 207
     },
     {
         "media": "聯合早報",
@@ -1815,7 +1869,7 @@
         "time": "2026-11-16 22:13",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261115-9999054",
         "title": "企业二代慈善义卖会 为许愿基金会病童筹款",
-        "seq": 202
+        "seq": 208
     },
     {
         "media": "聯合早報",
@@ -1824,7 +1878,7 @@
         "time": "2026-11-16 22:16",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002721",
         "title": "几内亚驱逐逾1500名西非非法黄金矿工",
-        "seq": 203
+        "seq": 209
     },
     {
         "media": "聯合早報",
@@ -1833,7 +1887,7 @@
         "time": "2026-11-16 22:27",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261115-10002493",
         "title": "菲律宾“椰子宫”迎亚细安领袖",
-        "seq": 204
+        "seq": 210
     },
     {
         "media": "聯合早報",
@@ -1842,7 +1896,7 @@
         "time": "2026-11-16 22:42",
         "link": "https://www.zaobao.com.sg/finance/world/story20261114-9998250",
         "title": "黄仁勋是如何跌下神坛的？丑闻风波时间线梳理",
-        "seq": 205
+        "seq": 211
     },
     {
         "media": "聯合早報",
@@ -1851,7 +1905,7 @@
         "time": "2026-11-16 22:46",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002759",
         "title": "特朗普首谈全美航班停飞事件：都怪拜登政府",
-        "seq": 206
+        "seq": 212
     },
     {
         "media": "聯合早報",
@@ -1860,7 +1914,7 @@
         "time": "2026-11-16 22:50",
         "link": "https://www.zaobao.com.sg/news/china/story20261115-10002528",
         "title": "九合一催战鼓 蒋万安万人游行对阵沈伯洋水陆会师",
-        "seq": 207
+        "seq": 213
     },
     {
         "media": "聯合早報",
@@ -1869,7 +1923,7 @@
         "time": "2026-11-16 22:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002617",
         "title": "日本收紧移民政策 掀日语考证潮",
-        "seq": 208
+        "seq": 214
     },
     {
         "media": "聯合早報",
@@ -1878,7 +1932,7 @@
         "time": "2026-11-16 22:54",
         "link": "https://www.zaobao.com.sg/news/sports/story20261115-10002681",
         "title": "被视为因凡蒂诺最大挑战者 温格决定不竞选国际足联主席",
-        "seq": 209
+        "seq": 215
     },
     {
         "media": "聯合早報",
@@ -1887,7 +1941,7 @@
         "time": "2026-11-16 22:59",
         "link": "https://www.zaobao.com.sg/news/sea/story20261115-10002781",
         "title": "KLIA天气恶劣 中国客机改降登州",
-        "seq": 210
+        "seq": 216
     },
     {
         "media": "聯合早報",
@@ -1896,7 +1950,7 @@
         "time": "2026-11-16 23:17",
         "link": "https://www.zaobao.com.sg/news/china/story20261115-10002742",
         "title": "外界忧中美俄上演“雅尔塔2.0” 学者称三国难划分势力范围",
-        "seq": 211
+        "seq": 217
     },
     {
         "media": "聯合早報",
@@ -1905,7 +1959,7 @@
         "time": "2026-11-16 23:28",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261115-10002640",
         "title": "黄总理与巴西总统卢拉会晤 盼两国在创新和永续领域深化合作",
-        "seq": 212
+        "seq": 218
     },
     {
         "media": "聯合早報",
@@ -1914,7 +1968,7 @@
         "time": "2026-11-16 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002896",
         "title": "爱沙尼亚挫败俄指使纵火案 12月起全面关闭俄边境",
-        "seq": 213
+        "seq": 219
     },
     {
         "media": "聯合早報",
@@ -1923,7 +1977,7 @@
         "time": "2026-11-16 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002918",
         "title": "伊朗称一艘载有200万桶石油的超级油轮在波斯湾沉没",
-        "seq": 214
+        "seq": 220
     },
     {
         "media": "聯合早報",
@@ -1932,6 +1986,6 @@
         "time": "2026-11-16 23:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261115-10002790",
         "title": "涉非法网络赌博 23名男女被警方调查",
-        "seq": 215
+        "seq": 221
     }
 ]
