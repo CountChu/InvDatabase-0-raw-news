@@ -2098,12 +2098,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:22",
+        "time": "2026-11-16 23:22",
+        "link": "https://www.zaobao.com.sg/news/world/story20261116-10008549",
+        "title": "美国与九国同意共同保护人工智能供应链",
+        "seq": 234
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:28",
         "time": "2026-11-16 23:28",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261115-10002640",
         "title": "黄总理与巴西总统卢拉会晤 盼两国在创新和永续领域深化合作",
-        "seq": 234
+        "seq": 235
     },
     {
         "media": "聯合早報",
@@ -2112,7 +2121,7 @@
         "time": "2026-11-16 23:42",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002896",
         "title": "爱沙尼亚挫败俄指使纵火案 12月起全面关闭俄边境",
-        "seq": 235
+        "seq": 236
     },
     {
         "media": "聯合早報",
@@ -2121,7 +2130,7 @@
         "time": "2026-11-16 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261115-10002918",
         "title": "伊朗称一艘载有200万桶石油的超级油轮在波斯湾沉没",
-        "seq": 236
+        "seq": 237
     },
     {
         "media": "聯合早報",
@@ -2130,6 +2139,6 @@
         "time": "2026-11-16 23:57",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261115-10002790",
         "title": "涉非法网络赌博 23名男女被警方调查",
-        "seq": 237
+        "seq": 238
     }
 ]
