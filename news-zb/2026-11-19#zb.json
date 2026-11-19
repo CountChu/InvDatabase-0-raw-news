@@ -2431,12 +2431,75 @@
     },
     {
         "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:00",
+        "time": "2026-11-19 23:00",
+        "link": "https://www.zaobao.com.sg/news/china/story20261119-10027627",
+        "title": "特朗普与习近平同搭扶梯 亲北京港媒：罕见一幕",
+        "seq": 271
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:01",
+        "time": "2026-11-19 23:01",
+        "link": "https://www.zaobao.com.sg/news/china/story20261119-10027546",
+        "title": "唐振辉与上海市长朱忠明会面 就新沪合作达成共识",
+        "seq": 272
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:01",
+        "time": "2026-11-19 23:01",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261119-10027667",
+        "title": "摩根大通第三方服务商遭网络攻击 部分客户资料外泄",
+        "seq": 273
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:04",
+        "time": "2026-11-19 23:04",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261119-10027326",
+        "title": "道南学校创校120周年 传承教育初心迈向未来",
+        "seq": 274
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "23:04",
+        "time": "2026-11-19 23:04",
+        "link": "https://www.zaobao.com.sg/news/china/story20261119-10027436",
+        "title": "APEC联合宣言一改惯例改称《展望》 重申维护供应链韧性",
+        "seq": 275
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:10",
+        "time": "2026-11-19 23:10",
+        "link": "https://www.zaobao.com.sg/finance/world/story20261119-10027722",
+        "title": "Meta推AI转型 外包商埃森哲拟在葡萄牙裁减950个岗位",
+        "seq": 276
+    },
+    {
+        "media": "聯合早報",
         "category": "国际",
         "timeText": "23:15",
         "time": "2026-11-19 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20261118-10021350",
         "title": "沙特准备将与也门胡塞武装的战争持续到2027年",
-        "seq": 271
+        "seq": 277
+    },
+    {
+        "media": "聯合早報",
+        "category": "新加坡",
+        "timeText": "23:15",
+        "time": "2026-11-19 23:15",
+        "link": "https://www.zaobao.com.sg/news/singapore/story20261119-10027000",
+        "title": "厦门街熟食中心装修照营业 通风差食客疑热晕摊贩生意减半",
+        "seq": 278
     },
     {
         "media": "聯合早報",
@@ -2445,7 +2508,7 @@
         "time": "2026-11-19 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20261118-10020002",
         "title": "下午察：当深圳人为APEC戒了人字拖",
-        "seq": 272
+        "seq": 279
     },
     {
         "media": "聯合早報",
@@ -2454,7 +2517,7 @@
         "time": "2026-11-19 23:37",
         "link": "https://www.zaobao.com.sg/news/world/story20261118-10021413",
         "title": "乌克兰敦促习近平特朗普向普京施压 结束战争",
-        "seq": 273
+        "seq": 280
     },
     {
         "media": "聯合早報",
@@ -2463,6 +2526,6 @@
         "time": "2026-11-19 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261118-10021462",
         "title": "以军在加沙地带发起地面攻击 为停火后首次",
-        "seq": 274
+        "seq": 281
     }
 ]
