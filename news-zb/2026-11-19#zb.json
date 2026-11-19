@@ -2503,12 +2503,39 @@
     },
     {
         "media": "聯合早報",
+        "category": "财经",
+        "timeText": "23:22",
+        "time": "2026-11-19 23:22",
+        "link": "https://www.zaobao.com.sg/finance/singapore/story20261119-10027780",
+        "title": "纳斯达克综合指数开盘跳涨1.55% Anthropic股票IPO定价提振AI交易",
+        "seq": 279
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:25",
+        "time": "2026-11-19 23:25",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261119-10027710",
+        "title": "已故足总前会长林家栋获追授 亚足联最高荣誉“亚洲之钻”奖",
+        "seq": 280
+    },
+    {
+        "media": "聯合早報",
         "category": "中国",
         "timeText": "23:26",
         "time": "2026-11-19 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20261118-10020002",
         "title": "下午察：当深圳人为APEC戒了人字拖",
-        "seq": 279
+        "seq": 281
+    },
+    {
+        "media": "聯合早報",
+        "category": "体育",
+        "timeText": "23:34",
+        "time": "2026-11-19 23:34",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261119-10027717",
+        "title": "李宁签约瑞典名将莫雷加德 推出专属乒乓球鞋",
+        "seq": 282
     },
     {
         "media": "聯合早報",
@@ -2517,7 +2544,7 @@
         "time": "2026-11-19 23:37",
         "link": "https://www.zaobao.com.sg/news/world/story20261118-10021413",
         "title": "乌克兰敦促习近平特朗普向普京施压 结束战争",
-        "seq": 280
+        "seq": 283
     },
     {
         "media": "聯合早報",
@@ -2526,6 +2553,6 @@
         "time": "2026-11-19 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261118-10021462",
         "title": "以军在加沙地带发起地面攻击 为停火后首次",
-        "seq": 281
+        "seq": 284
     }
 ]
