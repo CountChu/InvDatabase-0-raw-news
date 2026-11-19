@@ -2377,12 +2377,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "体育",
+        "timeText": "22:41",
+        "time": "2026-11-19 22:41",
+        "link": "https://www.zaobao.com.sg/news/sports/story20261119-10027605",
+        "title": "波切蒂诺火速上任迎“双红会” 曼联债务增至近10亿元",
+        "seq": 265
+    },
+    {
+        "media": "聯合早報",
+        "category": "中国",
+        "timeText": "22:42",
+        "time": "2026-11-19 22:42",
+        "link": "https://www.zaobao.com.sg/news/china/story20261119-10026769",
+        "title": "习特三会同意制定中美建设性战略稳定关系行动计划",
+        "seq": 266
+    },
+    {
+        "media": "聯合早報",
         "category": "东南亚",
         "timeText": "22:49",
         "time": "2026-11-19 22:49",
         "link": "https://www.zaobao.com.sg/news/sea/story20261118-10021097",
         "title": "国阵坚持换人 严端未批准辞职 森大臣继续执政",
-        "seq": 265
+        "seq": 267
     },
     {
         "media": "聯合早報",
@@ -2391,7 +2409,16 @@
         "time": "2026-11-19 22:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261118-10021310",
         "title": "金正恩女儿滑雪照片曝光 滑雪服近2000新元",
-        "seq": 266
+        "seq": 268
+    },
+    {
+        "media": "聯合早報",
+        "category": "财经",
+        "timeText": "22:58",
+        "time": "2026-11-19 22:58",
+        "link": "https://www.zaobao.com.sg/finance/china/story20261119-10026268",
+        "title": "美国拟要求美企披露使用中国AI情况 对华科技管制趋严但中国反制能力增强",
+        "seq": 269
     },
     {
         "media": "聯合早報",
@@ -2400,7 +2427,7 @@
         "time": "2026-11-19 23:00",
         "link": "https://www.zaobao.com.sg/news/sea/story20261118-10021332",
         "title": "印尼中国达成四项战略合作协议 总额近千亿新元",
-        "seq": 267
+        "seq": 270
     },
     {
         "media": "聯合早報",
@@ -2409,7 +2436,7 @@
         "time": "2026-11-19 23:15",
         "link": "https://www.zaobao.com.sg/news/world/story20261118-10021350",
         "title": "沙特准备将与也门胡塞武装的战争持续到2027年",
-        "seq": 268
+        "seq": 271
     },
     {
         "media": "聯合早報",
@@ -2418,7 +2445,7 @@
         "time": "2026-11-19 23:26",
         "link": "https://www.zaobao.com.sg/news/china/story20261118-10020002",
         "title": "下午察：当深圳人为APEC戒了人字拖",
-        "seq": 269
+        "seq": 272
     },
     {
         "media": "聯合早報",
@@ -2427,7 +2454,7 @@
         "time": "2026-11-19 23:37",
         "link": "https://www.zaobao.com.sg/news/world/story20261118-10021413",
         "title": "乌克兰敦促习近平特朗普向普京施压 结束战争",
-        "seq": 270
+        "seq": 273
     },
     {
         "media": "聯合早報",
@@ -2436,6 +2463,6 @@
         "time": "2026-11-19 23:54",
         "link": "https://www.zaobao.com.sg/news/world/story20261118-10021462",
         "title": "以军在加沙地带发起地面攻击 为停火后首次",
-        "seq": 271
+        "seq": 274
     }
 ]
