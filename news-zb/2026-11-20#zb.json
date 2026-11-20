@@ -2287,12 +2287,30 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:28",
+        "time": "2026-11-20 23:28",
+        "link": "https://www.zaobao.com.sg/news/world/story20261120-10033485",
+        "title": "众议院报告指美国半年内对华销售大量人工智能晶片",
+        "seq": 255
+    },
+    {
+        "media": "聯合早報",
         "category": "体育",
         "timeText": "23:34",
         "time": "2026-11-20 23:34",
         "link": "https://www.zaobao.com.sg/news/sports/story20261119-10027717",
         "title": "李宁签约瑞典名将莫雷加德 推出专属乒乓球鞋",
-        "seq": 255
+        "seq": 256
+    },
+    {
+        "media": "聯合早報",
+        "category": "东南亚",
+        "timeText": "23:37",
+        "time": "2026-11-20 23:37",
+        "link": "https://www.zaobao.com.sg/news/sea/story20261120-10033897",
+        "title": "柔州政府驳斥19数据中心“抽干水坝”说法 称用水仅占全州1.05%",
+        "seq": 257
     },
     {
         "media": "聯合早報",
@@ -2301,7 +2319,7 @@
         "time": "2026-11-20 23:46",
         "link": "https://www.zaobao.com.sg/news/sea/story20261119-10027856",
         "title": "怡保驳火 霹雳警方击毙持械抢匪团伙头目",
-        "seq": 256
+        "seq": 258
     },
     {
         "media": "聯合早報",
@@ -2310,7 +2328,7 @@
         "time": "2026-11-20 23:47",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261119-10027545",
         "title": "黄循财总理深圳会晤多位领导人 探讨AI合作与开拓新市场",
-        "seq": 257
+        "seq": 259
     },
     {
         "media": "聯合早報",
@@ -2319,7 +2337,7 @@
         "time": "2026-11-20 23:52",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261119-10027816",
         "title": "惹兰红山组屋厨房失火 三人吸入浓烟送院 ",
-        "seq": 258
+        "seq": 260
     },
     {
         "media": "聯合早報",
@@ -2328,6 +2346,6 @@
         "time": "2026-11-20 23:58",
         "link": "https://www.zaobao.com.sg/news/china/story20261119-10027423",
         "title": "新沪签署16项合作协议 拓展金融服务AI算力等领域合作",
-        "seq": 259
+        "seq": 261
     }
 ]
