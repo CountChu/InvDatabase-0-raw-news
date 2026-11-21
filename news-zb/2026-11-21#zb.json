@@ -1486,12 +1486,21 @@
     },
     {
         "media": "聯合早報",
+        "category": "国际",
+        "timeText": "23:16",
+        "time": "2026-11-21 23:16",
+        "link": "https://www.zaobao.com.sg/news/world/story20261121-10037115",
+        "title": "传美备忘录限制两军合作 加防长：加美军事关系未变",
+        "seq": 166
+    },
+    {
+        "media": "聯合早報",
         "category": "新加坡",
         "timeText": "23:17",
         "time": "2026-11-21 23:17",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261120-10029887",
         "title": "如切“小涩谷”十字路口试行五天 周围商家：人潮增三成",
-        "seq": 166
+        "seq": 167
     },
     {
         "media": "聯合早報",
@@ -1500,7 +1509,7 @@
         "time": "2026-11-21 23:18",
         "link": "https://www.zaobao.com.sg/news/world/story20261120-10033572",
         "title": "警惕美中俄靠拢 日相高市早苗外交面临严峻考验",
-        "seq": 167
+        "seq": 168
     },
     {
         "media": "聯合早報",
@@ -1509,7 +1518,7 @@
         "time": "2026-11-21 23:28",
         "link": "https://www.zaobao.com.sg/news/world/story20261120-10033485",
         "title": "众议院报告指美国半年内对华销售大量人工智能晶片",
-        "seq": 168
+        "seq": 169
     },
     {
         "media": "聯合早報",
@@ -1518,7 +1527,7 @@
         "time": "2026-11-21 23:37",
         "link": "https://www.zaobao.com.sg/news/sea/story20261120-10033897",
         "title": "柔州政府驳斥19数据中心“抽干水坝”说法 称用水仅占全州1.05%",
-        "seq": 169
+        "seq": 170
     },
     {
         "media": "聯合早報",
@@ -1527,7 +1536,7 @@
         "time": "2026-11-21 23:45",
         "link": "https://www.zaobao.com.sg/news/world/story20261120-10033912",
         "title": "中东战事推高燃油成本 德国汉莎航空拟裁员千人",
-        "seq": 170
+        "seq": 171
     },
     {
         "media": "聯合早報",
@@ -1536,6 +1545,6 @@
         "time": "2026-11-21 23:51",
         "link": "https://www.zaobao.com.sg/news/singapore/story20261120-10033861",
         "title": "黄总理会见北京市委书记尹力 期待深化新京科研创新合作",
-        "seq": 171
+        "seq": 172
     }
 ]
